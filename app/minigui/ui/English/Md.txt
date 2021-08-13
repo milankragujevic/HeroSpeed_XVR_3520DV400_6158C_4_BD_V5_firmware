@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Restore the default parameters?
+2=The range of Record Time is 30-255.
+3=This channel has no permission !
+4=Time format error!
+5=Buzzer Alarm
+6=E-mail Notification
+7=Channel Recording
+8=Full Screen Monitoring
+9=Add a maximum of 6 schedule a day !

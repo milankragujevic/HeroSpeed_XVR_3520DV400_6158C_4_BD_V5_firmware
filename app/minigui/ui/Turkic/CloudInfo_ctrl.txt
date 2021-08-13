@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=İlişkilendirme
+2=yetkilendirme kodu
+3=Onaylamak
+4=iptal

@@ -1,0 +1,23 @@
+[wintip]
+num=21
+1=Kullanıcıyı başarıyla değiştirin!
+2=Administrator ayrıcalığında değişiklik yapılamaz!
+3=Bu kullanıcı zaten var!
+4=Lütfen kullanıcı adı giriniz!
+5=Lütfen şifre giriniz!
+6=Lütfen yeni bir şifre giriniz!
+7=Şifre doğru değil!
+8=Şifreler birbirleriyle uyuşmuyor!
+9=Kullanıcı izinlerini değiştiremezsiniz!
+10=Bilinmeyen hata!
+11=Kullanıcı adı root veya admin olarak adlandırılamaz!
+12=Kullanıcı adı boş alan anahtarını içeremez
+13=Gurubun bir üyesi değilsiniz, bu işlemi yapmaya izniniz yok!
+14=Kullanıcı düzeyi hatası!
+15=Uyarı; Şifre en az 8 karakterli olmalı ve en az bir rakam ve harf içermelidir
+16=Kullanıcı adı veya şifre uzunluğu 10'dan daha büyükse, tüm sayılar olamaz
+17=Lütfen tamamla!
+18=İhracat başarılı!
+19=Lütfen usb diski takın.
+20=İhracat başarısız!
+21=Yeniden başlatma sihirbazından çıkmak istediğinize emin misiniz?

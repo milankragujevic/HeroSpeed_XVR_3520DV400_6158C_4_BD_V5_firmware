@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=El nombre de la biblioteca recién agregada no puede estar vacío
+2=El número de bibliotecas de caras ha alcanzado el límite superior.
+3=La base de datos facial ya existe

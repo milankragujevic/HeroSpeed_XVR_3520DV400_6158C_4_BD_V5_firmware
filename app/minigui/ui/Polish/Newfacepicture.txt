@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Uszkodzone zdjęcie lub niewspierany format (wspierany jest tylko format .jpg)
+2=Wybrane zdjęcie nie może być większe niż 1M!
+3=Błąd pobierania szablonu twarzy
+4=Inicjowanie nieudane
+5=Wartość własna lub numer twarzy przekracza górny limit
+6=Proszę wprowadź nazwę !

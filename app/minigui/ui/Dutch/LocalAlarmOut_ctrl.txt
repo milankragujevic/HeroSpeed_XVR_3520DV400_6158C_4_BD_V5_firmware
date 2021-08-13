@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Bewegings detectie
+2=Video Knoeien
+3=Video verlies
+4=Alarmingang
+5=Alarmuitgang
+6=Uitzondering
+7=Alarm Uitgangs Nr.
+8=Naam van het alarm
+9=Vertraging
+10=Bewerk
+11=Zoemer

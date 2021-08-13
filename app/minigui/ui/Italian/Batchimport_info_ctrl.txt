@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Importazione batch
+2=Nome
+3=Stato
+4=Conferma

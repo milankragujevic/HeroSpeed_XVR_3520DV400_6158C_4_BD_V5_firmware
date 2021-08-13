@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Attendere durante la lettura dei parametri….
+2=Questo canale non ha le autorizzazioni!

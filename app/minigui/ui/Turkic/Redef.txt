@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Varsayılan değişkenler geri yükleniyor, lütfen bekleyiniz…
+2=Varsayılanı Geri Yükle
+3=Yeni ayarlar yeniden başlatıldıktan sonra aktif hale getirilecek. Şimdi yeniden başlatılsın mı?
+4=Varsayılan değişkenleri geri yüklesin mi?

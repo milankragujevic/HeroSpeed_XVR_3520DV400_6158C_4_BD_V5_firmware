@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Zon
+2=Maa
+3=Din
+4=Woe
+5=Don
+6=Vrij
+7=Zat
+8=Reset naar fabrieksinstellingen ?
+9=godzina
+10=min

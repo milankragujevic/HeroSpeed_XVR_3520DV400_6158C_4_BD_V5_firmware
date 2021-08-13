@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Cài đặt mẫu  vẽ  mở khoá
+2=quản trị viên
+3=Quên mẫu  vẽ mở khoá
+4=Thay đổi người dùng

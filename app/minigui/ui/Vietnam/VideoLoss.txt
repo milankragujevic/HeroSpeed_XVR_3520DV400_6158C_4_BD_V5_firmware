@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Khôi phục các tham số mặc định?
+2=Không cho phép!
+3=Màn hình hiển thị
+4=Gửi email
+5=Báo động Buzzer

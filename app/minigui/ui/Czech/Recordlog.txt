@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Soubor obrázků
+2=Soubor videa
+3=Momentálně zálohuje, prosím čekejte ...
+4=Nedostatek místa na disku.
+5=Záloha dokončena !
+6=Záloha selhala !

@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Fecha y Hora; 1
+2=Red; 2
+3=Disco Duro; 3
+4=Cámara; 4
+5=Plataforma; 5
+6=Cambiar Contraseña; 5
+7=Agregar cámara
+8=Canal
+9=Editar
+10=Eliminar
+11=Conf.
+12=Enlazar
+13=IP
+14=Puerto
+15=Protocolo
+16=Versión de firmware
+17=Estado de conexión
+18=Buscar
+19=Agregar automaticamente
+20=Agregar Manualmente
+21=Últ.
+22=Prox.
+23=Salir
+24=Nombre de Cámara

@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Nie.
+2=Pon.
+3=Wto.
+4=Śro.
+5=Czw.
+6=Pią.
+7=Sob.
+8=Przywrócić parametry domyślne?
+9=godzina
+10=min

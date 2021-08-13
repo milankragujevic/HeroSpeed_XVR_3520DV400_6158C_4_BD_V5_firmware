@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Varsayılan değişkenleri geri yüklesin mi?
+2=Port numarası 1 ila 65535 arasında olmalıdır!
+3=FTP kontrol ediliyor, lütfen bekleyiniz…
+4=FTP'ye ulaşılamıyor!
+5=FTP kontrolü başarılı.
+6=Zaman formatı hatası!
+7=Dosya adı şu sembolleri içeremez:                \ / : * ? " < > |
+8=Kullanıcı adı veya Şifre aşağıdaki sembolleri içeremez:! % & #
+9=FTP sunucusu format hatası!

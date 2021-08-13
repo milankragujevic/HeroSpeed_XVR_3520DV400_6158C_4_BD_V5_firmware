@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Zdarzenie urządzenia
+2=Brak dysku
+3=Błąd dysku
+4=Sieć uszkodzona
+5=Konfilkt IP
+6=Lokalny alarm
+7=Utrata sygnału wideo
+8=Inteligentny alarm

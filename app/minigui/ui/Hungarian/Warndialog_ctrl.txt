@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Javaslat
+2=Megerősít
+3=Megszünteti
+4=Módosít
+5=Később módosít

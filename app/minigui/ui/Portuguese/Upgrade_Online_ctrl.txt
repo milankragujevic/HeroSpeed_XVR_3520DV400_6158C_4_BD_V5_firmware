@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Status
+2=Atualização automática
+3=Tempo de atualização
+4=Verifica
+5=Atualizar
+6=Aplique

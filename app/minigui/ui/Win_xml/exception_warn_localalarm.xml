@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<exception_warn x="250" y="137" w="800" h="640" title="Exception warn">
+<row type="static">
+<s id="200" x="0" y="4" w="2" h="632" s="11:12:31" bcol="3"></s>
+<s id="201" x="4" y="0" w="792" h="2" s="11:12:31" bcol="3"></s>
+<s id="202" x="798" y="4" w="2" h="632" s="11:12:31" bcol="3"></s>
+<s id="203" x="4" y="638" w="792" h="2" s="11:12:31" bcol="3"></s>
+<s id="204" x="30" y="0" w="200" h="70" s="11:12:31" ft="18" bcol="10">1</s>
+
+</row>
+
+<row x="750" y="15" w="34" h="34" s="12:13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="36" bg="./image/menu/close.png" bgc="./image/menu/close.png" bgw=""></b>
+</row>
+
+<col type="static" x="15" y="75" w="146" h="40" s="11:12:31" gap="-1">
+<s id="3" bcol="114">2</s>
+<s id="4" bcol="118">3</s>
+<s id="5" bcol="114">4</s>
+<s id="6" bcol="118">5</s>
+<s id="11" bcol="114">6</s>
+<s id="13" bcol="118">7</s>
+</col>
+
+<col type="static" x="160" y="75" w="625" h="40" s="11:12:31" gap="-1">
+<s id="7" bcol="134"></s>
+<s id="8" bcol="138"></s>
+<s id="9" bcol="134"></s>
+<s id="10" bcol="138"></s>
+<s id="12" bcol="134"></s>
+<s id="14" x="160" bcol="138"></s>
+</col>
+
+</exception_warn>

@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Importação em lote
+2=Nome
+3=Status
+4=confirme

@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Câmera
+2=PoE
+3=OSD
+4=Imagem
+5=PTZ
+6=Máscara de privacidade
+7=Parâmetros de codificação
+8=Gravar fluxo
+9=Stream Secundário
+10=Nome do Canal
+11=Máscara de privacidade local
+12=Configuração PTZ

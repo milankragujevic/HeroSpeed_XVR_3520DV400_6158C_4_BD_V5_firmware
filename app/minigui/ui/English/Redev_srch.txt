@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Device searching,hold on!
+2=Are you sure you exit the boot wizard?
+3=Operation will change the IP of remote device, confirm the changes?
+4=Is the fisheye equipment that require added separately
+5=The device is connected too many times, you can not add.
+6=Add camera,please wait...
+7=added
+8=Deleting camera,please wait...

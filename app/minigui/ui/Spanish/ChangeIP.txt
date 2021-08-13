@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Sin permiso!
+2=Error en la configuración
+3=conflicto de ip
+4=Dirección IP invalida!
+5=Máscara de subred inválida!
+6=Puerta de enlace inválida!
+7=IPC no privado no puede modificar los puertos DNS,HTTP y RTSP, confirmar los cambios?

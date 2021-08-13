@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Alarm Invoering Nr.
+2=Naam van het alarm
+3=Type alarm
+4=Alarmstatus
+5=Record Kanaal Aansteken
+6=Sluiten

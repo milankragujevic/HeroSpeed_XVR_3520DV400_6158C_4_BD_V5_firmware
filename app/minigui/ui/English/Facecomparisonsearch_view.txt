@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Please select a file.
+2=Disk space not enough
+3=Searching,please wait...
+4=Cannot wirte data to mobile hard disk.
+5=Backup finished
+6=Please insert the usb disk!
+7=Too much files, stop searching!
+8=No record file!
+9=Please select a backup type!
+10=Similarity
+11=Backing up, please cancel the backup or continue after the backup is completed.
+12=The top
+13=has been added to the backup queue.
+14=Add to backup queue failed.
+15=Extract face features failed.
+16=Human Files
+17=Face Comparison Search

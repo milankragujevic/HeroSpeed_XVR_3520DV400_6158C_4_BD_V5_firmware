@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Data e Hora; 1
+2=Rede; 2
+3=Disco Rígido; 3
+4=Câmera; 4
+5=Plataforma; 5
+6=Alterar Senha; 5
+7=Disco Rígido
+8=Não.
+9=Status
+10=Capacidade Total
+11=Capacidade Restante
+12=Tipo de Dispositivo
+13=Formato
+14=Anterior
+15=Próximo
+16=Sair

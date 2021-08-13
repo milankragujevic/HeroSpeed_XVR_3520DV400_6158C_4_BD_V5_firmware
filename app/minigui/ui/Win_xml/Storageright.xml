@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preview x="0" y="%10" w="%15" h="%100-%10" title="Preview">
+
+<col type="ctrl_trackbar" x="%15-10" y="0" w="10" h="%100" s="11:13:16:61:62:63:68" ex="87" gap="-1">
+<tb id="99" tcol="20"></tb>
+</col>
+<col type="ctrl_button" x="0" y="10" w="%15" h="40" s="12:13:16:41:42:48" gap="10" tc="1" >
+<b id="172" s="12:16:48:49:41:42"  bg="./image/radiobutton_bg/allfiles.png" bgc="./image/radiobutton_bg/allfiles_hover.png">1</b>
+
+
+</col>
+
+</Preview>

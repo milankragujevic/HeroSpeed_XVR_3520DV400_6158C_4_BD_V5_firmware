@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=In connessione….
+2=Connesso
+3=Ripristina la configurazione iniziale?
+4=Sono supportate un massimo di 16 linee (Port Mapping)!

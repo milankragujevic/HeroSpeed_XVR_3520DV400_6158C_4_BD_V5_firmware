@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=weergave vooraf
+2=Terugspelen
+3=Bestandsbeheer
+4=Slimme analyse
+5=Kanaal
+6=opslagruimte
+7=Systeem
+8=Onderhoud
+9=Zakelijke Toepassing
+10=Download
+11=Bell
+12=Alarm
+13=backup
+14=Schakel uit

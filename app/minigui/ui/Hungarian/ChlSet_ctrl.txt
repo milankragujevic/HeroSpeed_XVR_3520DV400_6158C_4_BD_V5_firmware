@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Csatorna beállítások
+2=Engedélyez
+3=Csatorna
+4=Protocol
+5=Előnézet
+6=Felhasználó név
+7=Jelszó
+8=IP Cím
+9=Domain
+10=Port
+11=Main stream
+12=Sub stream
+13=Main:Sub
+14=Mentés
+15=Megszünteti
+16=Hozzáadás módja
+17=Kézi:Plug and play
+18=Kézikönyv

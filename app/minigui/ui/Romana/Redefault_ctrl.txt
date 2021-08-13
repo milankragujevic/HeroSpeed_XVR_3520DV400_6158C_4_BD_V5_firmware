@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Restabiliți parametrul implicit al camerei
+2=Restaurare parametri de stocare implicită
+3=Restaurare parametri de sistem implicit
+4=Restaurați parametrul implicit de întreținere
+5=Restaurați setările din fabrică
+6=Salvare

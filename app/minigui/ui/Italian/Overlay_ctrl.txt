@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Canale
+2=Nome Canale
+3=Ora
+4=Testo
+5=Formato Data
+6=Posizione OSD
+7=Specchio
+8=Anno Mese Giorno:Mese Giorno Anno: Giorno Mese Anno
+9=Alto_SX:Basso_DX
+10=Nessuna:Orizzontale:Verticale:Entrambe
+11=Applica
+12=Copia

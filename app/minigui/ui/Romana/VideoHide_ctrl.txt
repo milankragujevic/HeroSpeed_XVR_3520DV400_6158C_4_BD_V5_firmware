@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Canal
+2=Activat
+3=Zona clară 1
+4=Zona clară 2
+5=Zona clară 3
+6=Curata tot
+7=Salvare
+8=Copie

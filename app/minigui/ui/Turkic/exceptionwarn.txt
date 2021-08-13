@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Disk yok
+2=Disk hatası
+3=Ağ kırık
+4=Ip Çatışması
+5=Yerel alarm

@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Název nově přidané knihovny nemůže být prázdný
+2=Počet knihoven tváří dosáhl horní hranice
+3=

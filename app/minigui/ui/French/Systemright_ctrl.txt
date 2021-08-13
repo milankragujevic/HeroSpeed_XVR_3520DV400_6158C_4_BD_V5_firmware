@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Général
+2=Réseau
+3=TCP/IP
+4=Réglages
+5=Utilisateur
+6=Filtre d'adresse
+7=Vacances
+8=POS
+9=Événement
+10=Événement normal
+11=Événement intelligent
+12=Vue en direct
+13=Affichage
+14=Consulter
+15=Chaîne zéro
+16=Avancée
+17=Stockage Cloud
+18=Normal
+19=Config. Caméra
+20=Annulation de prévisualisation

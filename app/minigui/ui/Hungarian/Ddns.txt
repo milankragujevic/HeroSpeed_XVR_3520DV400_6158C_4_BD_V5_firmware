@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Visszaállítja az alapértelmezett paramétereket?
+2=A domain formátuma hibás

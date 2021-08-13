@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Datum en Tijd;1
+2=Netwerk;2
+3=Harde Schijf;3
+4=Camera;4
+5=Platform;5
+6=Verander Wachtwoord;5
+7=WachtwoordWijzigen
+8=Admin Wachtwoord Wijzigen
+9=Oude wachtwoord
+10=Nieuwe wachtwoord
+11=Bevestig
+12=Reset beveiligingsproblemen
+13=Beveiligingsnummer 1
+14=Answer 1
+15=Beveiligingsnummer 2
+16=Answer 2
+17=Beveiligingsnummer 3
+18=Answer 3
+19=Selecteer onderwerp: Wat is uw vacature ?: Welke dag is uw vaders verjaardag ?: Wat is uw favoriete Engelse liedje?: Welke dag is de verjaardag van uw moeder?
+20=Selecteer onderwerp: Wat is uw schoolnummer ?: Wat is uw geluksgetal ?: De naam van uw favoriete ster is? (Engels): De dag van uw trouwdag is?
+21=Selecteer een probleem: wat is uw meest populaire mailbox ?: Wat is de postcode van uw regio ?: Wat is de naam van uw huisdier ?: Wat zijn uw telefoonnummers?
+22=Vorige
+23=Voltooien

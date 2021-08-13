@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Brak pozwolenia!
+2=Usunąć tego użytkownika?
+3=Nie można usunąć konta Administratora!
+4=Można dodać maksymalnie 256 użytkowników!
+5=Grupa zawiera użytkownika, którego nie można usunąć!
+6=Nie można usunąć bieżącego użytkownika!
+7=Można dodać maksymalnie 20 grup!
+8=Grupa administratora nie może być usunięta!
+9=Proszę wybierz użytkownika
+10=Nie jesteś członkiem grupy, brak uprawnień do wykonania tej operacji.
+11=Słaby
+12=Średnie
+13=Silne
+14=Administrator
+15=Operator
+16=Podstawowy
+17=Hasło

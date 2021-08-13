@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Luminozitatea este prea mare, Luminozitatea Max este
+2=Contrastul este prea mare, contrastul Max este
+3=Saturația este prea mare, Saturation Max este
+4=Claritatea este prea mare, Sharpness Max este
+5=Noțiuni de bază param, vă rugăm să așteptați ...
+6=Acest canal nu are permisiune!
+7=Parola nu a putut fi obținută
+8=RTSP nu acceptă această caracteristică

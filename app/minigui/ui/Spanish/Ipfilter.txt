@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Dirección IP
+2=Dirección MAC

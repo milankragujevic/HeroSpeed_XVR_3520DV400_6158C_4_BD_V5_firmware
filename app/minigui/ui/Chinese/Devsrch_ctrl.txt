@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=添加设备
+2=IP
+3=端口
+4=协议
+5=固件版本
+6=显示筛选
+7=Onvif:Multi net segment:Private:Onvif and Private
+8=设备搜索
+9=添加
+10=手动添加
+11=取消
+12=添加/删除

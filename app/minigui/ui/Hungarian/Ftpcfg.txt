@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Visszaállítja az alapértelmezett paramétereket?
+2=Az érték 1 és 65535 között kell, hogy legyen!
+3=FTP ellenörzése, kérem várjon...
+4=Nem lehet kapcsolódni az FTP szerverhez!
+5=FTP ellenőrzés sikeres!
+6=Rossz idő formátum!
+7=File név nem tartalmazhatja ezeket a karaktereket:                \ / : * ? " < > |
+8=A felhasználónév vagy a jelszó nem tartalmazhatja a következő szimbólumokat:! % & #
+9=FTP kiszolgáló formátum hiba!

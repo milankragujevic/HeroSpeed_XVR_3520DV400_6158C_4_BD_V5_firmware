@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Kamera alapértelmezett paraméterének visszaállítása
+2=Tároló alapértelmezett paramétereinek visszaállítása
+3=Rendszer alapértelmezett paramétereinek visszaállítása
+4=Karbantartás alapértelmezett paraméterének visszaállítása
+5=Gyári érték visszaállítás
+6=Alkalmaz

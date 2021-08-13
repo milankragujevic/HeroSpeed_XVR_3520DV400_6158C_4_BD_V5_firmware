@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=General
+2=Network
+3=TCP/IP
+4=Setting
+5=User
+6=Address Filter
+7=Holiday
+8=POS
+9=Event
+10=Normal Event
+11=Smart Event
+12=Live View
+13=Display
+14=View
+15=Channel-Zero
+16=Advanced
+17=Cloud Storage
+18=Normal
+19=Channel Config
+20=Logout Preview

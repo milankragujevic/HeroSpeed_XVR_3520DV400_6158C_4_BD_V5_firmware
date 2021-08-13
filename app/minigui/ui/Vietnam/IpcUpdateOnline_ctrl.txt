@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Cập nhật IPC
+2=Kênh
+3=Tên
+4=Kích thước
+5=Thời gian
+6=Cập nhật
+7=Hủy

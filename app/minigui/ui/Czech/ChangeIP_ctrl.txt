@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Změna IP adres
+2=Spusťte Ip
+3=Netmask
+4=Brána
+5=Uživatelské jméno
+6=Heslo
+7=Potvrdit
+8=Zrušit
+9=DNS
+10=HTTP port
+11=Port RTSP

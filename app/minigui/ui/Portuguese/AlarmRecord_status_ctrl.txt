@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Entrada de Alarme No.
+2=Nome alarme
+3=Tipo de alarme
+4=Status alarme
+5=Acionar Canal de Gravação
+6=Fechar

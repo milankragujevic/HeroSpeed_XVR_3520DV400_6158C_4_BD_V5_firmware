@@ -1,0 +1,18 @@
+[wintip]
+num=16
+1=Informationsabfrage, bitte warten...
+2=Keine Erlaubnis!
+3=Zeilenregelfehler!
+4=Es gibt eine Überschneidungslinie!
+5=Auf derselben Linie!
+6=Das Kanalgerät verfügt nicht über diese Funktion.
+7=Tonalarm
+8=E-Mail senden
+9=Kanalaufnahme
+10=schwarze Liste
+11=weiße Liste
+12=schwarze Liste und weiße Liste
+13=Maximum support for
+14=Kanal
+15=channels
+16=In Entwicklung!

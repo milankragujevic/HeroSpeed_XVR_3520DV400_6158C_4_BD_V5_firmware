@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Vlastní
+2=Obnovit výchozí nastavení ?
+3=Vlastní nemůže být prázdný.

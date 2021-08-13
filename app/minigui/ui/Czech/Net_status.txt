@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=IP adresa
+2=Síťová maska
+3=Brána
+4=Primární DNS
+5=Sekundární DNS
+6=MAC zařízení
+7=Povolit DHCP
+8=Adresa PPPoE
+9=Maska podsítě PPPoE
+10=Vstupní brána PPPoE
+11=\
+12=\
+13=Povolit
+14=zakázat

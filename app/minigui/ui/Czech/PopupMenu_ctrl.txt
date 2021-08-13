@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Přehrávání
+2=Správa dokumentů
+3=Nastavení systému
+4=Přihlásit
+5=Vypnout
+6=Odhlásti

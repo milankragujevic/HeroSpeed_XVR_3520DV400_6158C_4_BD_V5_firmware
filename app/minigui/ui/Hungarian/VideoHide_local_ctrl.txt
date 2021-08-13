@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Csatorna
+2=Engedélyez
+3=Terület 1
+4=Terület 2
+5=Terület 3
+6=Terület törlés
+7=Alkalmaz
+8=Másol

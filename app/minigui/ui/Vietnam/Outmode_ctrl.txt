@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Độ phân giải
+2=UI Trong suốt
+3=Hiển thị thời gian OSD
+4=Hiển thị sau khi khởi động
+5=1024x768: 1280x720: 1280x1024: 1920x1080
+6=Mặc định
+7=Ứng dụng
+8=Hiển thị tên kênh

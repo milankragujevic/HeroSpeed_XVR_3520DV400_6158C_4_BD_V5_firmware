@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Nastavení připomenutí události
+2=Vše
+3=Použít
+4=Zrušit

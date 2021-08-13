@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Meniu Principal
+2=1-Win
+3=Ch1
+4=Ch2
+5=Ch3
+6=Ch4
+7=4-Win
+8=Sondaj
+9=Înregistrați setarea
+10=Redare
+11=Redare
+12=Setare PTZ
+13=Imagine DVR
+14=Selectați modul
+15=Imagine manuală
+16=Compararea Facială

@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Errore di formato temporale!
+2=Abilita
+3=Chiudere
+4=E’ possibile aggiungere un massimo di 6 schedulazioni a giorno!

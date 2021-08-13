@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Configuração de gravação
+2=Canal
+3=Todos
+4=Operaror
+5=Gravação
+6=Movimento
+7=Todos
+8=Dom.
+9=Seg.
+10=Ter.
+11=Qua.
+12=Qui.
+13=Sex.
+14=Sabado
+15=Padrão
+16=Copiar
+17=Aplique
+18=cancelar
+19=Mais configurações
+20=Inteligente
+21=Alarme
+22=M | A
+23=M & A
+24=Nenhum

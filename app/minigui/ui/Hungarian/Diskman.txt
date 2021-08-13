@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Használatban
+2=Lemez sorsz.
+3=Normál
+4=Nincs HDD!
+5=Formázás folyamatban, kérem várjon...
+6=Az Eszköz használatban
+7=Ismeretlen hiba
+8=Sikeres formázás
+9=Sikertelen formázás
+10=Válasszon lemezt
+11=A formázásnál minden adat el fog veszni, folytatja?
+12=Nincs jogosultsága!
+13=Nem lehet formáézni az USB eszközt.
+14=Biztos kilép a segédből?

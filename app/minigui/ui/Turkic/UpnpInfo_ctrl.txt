@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Port Bilgisi
+2=Sunucu adı
+3=İletişim Kuralı
+4=Dahili port
+5=Harici port
+6=TCP, UDP
+7=Kaydet
+8=iptal

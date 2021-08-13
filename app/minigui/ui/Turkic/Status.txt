@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=/
+2=/
+3=Zaman formatı hatası!
+4=Ağ yükü çok büyük, lütfen kanalları kademeli olarak siliniz.
+5=Ağ yükü normale döndü.
+6=İzin yok!
+7=Yükseltme, kapatmayın!
+8=Biçimlendirme devam ediyor, lütfen bekleyiniz…
+9=Tarıyor…
+10=No channels that support this feature!
+11=Yüz tanıma
+12=Mod
+13=5 dakika kayıttan oynatma
+14=hacim
+15=Yakınlaştır
+16=Resim
+17=Akış Bilgisi
+18=Kapat
+19=Mevcut şifre çok basit, lütfen şifreyi değiştirin!
+20=Yeni depolama aygıtları bulundu, hemen kayıt diski olarak biçimlendi mi?
+21=Geliştirilmekte!
+22=Manuel ekran görüntüsü başarısız!
+23=Disk durağı kullanıldı
+24=Mevcut şifre çok basit, lütfen şifreyi değiştirin!
+25=Ele geçirmek

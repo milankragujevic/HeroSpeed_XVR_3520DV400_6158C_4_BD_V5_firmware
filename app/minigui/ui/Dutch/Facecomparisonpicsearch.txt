@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=De geselecteerde afbeelding mag niet groter zijn dan 1M!
+2=Fout in tijdnotatie!
+3=Er zijn een of meer kanalen die geen toestemming hebben!
+4=Geen toestemming!
+5=Alle Kanalen
+6=Gelieve een afbeelding te uploaden.
+7=Please select a channel

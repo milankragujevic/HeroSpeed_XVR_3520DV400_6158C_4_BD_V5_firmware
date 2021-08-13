@@ -1,0 +1,23 @@
+[wintip]
+num=21
+1=Zmodyfikuj użytkownika pomyślnie!
+2=Uprawnienia administratora nie mogą być modyfikowane!
+3=Użytkownik już istnieje!
+4=Proszę wprowadzić nazwę użytkownika!
+5=Proszę wprowadzić hasło!
+6=Proszę wprowadzić nowe hasło!
+7=Hasło jest niepoprawne!
+8=Błędne hasło!
+9=Nie można zmienić swoich uprawnień użytkownika!
+10=Nieznany błąd!
+11=Nazwa użytkownika nie może być nazywana root lub admin!
+12=Nazwa użytkownika nie może zawierać spacji
+13=Nie jesteś członkiem grupy, brak uprawnień do wykonania tej operacji.
+14=Błąd poziomu użytkownika!
+15=Ostrzeżenie: Hasło nie może być mniejsze niż 8 bitów oraz musi zawierać minimum jedną cyfrę oraz jedną literę
+16=Jeśli długość nazwy użytkownika lub hasła jest większa niż 10, nie mogą to być same liczby
+17=Proszę wypełnij!
+18=Eksport pomyślny!
+19=Proszę włożyć dysk USB.
+20=Błąd eksportu!
+21=Na pewno wyjść z kreatora konfiguracji?

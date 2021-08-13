@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Wgraj z bazy danych twarz
+2=Lista bibliotek twarz
+3=Nazwa
+4=Czas
+5=Zdjęcie twarzy
+6=Użytkownik
+7=Widok
+8=Pozostała/Całkowita pojemność
+9=Ok
+10=Anuluj
+11=1

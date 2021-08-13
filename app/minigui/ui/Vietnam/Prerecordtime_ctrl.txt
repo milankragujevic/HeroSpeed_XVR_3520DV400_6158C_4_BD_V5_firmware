@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Cài đặt khác
+2=Thời gian prerecord (s)
+3=Thời gian quay kéo dài
+4=Ghi âm
+5=Mặc định
+6=Lưu
+7=Hủy

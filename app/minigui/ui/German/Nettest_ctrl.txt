@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Netzwerk Dalay, Paketverlust Test
+2=NIC selection
+3=Zieladresse
+4=Test

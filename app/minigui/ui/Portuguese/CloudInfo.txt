@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Obtendo informações ...
+2=Ligação com sucesso!
+3=Falha de ligação!
+4=Esperando...
+5=Please use the browser to open the following url, complete validation:

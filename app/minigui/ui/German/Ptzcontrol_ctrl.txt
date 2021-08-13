@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=PTZ
+2=Kanal
+3=Ptz Kontrolle
+4=Gemeinsame Kontrolle
+5=Zoom
+6=Fokus
+7=Iris
+8=Geschwindigkeit
+9=Voreinstellung
+10=Starten
+11=Cruise An
+12=Cruise AUS
+13=PTZ Patrol
+14=1:2:3
+15=Kreuzfahrt Einstellung

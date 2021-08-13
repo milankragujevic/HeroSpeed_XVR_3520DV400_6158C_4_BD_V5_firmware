@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Auf Werkseinstellungen zurücksetzen?
+2=Online
+3=Offline
+4=Umschaltung der Verschlüsselungsmodus, bitte P2P zuerst ausschalten.

@@ -1,0 +1,5 @@
+[Ctrltxt]
+num=3
+1=Dung lượng còn lại/MB
+2=Thời gian còn lại/phút
+3=tiến độ dự phòng

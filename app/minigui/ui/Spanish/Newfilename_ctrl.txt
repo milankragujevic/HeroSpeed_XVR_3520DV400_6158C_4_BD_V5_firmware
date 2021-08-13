@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Nueva carpeta
+2=Nombre de archivo
+3=Sí
+4=Cancelar

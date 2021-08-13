@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Indirizzo IP
+2=Subnet Mask
+3=Gateway
+4=DNS IP Primario
+5=DNS IP Secondario
+6=MAC dispositivo
+7=Abilita DHCP
+8=Indirizzo PPPoE
+9=Maschera di sottorete PPPoE
+10=Gateway predefinito PPPoE
+11=\
+12=\
+13=Abilita
+14=disattivare

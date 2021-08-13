@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Menu
+2=1-Fin
+3=Ch1
+4=Ch2
+5=Ch3
+6=Ch4
+7=4-Fin
+8=Rotazione Fin
+9=Configurazione Reg.
+10=Aggiungere Camera
+11=Riproduzione
+12=PTZ
+13=Immagine Triox
+14=Seleziona la modalità
+15=Screenshot manuale
+16=Confronto viso

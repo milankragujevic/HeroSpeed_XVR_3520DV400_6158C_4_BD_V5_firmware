@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Disman x="%15" y="%10" w="%100-%15" h="%100-%10" title="Disk">
+
+<row type="ctrl_button" x="%3" y="25" w="150" h="40" s="12:13:41:42" tc="2" gap="10" ft="16">
+    <b id="2" bg="./image/radiobutton_bg/refresh_bt.png" bgc="./image/radiobutton_bg/refresh_bt_hover.png">1</b>
+    <b id="3" bg="./image/radiobutton_bg/format.png" bgc="./image/radiobutton_bg/format_hover.png">2</b>
+</row>
+
+
+<row>
+    <disklist type="listview_ex" id="1" x="%3" y="100" w="%79" h="504" s="11:12:13:14:15:203:204" itemcnt="6" itemh="56">
+        <item w="%5" cbox="1" all="1" line="0"></item>
+        <item w="%5" align="l">4</item>
+        <item w="%12" align="l">5</item>
+        <item w="%20" align="l">6</item>
+        <item w="%20" align="l">7</item>
+        <item w="%9" align="l">8</item>
+    </disklist>
+</row>
+
+</Disman>

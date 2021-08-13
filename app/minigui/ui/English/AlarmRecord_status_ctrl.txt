@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Alarm Input No.
+2=Alarm Name
+3=Alarm Type
+4=Alarm Status
+5=Trigger Record Channel
+6=Close

@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Testowanie...
+2=Test pomyślny.
+3=Test nieudany.
+4=Zmiana katalogu przesyłania wymaga odłączenia i ponownego powiązania.
+5=Przywrócić parametry domyślne?
+6=Powiąż
+7=Rozwiąż

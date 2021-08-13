@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=TCP/IP
+2=DDNS
+3=NTP
+4=FTP
+5=UPnP
+6=Wifi
+7=PPPOE
+8=WAN
+9=Povolit DDNS
+10=Typ DDNS
+11=Obnovit nastavení (sec)
+12=Uživatelské jméno
+13=Heslo
+14=Doména
+15=Výchozí
+16=Použít

@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=tìm kiếm hình ảnh
+2=Kênh
+3=Kiểu
+4=Thời gian
+5=xem xét
+6=Người dùng
+7=xem xét
+8=Còn lại/ tổng dung lượng
+9=Sao lưu
+10=Hủy
+11=Làm mới

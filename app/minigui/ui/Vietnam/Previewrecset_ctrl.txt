@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Thiết lập ghi hinh
+2=Kênh
+3=Tất cả
+4=Vận hành
+5=Ghi hình
+6=Chuyển động
+7=Tất cả
+8=CN.
+9=Hai.
+10=Ba.
+11=Tư.
+12=Năm.
+13=Sáu.
+14=Bảy.
+15=Mặc định
+16=Sao chép
+17=Ứng dụng
+18=Hủy
+19=Cài đặt khác
+20=Thông minh
+21=Báo động
+22=M | A
+23=M & A
+24=không ai

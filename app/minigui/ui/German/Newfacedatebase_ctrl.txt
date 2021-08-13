@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Gesichtsdatenbank hinzufügen
+2=Name
+3=Listentyp
+4=schwarze Liste:weiße Liste
+5=Ähnlichkeit
+6=Speichern
+7=Abbrechen

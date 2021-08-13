@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Patrol
+2=Patrolowanie wymaga przynajmniej dwóch presetów!
+3=Przywrócić parametry domyślne?
+4=Ten kanał nie ma uprawnień!
+5=Wykonywanie patrolu, modyfikacja zabroniona...

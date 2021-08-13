@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Cronograma
+2=Gravação
+3=Captura
+4=Dispositivo de Armazenamento
+5=Modo de Armazenamento
+6=Backup Automático
+7=Avançado

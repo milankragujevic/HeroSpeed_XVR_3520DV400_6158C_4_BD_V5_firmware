@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Mozgásérzékelés
+2=Videó hamisítás
+3=Videojel vesztés
+4=Riasztási bemenet
+5=Riasztási kimenet
+6=Rendszerhiba
+7=Riasztási kimenet száma
+8=Riasztási név
+9=Késleltetés
+10=Szerkesztés
+11=Berregő

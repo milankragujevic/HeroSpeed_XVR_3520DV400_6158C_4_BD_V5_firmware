@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Bez povolení!
+2=Konfigurace selhala
+3=Ip konflikt
+4=Neplatná adresa IP!
+5=Neplatná maska ​​podsítě!
+6=Neplatná brána!
+7=IPC není soukromý, proto není možné změnit porty DNS,HTTP a RTSP, opravdu provést ?

@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Keine Festplatte
+2=Festplattenfehler
+3=Netzwerkfehler
+4=IP-Konflikt
+5=Lokaler Alarm

@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Mở
+2=Tắt
+3=Luồng video
+4=Luồng phụ
+5=Luồng hỗn hợp
+6=Ghi hình
+7=Chuyển động
+8=Báo động
+9=M và A
+10=Thông minh

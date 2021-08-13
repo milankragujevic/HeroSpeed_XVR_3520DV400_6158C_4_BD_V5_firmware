@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Disque dur
+2=Général
+3=Informations disque dur
+4=N°.
+5=Etat
+6=Capacité totale
+7=Capacité restante
+8=Type périphérique
+9=Attention : le DVR redémarrera automatiquement après le formatage du disque!
+10=Actualiser
+11=Formater
+12=Annuler
+13=Aperçu

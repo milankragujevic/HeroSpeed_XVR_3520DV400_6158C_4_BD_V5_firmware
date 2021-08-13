@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Yüz Veritabanından yükle
+2=Yüz Veritabanı listesi
+3=Ad
+4=zaman
+5=Yüz resmi
+6=Kullanıcı
+7=görünüm
+8=kalan/toplam kapasite
+9=Tamam
+10=iptal
+11=1

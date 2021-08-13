@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Név:
+2=Méret:
+3=Hossz:
+4=Idő:
+5=Export Sikeres
+6=Export Hiba
+7=Email sikeresen elküldve
+8=Email küldés hiba
+9=Exportálás, kérem várjon
+10=Email küldés, kérjük várjon
+11=Biztosan kilép?
+12=Kérem csatlakoztassa az USB eszközt.

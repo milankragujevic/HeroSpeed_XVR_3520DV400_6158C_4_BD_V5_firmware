@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Cài đặt mới sẽ được kích hoạt sau khi khởi động lại. Khởi động ngay bây giờ?
+2=Kênh
+3=Khôi phục các tham số mặc định?
+4=1 màn hình
+5=4 màn hình
+6=8 màn hình
+7=9 màn hình
+8=16 màn hình
+9=25 màn hình
+10=36 màn hình
+11=64 màn hình
+12=32 màn hình
+13=Thiết bị không hỗ trợ độ phân giải này.

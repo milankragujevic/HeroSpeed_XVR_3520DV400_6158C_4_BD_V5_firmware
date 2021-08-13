@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Adăugați utilizator
+2=Nume Utilizator
+3=Parola
+4=Confirmare
+5=Nivel
+6=Operator: General
+7=Salvare
+8=Anulare

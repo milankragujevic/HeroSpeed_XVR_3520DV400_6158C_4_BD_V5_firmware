@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Phát lại
+2=quản lý tài liệu
+3=Thiết lập hệ thống
+4=Đăng nhập
+5=Tắt nguồn
+6=Đăng xuất

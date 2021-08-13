@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Editer
+2=Entrée d'alarme
+3=Nom de l'alarme
+4=Activer
+5=Type
+6=N.O:N.C
+7=Temps d'alerte
+8=Action de liaison
+9=Liaison normale
+10=Enregistrement du canal
+11=Sortie d'alarme de déclenchement
+12=Copier
+13=Appliquer
+14=Tous
+15=Dim.
+16=Lun.
+17=Mar.
+18=Mer.
+19=Jeu.
+20=Ven.
+21=Sam.
+22=Ordinaire
+23=Editer
+24=Surveillance plein écran

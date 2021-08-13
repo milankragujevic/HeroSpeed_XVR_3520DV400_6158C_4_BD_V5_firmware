@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=A fényerő túl nagy, a fényerő Max
+2=A kontraszt túl nagy, a kontraszt maximum:
+3=A szaturáció túl magas, a maximum érték:
+4=Az Élesség túl magas, a maximum érték:
+5=Paraméterek lekérése, kérem várjon…
+6=Ehhez a csatornához  nincs engedélye!
+7=A paraméter nem sikerült
+8=Az RTSP nem támogatja ezt a funkciót

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=No.
+2=Nome
+3=Dimensioni
+4=Data
+5=Aggiorna
+6=Aggiorna

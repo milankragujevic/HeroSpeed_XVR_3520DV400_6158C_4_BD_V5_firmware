@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Eszköz neve
+2=Modellszám
+3=Eszköz verzió
+4=Rendszer verzió
+5=Dátum
+6=A csatornák teljes száma
+7=A POE csatornák teljes száma
+8=Bezárás
+9=P2P
+10=GUI verziószáma
+11=WEB verziószáma

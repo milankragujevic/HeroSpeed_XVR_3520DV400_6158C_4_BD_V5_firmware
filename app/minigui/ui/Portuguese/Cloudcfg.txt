@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Testando ...
+2=Teste bem-sucedido.
+3=Falha no teste.
+4=Alterar pasta de upload precisa desanexar e, em seguida, religar para ter efeito.
+5=Restaurar os parâmetros padrão?
+6=Bind
+7=Unbind

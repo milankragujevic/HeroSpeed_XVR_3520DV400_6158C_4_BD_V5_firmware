@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Lütfen bir dosya seçiniz.
+2=Not enough disk space.
+3=Arama, lütfen bekleyin ...
+4=Taşınabilir sabit disk sürücüsüne veri yazılamıyor.
+5=Yedekleme bitti
+6=Cannot read hard disk.
+7=Çok fazla dosya aramayı kes!
+8=manuel yakalama
+9=Hareket
+10=Alarm
+11=hareket ve alarm
+12=hareket ve alarm

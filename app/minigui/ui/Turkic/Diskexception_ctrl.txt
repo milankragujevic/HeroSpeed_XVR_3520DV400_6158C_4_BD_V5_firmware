@@ -1,0 +1,24 @@
+[Ctrltxt]
+num=22
+1=Yapılandırma
+2=Genel
+3=Ağ
+4=Ekran
+5=İstisnalar
+6=Kullanıcı
+7=İstisnai Sabit Disk Sürücüsü
+8=İstisnai Ağ
+9=Olay türü
+10=Etkinleştir
+11=e-posta yolla
+12=Alarm sesli uyarıcı
+13=Sabit disk sürücüsü yok:Sabit disk sürücü hatası
+14=Varsayılan
+15=Uygula
+16=iptal
+17=Ön
+18=Kanal Yapılandırma
+19=Ekran görüntüsü
+20=Yerel alarm
+21=Wifi
+22=IP süzülmesi

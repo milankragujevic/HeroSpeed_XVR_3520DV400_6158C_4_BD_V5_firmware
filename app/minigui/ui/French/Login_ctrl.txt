@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Connexion utilisateur
+2=admin
+3=Se connecter
+4=Fermer
+5=Mot de passé oublié
+6=Connexion automatique

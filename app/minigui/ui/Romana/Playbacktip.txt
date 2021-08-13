@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Fara permisiune!
+2=Captura nu a reușit
+3=Captură
+4=Sunet
+5=Zoom
+6=Adăugare etichetă
+7=fisheye
+8=Închide
+9=Captură realizată cu succes, Vă rugăm să verificați în managerul de fișiere

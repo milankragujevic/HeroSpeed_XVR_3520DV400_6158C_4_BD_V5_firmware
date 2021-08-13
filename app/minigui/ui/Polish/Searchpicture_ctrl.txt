@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Wyszukiwanie zdjęć
+2=Kanał
+3=Typ
+4=Czas
+5=Widok
+6=Użytkownik
+7=Widok
+8=Pozostała/Całkowita pojemność
+9=Archiwizacja
+10=Anuluj
+11=Odśwież

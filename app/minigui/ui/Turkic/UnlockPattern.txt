@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Kilit açma desenini oluştur.
+2=Tamamlandıktan sonra fare düğmesini serbest bırak.
+3=Desen en az dört noktayı kapsamalıdır, lütfen tekrar dene.
+4=Onaylamak için lütfen tekrar deseni çiz.
+5=İki kez çizilmiş desen farklıdır, lütfen tekrar onayla.
+6=Lütfen kalıbını unutma.
+7=Kilit açılamadı, …var
+8=Oturum aç
+9=şans
+10=5 defa parola ya da izi yanlış giriştiniz. 30 dkk sonra tekrar deneyin.

@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Obnovit výchozí nastavení ?
+2=Port může být v rozsahu 1-65535 !
+3=Testuji email, počkejte…
+4=Chyba posílání emailu !
+5=Email byl odeslán, zkontrolujte příchozí poštu.
+6=Formát e-mailové adresy je nesprávný.
+7=SMTP server formát je nesprávné.
+8=Chyba formátu času!
+9=Vlastní

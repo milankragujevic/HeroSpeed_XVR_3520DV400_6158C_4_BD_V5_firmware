@@ -1,0 +1,7 @@
+#!/bin/sh
+
+demo_pid=`ps | grep -v grep | grep "demo" | awk '{print $1}'`
+if [ -n $demo_pid ] ; then
+    kill -s USR2 $demo_pid;
+    echo "Printf in demo is enabled !!!";
+fi

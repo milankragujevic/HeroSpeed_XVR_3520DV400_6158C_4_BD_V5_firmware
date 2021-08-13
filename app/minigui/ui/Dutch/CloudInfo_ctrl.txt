@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Koppelen
+2=kod autoryzacji
+3=Bevestig
+4=Annuleren

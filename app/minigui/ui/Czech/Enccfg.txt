@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Uložte nastavení kanálů a síťě !
+2=Obnovit výchozí nastavení ?
+3=Ukládám nastavení dekodéru…
+4=Zjišťuji parametry…
+5=Zjišťění parametrů selhalo.
+6=BitRate je v rozmezí 512-8192.
+7=Nastavení parametrů kamery selhalo.
+8=Tento kanál je H265, který toto zařízení nepodporuje
+9=Bez povolení!
+10=Zařízení nepodporuje H265.
+11=Main Bitrate range 64-8192.
+12=Sub Bitový rozsah 64-2048.

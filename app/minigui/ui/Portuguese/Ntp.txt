@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=personalizadas
+2=Restaurar os parâmetros padrão?
+3=O costume não pode estar vazio.

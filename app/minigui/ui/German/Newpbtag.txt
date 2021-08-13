@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Der Verzeichnisname darf folgende Zeichen nicht enthalten: Leerzeichen \ /: *? "| '%.
+2=Der Verzeichnisname darf nicht leer sein.

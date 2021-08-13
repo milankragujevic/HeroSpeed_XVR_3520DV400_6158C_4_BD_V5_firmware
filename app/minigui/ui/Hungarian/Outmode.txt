@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Az új beállítások használatához újraindítás szükséges, újraindítja most?
+2=Csatorna
+3=Visszaállítja az alapértelmezett paramétereket?
+4=1 Képernyő
+5=4 Képernyő
+6=8 Képernyő
+7=9 Képernyő
+8=16 Képernyő
+9=25 Képernyő
+10=36 Képernyő
+11=64 Képernyő
+12=32 kamera
+13=Az eszköz nem támogatja ezt a felbontást!

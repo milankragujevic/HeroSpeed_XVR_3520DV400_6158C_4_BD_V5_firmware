@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Detectarea miscarii
+2=Temperare video
+3=Pierderea calității video
+4=Intrare alarmă
+5=Alarma de ieșire
+6=Excepție
+7=Tip de eveniment
+8=Activat
+9=Niciun disc: Eroare de disc: Rețea întreruptă: Conflict IP
+10=Corelare normală
+11=Initial
+12=Salvare
+13=Alarma de ieșire
+14=Alarmă sonoră

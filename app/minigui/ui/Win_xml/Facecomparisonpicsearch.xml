@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileBackup x="%15" y="%10" w="%100-%15" h="%100-%10" title="">
+<row type="ctrl_button" x="%3" y="30" w="160" h="40" s="12:13:41:48" gap="10">
+<b id="251">1</b>
+<b id="1" s="12:48:49:41:40">2</b>
+</row>
+<row type="static" x="%3" y="69" w="%94-250" h="2" s="11:12:31" bcol="1" gap="10">
+<s id="2"></s>
+</row>
+
+
+<col type="ctrl_button" x="%3" y="130" w="180" h="40" s="12:13:41" gap="30" ft="16">
+<b id="3">3</b>
+<b id="4">4</b>
+</col>
+
+<col type="static" x="%3" y="300" w="%14" h="40" s="11:12:31" bcol="10" ft="18" gap="%1">
+<s id="5">5</s>
+<s id="6">6</s>
+<s id="7">7</s>
+</col>
+
+<col type="CtrlCombobox" x="%17+10" y="300" w="%19" h="40" gap="%1">
+<cb id="8" s="11:12:13:14:21:22:25" ad="216"></cb>
+<cb id="9" s="11:12:13:21:22:23" ad="296">
+<selcn>8</selcn>
+</cb>
+<d type="CtrlDate" id="10" x="%37+10" y="%1+340" s="12:13:92:93" ex="83:81"></d>
+<d type="CtrlDate" id="11" x="%57+10" y="%1+340" s="12:13:92:93" ex="83:81"></d>
+<e type="myedit" id="12" s="11:12:13:54" ex="81:82:83" ad="100"></e>
+</col>
+
+
+<row type="ctrl_button" x="%82-140" y="%94-140" w="140" h="40" s="12:13:41" ft="16" gap="10" ft="16">
+<b id="13">9</b>
+</row>
+
+</FileBackup>

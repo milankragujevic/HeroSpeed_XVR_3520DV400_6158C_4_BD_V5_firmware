@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Configuración de la crucero
+2=Preset No.
+3=Tiempo de permanencia
+4=Velocidad
+5=Confirmado
+6=Cancelar

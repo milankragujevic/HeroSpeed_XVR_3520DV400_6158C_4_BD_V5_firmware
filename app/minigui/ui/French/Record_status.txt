@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Ouvrir
+2=Fermer
+3=Flux vidéo
+4=Flux secondaire
+5=Flux composite
+6=Enregistrement
+7=Détection
+8=Alarme
+9=M et A
+10=Intelligent

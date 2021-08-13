@@ -1,0 +1,21 @@
+[wintip]
+num=19
+1=Cihaz aranıyor, biraz bekleyiniz!
+2=Yeniden başlatma sihirbazından çıkmak istediğinize emin misiniz?
+3=İşlem, uzaktaki cihazın IP'sini değiştirecek, değişiklikleri onaylıyor musunuz?
+4=Eklenmesi gereken balık gözü ekipmanı mı
+5=Cihaz birçok defa bağlandı, ekleyemezsiniz.
+6=İzin yok!
+7=Kamera siliniyor, lütfen bekleyin ...
+8=Lütfen kanal seçiniz!
+9=Tak ve Çalıştır kanalı silinemez.
+10=bağlı
+11=Bilinmeyen hata
+12=Net bağlantı hatası
+13=Port veya sunucu hatası
+14=Kullanıcı adı veya şifre hatası
+15=Akış erişimi başarısız oldu
+16=CH
+17=Boştaki bant aralığı:
+18=Otomatik eklemek için sadece tek bir kart yapabilir!
+19=Tüm kanallar H264 + veya H265 + açmak için olsun?

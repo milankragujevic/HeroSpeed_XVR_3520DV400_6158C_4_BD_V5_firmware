@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=PTZ
+2=Csatorna
+3=PTZ vezérlés
+4=Általános vezérlés
+5=Zoom
+6=Focus
+7=Iris
+8=Sebesség
+9=Preset
+10=Hív
+11=Őrjárat BE
+12=Őrjárat KI
+13=Túra
+14=1:2:3
+15=Őrjárat beállítás

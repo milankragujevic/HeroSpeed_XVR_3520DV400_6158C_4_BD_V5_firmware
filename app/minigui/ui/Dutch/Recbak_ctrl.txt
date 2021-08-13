@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=Opname backup
+2=Channel
+3=Type
+4=Starttijd
+5=Eindtijd
+6=Grootte
+7=ID
+8=Opslag log
+9=Overblijvend
+10=Benodigd
+11=Formaat van bestand
+12=avi
+13=Ververs
+14=backup
+15=Deselecteer

@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Camera
+2=POE
+3=OSD
+4=Image
+5=PTZ
+6=Privacy Mask
+7=Encode Parameters
+8=Record Stream
+9=Sub Stream
+10=Channel Name
+11=Local Privacy Mask
+12=PTZ Setup

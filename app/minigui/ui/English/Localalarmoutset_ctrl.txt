@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Edit
+2=Alarm Output
+3=Alarm Name
+4=Delay
+5=Alarm Status
+6=5 Seconds:10 Seconds:30 Seconds:1 Minute:2 Minutes:5 Minutes:10 Minutes:Manually Clear
+7=Arming Schedule
+8=Trigger
+9=Clear
+10=\
+11=\
+12=Copy
+13=Apply
+14=All
+15=Sun.
+16=Mon.
+17=Tue.
+18=Wed.
+19=Thu.
+20=Fri.
+21=Sat.
+22=Normal
+23=Edit

@@ -1,0 +1,23 @@
+[wintip]
+num=21
+1=Modifique o usuário com sucesso!
+2=O privilégio do administrador não pode ser modificado!
+3=O usuário já existe!
+4=Digite o nome do usuário!
+5=Digite a Senha!
+6=Digite a nova Senha!
+7=Senha incorreta!
+8=Senha incorreta!
+9=Não é possível alterar suas próprias permissões de usuário!
+10=Erro desconhecido!
+11=Nome de usuário não pode ser chamado de root ou admin!
+12=O nome de usuário não pode incluir a chave de espaço em branco
+13=Você não é um membro do grupo, não há permissão para executar esta operação.
+14=O erro de nível de usuário!
+15=Dica: A senha não deve ter menos que 8 bytes e conter pelo menos um dígito e uma letra
+16=Se o nome do usuário ou o comprimento da senha for superior a 10, não pode ser todos os números
+17=Por favor preencha!
+18=Exportação bem sucedida
+19=Por favor insira o disco usb.
+20=Falha na exportação
+21=Tem a certeza de sair do assistente de inicialização?

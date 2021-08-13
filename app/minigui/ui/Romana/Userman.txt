@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Fara permisiune!
+2=Ștergeți acest utilizator?
+3=Administratorul nu poate fi șters!
+4=Cele mai multe adaugă 256 de utilizatori!
+5=Grupul are un utilizator nu poate fi șters!
+6=Nu se poate șterge utilizatorul curent!
+7=Cele mai multe adaugă 20 de grupuri!
+8=Grupul de admin nu poate fi șters!
+9=Vă rugăm să alegeți un utilizator
+10=Nu sunteți membru al grupului, nu aveți permisiunea de a efectua această operațiune.
+11=Slab
+12=Mediu
+13=Puternic
+14=Administrator
+15=Operator
+16=General
+17=Parola

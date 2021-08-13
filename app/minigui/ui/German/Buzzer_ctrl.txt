@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Bewegungsmelder
+2=Änderung von Videos
+3=Videoverlust
+4=Alarmeingang
+5=Alarmausgang
+6=Störungsmeldung
+7=Verzögerungszeit(1~120s)
+8=5 Sek .: 10 Sek .: 30 Sek .: 1 Min .: 2 Min .: 5 Min .: 10 Min.
+9=Test
+10=Anwenden
+11=Summer

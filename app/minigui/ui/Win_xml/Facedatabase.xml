@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Poll x="%15" y="%10"  w="%100-%15" h="%100-%10" title="Copy">
+
+<row>
+<filelist type="listview_ex" id="1" x="%3" y="30" w="%79" h="%26" s="11:12:13:14:15:203:204:205" itemcnt="3" itemh="56">
+<item w="%61-100" align="l">1</item>
+<item w="%9" align="l">2</item>
+<item w="%9+95">4</item>
+</filelist>
+</row>
+<row type="ctrl_button" x="%3" y="%26+40" w="140" h="40" s="12:13:41" bgw="0" gap="10">
+<b id="6" ft="16">5</b>
+</row>
+<col type="static" x="%3"  w="%30-24" h="40" s="11:12:31" gap="-1">
+<chl id="5" y="%26+95" bcol="10">6</chl>
+</col>
+<row>
+<picturelist type="listview_ex" id="2" x="%3" y="%26+150"  w="%64-25" h="%32" s="11:12:13:14:15:203:204:205" itemcnt="5" itemh="56">
+<item w="%6" align="l"></item>
+<item w="%22" align="l">7</item>
+<item w="%16" align="l">8</item>
+<item w="%12" align="l">13</item>
+<item w="%6">9</item>
+</picturelist>
+</row>
+<col type="static" x="%69-25"  w="%12+10" h="40" s="11:12:33" gap="-1">
+<chl id="3" y="%26+150" bcol="110">10</chl>
+
+</col>
+<row type="ctrl_button" x="%3" y="%58+160" w="140" h="40" s="12:13:41" gap="10" ft="16">
+<b id="7">11</b>
+<b id="8" s="13:41" >12</b>
+</row>
+
+</Poll>

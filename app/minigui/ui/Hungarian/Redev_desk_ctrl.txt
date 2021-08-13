@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Dátum és idő;1
+2=Hálózat;2
+3=Merevlemez;3
+4=Kamera;4
+5=Platform;5
+6=Jelszó megváltoztatása;5
+7=Fényképezőgép hozzáadása
+8=Csat
+9=Szerkesztés
+10=Töröl
+11=Beállítás
+12=Link
+13=IP Cím
+14=Port
+15=Protocol
+16=Firmware verzió
+17=Kapcsolat állapota
+18=Keresés
+19=Auto. Hozzáadás
+20=Kézi hozzáadás
+21=Előző
+22=Következő
+23=Kilépés
+24=Kamera neve

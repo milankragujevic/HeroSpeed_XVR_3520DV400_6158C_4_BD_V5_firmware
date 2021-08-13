@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Editace
+2=Alarmu výstup
+3=Název alarmu
+4=Zpoždění
+5=Stav alarmu
+6=5 sekund: 10 sekund: 30 sekund: 1 minuta: 2 minuty: 5 minut: 10 minut: manuální odstranění
+7=Upozornění času
+8=Spouštěč
+9=Smazat
+10=\
+11=\
+12=Kopírovat
+13=Použít
+14=Vše
+15=Ne
+16=Po
+17=Út
+18=St
+19=Čt
+20=Pá
+21=So
+22=Standardní
+23=Editace

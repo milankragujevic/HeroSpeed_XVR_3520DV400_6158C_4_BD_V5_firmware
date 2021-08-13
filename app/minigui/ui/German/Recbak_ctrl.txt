@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=Rekord-Backup
+2=CH
+3=Typ
+4=Startzeit
+5=Endzeit
+6=Größe
+7=Identität
+8=Backup-Protokoll
+9=Verbleibend:
+10=Erforderlich:
+11=Datei Format
+12=AVI
+13=Aktualisieren
+14=Backup
+15=Löschen

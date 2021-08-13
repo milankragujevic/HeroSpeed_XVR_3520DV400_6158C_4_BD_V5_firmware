@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Add A Face List
+2=Local Image
+3=Taking Picture
+4=Import Picture
+5=Name
+6=OK
+7=Cancel
+8=Channel
+9=Face Template
+10=Shooting
+11=Extract
+12=Select Face
+13=New
+14=Retake

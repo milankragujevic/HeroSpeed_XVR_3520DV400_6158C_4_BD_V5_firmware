@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Esemény szerinti keresés
+2=Kép szerinti keresés
+3=Csatorna
+4=Idő
+5=Típus
+6=Ma: Tegnap: Utolsó 2 nap: Utolsó 3 nap: Utolsó 7 nap: Utolsó 14 nap: Egyéni
+7=Feketelista: Fehérlista: Feketelista és Fehérlista
+8=Keresés

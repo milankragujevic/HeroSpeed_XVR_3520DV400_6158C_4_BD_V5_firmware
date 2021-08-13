@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Nessun permesso!
+2=Cattura fallita
+3=Cattura
+4=Audio
+5=Zoom
+6=Aggiungi Tag
+7=Fisheye
+8=Chiudere
+9=Cattura riuscita, controlla in Gestione file.

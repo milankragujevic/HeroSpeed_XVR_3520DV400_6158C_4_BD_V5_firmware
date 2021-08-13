@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Revenire la parametrii initiali?
+2=Numărul portului trebuie să fie între 1 și 65535!
+3=Testarea FTP, așteptați ...
+4=FTP nu poate fi livrat!
+5=Success. Check the inbox.
+6=Eroare de format de timp!
+7=Numele fișierului nu poate conține următoarele simboluri: \ /: *? "<> |
+8=Numele de utilizator sau parola nu pot conține următoarele simboluri:! % & #
+9=Eroare formatare server FTP!

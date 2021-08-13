@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Zbyt duża jasność, maksymalna wartość to
+2=Zbyt duży kontrast, maksymalna wartość to
+3=Zbyt duże nasycenie, maksymalna wartość to
+4=Zbyt duża ostrość, maksymalna wartość to
+5=Pobieranie parametrów, czekaj.
+6=Ten kanał nie ma pozwolenia!
+7=Nie udalo się odczytac parametrow
+8=RTSP nie obsługuje tej funkcji

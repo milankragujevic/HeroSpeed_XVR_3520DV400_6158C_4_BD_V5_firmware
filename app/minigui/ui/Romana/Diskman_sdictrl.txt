@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=HDD
+2=General
+3=Informații despre HDD
+4=Nr.
+5=Stare
+6=Capacitate totală
+7=Capacitatea reziduală
+8=Tip de dispozitiv
+9=Atenție: DVR-ul va reporni automat după formatarea discului!
+10=Reimprospatare
+11=Formatare
+12=Anulare
+13=previzualizare

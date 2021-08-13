@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Menu
+2=Reprodução
+3=Exportar
+4=Disco
+5=Gravação
+6=Câmera
+7=Configuração
+8=Manutenção
+9=Desligar

@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Evento de dispositivo
+2=Sin disco
+3=Erro de disco
+4=Red rota
+5=conflicto de ip
+6=Alarmas locales
+7=Vídeo perdido
+8=Alarma inteligente

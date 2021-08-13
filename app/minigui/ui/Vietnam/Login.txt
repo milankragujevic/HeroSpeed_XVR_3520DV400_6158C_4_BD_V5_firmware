@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Tên người dùng không tồn tại!
+2=Sai mật khẩu, có
+3=Đang khởi tạo, vui lòng đợi ...
+4=Bạn có chắc chắn thoát khỏi trình hướng dẫn khởi động?
+5=Cơ hội
+6=Nhập mật khẩu hoặc cách mở khoá sai 5 lần. Xin thử lại sau 30 phút.
+7=Nhập mật khẩu hoặc cách mở khoá sai 5 lần. Xin thử lại sau 30 phút.

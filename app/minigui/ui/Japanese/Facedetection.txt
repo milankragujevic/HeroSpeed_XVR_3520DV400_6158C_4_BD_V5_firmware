@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=類似性
+2=年齢
+3=Sex
+4=メガネ
+5=帽子
+6=List type:
+7=Time:
+8=ホワイトリスト
+9=ブラックリスト
+10=無し
+11=Man
+12=Woman
+13=Show only faces
+14=Show only human figures

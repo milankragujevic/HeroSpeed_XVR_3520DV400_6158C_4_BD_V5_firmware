@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Kanál
+2=Povolit
+3=Smazat zónu 1
+4=Smazat zónu 2
+5=Smazat zónu 3
+6=Vymazat vše
+7=Použít
+8=Kopírovat

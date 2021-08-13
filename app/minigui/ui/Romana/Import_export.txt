@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Setările noi vor fi activate după repornire.Reportați acum?
+2=Exportați, vă rugăm să așteptați ...
+3=Succes!
+4=Introduceți discul USB!
+5=Imposibil de deschis baza de date.
+6=Baza de date a fost deteriorată.
+7=Eroare necunoscută.
+8=Fără fișiere de import!
+9=Importarea, după succes va reporni

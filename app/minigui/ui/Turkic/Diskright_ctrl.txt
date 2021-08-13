@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Zaman Planı
+2=Kayıt
+3=Ele geçirmek
+4=Saklanma aygıtı
+5=Hafıza modu
+6=Otomatik yedekleme
+7=İleri

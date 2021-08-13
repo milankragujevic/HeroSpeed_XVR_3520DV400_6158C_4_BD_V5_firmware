@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Similitude
+2=Âge
+3=Sex
+4=Lunettes
+5=Chapeau
+6=List type:
+7=Temps:
+8=Liste Blanche
+9=Liste Noire
+10=Aucun
+11=Man
+12=Woman
+13=Show only faces
+14=Show only human figures

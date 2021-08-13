@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Instellingen opslaan?
+2=Op zoek naar apparaten, nog niet uitloggen!
+3=Ip adres is niet correct!
+4=Selecteer een apparaat!
+5=Bewerk
+6=Handmatig toevoegen
+7=Gebruikersnaam mag niet leeg zijn!
+8=Domein naam resolutie mislukt.
+9=Het domeinformaat is onjuist.

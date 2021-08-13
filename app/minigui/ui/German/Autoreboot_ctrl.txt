@@ -1,0 +1,5 @@
+[Ctrltxt]
+num=3
+1=Aus:Jeden Tag:Jede Woche:Jeden Monat
+2=Standard
+3=Anwenden

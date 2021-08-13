@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Kullanıcı adı mevcut değil!
+2=Parola hatalı … var
+3=Başlangıç durumuna getiriliyor, lütfen bekleyiniz…
+4=Yeniden başlatma sihirbazından çıkmak istediğinize emin misiniz?
+5=şans
+6=5 defa parola ya da izi yanlış giriştiniz. 30 dkk sonra tekrar deneyin.
+7=5 defa parolayı yanlış giriştiniz. 30 dkk sonra tekrar deneyin.

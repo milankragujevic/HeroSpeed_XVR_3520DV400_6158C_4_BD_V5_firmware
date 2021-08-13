@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=No permission!
+2=Delete this user?
+3=Administrator can not be deleted!
+4=Adding max 256 users !
+5=The group has a user cannot be deleted!
+6=Can't delete the current user!
+7=Adding max 20 groups!
+8=The admin group can not be deleted！
+9=Please select a user
+10=You are not a member of the group, no permission to perform this operation.
+11=Weak
+12=Medium
+13=Strong
+14=Administrator
+15=Operator
+16=General
+17=Password

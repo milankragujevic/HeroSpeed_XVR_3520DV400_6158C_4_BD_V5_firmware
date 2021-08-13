@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Teste...
+2=Test erfolgreich
+3=Test fehlgeschlagen
+4=Bitte ändern Sie den Upload-Ordner
+5=Auf Werkseinstellungen zurücksetzen?
+6=Binden
+7=Entbinden

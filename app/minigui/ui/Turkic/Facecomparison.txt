@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Değişkenler getiriliyor, lütfen bekleyiniz…
+2=Kara liste
+3=Beyaz liste
+4=Kara liste ve Beyaz liste

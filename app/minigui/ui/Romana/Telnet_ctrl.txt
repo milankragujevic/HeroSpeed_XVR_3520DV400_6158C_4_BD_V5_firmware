@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=System Setup
+2=General
+3=Retea
+4=Ecran
+5=Exception
+6=Utilizator
+7=Configurarea canalului
+8=Alarma locală
+9=IP / Port
+10=DDNS
+11=E-mail
+12=P2P
+13=FTP
+14=UPnP
+15=PPPOE
+16=Stocare in cloud
+17=Telnet
+18=Activat
+19=Salvare
+20=Anulare
+21=previzualizare
+22=Wifi
+23=Filtru IP

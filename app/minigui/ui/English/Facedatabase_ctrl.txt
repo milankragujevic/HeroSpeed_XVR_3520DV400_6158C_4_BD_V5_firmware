@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Database Name
+2=Number
+3=\
+4=Delete
+5=New
+6=Face Database Details
+7=Name
+8=Number
+9=Delete
+10=Face Template
+11=Add
+12=Batch Import
+13=Feature Number

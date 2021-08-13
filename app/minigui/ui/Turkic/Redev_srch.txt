@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Cihaz aranıyor, biraz bekleyiniz!
+2=Yeniden başlatma sihirbazından çıkmak istediğinize emin misiniz?
+3=İşlem, uzaktaki cihazın IP'sini değiştirecek, değişiklikleri onaylıyor musunuz?
+4=Eklenmesi gereken balık gözü ekipmanı mı
+5=Cihaz birçok defa bağlandı, ekleyemezsiniz.
+6=Kamera ekle, lütfen bekleyin.
+7=katma
+8=Kamera siliniyor, lütfen bekleyin ...

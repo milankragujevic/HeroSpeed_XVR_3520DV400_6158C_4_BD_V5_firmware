@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Dizin adı aşağıdaki karakterlerden birini içeremez     boşluk\ /: *? "| '%
+2=Dizin adı boş olamaz

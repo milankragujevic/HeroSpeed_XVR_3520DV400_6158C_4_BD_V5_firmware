@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Veuillez sélectionner un fichier.
+2=Espace disque insuffisant.
+3=En cours de reherche, patientez...
+4=Ecriture impossible sur le disque dur mobile.
+5=Sauvegarde terminée
+6=Insérez le disque USB S.V.P.
+7=Trop de fichiers, recherche arretée
+8=Pas de fichier d'enregistrement!
+9=Veuillez sélectionner le type de sauvegarde.
+10=Similitude
+11=En cours de sauvegarde, veuillez annuler le processus ou continuer après la sauvgarde.
+12=Le haut
+13=a été déjà ajouté à la file d'attente de sauvegarde.
+14=L'ajout à la file d'attente de sauvegarde a échoué.
+15=L'extraction de visage a échoué.
+16=Fichier de personnes
+17=Recherche de Comparaison de Visages

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Felhasználó hozzáadás sikeres!
+2=/
+3=A Felhasználó már létezik!
+4=Adja meg a felhasználó nevet!
+5=Adja meg a jeszót!
+6=Írja be az új jelszót!
+7=Hibás jelszó!
+8=A jelszó nem egyezik
+9=Ismeretlen hiba.
+10=Az Adminisztrátor nem törölhető!
+11=Felhasználói név nem lehet root vagy admin!
+12=Felhasználói név nem tartalmazhat szóközt
+13=Figyelem: A jelszó nem lehet rövidebb, mint 8 bájt, és legalább egy számjegyet és egy betűt kell tartalmazzon!
+14=Ha a felhasználói név vagy a jelszó hossza nagyobb, mint 10, akkor nem lehet minden szám

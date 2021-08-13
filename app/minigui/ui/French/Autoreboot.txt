@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Dim.
+2=Lun.
+3=Mar.
+4=Mer.
+5=Jeu.
+6=Ven.
+7=Sam.
+8=Restaurer les paramètres par défaut?
+9=Heure
+10=min

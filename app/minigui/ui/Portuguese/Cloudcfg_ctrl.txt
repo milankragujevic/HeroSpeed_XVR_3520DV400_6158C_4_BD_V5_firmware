@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Habilitar
+2=Dropbox
+3=Google
+4=Carregar Pasta
+5=Nome de usuário
+6=Capacidade
+7=Usado
+8=Teste
+9=Padrão
+10=Aplique
+11=Google
+12=IPEYE
+13=Bind

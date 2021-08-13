@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Type
+2=Start Time
+3=End Time
+4=All Logs:System Management:User Management:Parameter Configuration:File Operations:Status Prompt:Alarm Event
+5=Query
+6=No.
+7=Time
+8=Event
+9=User
+10=Export 
+11=Export All
+12=Clear

@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Añadir
+2=Dirección IP
+3=Dirección MAC
+4=Aplicar
+5=Cancelar

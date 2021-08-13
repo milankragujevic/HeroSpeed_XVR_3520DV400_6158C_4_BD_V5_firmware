@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Log del respaldo
+2=ID
+3=Registro
+4=Cancelar
+5=Sí
+6=Tipo
+7=Progreso de backup

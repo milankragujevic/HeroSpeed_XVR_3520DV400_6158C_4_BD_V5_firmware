@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=CH
+2=Název kanálu
+3=Stav
+4=Detekce pohybu
+5=Ztráta videa

@@ -1,0 +1,24 @@
+[Ctrltxt]
+num=22
+1=Configuratie
+2=algemeen
+3=Netwerk
+4=tonen
+5=Uitzonderingen
+6=Gebruiker
+7=Harde schijf uitzondering
+8=Netwerk uitzondering
+9=Gebeurtenis type
+10=Activeer
+11=Stuur een e-mail
+12=Zoemer alarm
+13=Geen HDD:HDD fout
+14=Standaardinstellingen
+15=Toepassen
+16=Annuleren
+17=weergave vooraf
+18=Kanaal configureren
+19=Scherm
+20=Lokaal alarm
+21=wifi
+22=IP Filter

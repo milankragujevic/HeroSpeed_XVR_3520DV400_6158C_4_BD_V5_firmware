@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Potvrzení povolení
+2=Potvrdit
+3=Potvrzení
+4=Zrušit

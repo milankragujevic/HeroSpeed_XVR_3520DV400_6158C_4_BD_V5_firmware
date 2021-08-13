@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Przywrócić parametry domyślne?
+2=Na pewno wyjść z kreatora konfiguracji?
+3=Numer portu nie może być taki sam!
+4=numer portu nie może być mniejszy niż 1025 z wyjątkiem portów domyślnych 554 i 80!
+5=Unkown
+6=Wewnętrzna karta sieciowa IP i zewnętrzna sieć IP nie mogą znajdować się w tym samym segmencie sieci
+7=Modyfikacja adresu IP sieci wewnętrznej (intranet) wymaga ponownego uruchomienia urządzenia, uruchomić ponownie ?
+8=Błąd formatu adresu IP!
+9=Błąd formatu maski sieci!
+10=Błąd formatu bramy!
+11=Błąd formatu DNS!
+12=Lan1 i Lan2 nie mogą znajdować się w tym samym segmencie sieci
+13=Zmodyfikuj tryb sieciowy, należy ponownie uruchomić, chcesz kontynuować modyfikację?

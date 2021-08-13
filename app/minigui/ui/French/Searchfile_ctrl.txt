@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Rechercher fichier
+2=CAM
+3=Type évenement
+4=Heure de début / Heure de termination
+5=Heure fin
+6=Type fichier
+7=Capacité requise:
+8=Disponible/Capacité totale:
+9=Exportation
+10=Annuler
+11=Actualiser
+12=Consulter
+13=Allez
+14=Tous
+15=Groupe :
+16=Caméra
+17=Heure
+18=FTP Exportation

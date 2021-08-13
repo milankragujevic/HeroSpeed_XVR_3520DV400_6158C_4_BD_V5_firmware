@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Không có ổ đĩa cứng di động!
+2=Gỡ cài đặt thành công!
+3=Gỡ cài đặt không thành công!
+4=Lưu tập tin
+5=Trong quá trình sao lưu, vui lòng đợi ...
+6=Sao lưu đã thành công!
+7=Sao lưu không thành công!
+8=Không có ổ cứng cho sao lưu
+9=Mount thất bại!
+10=Lỗi không rõ!
+11=Không cho phép!
+12=Không thể xóa dữ liệu vào ổ cứng di động!
+13=Đọc dữ liệu bản ghi không thành công!
+14=Không đủ dung lượng đĩa.

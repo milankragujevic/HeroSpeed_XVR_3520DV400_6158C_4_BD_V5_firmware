@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Definir o padrão de desbloqueio
+2=admin
+3=Esquecer o padrão de desbloqueio
+4=Trocar usuário

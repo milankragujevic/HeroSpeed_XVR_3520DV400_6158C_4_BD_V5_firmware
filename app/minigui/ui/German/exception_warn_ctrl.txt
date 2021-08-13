@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Geräteereignis
+2=Keine Festplatte
+3=Festplattenfehler
+4=Netzwerkfehler
+5=IP-Konflikt
+6=Lokale Alarme
+7=Videoverlust
+8=Intelligenter Alarm

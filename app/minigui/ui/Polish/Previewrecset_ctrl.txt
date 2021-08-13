@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Ustawienia zapisu
+2=Kanał
+3=Wsz.
+4=Wykonaj
+5=Zapis
+6=Ruch
+7=Wsz.
+8=Nie.
+9=Pon.
+10=Wto.
+11=Śro.
+12=Czw.
+13=Pią.
+14=Sob.
+15=Domyślne
+16=Kopiuj
+17=Zastosuj
+18=Anuluj
+19=Więcej ustawień
+20=Inteligentny
+21=Alarm
+22=M | A
+23=M & A
+24=Żaden

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Procure, espere por favor
+2=Nenhum pacote de atualização
+3=Apenas um pacote de atualização pode ser selecionado
+4=Selecione o arquivo de atualização!
+5=Atualizar?
+6=Atenção atualizando, não desligue!
+7=A atualização falhou!
+8=A atualização foi bem-sucedida!
+9=O canal ONVIF não suporta atualização
+10=Canal
+11=atualização conseguiu
+12=atualização falhou
+13=The RTSP channel does not support upgrading!
+14=Por favor insira o disco usb.

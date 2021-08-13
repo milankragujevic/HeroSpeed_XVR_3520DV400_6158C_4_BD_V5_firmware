@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Zeit
+2=Kanal
+3=Dateityp
+4=Etikett
+5=Fehlermeldung
+6=Kennzeichen
+7=Dateistatus
+8=Region / Land
+9=Heute: Gestern: Vergangene 2 Tage: Vergangene 3 Tage: Letzte 7 Tage: Letzte 14 Tage: Benutzerdefiniert
+10=Video:Picture
+11=Alle: Entsperrt: Gesperrt
+12=Schneller Export
+13=Suche

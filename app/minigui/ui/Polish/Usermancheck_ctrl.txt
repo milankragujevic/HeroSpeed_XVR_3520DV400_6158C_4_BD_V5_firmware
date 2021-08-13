@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Potwierdź Uprawnienia
+2=Ustal
+3=Ok
+4=Anuluj

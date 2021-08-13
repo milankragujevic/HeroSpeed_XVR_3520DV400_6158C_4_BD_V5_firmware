@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=olaya göre Ara
+2=Görsele göre Ara
+3=Yerel yükleme
+4=Veritabanı yükle
+5=Kanal
+6=zaman
+7=Benzerlik (0-100)
+8=Bugün: dün: son 2 gün: son 3 gün: son 7 gün: son 14 gün: alışkanlık
+9=Arama

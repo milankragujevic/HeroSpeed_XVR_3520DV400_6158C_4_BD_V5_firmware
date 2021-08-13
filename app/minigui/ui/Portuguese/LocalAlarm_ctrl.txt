@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Detecção de movimento
+2=Ajuste de vídeo
+3=Vídeo perdido
+4=Entrada alarme
+5=Saída alarme
+6=Exceção
+7=Entrada de Alarme No.
+8=Nome alarme
+9=Tipo de alarme
+10=Habilitar
+11=Editar
+12=Campainha

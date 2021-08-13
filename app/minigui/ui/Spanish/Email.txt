@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Restaurar parametros por defecto?
+2=El número de puerto debe estar entre 1 y 65535!
+3=Prueba de correo electrónico, por favor espere ...
+4=¡El correo electrónico no puede ser entregado!
+5=Éxito. Compruebe la bandeja de entrada.
+6=El formato de la dirección de correo electrónico es incorrecto.
+7=El formato del servidor SMTP es incorrecto.
+8=Error de formato de tiempo!
+9=Personalizado

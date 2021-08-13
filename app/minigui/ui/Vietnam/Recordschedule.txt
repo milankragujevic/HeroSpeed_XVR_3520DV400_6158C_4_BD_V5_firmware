@@ -1,0 +1,13 @@
+[wintip]
+num=11
+1=Không cho phép!
+2=Khôi phục các tham số mặc định?
+3=Lỗi định dạng thời gian!
+4=Chủ Nhật
+5=Thứ hai
+6=Thứ ba
+7=Thứ tư
+8=Thứ năm
+9=Thứ sáu
+10=Thứ bảy
+11=Khoảng thời gian không thể được vượt qua hoặc bao gồm!

@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Új mappa
+2=Fájlnév
+3=OK
+4=Megszünteti

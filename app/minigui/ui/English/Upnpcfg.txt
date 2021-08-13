@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Connecting...
+2=Connected
+3=Restore the default parameters?
+4=The max line number of the Port mapping table is 16 lines!

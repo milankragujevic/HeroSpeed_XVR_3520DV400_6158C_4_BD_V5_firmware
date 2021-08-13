@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Sysgenset x="0" y="0" w="%100" h="%100" title="General">
+<col type="ctrl_button" x="20" y="40" w="280" h="80" s="12:13:44" tcol="10" ft="18" gap="%20-112">
+<b id="91">1</b>
+<b id="92">2</b>
+<b id="93">3</b>
+<b id="94">4</b>
+<b id="96" s="12:13:44:49">6</b>
+</col>
+
+<col type="static" x="59" y="130" w="2" h="%20-132" s="11:12:31" bcol="1">
+<s id="81"></s>
+<s id="82" y="%20+98"></s>
+<s id="83" y="%40+66"></s>
+<s id="84" y="%60+34"></s>
+</col>
+
+<row type="static" x="370" y="%4+7" w="200" h="40" s="11:12:31" bcol="10" ft="18">
+<s id="1">7</s>
+</row>
+<col type="static" x="370" w="200" h="40" s="11:12:31" bcol="10" ft="18" gap="10">
+<s id="2" y="%12">8</s>
+<s id="3">9</s>
+<s id="4">10</s>
+<s id="5" gap="20">11</s>
+<s id="6">12</s>
+<s id="42">13</s>
+<s id="43">14</s>
+<s id="44">15</s>
+<s id="45">16</s>
+<s id="46">17</s>
+<s id="40">18</s>
+</col>
+<col x="600" w="400" h="40" gap="10">
+<b id="12" y="%12" type="ctrl_button" s="12:13:44"></b>
+<e id="13" type="myedit" s="11:12:13:55:56" ex="81:82:83:84:85"></e>
+<e id="14" type="myedit" s="11:12:13:55:56" ex="81:82:83:84:85"></e>
+<e id="15" type="myedit" s="11:12:13:55:56" ex="81:82:83:84:85" gap="20"></e>
+<b id="21" type="ctrl_button" s="12:13:44"></b>
+<cb id="28" type="CtrlCombobox" s="11:13:14:21:22" ex="81" tcol="20" ad="200">
+<selcn>19</selcn>
+</cb>
+<e id="29" type="myedit" s="11:13:56" ex="81:82:83:84:85" tcol="10"></e>
+<cb id="30" type="CtrlCombobox" s="11:13:14:21:22" ex="81" tcol="20" ad="200">
+<selcn>20</selcn>
+</cb>
+<e id="31" type="myedit" s="11:13:56" ex="81:82:83:84:85" tcol="10"></e>
+<cb id="32" type="CtrlCombobox" s="11:13:14:21:22" ex="81" tcol="20" ad="200">
+<selcn>21</selcn>
+</cb>
+<e id="33" type="myedit" s="11:13:56" ex="81:82:83:84:85" tcol="10"></e>
+</col>
+
+
+
+<row type="static" x="300" y="%84+40" w="%100-300" h="2" s="11:12:31" bcol="1" gap="10">
+<s id="41"></s>
+</row>
+
+<row type="ctrl_button" x="-430" y="%94-10" w="140" h="40" s="12:13:41" gap="10" ft="16">
+<b id="35">22</b>
+<b id="36">23</b>
+</row>
+
+</Sysgenset>

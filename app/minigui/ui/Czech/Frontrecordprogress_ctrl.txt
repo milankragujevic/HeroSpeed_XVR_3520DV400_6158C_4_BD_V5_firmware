@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Záloha událostí
+2=ID
+3=Události
+4=Zrušit
+5=Potvrzení
+6=Typ
+7=Pokrok zálohy

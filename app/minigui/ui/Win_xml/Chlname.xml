@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Chlname x="%15" y="%10" w="%100-%15" h="%100-%10" title="Channel Name">
+
+<col type="static" x="%3" y="30" w="%14" h="40" s="11:31" bcol="10" ft="18" gap="%1">
+<s id="1" >11</s>
+<s id="3" >12</s>
+<s id="5" >13</s>
+<s id="7" >14</s>
+<s id="9" >15</s>
+<s id="11" >16</s>
+<s id="13" >17</s>
+<s id="15" >18</s>
+<s id="17" >19</s>
+<s id="19" >20</s>
+</col>
+
+<col type="static" x="%41" y="30" w="%14" h="40" s="11:31" bcol="10" ft="18" gap="%1">
+<s id="2" >24</s>
+<s id="4" >25</s>
+<s id="6" >26</s>
+<s id="8" >27</s>
+<s id="10" >28</s>
+<s id="12" >29</s>
+<s id="14" >30</s>
+<s id="16" >31</s>
+<s id="18" >32</s>
+<s id="20" >33</s>
+</col>
+
+<col type="static" x="%3" y="30" w="%14" h="40" s="11:31" bcol="10" ft="18" gap="%1">
+<s id="21">21</s>
+<s id="23">22</s>
+<s id="25">23</s>
+<s id="27">40</s>
+<s id="29">41</s>
+<s id="31">42</s>
+<s id="33">48</s>
+<s id="35" >50</s>
+<s id="37" >52</s>
+<s id="39" >54</s>
+</col>
+
+<col type="static" x="%41" y="30" w="%14" h="40" s="11:31" bcol="10" ft="18" gap="%1">
+<s id="22" >34</s>
+<s id="24" >35</s>
+<s id="26" >36</s>
+<s id="28" >37</s>
+<s id="30" >38</s>
+<s id="32" >39</s>
+<s id="34" >49</s>
+<s id="36" >51</s>
+<s id="38" >53</s>
+<s id="40" >55</s>
+</col>
+<col type="static" x="%3" y="30" w="%14" h="40" s="11:31" bcol="10" ft="18" gap="%1">
+<s id="41" >56</s>
+<s id="43" >58</s>
+<s id="45" >60</s>
+<s id="47" >62</s>
+<s id="49" >64</s>
+<s id="51" >66</s>
+<s id="53" >68</s>
+<s id="55">70</s>
+<s id="57">72</s>
+<s id="59" >74</s>
+</col>
+
+<col type="static" x="%41" y="30" w="%14" h="40" s="11:31" bcol="10" ft="18" gap="%1">
+<s id="42" >57</s>
+<s id="44" >59</s>
+<s id="46" >61</s>
+<s id="48" >63</s>
+<s id="50" >65</s>
+<s id="52" >67</s>
+<s id="54" >69</s>
+<s id="56" >71</s>
+<s id="58" >73</s>
+<s id="60" >75</s>
+</col>
+<col type="static" x="%3" y="30" w="%14" h="40" s="11:31" bcol="10" ft="18" gap="%1">
+<s id="61" >76</s>
+<s id="63" >78</s>
+</col>
+
+<col type="static" x="%41" y="30" w="%14" h="40" s="11:31" gap="%1">
+<s id="62" >77</s>
+<s id="64" >79</s>
+</col>
+<col type="myedit" x="%17+10" y="30" w="%19" h="40" s="11:13:56:58" ex="81:82:83:84:85" gap="%1">
+<e id="201" tcol="20"></e>
+<e id="203" tcol="10"></e>
+<e id="205" tcol="20"></e>
+<e id="207" tcol="10"></e>
+<e id="209" tcol="20"></e>
+<e id="211" tcol="10"></e>
+<e id="213" tcol="20"></e>
+<e id="215" tcol="10"></e>
+<e id="217" tcol="20"></e>
+<e id="219" tcol="10"></e>
+</col>
+
+<col type="myedit" x="%55+10" y="30" w="%19" h="40" s="11:13:56:58" ex="81:82:83:84:85" gap="%1">
+<e id="202" tcol="20"></e>
+<e id="204" tcol="10"></e>
+<e id="206" tcol="20"></e>
+<e id="208" tcol="10"></e>
+<e id="210" tcol="20"></e>
+<e id="212" tcol="10"></e>
+<e id="214" tcol="20"></e>
+<e id="216" tcol="10"></e>
+<e id="218" tcol="20"></e>
+<e id="220" tcol="10"></e>
+</col>
+
+<col type="myedit" x="%55+10" y="30" w="%19" h="40" s="11:13:56:58" ex="81:82:83:84:85" gap="%1">
+<e id="222" tcol="20"></e>
+<e id="224" tcol="10"></e>
+<e id="226" tcol="20"></e>
+<e id="228" tcol="10"></e>
+<e id="230" tcol="20"></e>
+<e id="232" tcol="10"></e>
+<e id="234" tcol="20"></e>
+<e id="236" tcol="10"></e>
+<e id="238" tcol="10"></e>
+<e id="240" tcol="10"></e>
+</col>
+<col type="myedit" x="%17+10" y="30" w="%19"  h="40" s="11:13:56:58" ex="81:82:83:84:85" gap="%1">
+<e id="221" tcol="20"></e>
+<e id="223" tcol="10"></e>
+<e id="225" tcol="20"></e>
+<e id="227" tcol="10"></e>
+<e id="229" tcol="20"></e>
+<e id="231" tcol="10"></e>
+<e id="233" tcol="20"></e>
+<e id="235" tcol="10"></e>
+<e id="237" tcol="10"></e>
+<e id="239" tcol="10"></e>
+</col>
+
+<col type="myedit" x="%55+10" y="30" w="%19" h="40" s="11:13:56:58" ex="81:82:83:84:85" gap="%1">
+<e id="242" tcol="20"></e>
+<e id="244" tcol="10"></e>
+<e id="246" tcol="20"></e>
+<e id="248" tcol="10"></e>
+<e id="250" tcol="20"></e>
+<e id="252" tcol="10"></e>
+<e id="254" tcol="20"></e>
+<e id="256" tcol="10"></e>
+<e id="258" tcol="10"></e>
+<e id="260" tcol="10"></e>
+</col>
+<col type="myedit" x="%17+10" y="30" w="%19"  h="40" s="11:13:56:58" ex="81:82:83:84:85" gap="%1">
+<e id="241" tcol="20"></e>
+<e id="243" tcol="10"></e>
+<e id="245" tcol="20"></e>
+<e id="247" tcol="10"></e>
+<e id="249" tcol="20"></e>
+<e id="251" tcol="10"></e>
+<e id="253" tcol="20"></e>
+<e id="255" tcol="10"></e>
+<e id="257" tcol="10"></e>
+<e id="259" tcol="10"></e>
+</col>
+
+<col type="myedit" x="%55+10" y="30" w="%19"h="40" s="11:13:56:58" ex="81:82:83:84:85" gap="%1">
+<e id="262" tcol="20"></e>
+<e id="264" tcol="10"></e>
+</col>
+<col type="myedit" x="%17+10" y="30" w="%19"  h="40" s="11:13:56:58" ex="81:82:83:84:85" gap="%1">
+<e id="261" tcol="20"></e>
+<e id="263" tcol="10"></e>
+</col>
+
+<row type="ctrl_button"  y="%11+425" x="%35"  w="25" h="25" s="13:41:42" ex="81" gap="5">
+<b id="69" bgw="25" bg="./image/pb/prepic.png" bgc="./image/pb/prepic_hover.png"></b>
+<s id="70"   w="40" h="28" type="static" s="11:12:33"></s>
+<b id="71" bgw="25" bg="./image/pb/nextpic.png" bgc="./image/pb/nextpic_hover.png"></b>
+</row>
+
+<row type="ctrl_button" x="%82-290" y="%94-140" w="140" h="40" gap="10" bgw="0" s="12:13:41">
+<b id="91" ft="16">43</b>
+<b id="92"  ft="16">44</b>
+</row>
+
+
+</Chlname>

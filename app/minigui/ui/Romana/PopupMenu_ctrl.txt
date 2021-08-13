@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Redare
+2=Gestionare document
+3=Configurarea sistemului
+4=Logare
+5=Închide
+6=Deconectare

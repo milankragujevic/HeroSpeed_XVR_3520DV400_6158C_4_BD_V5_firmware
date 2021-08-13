@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Cải đặt sự kiện nhắc nhở
+2=Tất cả
+3=Ứng dụng
+4=Hủy

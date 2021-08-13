@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Actualizando, no apagar!!
+2=Falló la actualización!
+3=Actualizado con éxito!
+4=Por favor seleccione archivo para actualización!
+5=Actualizar?
+6=No se encuentra paquete para actualizar
+7=Encuentre una nueva versión, descargue el archivo en línea?
+8=La red no es estable, falla en la descarga
+9=Descargando …
+10=Error de excepción
+11=Descargar tener éxito, actualizar en línea?
+12=¡El archivo no existe!

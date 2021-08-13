@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<SystemLeftSidebar x="0" y="%10" w="%15" h="%100-%10">
+
+<col type="ctrl_trackbar" x="%15-10" y="10" w="10" h="%90-10" s="11:13:16:61:62:63:68" ex="87" gap="-1">
+    <tb id="99" tcol="20"></tb>
+</col>
+
+
+<col type="ctrl_button" x="0" y="10" w="%15" h="40" s="12:13:16:41:42:48" gap="10" tc="1" >
+    <b id="116" type="static"  x="%3-30" w="%15-30" h="30" s="12:13:31" bcol="30" ft="14" gap="0">18</b>
+    <b id="118" s="12:16:48:49:41:42" bg="./image/radiobutton_bg/general.png" bgc="./image/radiobutton_bg/general_hover.png">1</b>
+    <b id="117" bg="./image/radiobutton_bg/channel_cfg.png" bgc="./image/radiobutton_bg/channel_cfg_hover.png" gap="26">19</b>
+    <b id="119" type="static" x="%3-30" w="%15-30" h="30" s="12:13:31" bcol="30" ft="14" gap="0">2</b>
+    <b id="120" bg="./image/radiobutton_bg/net.png" bgc="./image/radiobutton_bg/net_hover.png">3</b>
+    <b id="124" bg="./image/radiobutton_bg/Addressex.png" bgc="./image/radiobutton_bg/Addressex_hover.png">6</b>
+    <b id="121" bg="./image/radiobutton_bg/cloud.png" bgc="./image/radiobutton_bg/cloud_hover.png">17</b>
+    <b id="122" bg="./image/radiobutton_bg/advanced.png" bgc="./image/radiobutton_bg/advanced_hover.png" gap="26">16</b>
+    <b id="132" type="static"  x="%3-30" w="%15-30" h="30" s="12:13:31" bcol="30" ft="14" gap="0">4</b>
+    <b id="123" bg="./image/radiobutton_bg/user.png" bgc="./image/radiobutton_bg/user_hover.png">5</b>
+    
+    <b id="127" type="static"  x="%3-30" w="%15-30" h="30" s="12:13:31" bcol="30" ft="14" gap="0">9</b>
+    <b id="128" bg="./image/radiobutton_bg/event.png" bgc="./image/radiobutton_bg/event_hover.png">10</b>
+    <b id="129" bg="./image/radiobutton_bg/sevent.png" bgc="./image/radiobutton_bg/sevent_hover.png" gap="26">11</b>
+    <b id="130" type="static"  x="%3-30" w="%15-30" h="30" s="12:13:31" bcol="30" ft="14" gap="0">12</b>
+    <b id="131" bg="./image/radiobutton_bg/common.png" bgc="./image/radiobutton_bg/common_hover.png">13</b>
+    
+    <b id="134" bg="./image/radiobutton_bg/logout_preview.png" bgc="./image/radiobutton_bg/logout_preview_hover.png">20</b>
+</col>
+
+</SystemLeftSidebar>

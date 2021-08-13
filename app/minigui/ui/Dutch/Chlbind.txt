@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Wanneer u 4 HD-kanalen selecteert, kunt u gewoon 0 IP-kanaal selecteren?
+2=Kanaalconfiguratie gewijzigd, reboot opnieuw!
+3=Wanneer u 8 HD-kanalen selecteert, kunt u slechts 1 IP-kanaal selecteren?
+4=Nieuwe instellingen worden na het rebooten geactiveerd. Herstarten nu?

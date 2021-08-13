@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=Mentés
+2=Csat
+3=Típus
+4=Kezdete
+5=Vége
+6=Méret
+7=ID
+8=Archiválás napló
+9=Többi:
+10=Szükséges:
+11=File formátum
+12=AVI
+13=Frissítés
+14=Mentés
+15=Törlés

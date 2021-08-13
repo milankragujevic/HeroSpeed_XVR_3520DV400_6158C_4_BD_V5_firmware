@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Log archiwizacji
+2=Id
+3=Log
+4=Anuluj
+5=Ok
+6=Typ
+7=Postęp zapisu kopii

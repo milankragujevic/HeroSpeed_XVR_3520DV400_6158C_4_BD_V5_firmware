@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Hálózati késleltetés, Csomagvesztés teszt
+2=NIC kiválasztása
+3=Célcím
+4=Teszt

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Channel
+2=Target
+3=Face Detection
+4=Smart Event
+5=Body Detection
+6=Car Detection

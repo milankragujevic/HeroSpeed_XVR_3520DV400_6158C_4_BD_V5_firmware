@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Phát hiện chuyển động
+2=Điều chỉnh âm thanh video
+3=Mất video
+4=Đầu vào báo động
+5=Đầu ra báo động
+6=Ngoại lệ
+7=Loại sự kiện
+8=Bật
+9=Không có ổ đĩa:lỗi đĩa:Mạng bị hỏng:Xung đột Ip
+10=Liên kết bình thường
+11=Mặc định
+12=Ứng dụng
+13=Đầu ra báo động
+14=Buzzer

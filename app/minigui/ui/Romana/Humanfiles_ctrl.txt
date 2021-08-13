@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=\
+2=\
+3=\
+4=Timp
+5=Canal
+6=Tip fișier
+7=Astăzi: Ieri: Ultimele 2 zile: Ultimele 3 zile: Ultimele 7 zile: Ultimele 14 zile: Personalizare
+8=Video și imagine
+9=Condiții necompletate
+10=Cautare
+11=Salvare

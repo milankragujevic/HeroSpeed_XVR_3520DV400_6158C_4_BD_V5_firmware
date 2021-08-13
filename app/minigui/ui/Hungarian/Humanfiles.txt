@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Minden csatorna
+2=Rossz idő formátum!
+3=Egy vagy több csatornához nincs jogosultsága
+4=Nincs jogosultsága!
+5=Válasszon csatornát

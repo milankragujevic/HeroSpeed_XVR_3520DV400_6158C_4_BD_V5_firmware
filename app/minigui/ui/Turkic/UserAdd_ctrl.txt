@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Kullanıcı Ekle
+2=Kullanıcı Adı
+3=Parola
+4=Onaylamak
+5=Düzey
+6=İşletmen:Genel
+7=Kaydet
+8=iptal

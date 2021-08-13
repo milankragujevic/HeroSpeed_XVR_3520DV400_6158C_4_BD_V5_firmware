@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Pas gebruiker aan
+2=Gebruikersnaam
+3=Wachtwoord aanpassen
+4=Oude wachtwoord
+5=Nieuwe wachtwoord
+6=Bevestig
+7=Niveau
+8=Administrator:Operator:Podstawowy
+9=Opslaan
+10=Annuleren
+11=Reset beveiligingsproblemen
+12=Beveiligingsnummer 1
+13=Answer1
+14=Beveiligingsnummer 2
+15=Answer2
+16=Beveiligingsnummer 3
+17=Answer3
+18=Selecteer onderwerp: Wat is uw vacature ?: Welke dag is uw vaders verjaardag ?: Wat is uw favoriete Engelse liedje?: Welke dag is de verjaardag van uw moeder?
+19=Selecteer onderwerp: Wat is uw schoolnummer ?: Wat is uw geluksgetal ?: De naam van uw favoriete ster is? (Engels): De dag van uw trouwdag is?
+20=Selecteer een probleem: wat is uw meest populaire mailbox ?: Wat is de postcode van uw regio ?: Wat is de naam van uw huisdier ?: Wat zijn uw telefoonnummers?
+21=Exporteer sleutel
+22=Ontgrendel Patroon
+23=Activeer ontgrendelingspatroon
+24=aanpassen ontgrendelingspatroon

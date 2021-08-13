@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Menti a beállításokat?
+2=Eszközök keresése, lépjen ki később!
+3=Hibás IP Cím!
+4=Válasszon eszközt!
+5=Szerkesztés
+6=Kézi hozzáadás
+7=A felhasználó nem lehet üres!
+8=Domain név hiba
+9=A domain formátuma hibás

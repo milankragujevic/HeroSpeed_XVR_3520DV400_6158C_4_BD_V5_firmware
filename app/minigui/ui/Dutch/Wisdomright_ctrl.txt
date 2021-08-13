@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Gezichtsbibliotheek Administratie
+2=Mensen Tellen
+3=Warmte Kaart
+4=Gezichtsvergelijking Zoek

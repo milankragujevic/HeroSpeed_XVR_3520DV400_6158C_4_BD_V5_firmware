@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Đang kết nối ...
+2=Đã kết nối
+3=Khôi phục các tham số mặc định?
+4=Số dòng tối đa của bảng lập bản đồ Port là 16 dòng!

@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Type
+2=Starttijd
+3=Eindtijd
+4=Wszystkie logi:Zarządzanie systemem:Zarządzanie użytkownikiem:Konfiguracja parametrów:Operacje na plikach:Status:Zdarzenie alarmowe
+5=Opvragen
+6=Nummer
+7=Tijd
+8=Evenement
+9=Gebruiker
+10=Exporteren
+11=Alles exporteren
+12=Deselecteer

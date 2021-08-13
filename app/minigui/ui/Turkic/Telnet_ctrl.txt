@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Yapılandırma
+2=Genel
+3=Ağ
+4=Ekran
+5=İstisnalar
+6=Kullanıcı
+7=Kanal Yapılandırma
+8=Yerel alarm
+9=IP / Liman
+10=DDNS
+11=E-mail
+12=P2P
+13=FTP
+14=UPnP
+15=PPPOE
+16=Bulut Depolama
+17=Telnet
+18=Etkinleştir
+19=Uygula
+20=iptal
+21=Ön
+22=Wifi
+23=IP süzülmesi

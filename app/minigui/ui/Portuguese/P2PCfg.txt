@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Restaurar os parâmetros padrão?
+2=Online
+3=Offline
+4=Alterar o tipo de encriptação, desligue primeiro o P2P

@@ -1,0 +1,24 @@
+[Ctrltxt]
+num=22
+1=Konfiguration
+2=Allgemein
+3=Netzwerk
+4=Bildschirm
+5=Störungsmeldung
+6=Benutzer
+7=Festplattenausfall
+8=Netzwerkausfall
+9=Fehlermeldung
+10=Aktivieren
+11=E-Mail senden
+12=Tonalarm
+13=Keine Festplatte:Festplattenfehler
+14=Standard
+15=Anwenden
+16=Abbrechen
+17=Vorschau
+18=Kanal Konfiguration
+19=Bildschirmanzeige
+20=Lokaler Alarm
+21=WLAN
+22=IP Filter

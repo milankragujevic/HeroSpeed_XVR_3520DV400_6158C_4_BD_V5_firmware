@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Nummer
+2=Naam
+3=Grootte
+4=Datum
+5=Ververs
+6=Upgraden

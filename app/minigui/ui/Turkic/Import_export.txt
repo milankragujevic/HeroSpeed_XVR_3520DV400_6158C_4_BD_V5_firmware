@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Yeni ayarlar yeniden başlatıldıktan sonra aktif hale getirilecek. Şimdi yeniden başlatılsın mı?
+2=İhracat, lütfen bekleyin ...
+3=Başarılı!
+4=Cannot read hard disk.
+5=Veritabanını açmak olanaksızdır.
+6=Veritabanı zarar gördü.
+7=Bilinmeyen hata.
+8=İçe aktarma dosyası yok!
+9=İçe aktarma, başarı arttıktan sonra

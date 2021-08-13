@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Gesichtsdatenbank
+2=Anzahl der Personen
+3=Wärmekarte
+4=Gesichtsvergleich abrufen

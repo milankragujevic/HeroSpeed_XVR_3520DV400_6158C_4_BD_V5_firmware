@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Adaugare
+2=Modifica
+3=Stergere
+4=Permisiune vizualizare în direct pe ecranul de blocare
+5=Nr.
+6=Nume Utilizator
+7=Securitate
+8=Nivel
+9=Autoritate

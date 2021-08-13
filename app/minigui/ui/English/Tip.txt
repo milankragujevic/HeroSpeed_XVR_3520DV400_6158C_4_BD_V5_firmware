@@ -1,0 +1,24 @@
+[wintip]
+num=22
+1=Capture
+2=Instant Playback
+3=PTZ
+4=Zoom
+5=Audio
+6=Image
+7=Information
+8=Start All-Day Record
+9=Switch to Main
+10=Fisheye
+11=Disable POS
+12=Turn off 3D Position
+13=Stop All-Day Record
+14=Switch to Sub
+15=Enable POS
+16=Turn on 3D Position
+17=Capture failed
+18=No Permission
+19=Start recording failed,please change the record schedule.
+20=RTSP does not support this feature
+21=Capture Success, Please Check In File Management.
+22=Close

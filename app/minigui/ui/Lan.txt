@@ -1,0 +1,25 @@
+[lans]
+num=23
+1=中文简体
+2=中文繁體
+3=English
+4=Polskie
+5=České
+6=русский
+7=ไทย
+8=תירבע
+9=هيبرعلا
+10=Български
+11=日本語
+12=Deutsch
+13=français
+14=Português
+15=türk
+16=Español
+17=italiano
+18=magyar
+19=română
+20=한국어
+21=Nederlands
+22=Greek
+23=Người việt nam

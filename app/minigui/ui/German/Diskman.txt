@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Aktiv
+2=Nr.
+3=Normal
+4=Festplatte nicht verbunden!
+5=Wird formatiert, bitte warten...
+6=Das Gerät ist aktiv
+7=Unbekannter Fehler
+8=Formatierung erfolgreich
+9=Formatierung fehlerhaft!!!
+10=Bitte wählen Sie einen Datenträger
+11=Alle Daten auf der Festplatte werden gelöscht. Fortfahren?
+12=Keine Erlaubnis!
+13=Das USB-Laufwerk konnte nicht formatiert werden.
+14=Sind Sie sicher, dass Sie den DVS-Assistenten beenden möchten?

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Searching,hold on!
+2=No upgrade package
+3=Only one upgrade package can be selected！
+4=Please select upgrade file!
+5=Upgrade?
+6=Upgrading, do not power off!
+7=Upgrade failed!
+8=Upgrade succeeded!
+9=The ONVIF channel does not support upgrading!
+10=Channel
+11=update succeeded!
+12=update failed!
+13=The RTSP channel does not support upgrading!
+14=Please insert the usb disk.

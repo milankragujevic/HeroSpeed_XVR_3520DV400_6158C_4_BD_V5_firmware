@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Batchowy import
+2=Nazwa
+3=Status
+4=Ustal

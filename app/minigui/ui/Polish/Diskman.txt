@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=W użyciu
+2=Dysk Nr.
+3=Zwykły
+4=Nie podłączony dysk!
+5=Formatowanie dysku, czekaj.
+6=Urządzenie jest w użyciu.
+7=Nieznany błąd
+8=Sformatowano
+9=Formatowanie nieudane
+10=Proszę wybrać dysk
+11=Formatowanie spowoduje utratę wszystkich danych na dysku. Kontynuować?
+12=Brak pozwolenia!
+13=Nie można sformatować dysku USB.
+14=Na pewno wyjść z kreatora konfiguracji?

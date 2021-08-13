@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Beeld bestand
+2=Video bestand
+3=In Back-up, wacht alsjeblieft....
+4=Niet genoeg schijfruimte
+5=Backup succesvol!
+6=Backup mislukt!

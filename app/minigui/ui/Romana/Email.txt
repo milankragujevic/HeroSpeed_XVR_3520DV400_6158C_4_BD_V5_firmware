@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Revenire la parametrii initiali?
+2=Numărul portului trebuie să fie între 1 și 65535!
+3=Testarea e-mailului, vă rugăm să așteptați ...
+4=E-mailul nu poate fi livrat!
+5=Succes. Verificați căsuța de e-mail.
+6=Formatul adresei de e-mail este incorect.
+7=Formatul serverului SMTP este incorect.
+8=Eroare de format de timp!
+9=Personalizat

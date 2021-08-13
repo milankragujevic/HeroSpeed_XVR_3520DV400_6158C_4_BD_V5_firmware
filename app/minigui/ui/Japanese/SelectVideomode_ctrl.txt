@@ -1,0 +1,12 @@
+[Ctrltxt]
+num=10
+1=Select Mode
+2=モード
+3=全て
+4=自動
+5=AHD
+6=CVI
+7=TVI
+8=CVBS
+9=適用
+10=キャンセル

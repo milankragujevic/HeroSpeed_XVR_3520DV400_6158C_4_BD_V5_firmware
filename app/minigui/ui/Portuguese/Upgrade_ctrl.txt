@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Não.
+2=Nome
+3=Tamanho
+4=tâmara
+5=Atualizar
+6=Atualizar

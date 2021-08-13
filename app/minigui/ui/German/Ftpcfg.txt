@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Auf Werkseinstellungen zurücksetzen?
+2=Die Portnummer muss zwischen 1 und 65535 liegen!
+3=FTP-Test, bitte warten...
+4=FTP Server antwortet nicht
+5=FTP Test erfolgreich
+6=Zeitformatfehler!
+7=Der Dateiname darf keines der folgenden Zeichen enthalten: \ / : * ? " < > |
+8=Benutzername oder Passwort darf folgende Symbole nicht enthalten:! % & #
+9=FTP-Server-Formatfehler!

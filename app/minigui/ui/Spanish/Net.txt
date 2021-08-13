@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Restaurar parametros por defecto?
+2=esta seguro que quiere salir del asistente de buteo
+3=El número de puerto no puede ser el mismo!
+4=El número de puerto no puede ser menor a 1025 excepto el 554 y el 80
+5=Desconocido
+6=La tarjeta de red interna IP y la red externa IP no pueden estar en el mismo segmento de red
+7=Modificar la IP intranet requiere reiniciar el dispositivo, determinar el reinicio?
+8=Error de formato de dirección IP!
+9=¡Error de formato de máscara de red!
+10=Error de formato de puerta de enlace!
+11=¡Error de formato DNS!
+12=Lan1 y Lan2 no pueden estar en el mismo segmento de red
+13=Modificar el modo de red debe reiniciarse, ¿desea continuar modificándolo?

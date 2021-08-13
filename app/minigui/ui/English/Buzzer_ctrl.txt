@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Motion Detection
+2=Video Tampering
+3=Video Loss
+4=Alarm Input
+5=Alarm Output
+6=Exception
+7=Delay Time(1~120s)
+8=5 Sec:10 Sec:30 Sec:1 Min:2 Min:5 Min:10 Min
+9=Test
+10=Apply
+11=Buzzer

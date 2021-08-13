@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Tương tự
+2=tuổi
+3=giới tính
+4=kính
+5=mũ/nón
+6=Đồng ý
+7=Không đồng ý
+8=Tóc dài
+9=Tóc ngắn
+10=Nam
+11=Nữ
+12=Tên
+13=Chế độ: Danh sách đen
+14=Chế độ: Danh sách trắng
+15=Chế độ: Danh sách đen và trắng
+16=Râu
+17=Kênh

@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=New settings will be activated after rebooting.Reboot now?
+2=Channel
+3=Restore the default parameters?
+4=1 Screen
+5=4 Screens
+6=8 Screens
+7=9 Screens
+8=16 Screens
+9=25 Screens
+10=36 Screens
+11=64 Screens
+12=32 screens
+13=Device does not support this resolution!

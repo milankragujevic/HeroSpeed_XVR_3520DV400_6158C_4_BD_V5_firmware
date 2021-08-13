@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Please select a file.
+2=Not enough disk space.
+3=Searching,please wait...
+4=Cannot wirte data to mobile hard disk.
+5=Backup finished
+6=Please insert the usb disk!
+7=Too much files, stop searching!
+8=Manual capture
+9=Motion 
+10=Alarm 
+11=Motion or Alarm
+12=Motion and Alarm

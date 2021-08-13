@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Cài đặt mới sẽ được kích hoạt sau khi khởi động lại. Khởi động ngay bây giờ?
+2=Đang xuất, vui lòng đợi ...
+3=Thành công.
+4=Vui lòng lắp đĩa usb!
+5=Không thể mở cơ sở dữ liệu.
+6=Cơ sở dữ liệu đã bị hỏng.
+7=Lỗi không rõ.
+8=Không có tập tin nhập khẩu!
+9=Nhập, sau khi thành công sẽ khởi động lại

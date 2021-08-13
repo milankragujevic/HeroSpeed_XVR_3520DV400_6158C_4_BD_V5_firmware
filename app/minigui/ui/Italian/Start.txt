@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Preview
+2=Riproduzione
+3=Gestione dei file
+4=Analisi intelligente
+5=Canale
+6=Registrazione.
+7=Sistema
+8=Sched. Riavvio
+9=Applicazione aziendale
+10=Download
+11=Bell
+12=Allarme
+13=Backup
+14=Spegni

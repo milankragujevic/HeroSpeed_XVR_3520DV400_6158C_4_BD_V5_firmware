@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Proszę potwierdzić parametry swojego kanału i stan sieci!
+2=Przywrócić parametry domyślne?
+3=Zapisywanie ustawień, czekaj.
+4=Pobieranie parametrów, czekaj.
+5=Pobranie parametrów nieudane...
+6=Zakres wartości bitrate to 512-8192.
+7=Ustawienie parametrów kamery nieudane.
+8=Ten kanał to H265, którego urządzenie nie obsługuje
+9=Brak pozwolenia!
+10=Urządzenie nie obsługuje H265.
+11=Main Bitrate range 64-8192.
+12=Zakres częstości podrzędnych 64-2048.

@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Imagine XVR
+2=Luminos
+3=Contrast
+4=Saturatie
+5=Culoare
+6=Initial
+7=Salvare
+8=Anulare

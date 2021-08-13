@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=No mobile hard disk!
+2=Odinstalace v pořádku !
+3=Odinstalace selhala !
+4=Video soubor
+5=Zálohu video, čekejte …
+6=Záloha dokončena !
+7=Záloha selhala !
+8=Žádný disk pro zálohu
+9=Připojení k disku sehalo !
+10=Neznámá chyba
+11=Bez povolení!
+12=Chyba zápisu dat na mobilní HDD !
+13=Chyba čtení video souboru !
+14=Not enough disk space.

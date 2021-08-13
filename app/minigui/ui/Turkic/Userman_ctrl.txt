@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Ekle
+2=değiştirmek
+3=Sil
+4=Kilitli ekrandaki canlı görünüm izni
+5=Numara
+6=Kullanıcı Adı
+7=Güvenlik
+8=Düzey
+9=Yetki

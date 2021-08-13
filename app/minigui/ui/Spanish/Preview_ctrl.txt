@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Canal
+2=Objetivo
+3=Detección de rostro
+4=Evento Inteligente
+5=Detección de Cuerpo
+6=Detección de Vehículos

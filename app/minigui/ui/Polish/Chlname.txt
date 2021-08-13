@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Przywrócić parametry domyślne?
+2=Nieprawidłowa nazwa kanału;
+3=Istnieje jeden lub więcej kanałów, które nie mają uprawnień!

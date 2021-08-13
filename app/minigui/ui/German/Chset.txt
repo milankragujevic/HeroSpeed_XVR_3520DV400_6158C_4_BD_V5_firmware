@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Einstellungen speichern?
+2=Suche läuft, bitte warten!
+3=IP-Adresse ist falsch
+4=Wählen Sie die IP Kamera aus
+5=Bearbeiten
+6=Manuell hinzuf.
+7=Fehler: Benutzername
+8=Domain-Name fehlerhaft
+9=Falsches Domainformat

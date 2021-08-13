@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=HDD
+2=algemeen
+3=HDD informatie
+4=Nummer
+5=Status
+6=Totale capaciteit
+7=Resterende capaciteit
+8=Apparaat type
+9=Waarschuwing: DVR wordt automatisch opnieuw opgestart na het formatteren van de schijf!
+10=Ververs
+11=Formatteren
+12=Annuleren
+13=weergave vooraf

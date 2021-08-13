@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=CH
+2=Stav záznamu
+3=Typ streamu
+4=Bitrate (Mbps)
+5=Typ záznamu
+6=Číslo disku
+7=Zavřít

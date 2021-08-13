@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Obnovení nastavení kamery
+2=Obnovit výchozí parametry úložiště
+3=Obnovit výchozí parametry systému
+4=Obnovení nastavení správy
+5=Obnovit výchozí nastavení
+6=Použít

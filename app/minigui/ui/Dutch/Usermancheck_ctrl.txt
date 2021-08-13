@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Bevestig Toestemming
+2=Bevestig
+3=OK
+4=Annuleren

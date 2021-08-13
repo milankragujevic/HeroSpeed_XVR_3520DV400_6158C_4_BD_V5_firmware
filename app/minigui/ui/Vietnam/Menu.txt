@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Không cho phép!
+2=Phát lại.
+3=Tập tin sao lưu.
+4=Quản lý ổ cứng.
+5=Lịch ghi lại và cài đặt mã hóa camera
+6=Camera add,camera osd,image,motion detection,videoloss,ptz,privacy mask setup,channelname.
+7=Ngày/thời gian hệ thống, mạng, Hiển thị, ngoại lệ, thiết lập người dùng, cấu hình kênh.
+8=Luồng mạng, nhật ký, thông tin Phiên bản cập nhật hệ thống, và khôi phục mặc định.
+9=Hệ thống đăng xuất và khởi động lại.
+10=Ngày/thời gian hệ thống, mạng, Hiển thị, ngoại lệ, người dùng thiết lập, cấu hình kênh, báo động nội bộ.

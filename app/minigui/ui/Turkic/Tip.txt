@@ -1,0 +1,24 @@
+[wintip]
+num=22
+1=Ele geçirmek
+2=Anlık pleybek
+3=PTZ
+4=Yakınlaştır
+5=Ses
+6=Resim
+7=Bilgi
+8=Tüm Gün Kaydı Başlat
+9=Ana ekrana dön
+10=Balık gözü
+11=POS etkisizleştir
+12=3D pozisyonu kapat
+13=Tüm Gün Kaydını Durdur
+14=Sub ekrana geç
+15=POS etkinleştir
+16=3D pozisyonu aç
+17=yakalama başarısız oldu
+18=No Permission
+19=Kayıt başlatılamdı, kayıt programını değiştir
+20=RTSP bu özelliği desteklemiyor
+21=Başarıyı Yakalayın,Lütfen Dosya Yönetimini Kontrol Edin.
+22=Kapat

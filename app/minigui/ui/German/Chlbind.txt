@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=When you select 4 HD channel,you just be able to select 0 IP channel?
+2=Kanalkonfiguration geändert, bitte neu starten!
+3=When you select 8 HD channel,you just be able to select 1 IP channel?
+4=Neue Einstellungen werden nach dem Neustart aktiviert. Jetzt neu starten?

@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Restaurar os parâmetros padrão?
+2=Sem permissão!
+3=Tem a certeza de sair do assistente de inicialização?
+4=La nueva configuración se activará después de reiniciar. ¿Reiniciar ahora?
+5=A configuração do assistente de inicialização está concluída!
+6=Erro no formato de hora!
+7=Adicione um máximo de 6 agendas por dia!

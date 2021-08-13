@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Ripristina la configurazione iniziale?
+2=Sei sicuro di voler uscire dalla configurazione assistita?
+3=La porta scelta deve essere diversa!
+4=La porta non può essere inferiore a 1025 (esclusa la http:80 ed RTSP:554)!
+5=Sconosciuto
+6=L'IP della scheda di rete interna e l'IP della rete esterna non possono trovarsi nello stesso segmento di rete
+7="è necessario modificare l'IP della rete Intranet per riavviare il dispositivo, determinare il riavvio?"
+8=Errore nel formato dell'indirizzo IP!
+9=Errore nel formato maschera di rete!
+10=Errore di formato del gateway!
+11=Errore di formato DNS!
+12=Lan1 e Lan2 non possono essere nello stesso segmento di rete
+13=È necessario riavviare la modalità di rete, si desidera continuare a modificarla?

@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Tổng hợp
+2=Mạng lưới
+3=TCP/IP
+4=Cài đặt
+5=Người dùng
+6=Lọc địa chỉ mạng
+7=Ngày lễ
+8=POS
+9=Sự kiện
+10=Sự kiện bình thường
+11=Sự kiện thông minh
+12=Cải đặt mặt nhìn
+13=Hiển thị
+14=Xem xét
+15=Kênh-không
+16=Cao cấp
+17=Lưu trữ đám mây
+18=Bình thường
+19=Cấu hình kênh
+20=Xem trước đăng xuất

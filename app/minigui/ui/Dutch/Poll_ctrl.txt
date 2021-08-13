@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=wisselen
+2=Activeer
+3=Tijdsduur (s)
+4=Functie
+5=Standaardinstellingen
+6=Toepassen
+7=Annuleren

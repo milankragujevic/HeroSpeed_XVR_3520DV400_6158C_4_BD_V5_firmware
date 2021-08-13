@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=el usuario no existe
+2=La contraseña es errónea, hay
+3=iniciando por favor espere
+4=esta seguro que quiere salir del asistente de buteo
+5=oportunidades.
+6=La contraseña o el patrón de desbloqueo ha sido introducido mal 5 veces. Por favor, vuelve a intentarlo 30 minutos después.
+7=La contraseña ha sido introducido mal 5 veces. Por favor, vuelve a intentarlo 30 minutos después.

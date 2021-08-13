@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=View
+2=Device Path
+3=All Files (*.*): *.Jpg
+4=Up
+5=Name
+6=Size
+7=Type
+8=Modification Time
+9=Delete
+10=OK
+11=Cancel
+12=New Folder

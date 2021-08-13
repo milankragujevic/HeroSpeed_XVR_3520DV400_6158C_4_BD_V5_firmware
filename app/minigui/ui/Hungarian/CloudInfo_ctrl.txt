@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Kapcsolódás
+2=Megerősítési kód
+3=Megerősít
+4=Megszünteti

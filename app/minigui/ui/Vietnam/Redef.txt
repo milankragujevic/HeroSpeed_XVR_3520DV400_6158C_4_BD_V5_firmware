@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Đang khôi phục các tham số mặc định, Vui lòng đợi ...
+2=Khôi phục lại mặc định
+3=Cài đặt mới sẽ được kích hoạt sau khi khởi động lại. Khởi động ngay bây giờ?
+4=Khôi phục các tham số mặc định?

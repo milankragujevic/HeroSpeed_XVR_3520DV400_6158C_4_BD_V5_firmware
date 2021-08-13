@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Geen toestemming!
+2=Opname mislukt
+3=Gevangen nemen
+4=Audio
+5=Zoom
+6=Tag Toevoegen
+7=vissenoog
+8=Sluiten
+9=Succesvol vastgelegd, Controleer het in Bestand Beheer.

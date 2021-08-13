@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Włącz
+2=Dropbox
+3=Google
+4=Katalog przesyłania
+5=Użytkownik
+6=Miejsce
+7=Używany
+8=Test
+9=Domyślne
+10=Zastosuj
+11=Google
+12=IPEYE
+13=Powiąż

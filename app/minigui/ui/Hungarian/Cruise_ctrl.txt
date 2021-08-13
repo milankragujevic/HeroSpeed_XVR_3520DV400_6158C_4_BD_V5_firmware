@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Túra beállítások
+2=Csatorna
+3=Presetek
+4=Túra
+5=Beállítás
+6=Hív
+7=1:2:3
+8=Sorsz.
+9=Név
+10=Preset
+11=Sebesség
+12=Várakozási idő
+13=Beállítás
+14=Töröl
+15=Őrjárat BE
+16=Őrjárat Törlés
+17=Összes őrjárat törlése
+18=Megszünteti
+19=Zoom
+20=Focus
+21=Iris
+22=Sebesség
+23=Belép
+24=Őrjárat KI

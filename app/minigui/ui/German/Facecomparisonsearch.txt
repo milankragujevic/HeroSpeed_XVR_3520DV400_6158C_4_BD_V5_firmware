@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Zeitformatfehler!
+2=Es gibt einen oder mehrere Sender, die keine Erlaubnis haben!
+3=Keine Erlaubnis!
+4=alle Kanäle
+5=Bitte wählen Sie einen Kanal

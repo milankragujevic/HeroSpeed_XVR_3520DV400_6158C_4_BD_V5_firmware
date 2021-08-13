@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Tên thiết bị
+2=Mẫu số
+3=Phiên bản thiết bị
+4=Phiên bản
+5=Ngày
+6=Tổng số kênh
+7=Tổng số kênh POE
+8=Tắt
+9=P2P
+10=Số phiên bản GUI
+11=Phiên bản WEB

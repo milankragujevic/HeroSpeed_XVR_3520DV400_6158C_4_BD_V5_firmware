@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Channel
+2=kb/s
+3=Resolutie
+4=Voer een geldig paginanummer in

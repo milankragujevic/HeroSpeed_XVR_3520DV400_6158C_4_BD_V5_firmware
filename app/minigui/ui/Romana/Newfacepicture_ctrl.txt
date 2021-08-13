@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Adăugați o Listă de Fețe
+2=Imagine locală
+3=Faceți Fotografii
+4=Importați Fotografii
+5=Nume
+6=OK
+7=Anulare
+8=Canal
+9=Șablon Facial
+10=Fotografiere
+11=Extrage
+12=Selectați Fața
+13=Nou
+14=Repetă

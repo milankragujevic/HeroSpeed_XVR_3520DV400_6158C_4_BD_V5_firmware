@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Az újonnan hozzáadott könyvtár neve nem lehet üres
+2=Az arckönyvtárak száma elérte a felső határt
+3=Az arc adatbázis már létezik

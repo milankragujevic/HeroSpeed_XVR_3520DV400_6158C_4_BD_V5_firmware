@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Opnameschema
+2=Huidige week ingesteld:
+3=Schema 1
+4=Schema 2
+5=Schema 3
+6=Schema 4
+7=Schema 5
+8=Schema 6
+9=Gebruik om te:
+10=Alles
+11=Zon
+12=Maa
+13=Din
+14=Woe
+15=Don
+16=Vrij
+17=Zat
+18=Opslaan
+19=Annuleren
+20=Schema 7
+21=Schema 8
+22=Zon.:Maand.:Dings.:Woens.:Donder.:Vrij.:Zater.
+23=Toepassen

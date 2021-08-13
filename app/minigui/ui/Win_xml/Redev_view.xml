@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Redev_view x="250" y="137" w="800" h="640" title="Redev_view">
+<row type="static">
+<s id="200" x="0" y="4" w="2" h="632" s="11:12:31" bcol="3"></s>
+<s id="201" x="4" y="0" w="792" h="2" s="11:12:31" bcol="3"></s>
+<s id="202" x="798" y="4" w="2" h="632" s="11:12:31" bcol="3"></s>
+<s id="203" x="4" y="638" w="792" h="2" s="11:12:31" bcol="3"></s>
+</row>
+<row x="750" y="3" w="34" h="34" s="12:13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="1" bg="./image/menu/close.png" bgc="./image/menu/close.png" bgw=""></b>
+</row>
+
+</Redev_view>

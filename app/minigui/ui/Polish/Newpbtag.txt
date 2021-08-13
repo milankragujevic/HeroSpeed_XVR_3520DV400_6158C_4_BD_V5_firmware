@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Nazwa katalogu nie może zawierać następujących znaków: Spacja\/:*?"|'%.
+2=Nazwa ścieżki nie może być pusta

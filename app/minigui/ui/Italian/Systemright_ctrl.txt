@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Generale
+2=Rete
+3=TCP/IP
+4=Impostazioni
+5=Utente
+6=Filtro indirizzo
+7=Vacanza
+8=POS
+9=Evento
+10=Evento normale
+11=Evento intelligente
+12=Vista dal vivo
+13=Schermo
+14=Vista
+15=Canale Zero
+16=avanzato
+17=Cloud Storage
+18=Normale
+19=Configurazione Canale
+20=Anteprima di disconnessione

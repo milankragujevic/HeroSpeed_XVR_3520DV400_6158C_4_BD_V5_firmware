@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Czy na pewno chcesz zmienić ustawienia ?
+2=po XX sekundach zostanie automatycznie przywrócone.

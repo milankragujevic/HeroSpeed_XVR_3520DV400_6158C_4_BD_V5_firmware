@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=Sauvegarde de l'enregistrement
+2=CAM
+3=Type
+4=Heure début
+5=Heure fin
+6=Taille
+7=Id
+8=Log de sauvegarde
+9=Restant:
+10=Nécessaire:
+11=Format fichier
+12=avi
+13=Actualiser
+14=Sauvegarde
+15=Effacer

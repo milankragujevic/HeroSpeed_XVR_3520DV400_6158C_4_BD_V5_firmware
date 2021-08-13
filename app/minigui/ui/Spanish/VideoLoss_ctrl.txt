@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Detección de Movimiento
+2=Sintonización de Vídeo
+3=Vídeo perdido
+4=Entrada de alarma
+5=Salida de alarma
+6=Excepción
+7=Canal
+8=Habilitado
+9=Horario de Alarma
+10=Articulación
+11=Vinculación Normal
+12=Defecto
+13=copiar
+14=Aplicar
+15=Salida de alarma
+16=Zumbador

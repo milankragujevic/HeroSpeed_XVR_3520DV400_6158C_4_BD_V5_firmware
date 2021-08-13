@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Ağ gecikmesi, Paket kaybı testi
+2=NIC seçimi
+3=Varış noktası
+4=Sınama

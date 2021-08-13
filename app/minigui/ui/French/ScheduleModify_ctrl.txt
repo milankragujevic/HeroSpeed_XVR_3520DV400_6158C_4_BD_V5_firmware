@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Horaire d'enregistrement
+2=Semaine actuellement définie:
+3=Horaire 1
+4=Horaire 2
+5=Horaire 3
+6=Horaire 4
+7=Horaire 5
+8=Horaire 6
+9=Utiliser pour:
+10=Tous
+11=Dim.
+12=Lun.
+13=Mar.
+14=Mer.
+15=Jeu.
+16=Ven.
+17=Sam.
+18=Sauvegarder
+19=Annuler
+20=Calendrier 7
+21=Calendrier 8
+22=Dimanche : lundi : mardi : mercredi : jeudi : vendredi : samedi
+23=Appliquer

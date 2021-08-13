@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Preview
+2=Playback
+3=File Management
+4=Smart Analysis
+5=Channel
+6=Storage
+7=System
+8=Maintenance
+9=Business Application
+10=Download
+11=Bell
+12=Alarm
+13=Backup
+14=Power Off

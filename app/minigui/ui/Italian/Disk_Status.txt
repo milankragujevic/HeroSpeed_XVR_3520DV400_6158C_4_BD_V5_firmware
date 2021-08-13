@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=In Uso
+2=Disco N.
+3=Normale

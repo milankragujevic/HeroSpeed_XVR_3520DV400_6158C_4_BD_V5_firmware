@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Uživatel přidán v pořádku.
+2=/
+3=Uživatel již existuje !
+4=Zadejte uživatelské jméno !
+5=Zadejte heslo !
+6=Zadejte nové heslo !
+7=Heslo není správné !
+8=Hesla nesouhlasí !
+9=Neznámá chyba
+10=Uživatel administrator nemůže být smazát !
+11=Uživatelské jméno nelze jmenovat root nebo admin!
+12=Uživatelské jméno nesmí obsahovat prázdné místo
+13=Nápověda: Heslo nesmí být menší než 8 číslic, obsahuje alespoň jedno číslo a jedno písmeno.
+14=Pokud je délka uživatelského jména nebo hesla větší než 10, nemůže být všechna čísla

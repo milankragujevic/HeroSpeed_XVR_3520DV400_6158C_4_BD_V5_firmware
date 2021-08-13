@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Buscando dispositivo, por favor aguarde …
+2=esta seguro que quiere salir del asistente de buteo
+3=Esta operación cambiará el valor de la IP del dispositivo remoto, confirmar los cambios?
+4=es el fisheye ojo de pez equipo que se añaden por separado
+5=El dispositivo está agregado muchas veces, no se puede agregar
+6=Agregar cámara, por favor espere.
+7=adicional
+8=Borrando cámara, por favor espere

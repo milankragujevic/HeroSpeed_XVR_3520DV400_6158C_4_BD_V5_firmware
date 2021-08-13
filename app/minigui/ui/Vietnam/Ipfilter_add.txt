@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Số lượng bảng liệt kê đã đạt giới hạn trên.
+2=Xin nhập địa chỉ IP
+3=Xin nhập địa chỉ Mac
+4=Cách thức địa chỉ MAC không chính xác.
+5=Địa chỉ đã tồn tại!

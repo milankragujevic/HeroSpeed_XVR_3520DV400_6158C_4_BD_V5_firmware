@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Binding
+2=Codice autorizzazione
+3=Conferma
+4=Cancella

@@ -1,0 +1,12 @@
+[Ctrltxt]
+num=10
+1=Wybierz tryb
+2=Tryb
+3=Wsz.
+4=AUTOMATYCZNY
+5=AHD
+6=CVI
+7=TVI
+8=CVBS
+9=Zastosuj
+10=Anuluj

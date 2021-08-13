@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Riasztási kimenet neve
+2=Riasztás állapota
+3=Trigger
+4=Törlés
+5=Bezárás

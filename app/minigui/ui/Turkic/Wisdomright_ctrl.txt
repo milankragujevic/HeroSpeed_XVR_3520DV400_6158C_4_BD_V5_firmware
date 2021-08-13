@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Yüz Veritabanı Yönetimi
+2=İnsan sayısı
+3=Sıcaklık haritası
+4=Yüz Karşılaştırma Araması

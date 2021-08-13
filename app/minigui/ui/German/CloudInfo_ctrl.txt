@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Verbinden
+2=Autorisierungscode
+3=Bestätigen
+4=Abbrechen

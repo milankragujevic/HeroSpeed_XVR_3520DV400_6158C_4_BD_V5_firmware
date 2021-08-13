@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Kanal
+2=Aktivieren
+3=Zone 1 löschen
+4=Zone 2 löschen
+5=Zone 3 löschen
+6=Alles löschen
+7=Anwenden
+8=Kopieren

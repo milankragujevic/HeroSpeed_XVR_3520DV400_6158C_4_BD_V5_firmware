@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Lecture des paramètres, veuillez patienter…
+2=Liste Noire
+3=Liste Blanche
+4=Liste Noire Et Liste Blanche

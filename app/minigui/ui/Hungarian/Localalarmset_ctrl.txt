@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Szerkesztés
+2=Riasztási bemenet
+3=Riasztási név
+4=Engedélyez
+5=Típus
+6=N.O:N.C
+7=Élesítés ütemezése
+8=Összekapcsolási művelet
+9=Normál kapcsolat
+10=Csatornafelvétel
+11=Riasztási kimenet
+12=Másol
+13=Alkalmaz
+14=Mind
+15=Vas.
+16=Hét.
+17=Kedd
+18=Szer.
+19=Csüt.
+20=Pén.
+21=Szo.
+22=Normál
+23=Szerkesztés
+24=Teljes képernyő figyelés

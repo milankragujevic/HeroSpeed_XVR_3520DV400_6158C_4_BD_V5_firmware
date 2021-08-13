@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Nazwa biblioteki
+2=Numer
+3=\
+4=Usuń
+5=Nowy
+6=Szczegóły biblioteki twarz
+7=Nazwa
+8=Numer
+9=Usuń
+10=Szablon twarzy
+11=Dodaj
+12=Batchowy import
+13=Numer funkcji

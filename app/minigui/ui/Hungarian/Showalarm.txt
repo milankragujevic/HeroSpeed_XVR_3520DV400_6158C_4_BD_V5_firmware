@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=Mozgásérzékelés
+2=Videojel vesztés
+3=Riasztási bemeneti kapcsoló
+4=\
+5=\
+6=Arc (Arc rögzítés)
+7=Behatolás
+8=Crossover
+9=Jelenetváltás
+10=Áruk Legacy
+11=Áruk elvétele
+12=Arc összehasonlítás
+13=Emberek maradnak
+14=Emberek összegyűjtése
+15=Fő videó folyam veszteség
+16=Al-videó folyam veszteség
+17=Riasztás ki
+18=Füst
+19=Infravörös
+20=Humanoid
+21=Nincs Lemez
+22=Merevlemez hiba
+23=Hálózat leválasztva
+24=IP cím ütközés
+25=MAC ütközés

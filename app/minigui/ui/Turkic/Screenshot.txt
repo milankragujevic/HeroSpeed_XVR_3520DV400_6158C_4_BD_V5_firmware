@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Name:
+2=Size:
+3=Len:
+4=Time:
+5=Başarılı ihracat
+6=Dışa aktarma başarısız oldu
+7=Successfully sent e-mail
+8=Failed to send e-mail
+9=İhracat, lütfen bekleyin ...
+10=E-posta gönderiliyor, lütfen bekleyin ...
+11=Çıkıştan emin misin?
+12=Lütfen usb diski takın.

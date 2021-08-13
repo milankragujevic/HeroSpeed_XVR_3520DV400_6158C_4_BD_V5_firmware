@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Obnovit výchozí nastavení ?
+2=Bez povolení!
+3=Chcete opravdu opustit průvodce ?
+4=Nová nastavení budou aktivována po restartu. Restartujte nyní?
+5=Průvodce je dokončen !
+6=Chyba formátu času!
+7=Nejvýše je možno použít 6 kalendářů pro jeden den !
+8=Na některý kanál neámte oprávnění !

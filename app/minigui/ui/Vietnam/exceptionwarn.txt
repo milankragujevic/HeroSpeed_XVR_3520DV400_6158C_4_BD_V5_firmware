@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Không có ổ cứng
+2=Lỗi ổ cứng
+3=Mạng bị hỏng
+4=Xung đột IP
+5=Báo động Riêng tư

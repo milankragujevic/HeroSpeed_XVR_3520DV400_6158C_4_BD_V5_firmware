@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Nastavení střihu videí
+2=Nastavte čas střihu:
+3=Začátek
+4=Konec
+5=Uložit
+6=Zrušit

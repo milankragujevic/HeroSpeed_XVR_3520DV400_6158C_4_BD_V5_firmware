@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Nastavení kanálu
+2=Povolit
+3=Kanál
+4=Protokol
+5=Náhled
+6=Uživatelské jméno
+7=Heslo
+8=IP adresa
+9=Doména
+10=Přístav
+11=Hlavní
+12=Sub
+13=Hlavní:Sub
+14=Uložit
+15=Zrušit
+16=Přidat cestu
+17=Příručka:Plug and play
+18=Příručka

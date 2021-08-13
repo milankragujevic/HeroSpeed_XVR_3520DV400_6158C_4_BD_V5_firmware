@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Nakreslete vzor pro odemknutí
+2=Uvolněte myš po dokončení
+3=Připojte alespoň 4 body, zkuste znovu.
+4=Nakreslete vzor znovu a potvrďte.
+5=Dva nakreslené vzory nejsou stejné, potvrďte znovu.
+6=Zapamatujte si svůj vzor.
+7=Nesprávný vzor odemknutí. Existuje
+8=Přihlásit
+9=šance.
+10=5 neúspěšných pokusů o zadání hesla nebo vzoru odemknutí. Zkuste to prosím znovu za 30 minut.

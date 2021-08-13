@@ -1,0 +1,18 @@
+[wintip]
+num=16
+1=Paraméterek lekérése, kérem várjon…
+2=Nincs jogosultsága!
+3=Vonal szabályhiba!
+4=Van egy crossover vonal!
+5=Ugyanazon a soron!
+6=Ez a csatorna eszköz nem támogatja a funkciót.
+7=Hangjelző
+8=E-mail küldés
+9=Csatornafelvétel
+10=Feketelista
+11=Fehérlista
+12=Feketelista és Fehérlista
+13=Maximum support for
+14=Csatorna
+15=channels
+16=Fejlesztés alatt!

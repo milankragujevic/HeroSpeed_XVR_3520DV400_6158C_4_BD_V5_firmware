@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Hoofdmenu
+2=1 beeld
+3=Ch1
+4=Ch2
+5=Ch3
+6=Ch4
+7=4 beelden
+8=wisselen
+9=Opname instelling
+10=Camera toevoegen
+11=Terugspelen
+12=PTZ
+13=XVR-afbeelding
+14=Selecteer modus
+15=Handmatige schermafbeelding
+16=Gezichtsvergelijking

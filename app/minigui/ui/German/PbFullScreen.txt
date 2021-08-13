@@ -1,0 +1,3 @@
+[wintip]
+num=1
+1=CPU ist überlastet, bitte ändern Sie den Bitrate

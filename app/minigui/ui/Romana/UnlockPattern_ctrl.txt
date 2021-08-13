@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Setați Modelul de Deblocare
+2=admin
+3=Omiteți Modelul de Deblocare
+4=Schimbați Utilizatorul

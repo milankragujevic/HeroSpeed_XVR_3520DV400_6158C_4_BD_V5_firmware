@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Poll x="0" y="0"  w="%100" h="%100" title="Copy">
+<row type="static">
+<s id="92" x="0" y="0" w="%100" h="2" s="11:12:33" bcol="7"></s>
+<s id="93" x="0" y="-3" w="%100" h="2" s="11:12:33" bcol="7"></s>
+<s id="94" x="0" y="3" w="2" h="%100-6" s="11:12:33" bcol="7"></s>
+<s id="95" x="-3" y="3" w="2" h="%100-6" s="11:12:33" bcol="7"></s>
+<s id="96" x="3" y="%100-5" w="%100-6" h="2" s="11:12:33" bcol="5"></s>
+<s id="97" x="3" y="3" w="2" h="%100-8" s="11:12:33" bcol="5"></s>
+<s id="98" x="%100-5" y="3" w="2" h="%100-8" s="11:12:33" bcol="5"></s>
+<s type="static" id="99" x="1" y="6" w="%100-2" h="48" s="11:12:33" ft="16" bcol="20">1</s>
+</row>
+<row x="%100-37" y="19" w="20" h="20" s="13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="36" bg="./image/menu/close.png" bgc="./image/menu/close_hover.png" bgw="" ft="16"></b>
+</row>
+
+<row x="15" y="60">
+<aad type="static" id="100" w="200" h="50" s="11:12:31" bcol="20">2</aad>
+</row>
+<row>
+<filelist type="listview_ex" id="1" x="15" y="110" w="%40" h="%100-200" s="11:12:13:14:203:204" itemcnt="2" itemh="56">
+<item w="%30" align="l">3</item>
+<item w="%10" align="l">4</item>
+</filelist>
+</row>
+<row x="%40+27" y="111" w="%60-46" h="40" s="12:13:41" ex="81" tc="9" gap="0">
+<b type="ctrl_button" id="53" tc="1" ft="16">5</b>
+</row>
+<row type="ctrl_button" x="%50+40" y="245"  w="%10-29" h="36" s="13:44" tcol="30"  gap="0">
+<cb id="10"></cb>
+<cb id="11"></cb>
+<cb id="12"></cb>
+<cb id="13"></cb>
+<cb id="14"></cb>
+</row>
+<row type="ctrl_button" x="%50+40" y="440" w="%10-29" h="36" s="13:44" tcol="30" gap="0">
+<cb id="15"></cb>
+<cb id="16"></cb>
+<cb id="17"></cb>
+<cb id="18"></cb>
+<cb id="19"></cb>
+</row>
+<row type="ctrl_button" x="%50+40" y="440" w="%10-29" h="36" s="13:44" tcol="30" gap="0">
+<cb id="20"></cb>
+<cb id="21"></cb>
+<cb id="22"></cb>
+<cb id="23"></cb>
+<cb id="24"></cb>
+</row>
+<row type="ctrl_button" x="%50+40" y="440" w="%10-29" h="36" s="13:44" tcol="30" gap="0">
+<cb id="25"></cb>
+<cb id="26"></cb>
+<cb id="27"></cb>
+<cb id="28"></cb>
+<cb id="29"></cb>
+</row>
+<row type="ctrl_button" x="%70-77" y="%100-130" w="25" h="25" s="12:13:42" ex="81" gap="0">
+<b id="40" bgw="25" bg="./image/pb/Pageone.png" bgc="./image/pb/Pageone_hover.png" tcol="16" gap="5"></b>
+<b id="41" bgw="25" bg="./image/pb/prepic.png" bgc="./image/pb/prepic_hover.png" tcol="16"></b>
+<s id="42" w="40" h="25" type="static" s="11:12:33"></s>
+<b id="43" bgw="25" bg="./image/pb/nextpic.png" bgc="./image/pb/nextpic_hover.png" tcol="16" tcol="16" gap="5"></b>
+<b id="44" bgw="25" bg="./image/pb/Lastpage.png" bgc="./image/pb/Lastpage_hover.png" tcol="16" ></b>
+</row>
+
+<row type="ctrl_button" x="%50-145" y="%100-55" w="140" h="40" s="12:13:41" bgw="0" gap="10">
+<b id="6"  ft="16">9</b>
+<b id="7"  ft="16">10</b>
+</row>
+
+</Poll>

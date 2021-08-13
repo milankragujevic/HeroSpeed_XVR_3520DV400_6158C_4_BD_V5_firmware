@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=23
+1=Datum a čas;1
+2=Síť;2
+3=Pevný disk;3
+4=Kamera;4
+5=Platforma;5
+6=Změna hesla;5
+7=Změnit heslo
+8=Upravit heslo správce
+9=Staré heslo
+10=Nové heslo
+11=Potvrdit
+12=Resetujte bezpečnostní problémy
+13=Problém zabezpečení 1
+14=Odpověď1
+15=Problém zabezpečení 2
+16=Odpověď2
+17=Problém zabezpečení 3
+18=Odpověď3
+
+19=Vyberte prosím problém: Jaké je vaše číslo?: Který den je narozeniny vašeho otce?: Jaká je vaše oblíbená anglická písnička?: Který den je narozeniny vaší matky?
+20=Vyberte prosím problém: Jaké je vaše číslo školy ?: Jaké jsou vaše štěstí?: Jméno vaší oblíbené hvězdy je? (Anglicky): Den vašeho výročí svatby je?
+21=Vyberte prosím problém: Jaká je vaše nejoblíbenější poštovní schránka ?: Jaký je poštovní kód pro vaši oblast?: Jaký je název vašeho domácího mazlíčka ?: Jaké jsou vaše telefonní čísla?
+22=Předchozí
+23=Dodělat

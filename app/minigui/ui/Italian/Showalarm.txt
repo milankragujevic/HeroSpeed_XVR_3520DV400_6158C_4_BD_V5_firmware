@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=Ril. Movimento
+2=Perdita di video
+3=Trigger dell'ingresso di allarme
+4=\
+5=\
+6=Faccia (cattura del viso)
+7=Intrusione
+8=Attraversamento
+9=Cambio scena
+10=Residuo articolo
+11=Prelievo articolo
+12=Confronto facciale
+13=Vagabondo
+14=Riunione e conteggio del personale
+15=Perdita video flusso principale
+16=Perdita video sottoflusso
+17=Uscita di allarme
+18=Fumo
+19=Infrarosso
+20=Humanoid
+21=Nessun disco
+22=Errore del disco
+23=Rete disconnessa
+24=Conflitto di IP
+25=Conflitto MAC

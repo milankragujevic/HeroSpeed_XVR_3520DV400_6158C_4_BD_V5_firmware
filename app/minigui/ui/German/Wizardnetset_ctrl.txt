@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Datum und Uhrzeit;1
+2=Netzwerk;2
+3=Festplatte;3
+4=Kamera;4
+5=Plattform;5
+6=Passwort ändern;5
+7=Netzwerkeinstellungen
+8=DHCP aktivieren
+9=IP Adresse
+10=Netzwerkmaske
+11=Gateway
+12=Primäre DNS
+13=Sekundärer DNS
+14=Früher
+15=Weiter
+16=Ausfahrt

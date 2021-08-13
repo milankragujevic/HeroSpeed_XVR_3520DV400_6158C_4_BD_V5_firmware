@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Restaurer les paramètres par défaut?
+2=Nom du canal non pris en charge;
+3=Il y a une ou plusieurs caméras sans autorisation!

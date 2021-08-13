@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Obnovit výchozí nastavení ?
+2=Zobrazení
+3=Odeslat e-mail
+4=Zvuková výstraha

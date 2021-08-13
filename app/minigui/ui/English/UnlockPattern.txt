@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Please draw an unlock pattern.
+2=Release the mouse after completion.
+3=Connect at least 4 points, please try again.
+4=Please draw the pattern again to confirm.
+5=The pattern drawn twice is different, please confirm again.
+6=Please remember your pattern.
+7=The unlock pattern is wrong,there are
+8=Login
+9=chances.
+10=The password or unlock pattern has been entered incorrectly 5 times. Please try again after 30 minutes.

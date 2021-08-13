@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=In gebruik
+2=HDD nummer
+3=Normaal
+4=HDD niet verbonden!
+5=Bezig met formatteren, even geduld aub…
+6=Apparaat is in gebruik
+7=Onbekende fout
+8=Formatteren succesvol
+9=Formatteren mislukt
+10=Selecteer aub een schijf
+11=Formatteren verwijderd alle bestanden van de schijf. Verdergaan?
+12=Geen toestemming!
+13=Kon de USB-schijf niet formatteren
+14=Wilt u de boot wizard afsluiten?

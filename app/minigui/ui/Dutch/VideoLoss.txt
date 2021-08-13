@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Reset naar fabrieksinstellingen ?
+2=Geen toestemming!
+3=Scherm
+4=Stuur een e-mail
+5=Zoemer alarm

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Netset x="%15" y="%10" w="%100-%15" h="%100-%10" title="Netset">
+
+<row>
+    <list type="listview_ex" id="1" x="%3" y="30" w="%79" h="560" s="11:12:13:14:15:203:204:205" itemcnt="3" itemh="56">
+        <item w="%26" align="l">1</item>
+        <item w="%26" align="l"></item>
+        <item w="%26" align="l"></item>
+    </list>
+</row>
+
+</Netset>

@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Obnovit výchozí nastavení ?
+2=Chcete opravdu opustit průvodce ?
+3=Číslo portu nemůže být stejné !
+4=Číslo portu nemůže být meněí než 1024 kromě standardních hodnot 554 a 80 !
+5=Neznámý
+6=Intranetové IP a externí IP nemohou být ve stejném segmentu sítě
+7=Chcete změnit zařízení intranet IP a restartovat zařízení?
+8=Chyba formátu adresy IP!
+9=Chyba formátu síťové masky!
+10=Chyba formátu brány!
+11=Chyba formátu DNS!
+12=Lan1 a Lan2 nemohou být ve stejném segmentu sítě
+13=Změnit síťový režim musí být restartován, chcete pokračovat v jeho úpravě?

@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Testarea ...
+2=Testați succesul.
+3=Încercați eșecul.
+4=Modificați dosarul Încărcare trebuie să decuplați și apoi să reacționați din nou pentru a intra în vigoare.
+5=Revenire la parametrii initiali?
+6=Lega
+7=Desface

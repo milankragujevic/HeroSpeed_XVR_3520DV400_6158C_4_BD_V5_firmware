@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Detecção de movimento
+2=Ajuste de vídeo
+3=Vídeo perdido
+4=Entrada alarme
+5=Saída alarme
+6=Exceção
+7=Canal
+8=Habilitar
+9=Hora de Alerta
+10=Ação de Ligação
+11=Ligação Normal
+12=Padrão
+13=Copiar
+14=Aplique
+15=Saída alarme
+16=Campainha

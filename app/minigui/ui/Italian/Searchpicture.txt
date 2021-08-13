@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Selezionare un file.
+2=Not enough disk space.
+3=Ricerca, attendere…
+4=Impossibile scrivere dati sul disco rimovibile!
+5=Backup terminato con successo!
+6=Inserire un disco USB
+7=Troppi file, ferma ricerca!
+8=Cattura manuale
+9=Ril. Movimento
+10=Allarme
+11=Rilevazione movimento e Allarme
+12=Rilevazione movimento e Allarme

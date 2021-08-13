@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=/
+2=/
+3=Eroare de format de timp!
+4=Asteptarea in retea este prea mare, va rugam stergeti canalul gradual
+5=Asteptarea in retea a revenit la normal
+6=Fara permisiune!
+7=Upgradare, nu inchideti!
+8=In proces de formatare, va rugam asteptati…
+9=Interogare ...
+10=No channels that support this feature!
+11=Detectare facială
+12=mod
+13=Instant playback
+14=Volum
+15=Zoom
+16=Imagine
+17=Descoperă informații
+18=Închide
+19=Parola curentă este prea simplă, modificați parola!
+20=Au fost găsite noi dispozitive de stocare, formatate imediat ca disc de înregistrare?
+21=În dezvoltare!
+22=Manual screenshot failed!
+23=Oprire pe disc utilizată
+24=Parola curentă este prea simplă, modificați parola!
+25=Captură

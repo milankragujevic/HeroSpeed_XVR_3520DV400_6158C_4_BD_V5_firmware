@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Pasta Nova
+2=Nome do Arquivo
+3=Confirmado
+4=cancelar

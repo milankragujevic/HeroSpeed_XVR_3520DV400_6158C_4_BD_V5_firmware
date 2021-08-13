@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=/
+2=/
+3=Time format error!
+4=The network load is too large, please gradually delete channel
+5=The load of the network back to normal
+6=No permission!
+7=Upgrading, do not power off!
+8=In process of formatting, please wait...
+9=Polling...
+10=No channels that support this feature!
+11=Face detection
+12=Mode
+13=5m Playback
+14=Volume
+15=Zoom
+16=Image
+17=Stream Info
+18=Close
+19=The current password is too simple,please modify the password!
+20=New storage devices were found,format as record disk immediately?
+21=In development!
+22=Manual screenshot failed!
+23=Disk forbidden
+24=The current password is too simple,please modify the password!
+25=Capture

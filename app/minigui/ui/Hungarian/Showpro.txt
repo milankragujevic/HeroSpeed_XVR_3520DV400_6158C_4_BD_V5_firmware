@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=HDD inicializálás, kérem várjon…
+2=Sikertelen

@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Ip adres
+2=Apparaat MAC

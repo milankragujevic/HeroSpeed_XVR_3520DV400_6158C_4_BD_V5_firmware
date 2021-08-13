@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Interogare salvare de rezerva
+2=ID
+3=Buturuga
+4=Anulare
+5=OK
+6=Tip
+7=Desfășurarea procesului copiei de rezervă

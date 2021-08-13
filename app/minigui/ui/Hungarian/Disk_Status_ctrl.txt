@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Sorsz.
+2=Állapot
+3=Teljes kapacitás
+4=Felhasználható kapacitás
+5=Eszköz típus
+6=Teljes kapacitás:
+7=Fennmaradó kapacitás:
+8=Bezárás

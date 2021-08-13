@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Átlagos késleltetés:
+2=Kisasszony
+3=Csomagveszteség aránya:
+4=A cél cím elérhetetlen!
+5=Hálózat tesztelése, várjon ...
+6=Ha elkapják a csomagot ...
+7=Hálózati rögzítés csomagmentesítési siker!
+8=Kérem csatlakoztassa az USB eszközt.
+9=Az IP-cím nem megfelelő!
+10=Helyezze be a hálózati kábelt.

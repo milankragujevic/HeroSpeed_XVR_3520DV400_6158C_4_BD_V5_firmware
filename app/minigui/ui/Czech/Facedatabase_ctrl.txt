@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Název detabáze
+2=Množství
+3=\
+4=Smazat
+5=Vytvořit nové
+6=Podrobnosti databáze tváří
+7=Jméno
+8=Množství
+9=Smazat
+10=Šablona tváře
+11=Přidat
+12=Dávkový import
+13=Číslo funkce

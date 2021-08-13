@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Vyhledávání, držte se!
+2=Aktualizace není k dispozici
+3=Lze vybrat pouze jeden balíček pro upgrade !
+4=Vyberte soubor pro aktualizaci !
+5=Aktualizovat ?
+6=Probíhá aktualizace, nevypínejte zařízení !
+7=Akutalizace selhala !
+8=Aktualizace dokončena !
+9=Kanál ONVIF nepodporuje upgrade!
+10=Kanál
+11=aktualizace úspěšná!
+12=aktualizace selhala!
+13=Kanál RTSP nepodporuje upgrade!
+14=Vložte USB disk.

@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Restaurar os parâmetros padrão?
+2=O formato do domínio está incorreto.

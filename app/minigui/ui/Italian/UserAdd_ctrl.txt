@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Aggiungi Utente
+2=Nome Utente
+3=Password
+4=Conferma
+5=Livello
+6=Operator:General
+7=Salva
+8=Cancella

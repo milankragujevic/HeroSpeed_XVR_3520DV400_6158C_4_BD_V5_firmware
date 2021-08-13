@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Similitudine
+2=Vârstă
+3=Sex
+4=Ochelari
+5=Pălărie
+6=DA
+7=NU
+8=Lung
+9=Scurt
+10=Masculin
+11=Feminin
+12=Nume
+13=Mod: Lista neagră
+14=Mod: Lista albă
+15=Mod: Lista neagră și Lista albă
+16=Barbă
+17=Canal

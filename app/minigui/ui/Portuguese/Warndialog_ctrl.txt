@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Gorjeta
+2=confirme
+3=cancelar
+4=Modificar
+5=Modificar depois

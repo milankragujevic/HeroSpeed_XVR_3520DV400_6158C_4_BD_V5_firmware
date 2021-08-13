@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Nový štítek
+2=Jméno
+3=Potvrzení
+4=Zrušit
+5=Upravit štítky

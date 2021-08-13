@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Record Schedule
+2=Current Set Week:
+3=Schedule 1
+4=Schedule 2
+5=Schedule 3
+6=Schedule 4
+7=Schedule 5
+8=Schedule 6
+9=Use To:
+10=All
+11=Sun.
+12=Mon.
+13=Tue.
+14=Wed.
+15=Thu.
+16=Fri.
+17=Sat.
+18=Save
+19=Cancel
+20=Schedule 7
+21=Schedule 8
+22=Sun.:Mon.:Tue.:Wed.:Thu.:Fri.:Sat.
+23=Apply

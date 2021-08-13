@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Obnovit výchozí nastavení ?
+2=Bez povolení!
+3=Zobrazení
+4=Odeslat e-mail
+5=Zvuková výstraha

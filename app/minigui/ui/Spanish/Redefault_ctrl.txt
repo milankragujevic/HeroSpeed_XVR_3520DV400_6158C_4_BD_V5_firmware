@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Restaurar valores de cámaras
+2=Restaurar Param Preconfigurado de Almacenamiento
+3=Restaurar Param Preconfigurado de Sistema
+4=Restaurar valores de mantenimiento
+5=restaurar valores de fabrica
+6=Aplicar

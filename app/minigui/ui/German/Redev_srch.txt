@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Gerätesuche, bitte warten...
+2=Sind Sie sicher, dass Sie den DVS-Assistenten beenden möchten?
+3=DVS Einrichtungsassistent vereinfacht die Ersteinrichtung und weist automatisch für jeder IP-Kamera in Ihrem Netzwerk eine eindeutige IP-Adresse. Fortfahren?
+4=Die Fisheye-Kamera muss separat hinzugefügt werden
+5=Die Kamera antwortet nicht. Bitte die Kamera neu starten!
+6=Kamera hinzufügen, bitte warten.
+7=hinzugefügt
+8=Kamera löschen, bitte warten …

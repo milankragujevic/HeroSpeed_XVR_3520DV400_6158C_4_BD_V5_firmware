@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Visszaállítja az alapértelmezett paramétereket?
+2=Biztos kilép a segédből?
+3=A portszám nem egyezhet meg!
+4=A port érték nem lehet kisebb 1025-nél, kivéve az alapértelmezett 554 és 80 értéket!
+5=Ismeretlen
+6=A Belső és a külső hálózati kártya IP címe nem lehet azonos tartományban.
+7=A belső IP cím módosításához újra kell indítani az eszközt, megszakítja az újraindítást?
+8=IP cím formátum hiba!
+9=Hálózati maszk formátum hiba!
+10=Átjáró formátum hiba!
+11=DNS formátum hiba!
+12=A Lan1 és a Lan2 nem lehetnek azonos hálózati szegmensben
+13=Módosítsa a hálózati módot újra kell indítani, módosítani szeretné?

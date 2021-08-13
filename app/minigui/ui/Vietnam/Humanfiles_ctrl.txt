@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=\
+2=\
+3=\
+4=Thời gian
+5=Kênh
+6=Loại tệp
+7=Hôm nay:Hôm qua:Hai hôm qua:Ba hôm qua:Bẩy hôm qua:14 hôm qua
+8=Video và hình ảnh
+9=Điều kiện trống
+10=Tìm kiếm
+11=Lưu

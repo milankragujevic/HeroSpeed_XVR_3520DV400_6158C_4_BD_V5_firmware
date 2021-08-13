@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FileBackup x="0" y="0" w="%100" h="%100" title="">
+<row>
+<s type="static" id="61" x="0" y="0" w="%100" h="2" s="11:12:33" bcol="7"></s>
+<s type="static" id="62" x="0" y="%100-3" w="%100" h="2" s="11:12:33" bcol="7"></s>
+<s type="static" id="63" x="0" y="3" w="2" h="%100-6" s="11:12:33" bcol="7"></s>
+<s type="static" id="64" x="%100-3" y="3" w="2" h="%100-6" s="11:12:33" bcol="7"></s>
+<s type="static" id="66" x="3" y="%100-5" w="%100-6" h="2" s="11:12:33" bcol="5"></s>
+<s type="static" id="67" x="3" y="3" w="2" h="%100-8" s="11:12:33" bcol="5"></s>
+<s type="static" id="68" x="%100-5" y="3" w="2" h="%100-8" s="11:12:33" bcol="5"></s>
+<s type="static" id="73" x="249" y="58" w="2" h="%100-63" s="11:12:33" bcol="5"></s>
+<s type="static" id="74" x="251" y="58" w="2" h="%100-63" s="11:12:33" bcol="9"></s>
+<s type="static" id="31" x="6" y="5" w="%100-12" h="49" s="11:12:33" ft="16" bcol="20">1</s>
+</row>
+<row x="%100-37" y="19" w="20" h="20" s="12:13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="32" bg="./image/menu/close.png" bgc="./image/menu/close_hover.png" bgw="" ft="16"></b>
+</row>
+<col type="ctrl_button" x="5" y="58" w="244" h="54" s="12:13:41:42:48" gap="0">
+<b id="144" s="12:16:48:41:42" bg="./image/radiobutton_bg/filebackup.png">2</b>
+<b id="145" s="12:16:48:49:41:42" bg="./image/radiobutton_bg/FTP_backup.png">12</b>
+<b id="162" bg="./image/radiobutton_bg/Facecmpsearch.png">25</b>
+</col>
+<row type="static" x="250" y="55" w="170" h="50" s="11:12:31" bcol="30" gap="2">
+<b id="37">3</b>
+</row>
+
+
+<col type="static" x="265" y="105" w="%30-84" h="40" s="11:12:31" gap="-1">
+<s id="1" bcol="114">4</s>
+<s id="4" bcol="118">5</s>
+<s id="5" bcol="114">6</s>
+<s id="2" bcol="118">7</s>
+<s id="3" bcol="114">8</s>
+</col>
+
+<col x="%30+180" y="105" w="%70-196" h="40" gap="-1">
+<cb type="CtrlCombobox" id="11" s="11:12:13:21:22:23" ex="81" ad="120" tcol="20"><selcn>9</selcn></cb>
+<cb type="CtrlCombobox" id="14" s="11:12:13:14:21:22:23" ex="81" ad="400" tcol="10"><selcn>10</selcn></cb>
+<cb type="CtrlCombobox" id="15" s="11:12:13:21:22:23" ad="40" ex="81" tcol="20"><selcn>11</selcn></cb>
+<e type="CtrlDate" id="12" s="12:13:92:93" ex="83:81" tcol="10"></e>
+<e type="CtrlDate" id="13" s="12:13:92:93" ex="83:81" tcol="20"></e>
+</col>
+
+
+<row type="ctrl_button" x="265" y="665" w="140" h="44" s="12:13:41:42" bgw="0" tc="100" gap="10">
+<b id="16" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">13</b>
+<b id="17" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">14</b>
+<b id="18" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">15</b>
+<b id="19" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">16</b>
+</row>
+
+<row>
+<filelist type="listview_ex" id="24" x="265" y="315" w="%100-280" h="280" s="11:12:13:14:15:203:204" itemcnt="7" itemh="40">
+<item w="%6-17" cbox="1" all="1" line="0"></item>
+<item w="%6-17" align="l"></item>
+<item w="%9-10" align="l">17</item>
+<item w="%9-25" align="l">18</item>
+<item w="%29-84" align="l">19</item>
+<item w="%29-84" align="l">20</item>
+<item w="%12-10" align="l">21</item>
+</filelist>
+</row>
+<row>
+<s type="static" id="75" x="265" y="610" w="%100-280" h="40" s="11:12:31" bcol="100"></s>
+<s type="static" id="76" x="1065" y="612" w="%100-1080" h="36" s="11:12:31" bcol="8"></s>
+</row>
+<row type="static" x="265" y="612" h="36" gap="0" bcol="14">
+<s id="25" s="11:12:31" w="150" gap="-5">22</s>
+<s id="20" w="150" s="11:12:31"></s>
+<s id="23" s="11:12:31" w="190"></s>
+<s id="21" s="11:12:31" w="%100-772"></s>
+</row>
+<row type="ctrl_button" x="5" y="%100-58" w="244" h="54" s="12:13:41:42" bgw="0" tc="2" ex="81">
+<b id="134" bg="./image/common/btnpre.png" bgc="./image/common/btnpre_hover.png" ft="16">24</b>
+</row>
+
+
+
+
+</FileBackup>

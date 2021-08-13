@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Zjišťuji informace…
+2=Spojení v pořádku !
+3=Spojení ukončeno s chybou !
+4=Čekám…
+5=Použijte prohlížeč k otevření následující adresy URL, dokončete ověření:

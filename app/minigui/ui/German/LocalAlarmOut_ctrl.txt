@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Bewegungsmelder
+2=Änderung von Videos
+3=Videoverlust
+4=Alarmeingang
+5=Alarmausgang
+6=Störungsmeldung
+7=Alarmausgang Nr.
+8=Alarmname
+9=Verzögern
+10=Bearbeiten
+11=Summer

@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=Detekce pohybu
+2=Ztráta videa
+3=Vzbuzení vstupního alarmu
+4=\
+5=\
+6=Tvář (Zachycení tváře)
+7=Vniknutí
+8=Překročení
+9=Změna scény
+10=Zanechání věcí
+11=Vyzvednutí věcí
+12=Srovnání tváří
+13=Putování
+14=Shromáždění
+15=Ztráta videa hlavního proudu
+16=Ztráta videa podružného proudu
+17=Výstup alarmu
+18=Smog
+19=Infračervené záření
+20=Humanoid
+21=Žádný disk
+22=Chyba disku
+23=Odpojená síť
+24=Ip konflikt
+25=MAC konflikt

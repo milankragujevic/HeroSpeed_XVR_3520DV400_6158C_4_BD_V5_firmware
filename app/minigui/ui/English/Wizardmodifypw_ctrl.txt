@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Date and Time;1
+2=Network;2
+3=Hard Disk;3
+4=Camera;4
+5=Plateform;5
+6=Change Password;5
+7=Change Password
+8=Modify Admin Password
+9=Old Password
+10=New Password
+11=Confirm
+12=Reset Security Issues
+13=Security Issue 1
+14=Answer 1
+15=Security Issue 2
+16=Answer 2
+17=Security Issue 3
+18=Answer 3
+19=Please select issue:What is your job number?:Which day is your father's birthday?:What is your favorite English song?:Which day is your mother's birthday?
+20=Please select issue:What is your school number?:What is your lucky numbers?:The name of your favorite star is?(English):The day of your wedding anniversary is?
+21=Please select issue:What is your most popular mailbox?:What is the postal code for your area?:What is your pet's name?:What is your phone numbers?
+22=Previous
+23=Finish

@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Felhasználó módosítás
+2=Felhasználó név
+3=Jelszó módosítás
+4=Régi jelszó
+5=Új jelszó
+6=Megerősít
+7=Szint
+8=Administrátor:Operátor:Általános
+9=Mentés
+10=Megszünteti
+11=Biztonsági problémák visszaállítása
+12=Biztonsági probléma1
+13=Válasz1
+14=Biztonsági probléma2
+15=Válasz2
+16=Biztonsági probléma3
+17=Válasz3
+18=Kérem, válassza ki a kérdést: Mi a munkád száma ?: Melyik nap az apád születésnapja?: Mi a kedvenc angol dal ?: Melyik nap az édesanyád születésnapja?
+19=Kérem, válassza ki a kérdést: Mi az Ön iskola száma ?: Mi a szerencsés számod ?: A kedvenc csillagod neve?(angolul): Az esküvői évfordulója napja van?
+20=Kérjük, válassza ki a kérdést: Mi a legnépszerűbb postafiókod ?: Mi a postai irányítószám a területedhez ?: Mi a kedvence neve ?: Mi a telefonszámod?
+21=Export kulcs
+22=Feloldási minta
+23=Feloldási minta engedélyezése
+24=Feloldási minta módosítás

@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Visszaállítja az alapértelmezett paramétereket?
+2=A felvételi időtartam tartománya 30-255.
+3=Ehhez a csatornához  nincs engedélye!
+4=Rossz idő formátum!
+5=Hangjelző
+6=E-mail küldés
+7=Csatornafelvétel
+8=Teljes képernyő figyelés
+9=Maximum 6 ütemezés adható hozzá egy napra!

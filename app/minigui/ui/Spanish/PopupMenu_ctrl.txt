@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Reproducir
+2=Gestión de Docs
+3=Configuración del sistema
+4=loguear
+5=apagando
+6=Cerrar sesión

@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Információ kérés…
+2=Kapcsolódás sikeres!
+3=Kapcsolódási hiba!
+4=Folyamatban…
+5=Nyissa meg böngészőben az alábbi URL-t, megerősítés befejezése:

@@ -1,0 +1,18 @@
+[wintip]
+num=16
+1=Instellingen ophalen, even geduld aub…
+2=Geen toestemming!
+3=Regelregelfout!
+4=Er is een scheidingslijn!
+5=Op een lijn!
+6=Dit kanaalapparaat ondersteunt deze functie niet.
+7=Zoemer alarm
+8=Stuur een e-mail
+9=kanaal opname
+10=Zwarte lijst
+11=Positieve lijst
+12=Zwarte lijst en Positieve lijst
+13=Maximale ondersteuning voor
+14=Kanaal
+15=kanalen
+16=In ontwikkeling!

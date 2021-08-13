@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Auf Werkseinstellungen zurücksetzen?
+2=Sind Sie sicher, dass Sie den DVS-Assistenten beenden möchten?
+3=Bitte Portnummer eingeben
+4=Portnummer kann nicht kleiner als 1025 sein, außer der Standard 554 und 80!
+5=Unbekannt
+6=Interne IP und externe IP können nicht im selben Netzwerksegment liegen
+7=Änderung der Intranet-IP erfordert Geräteneustart, jetzt neustarten?
+8=IP-Adressformatfehler!
+9=Netzwerkmaskenformatfehler!
+10=Gateway-Formatfehler!
+11=DNS-Formatfehler!
+12=Lan1 und Lan2 können nicht im selben Netzwerksegment liegen
+13=Ändern Sie den Netzwerkmodus muss neu gestartet werden, Sie möchten es weiter ändern?

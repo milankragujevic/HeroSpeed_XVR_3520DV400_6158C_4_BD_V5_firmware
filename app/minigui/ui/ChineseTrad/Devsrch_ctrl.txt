@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=添加設備
+2=IP
+3=埠
+4=協議
+5=韌體版本
+6=顯示篩選
+7=Onvif:Multi net segment:Private:Onvif and Private
+8=設備搜索
+9=添加
+10=手動添加
+11=取消
+12=添加/刪除

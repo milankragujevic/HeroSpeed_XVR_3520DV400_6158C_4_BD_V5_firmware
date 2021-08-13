@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Denumirea Bazei de Date
+2=Număr
+3=\
+4=Stergere
+5=Nou
+6=Detalii despre Baza de Date Facială
+7=Nume
+8=Număr
+9=Stergere
+10=Șablon Facial
+11=Adaugare
+12=Importă în grup
+13=Numărul caracteristicii

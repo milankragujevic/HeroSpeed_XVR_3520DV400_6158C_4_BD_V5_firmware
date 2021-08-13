@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=XVR obrázek
+2=Jasný
+3=Kontrast
+4=Saturace
+5=Odstín
+6=Výchozí
+7=Použít
+8=Zrušit

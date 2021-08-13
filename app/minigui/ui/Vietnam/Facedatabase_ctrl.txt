@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Tên thư viện
+2=Số lượng
+3=\
+4=Xóa
+5=Tạo mới
+6=Thông tin chi tiết thư viện khuôn mặt
+7=Tên
+8=Số lượng
+9=Xóa
+10=Mẫu khuôn mặt
+11=Thêm
+12=Nhập vào loạt
+13=Số tính năng

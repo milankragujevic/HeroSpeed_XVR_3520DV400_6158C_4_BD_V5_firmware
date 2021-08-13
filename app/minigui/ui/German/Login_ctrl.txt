@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Benutzer-Anmeldung
+2=admin
+3=Anmeldung
+4=Schließen
+5=Passwort Vergessen
+6=Automatische Anmeldung

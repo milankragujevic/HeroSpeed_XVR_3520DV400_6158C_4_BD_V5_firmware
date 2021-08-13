@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=基本設定値に戻しますか?
+2=ウィザードを終了しますか?
+3=ポート番号は重複出来ません！
+4=ポート番号は基本値554と80を除いて1025より小さくていけません!
+5=Unkown
+6=内部ネットワークカードIPと外部ネットワークカードIPは同一なネットワーク網ではいけません。
+7=内部ネットワークカードIPを変更するには再起動が必要です。再起動しますか？
+8=IPアドレスエラー！
+9=ネットマスクエラー！
+10=ゲートウェイ形式エラー!
+11=DNSが正しくありません!
+12=Lan1 and Lan2 can not be in the same network segment
+13=Modify the network mode must be restarted, you want to continue to modify it?

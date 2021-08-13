@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Immagine Triox
+2=Luminosità
+3=Contrasto
+4=Saturazione
+5=Luminosità
+6=Predefinito
+7=Applica
+8=Cancella

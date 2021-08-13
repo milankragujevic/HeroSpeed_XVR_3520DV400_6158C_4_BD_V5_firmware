@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Elija por favor la base de datos de caras
+2=Con éxito:
+3=Fallido:
+4=¡Adición por lotes con éxito!
+5=¡Adición por lotes fallida!
+6=La vía de acceso del disco USB no existe
+7=El dispositivo USB nio contiene imágenes de caras
+8=¡Agregando una imagen máxima de 5000 caras!
+9=Añade imágenes de caras
+10=La base de datos de caras no existe
+11=¡Agregando un máximo de 16 bases de datos faciales!
+12=Capacidad residual
+13=Capacidad total

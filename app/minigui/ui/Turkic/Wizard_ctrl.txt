@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Dil
+2=sistem dilleri
+3=Uygula
+4=Çık

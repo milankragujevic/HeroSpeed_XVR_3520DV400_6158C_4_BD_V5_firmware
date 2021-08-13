@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Revenire la parametrii initiali?
+2=Fara permisiune!
+3=Ești sigur că ieși din expertul de pornire?
+4=Setările noi vor fi activate după repornire.Reportați acum?
+5=Configurarea Wizard Wizard este finalizată!
+6=Eroare de format de timp!
+7=Adăugați un maxim de 6 programe pe zi!

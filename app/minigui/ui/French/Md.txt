@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Restaurer les paramètres par défaut?
+2=La durée d'enregistrement est de 30 à 255
+3=Cette chaîne n'a pas de permission!
+4=Erreur de format d'heure!
+5=Alerte buzzer
+6=Envoi d'email
+7=Enregistrement du canal
+8=Surveillance plein écran
+9=Ajouter 6 horaires maximum par jour!

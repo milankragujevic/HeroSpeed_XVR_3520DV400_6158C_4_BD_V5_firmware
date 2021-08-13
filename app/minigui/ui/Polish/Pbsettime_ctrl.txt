@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Ustawienia czasu
+2=Proszę ustaw czas edycji
+3=Ustaw czas odtwarzania
+4=Zakończenie
+5=Zapisz
+6=Anuluj

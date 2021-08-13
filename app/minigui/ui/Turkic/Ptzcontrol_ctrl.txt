@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=PTZ
+2=Kanal
+3=PTZ kontrol
+4=Ortak kontrol
+5=Yakınlaştır
+6=Odakla
+7=İris
+8=Hız
+9=Ön Ayar
+10=Adlandırma
+11=Devriyeyi aç
+12=Devriyeyi kapat
+13=Devriye Gezme
+14=1:2:3
+15=Cruise set

@@ -1,0 +1,21 @@
+[wintip]
+num=19
+1=Device searching,hold on!
+2=Are you sure you exit the boot wizard?
+3=Operation will change the IP of remote device, confirm the changes?
+4=Is the fisheye equipment that require added separately
+5=The device is connected too many times, you can not add.
+6=No permission!
+7=Deleting camera,please wait...
+8=Please select channel!
+9=The Plug and Play channel can not be deleted.
+10=Connected
+11=Unknown error
+12=Net connection error
+13=Port or server error
+14=User name or password error
+15=Stream access failed
+16=CH
+17=Bandwidth idle:
+18=Only a single card can to auto add!
+19=Whether to open all channels H264+ or H265+?

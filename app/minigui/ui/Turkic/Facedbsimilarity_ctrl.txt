@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Benzerlik
+2=Tamam
+3=iptal
+4=Kara liste: Beyaz liste
+5=Mod

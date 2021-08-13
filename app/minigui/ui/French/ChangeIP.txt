@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Aucune autorisation!
+2=Échec de la configuration
+3=Conflit d'IP
+4=Adresse IP incorrecte
+5=Masque sous-réseau incorrect
+6=Passerelle incorrecte
+7=IPC non privée ne peut pas modifier les ports de DNS,HTTP et RTSP, confirmez ce changement ?

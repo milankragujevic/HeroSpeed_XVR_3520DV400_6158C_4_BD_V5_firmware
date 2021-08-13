@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Nincs jogosultsága!
+2=Visszajátszás
+3=File archiválás
+4=HDD kezelés
+5=Rögzítés ütemezés és kamera kódolás beállítás
+6=Camera add,camera osd,image,motion detection,videoloss,ptz,privacy mask setup,channelname.
+7=Rendszer dátum/idő, Hálózat, Monitor, Rendszerhibák, Felhasználók beállítása
+8=Stream,Napló,Verzió infó és rendszer frissítés,Alapértelmezett visszaállítás
+9=Leállítás és újraindítás
+10=Rendszer dátum/idő, Hálózat, Monitor, Rendszerhibák, Felhasználók beállítása, Csatorna konfig.,Helyi riasztás.

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Curise Kurulumu
+2=Ön Ayar Numarası
+3=Dayanma Süresi
+4=Hız
+5=Onaylamak
+6=iptal

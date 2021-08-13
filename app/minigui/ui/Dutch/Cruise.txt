@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Rondkijken
+2=Om rond te kijken zijn op zijn minst 2 presets benodigd!
+3=Reset naar fabrieksinstellingen ?
+4=Dit kanaal heeft geen toestemming!
+5=Cruising, aanpassen niet toegestaan…

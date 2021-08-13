@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Activer
+2=Dropbox
+3=Google
+4=Dossier Upload
+5=Nom d'utilisateur
+6=Capacité
+7=Utilisé
+8=Tester
+9=Par défaut
+10=Appliquer
+11=Google
+12=IPEYE
+13=Lier

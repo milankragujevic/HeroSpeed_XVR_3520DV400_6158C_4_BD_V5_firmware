@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Ngày tháng và thời gian;1
+2=Mạng lưới;2
+3=Ổ cứng;3
+4=Camera;4
+5=Sân;5
+6=Đổi mật khẩu;5
+7=Thêm Camera
+8=Kênh
+9=Chỉnh sửa
+10=Xóa
+11=Cấu hình.
+12=Liên kết
+13=IP
+14=Cổng
+15=Giao thức
+16=Phiên bản phần mềm
+17=Tình trạng kết nối
+18=Tìm kiếm
+19=Tự động thêm
+20=Thêm thủ công
+21=Trước
+22=Tiếp theo
+23=Thoát
+24=Tên thiết bị Camera

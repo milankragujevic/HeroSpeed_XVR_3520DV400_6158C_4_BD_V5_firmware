@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Modifier utilisateur
+2=Nom d'utilisateur
+3=Modifier mot de passe
+4=Ancien mot de passe
+5=Nouveau mot de passe
+6=Confirmer
+7=Grade
+8=Administrateur: Opérateur: Utilisateur
+9=Sauvegarder
+10=Annuler
+11=Réinitialiser les problèmes de sécurité
+12=Question de sécurité 1
+13=Réponse 1
+14=Question de sécurité 2
+15=Réponse 2
+16=Question de sécurité 3
+17=Réponse 3
+18=Choisissez un numéro: Quel est votre numéro de travail?: Quel jour est l'anniversaire de votre père?: Quelle est votre chanson anglaise préférée?: Quel jour est l'anniversaire de votre mère?
+19=Veuillez choisir : Quel est le nom de votre école ? : Quel est votre numéro porte bonheur ? : Quel est le nom de votre star préférée (française) ? : Quelle est votre date d'anniversaire de mariage ? :
+20=Veuillez choisir : Quelle est votre adresse mail la plus utilisée ? : Quel est le code postal de votre ville ? : Quel est le nom de votre animal de compagnie ? : Quel est votre numéro de téléphone ?
+21=Clé d'exportation
+22=Motif de Déverrouillage
+23=Activer le Motif de Déverrouillage
+24=Modifier le Motif de Déverrouillage

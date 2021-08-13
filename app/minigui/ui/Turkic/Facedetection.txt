@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Benzerlik
+2=Yaş
+3=Sex
+4=Gözlük
+5=Şapka
+6=List type:
+7=Time:
+8=Beyaz liste
+9=Kara liste
+10=Yok
+11=Man
+12=Woman
+13=Show only faces
+14=Show only human figures

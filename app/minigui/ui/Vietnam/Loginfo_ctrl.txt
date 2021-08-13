@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Kiểu
+2=Thời gian bắt đầu
+3=Thời gian kết thúc
+4=Tất cả các nhật ký: Quản lý hệ thống: Quản lý người dùng: Cấu hình thông số: Hoạt động của tập tin: Trạng thái nhắc: Sự kiện báo động
+5=Truy vấn
+6=Số.
+7=Thời gian
+8=Sự kiện
+9=Người dùng
+10=Xuất ra
+11=Xuất tất cả
+12=Xóa

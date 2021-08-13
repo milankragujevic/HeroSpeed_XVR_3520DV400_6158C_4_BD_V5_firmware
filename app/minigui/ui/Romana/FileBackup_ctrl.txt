@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Timp
+2=Canal
+3=Tip fișier
+4=Etichetă
+5=Tip de eveniment
+6=Nr. de înmatriculare
+7=Stare fișier
+8=Zonă/Țară
+9=Astăzi: Ieri: Ultimele 2 zile: Ultimele 3 zile: Ultimele 7 zile: Ultimele 14 zile: Personalizare
+10=Video:Picture
+11=Toate:Deblocate:Blocate
+12=Export rapid
+13=Cautare

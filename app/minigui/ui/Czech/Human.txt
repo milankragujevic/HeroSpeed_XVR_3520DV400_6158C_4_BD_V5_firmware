@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Obnovit výchozí nastavení ?
+2=Chyba formátu času!
+3=Maximum support for
+4=Kanál
+5=channels

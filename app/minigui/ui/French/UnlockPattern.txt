@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Veuillez dessiner le motif de déverrouillage.
+2=Relâchez le button de la souris après la dessination.
+3=Connecter au moins 4 points, veuillez réessayer.
+4=Veuillez dessiner à nouveau le même modèle pour confirmer.
+5=Les deux motifs dessinés sont différents,veillez confirmer à nouveau.
+6=Veuillez retenir le modèle.
+7=Le moyen de déverrouillage est faux, il y a
+8=Se connecter
+9=chances.
+10=Le mot de passe ou le moyen de déverrouillage a été mal saisi 5 fois. Veuillez réessayer après 30 minutes.

@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Restore the default parameters?
+2=No permission!
+3=Are you sure you exit the boot wizard?
+4=New settings will be activated after rebooting.Reboot now?
+5=Boot Wizard setup is complete!
+6=Time format error!
+7=Add a maximum of 6 schedule a day !
+8=There are one or more channel have no permission !

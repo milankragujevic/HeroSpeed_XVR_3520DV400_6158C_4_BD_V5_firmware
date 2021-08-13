@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Ansicht
+2=Gerätepfad
+3=Alle Dateien (*. *): * .Jpg
+4=aufwärts
+5=Name
+6=Größe
+7=Typ
+8=Änderungszeit
+9=Löschen
+10=OK
+11=Abbrechen
+12=Neuer Ordner

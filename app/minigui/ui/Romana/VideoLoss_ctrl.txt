@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Detectarea miscarii
+2=Temperare video
+3=Pierderea calității video
+4=Intrare alarmă
+5=Alarma de ieșire
+6=Excepție
+7=Canal
+8=Activat
+9=Program de armare
+10=Acțiune de asociere
+11=Corelare normală
+12=Initial
+13=Copie
+14=Salvare
+15=Alarma de ieșire
+16=Alarmă sonoră

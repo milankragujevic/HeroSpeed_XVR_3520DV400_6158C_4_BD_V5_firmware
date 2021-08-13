@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Kayıttan oynatma
+2=Bölge yönetimi
+3=Sistem Kurulumu
+4=Oturum aç
+5=Cihazı kapat
+6=Çıkış

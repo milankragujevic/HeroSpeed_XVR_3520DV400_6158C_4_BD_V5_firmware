@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Felhasználó nem létezik!
+2=A jelszó helytelen, vannak
+3=Betöltés, kérem várjon...
+4=Biztos kilép a segédből?
+5=esélyek.
+6=A jelszót vagy a feloldási mintát ötször hibásan adta meg. Kérjük, próbálja újra 30 perc múlva.
+7=A jelszó ötször hibásan lett megadva. Kérjük, próbálja újra 30 perc múlva.

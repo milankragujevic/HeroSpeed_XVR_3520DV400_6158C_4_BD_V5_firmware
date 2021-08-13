@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=E-mail
+2=P2P
+3=Network
+4=Display
+5=Exceptions
+6=User
+7=IP/Port
+8=DDNS
+9=E-mail
+10=P2P
+11=FTP
+12=UPnP
+13=Cloud Storage
+14=Status
+15=Enable P2P
+16=Channel Number
+17=Refresh
+18=Apply
+19=Cancel
+20=Preview
+21=Encryption
+22=NONE:SSL
+23=Push Interval(min)
+24=Close Push:2:5:10
+25=User Number

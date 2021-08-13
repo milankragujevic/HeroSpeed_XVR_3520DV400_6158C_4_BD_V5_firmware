@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Search By Event
+2=Search By Picture
+3=Channel
+4=Time
+5=Type
+6=Today:Yesterday:Last 2 Days:Last 3 Days:Last 7 Days:Last 14 Days:Custom
+7=Blacklist:Whitelist:Blacklist And Whitelist
+8=Search

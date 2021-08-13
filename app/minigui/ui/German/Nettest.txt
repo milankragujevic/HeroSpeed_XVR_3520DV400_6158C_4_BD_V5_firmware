@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Durchschnittliche Verzögerung:
+2=ms
+3=Paketverlust Rate:
+4=Ziel-Adresse ist nicht erreichbar!
+5=Netzwerktest, bitte warten...
+6=Datenpaket empfangen..
+7=Netzwerk-Backup ist erfolgreich.
+8=Bitte legen Sie die USB-Festplatte ein.
+9=IP Adresse ist falsch
+10=Bitte legen Sie das Netzwerkkabel ein.

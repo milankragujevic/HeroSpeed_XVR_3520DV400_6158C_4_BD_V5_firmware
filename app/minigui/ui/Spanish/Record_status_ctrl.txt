@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Canal
+2=Estado de registro
+3=Tipo de corriente
+4=Bitrate (Mbps)
+5=Record Export
+6=Número de disco
+7=Cerrar

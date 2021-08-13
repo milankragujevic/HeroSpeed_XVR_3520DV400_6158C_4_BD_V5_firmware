@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Caméra
+2=PoE
+3=OSD
+4=Image
+5=PTZ
+6=Masque vie privée
+7=Paramètres encodage
+8=Flux d'enregistrement
+9=Flux secondaire
+10=Nom du canal
+11=Zone privative locale
+12=Paramètre PTZ

@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Chỉnh sửa
+2=Đầu vào báo động
+3=Tên báo động
+4=Bật
+5=Kiểu
+6=N.O: N.C
+7=Thời gian  vũ trang
+8=Hạnh động lên kết
+9=Liên kết bình thường
+10=Ghi kênh
+11=Kích hoạt cảnh báo
+12=Sao chép
+13=Ứng dụng
+14=Tất cả
+15=CN.
+16=Hai.
+17=Ba.
+18=Tư.
+19=Năm.
+20=Sáu.
+21=Bảy.
+22=Bình thường
+23=Chỉnh sửa
+24=Giám sát toàn màn hình

@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Sélectionnez une base de données de visage
+2=Succès:
+3=Échec:
+4=Ajouté par lots avec succès!
+5=L'ajout par lots a échoué!
+6=Le chemin de la clé USB n'existe pas
+7=Il n'existe pas d'image de visage dans la clé USB
+8=Ajout de 5000 images maximum!
+9=Ajouter les images de visage
+10=La base de données de visage n'existe pas
+11=Ajout de maximum 16 base de données de visage!
+12=Capacité restante
+13=Capacité totale

@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Kamera Setup
+2=Aktivieren
+3=Kanal
+4=Protokoll
+5=Vorschau
+6=Benutzername
+7=Passwort
+8=IP
+9=Domain
+10=Anschluss
+11=Hauptstream
+12=Substream
+13=Haupt:Sub
+14=Speichern
+15=Abbrechen
+16=Methode hinzufügen
+17=Handbuch:Plug and Play
+18=Handbuch

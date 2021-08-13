@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Restaurer les paramètres par défaut?
+2=Le port doit être compris entre 1 et 65535!
+3=Test de l'email en cours, veuillez patienter…
+4=L'email ne peut être envoyé!
+5=Réussi, consulter votre boite mail.
+6=Le format de l'adresse électronique est incorrect.
+7=Le format du serveur SMTP est incorrect.
+8=Erreur de format d'heure!
+9=Personnaliser

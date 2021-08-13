@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Salvar parâmetros?
+2=Procurando dispositivos, faça o logout mais tarde!
+3=O endereço IP está incorreto!
+4=Selecione um dispositivo!
+5=Editar
+6=Adicionar Manual
+7=O nome de usuário não pode ficar em branco!
+8=Falha na resolução de nome de domínio.
+9=O formato do domínio está incorreto.

@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Dodaj użytkownika
+2=Użytkownik
+3=Hasło
+4=Ustal
+5=Poziom
+6=Operator:Podstawowy
+7=Zapisz
+8=Anuluj

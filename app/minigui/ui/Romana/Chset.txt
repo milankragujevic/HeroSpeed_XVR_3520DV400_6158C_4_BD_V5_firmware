@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Salvare Parametri?
+2=Cautare dispozitive, va rog deconectati-va mai tarziu!
+3=Adresa IP este gresita!
+4=Va rog selectati un dispozitiv!
+5=Editați
+6=Manuală Adăugați
+7=Numele de utilizator nu poate fi gol!
+8=Rezoluția numelui de domeniu eșuează.
+9=Formatul domeniului este incorect.

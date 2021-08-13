@@ -1,0 +1,12 @@
+[Ctrltxt]
+num=10
+1=Mod seç
+2=Mod
+3=Tümü
+4=Oto
+5=AHD
+6=CVI
+7=TVI
+8=CVBS
+9=Uygula
+10=iptal

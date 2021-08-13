@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Vista
+2=Percorso del dispositivo
+3=Tutti i documenti (*. *): * .Jpg
+4=Su
+5=Nome
+6=Dimensioni
+7=Tipo
+8=Tempo di modifica
+9=Cancellare
+10=Conferma
+11=Cancella
+12=Nuova cartella

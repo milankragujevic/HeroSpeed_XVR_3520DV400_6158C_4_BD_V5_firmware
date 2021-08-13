@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Les nouveaux paramètres seront activés après le redémarrage. Redémarrez maintenant?
+2=Caméra
+3=Restaurer les paramètres par défaut?
+4=1 écran
+5=4 écran
+6=8 écran
+7=9 écran
+8=16 écran
+9=25 écran
+10=36 écran
+11=64 écrans
+12=32 écrans
+13=L'appareil ne supporte pas cette résolution.

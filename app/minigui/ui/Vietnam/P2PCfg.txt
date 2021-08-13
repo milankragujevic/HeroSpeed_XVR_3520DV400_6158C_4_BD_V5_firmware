@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Khôi phục các tham số mặc định?
+2=Trực tuyến
+3=Ngoại tuyến
+4=Chuyển đổi loại mã hóa, vui lòng tắt P2P trước.

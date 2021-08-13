@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Backup Log
+2=ID
+3=Log
+4=Cancel
+5=OK
+6=Type
+7=Backup Progress

@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Menu
+2=1-Win
+3=Ch1
+4=Ch2
+5=Ch3
+6=Ch4
+7=4-Win
+8=Poll
+9=Configuração de gravação
+10=Adicionar câmera
+11=Reprodução
+12=PTZ
+13=Imagem XVR
+14=Modo de seleção
+15=Captura de tela manual
+16=Comparação de Rosto

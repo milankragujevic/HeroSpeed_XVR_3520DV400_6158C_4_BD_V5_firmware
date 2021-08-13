@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Podobieństwo
+2=Wiek
+3=Płeć
+4=Okulary
+5=Czapka
+6=TAK
+7=NIE
+8=Długie
+9=Krótkie
+10=Mężczyzna
+11=Kobieta
+12=Nazwa
+13=Moduł: Czarna lista
+14=Moduł: Biała lista
+15=Moduł: Biała i czarna lista
+16=Broda
+17=Kanał

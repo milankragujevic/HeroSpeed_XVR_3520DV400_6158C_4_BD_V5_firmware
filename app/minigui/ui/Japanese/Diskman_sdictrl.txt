@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=HDD
+2=一般
+3=HDD 情報
+4=No.
+5=状態
+6=総容量
+7=残容量
+8=デバイスタイプ
+9=Warning:DVR will reboot automatically after disk formatting !
+10=リフレッシュ
+11=フォーマット
+12=キャンセル
+13=プレビュー

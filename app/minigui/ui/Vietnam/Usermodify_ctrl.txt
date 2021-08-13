@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Sửa đổi Người dùng
+2=Tên người dùng
+3=Thay đổi mật khẩu
+4=Mật khẩu cũ
+5=Mật khẩu mới
+6=Xác nhận
+7=Cấp độ
+8=Quản trị viên: Nhà điều hành: Tổng quát
+9=Lưu
+10=Hủy
+11=Đặt lại vấn đề bảo mật
+12=Vấn đề bảo mật1
+13=Câu hỏi 1
+14=Vấn đề bảo mật2
+15=Câu hỏi 2
+16=Vấn đề bảo mật3
+17=Câu hỏi 3
+18=Xin vui lòng lựa chọn vấn đề: Việc làm của bạn là gì?: Ngày sinh của cha bạn là gì ?: Bài hát tiếng Anh yêu thích của bạn ?: Ngày nào mẹ bạn sinh nhật?
+19=Xin vui lòng lựa chọn vấn đề: Số trường học của bạn là gì ?: Số may mắn của bạn: Tên của ngôi sao yêu thích là gì? (Tiếng Anh): Ngày kỷ niệm ngày cưới của bạn là?
+20=Xin vui lòng lựa chọn vấn đề: Email phổ biến nhất của bạn là gì ?: Mã bưu điện cho khu vực của bạn là gì ?: tên thú cưng của bạn là gì ?: Số điện thoại của bạn là bao nhiêu?
+21=Phím xuất
+22=mẫu hình mở khoá
+23=Khởi dùng mẫu  vẽ mở khoá
+24=Sửa đổi mẫu  vẽ mở khoá

@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=\
+2=Kanal
+3=Kanal
+4=Startzeit
+5=Ähnlichkeit
+6=Wiedergabe
+7=Backup Bild
+8=Datensicherungsaufnahme
+9=Backup
+10=Abbrechen
+11=Alle
+12=Abbildung
+13=Liste
+14=Genaue Suche
+15=FTP Sicherung

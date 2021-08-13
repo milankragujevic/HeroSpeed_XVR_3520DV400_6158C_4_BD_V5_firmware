@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Kanaal instellingen
+2=Activeer
+3=Kanaal
+4=Protocol
+5=weergave vooraf
+6=Gebruikersnaam
+7=Wachtwoord
+8=IP
+9=Domein
+10=Poort
+11=Hoofd
+12=Sub
+13=Hoofd:Sub
+14=Opslaan
+15=Annuleren
+16=Voeg weg toe
+17=Handmatig: Plug and play
+18=Met de hand

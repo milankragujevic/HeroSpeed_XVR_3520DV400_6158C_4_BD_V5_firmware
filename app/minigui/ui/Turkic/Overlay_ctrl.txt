@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Kanal
+2=Kanal ismi
+3=zaman
+4=Metin
+5=Tarih biçimi
+6=OSD konumu
+7=Yansıtma
+8=Yıl Ay Gün:Ay Gün Yıl:Gün Ay Yıl
+9=Üst_sol:Alt_sol
+10=Kapalı:Yatay:Dikey:Her İkisi
+11=Uygula
+12=Kopyala

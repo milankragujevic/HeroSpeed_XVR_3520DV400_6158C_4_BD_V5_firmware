@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Ne
+2=Po
+3=Út
+4=St
+5=Čt
+6=Pá
+7=So
+8=Obnovit výchozí nastavení ?
+9=hod
+10=min

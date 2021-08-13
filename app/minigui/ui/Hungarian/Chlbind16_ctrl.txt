@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Rendszerbeállítás
+2=Általános
+3=Hálózat
+4=Kijelző
+5=Rendszerhibák
+6=Felhasználó
+7=Csatorna beállítások
+8=Csatorna beállítások
+9=Csat
+10=HD
+11=IP Cím
+12=Alapértelmezett
+13=Alkalmaz
+14=Megszünteti
+15=Előnézet
+16=Helyi risztás
+17=Lite mód
+18=Bekapcsolni:kikapcsolni
+19=Wifi
+20=IP szűrő

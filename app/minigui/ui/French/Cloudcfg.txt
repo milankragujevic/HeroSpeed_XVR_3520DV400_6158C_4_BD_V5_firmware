@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Test en cours…
+2=Test réussi.
+3=Test échoué.
+4=Le dossier Upload doit être désactivé puis activé pour prendre effet.
+5=Restaurer les paramètres par défaut?
+6=Lier
+7=Délier

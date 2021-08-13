@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=El nombre de servidor no puede quedar vacío
+2=El puerto interno y el externo no pueden ser cero
+3=El puerto interno y el externo no son el mismo

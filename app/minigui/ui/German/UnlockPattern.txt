@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Bitte zeichnen Sie ein Entsperrmuster.
+2=Lassen Sie die Maus los, wenn Sie damit fertig sind.
+3=Verbinden Sie mindestens 4 Punkte, versuchen Sie es erneut.
+4=Bitte zeichnen Sie das Muster erneut zur Bestätigung.
+5=Das zweimal gezeichnete Muster ist anders, bitte noch einmal bestätigen.
+6=Bitte behalten Sie Ihr Muster im Kopf.
+7=Das Entsperrmuster ist falsch, gibt es
+8=Anmeldung
+9=Möglichkeiten.
+10=Das Passwort oder Entsperrmuster wurde 5 Mal falsch eingegeben. Bitte versuchen Sie es nach 30 Minuten erneut.

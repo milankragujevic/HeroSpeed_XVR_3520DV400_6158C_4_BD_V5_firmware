@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=...הקידב
+2=החילצה הקידבה
+3=הלשכנ הקידבה
+4=Change Upload folder need to unbind and then rebind to take effect.
+5=?לדחמה תרירבל םירטמרפה תא רזחשל
+6=ףרצל
+7=ריתהל

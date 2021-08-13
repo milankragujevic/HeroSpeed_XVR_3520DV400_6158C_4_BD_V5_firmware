@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Varsayılan değişkenleri geri yüklesin mi?
+2=Zaman formatı hatası!
+3=Maximum support for
+4=Kanal
+5=channels

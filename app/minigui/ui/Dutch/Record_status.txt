@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Open
+2=Sluiten
+3=Videostream
+4=Substream
+5=Samengestelde stream
+6=Opnemen
+7=Beweging
+8=Alarm
+9=M en A
+10=Intelligent

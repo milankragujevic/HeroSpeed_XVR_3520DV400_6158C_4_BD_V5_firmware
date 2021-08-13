@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Nastavení nahrávání
+2=Kanál
+3=Vše
+4=Operce
+5=Nahrávat
+6=Pohyb
+7=Vše
+8=Ne
+9=Po
+10=Út
+11=St
+12=Čt
+13=Pá
+14=So
+15=Výchozí
+16=Kopírovat
+17=Použít
+18=Zrušit
+19=Více nastavení
+20=Inteligentní
+21=Alarm
+22=M | A
+23=M & A
+24=žádný

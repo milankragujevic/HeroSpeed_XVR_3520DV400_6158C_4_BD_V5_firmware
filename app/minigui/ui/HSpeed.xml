@@ -1,0 +1,281 @@
+
+
+<HSpeedModules modulenum="187">
+<Status id="1" fp="Status" tf="Status.txt"></Status>
+
+
+<Login id="2" fp="Login" tf="Login.txt"></Login>
+
+<Redev id="3" fp="Redev" tf="Redev.txt"></Redev>
+<Devsrch id="4" fp="Devsrch" tf="Redev_srch.txt" ></Devsrch>
+
+
+
+
+<ChlSet id="6" fp="ChlSet" tf="Chset.txt"></ChlSet>
+<WDialog id="7" fp="Warndialog"></WDialog>
+<PTZCon id="8" fp="Ptzcontrol" tf="Ptzcontrol.txt"></PTZCon>
+<Recset id="9" fp="Recset" tf="Recset.txt"></Recset>
+<Genset id="12" fp="Sysgenset" tf="Gencfg.txt"></Genset>
+<Netset id="13" fp="Netset" tf="Net.txt"></Netset>
+<Userman id="14" fp="Userman" tf="Userman.txt"></Userman>
+<Precfg id="15" fp="Precfg" tf="Precfg.txt"></Precfg>
+
+
+<Upgrade id="16" fp="Upgrade" tf="Upgrad.txt" ></Upgrade>
+
+
+<Redefault id="17" fp="Redefault" tf="Redef.txt"></Redefault>
+
+
+<Loginfo id="18" fp="Loginfo" tf="Loginfo.txt"></Loginfo>
+
+
+<Verinfo id="19" fp="Verinfo" ></Verinfo>
+
+<WEXDialog id="20" fp="Warndialog"></WEXDialog>
+
+
+<Shutdown id="21" fp="Shutdown" tf="Shutdown.txt"></Shutdown>
+
+<Cruiseprep id="23" fp="Cruiseprep" tf="Ptzpreset.txt"></Cruiseprep>
+<Cruise id="22" fp="Cruise" tf="Cruise.txt"></Cruise>
+<Cruiseset id="24" fp="Cruiseset"></Cruiseset>
+<Diskman id="25" fp="Diskman" tf="Diskman.txt"></Diskman>
+<Showprgr id="26" fp="Showprogress" tf="Showpro.txt"></Showprgr>
+
+<UserModify id="28" fp="Usermodify" tf="Usermod.txt" ></UserModify>
+<Selectchl id="29" fp="Selectchl"></Selectchl>
+<Recbak id="30" fp="Recbak" tf="Recbak.txt"></Recbak>
+<WaitW id="31" fp="Waitw" ></WaitW>
+<Ddnscfg id="32" fp="Ddns" tf="Ddns.txt"></Ddnscfg>
+<Videocfg id="33" fp="Videocfg" tf="VideoSet.txt"></Videocfg>
+<Enccfg id="34" fp="Enccfg" tf="Enccfg.txt"></Enccfg>
+<Md id="35" fp="Md" tf="Md.txt"></Md>
+<Ipfilter id="36" fp="Ipfilter" tf="Ipfilter.txt"></Ipfilter>
+<Ipfilter_add id="37" fp="Ipfilter_add" tf="Ipfilter_add.txt"></Ipfilter_add>
+<Searchfile id="38" fp="Searchfile" tf="Searchfile.txt"></Searchfile>
+<Playback id="39" fp="Playback" tf="Playback.txt" ></Playback>
+<Upnp id="40" fp="Upnpcfg" tf="Upnpcfg.txt"></Upnp>
+<Outmode id="41" fp="Outmode" tf="Outmode.txt"></Outmode>
+<DesTip id="42" fp="Tip" tf="Tip.txt" bg="./image/common/tip_bk.png"></DesTip>
+<Chlnameset id="43" fp="Chlname" tf="Chlname.txt"></Chlnameset>
+<Timezone id="44" fp="Timezone" tf="Timezone.txt"></Timezone>
+<Autoreboot id="45" fp="Autoreboot" tf="Autoreboot.txt"></Autoreboot>
+<Email id="46" fp="Email" tf="Email.txt"></Email>
+<wizard id="47" fp="Wizard" tf="Wizard.txt"></wizard>
+<P2PCfg id="48" fp="P2PCfg" tf="P2PCfg.txt"></P2PCfg>
+<MotionArea id="49" fp="MotionArea"></MotionArea>
+<NvrVideocfg id="50" fp="NvrVideocfg"></NvrVideocfg>
+<Selectmode id="51" fp="Selectmode" tf="Selectmode.txt"></Selectmode>
+<Recordschedule id="52" fp="Recordschedule" tf="Recordschedule.txt"></Recordschedule>
+<ModifyIP id="53" fp="ModifyIP" tf="ModifyIP.txt"></ModifyIP>
+<Copychannel id="54" fp="Copychannel" tf="Copychannel.txt"></Copychannel>
+<Netmode id="55" fp="Netmode" tf="Netmode.txt"></Netmode>
+<ChlMan id="56" fp="Chlbind" tf="Chlbind.txt"></ChlMan>
+
+<Streamcontrol id="57" fp="Streamcontrol" tf="Streamcontrol.txt"></Streamcontrol>
+<RedevDesk id="58" fp="Redev_desk" tf="Redev.txt"></RedevDesk>
+<Dateformat id="59" fp="Dateformat" tf="Dateformat.txt"></Dateformat>
+<Wizardsysgenset id="60" fp="Wizardsysgenset" tf="Gencfg.txt"></Wizardsysgenset>
+<Wizarddateformat id="61" fp="Wizarddateformat" tf="Dateformat.txt"></Wizarddateformat>
+<Wizardnetset id="62" fp="Wizardnetset" tf="Net.txt"></Wizardnetset>
+<Wizardrecset id="63" fp="Wizardrecset" tf="Wizardrecset.txt"></Wizardrecset>
+<Wizardrecordschedule id="64" fp="Wizardrecordschedule" tf="Recordschedule.txt"></Wizardrecordschedule>
+<Showmore id="65" fp="Showmore" tf="Showmore.txt"></Showmore>
+<Poll id="66" fp="Poll" tf="Poll.txt"></Poll>
+<PbFullScreen id="67" fp="PbFullScreen" tf="PbFullScreen.txt"></PbFullScreen>
+<FTP id="68" fp="Ftpcfg" tf="Ftpcfg.txt"></FTP>
+<Ptzcfg id="69" fp="Ptzcfg" tf="Ptzcfg.txt"></Ptzcfg>
+<FTP id="70" fp="Diskexception" tf="Diskexception.txt"></FTP>
+<Netexception id="71" fp="Netexception" tf="Netexception.txt"></Netexception>
+<Volume id="72" fp="Volume" tf="Volume.txt"></Volume>
+<CableControl id="73" fp="Ptzset" tf="Ptzset.txt"></CableControl>
+<Timeoverlay id="74" fp="Timeoverlay"></Timeoverlay>
+<CoverArea id="75" fp="CoverArea"></CoverArea>
+<Overlay id="76" fp="Overlay" tf="Overlay.txt"></Overlay>
+<Previewrecset id="77" fp="Previewrecset" tf="Previewrecset.txt"></Previewrecset>
+<UpnpInfo id="78" fp="UpnpInfo" tf="UpnpInfo.txt"></UpnpInfo>
+<PPPOE id="79" fp="PPPOEcfg" tf="PPPOEcfg.txt"></PPPOE>
+<EncodeDesk id="80" fp="Enccfg_desk" tf="Enccfg.txt"></EncodeDesk>
+<Cloud id="81" fp="Cloudcfg" tf="Cloudcfg.txt"></Cloud>
+<CloudInfo id="82" fp="CloudInfo" tf="CloudInfo.txt"></CloudInfo>
+<UserAdd id="83" fp="UserAdd" tf="UserAdd.txt" ></UserAdd>
+<UserAddGroup id="84" fp="UserAddGroup" tf="UserAddGroup.txt" ></UserAddGroup>
+<UserModifyGroup id="85" fp="UserModifyGroup" tf="UserModifyGroup.txt" ></UserModifyGroup>
+<ExWarn id="86" fp="exception_warn" tf="exceptionwarn.txt" ></ExWarn>
+<LocalAlarm id="87" fp="LocalAlarm" tf="LocalAlarm.txt"></LocalAlarm>
+<VideoLoss id="88" fp="VideoLoss" tf="VideoLoss.txt"></VideoLoss>
+
+
+<Diskpb id="89" fp="dsk_pb" tf="dsk_pb.txt"></Diskpb>
+
+
+<Upgrade_Online id="90" fp="Upgrade_Online" tf="Upgrade_Online.txt" ></Upgrade_Online>
+
+<FileBackup id="91" fp="FileBackup" tf="FileBackup.txt"></FileBackup>
+<PasswdModify id="92" fp="PasswdModify" tf="PasswdModify.txt" ></PasswdModify>
+<ResolutionWarning id="93" fp="ResolutionWarning" tf="ResolutionWarning.txt" ></ResolutionWarning>
+<videoset id="94" fp="VideoSet" tf="VideoSet.txt"></videoset>
+<Overlay id="95" fp="osdsetup" tf="osdsetup.txt"></Overlay>
+<Ptz_setup id="96" fp="Ptz_setup" tf="Ptz_setup.txt"></Ptz_setup>
+<VideoHide id="97" fp="VideoHide" tf="VideoHide.txt"></VideoHide>
+<CheckTime id="98" fp="CheckTime" ></CheckTime>
+<VideoHide id="99" fp="VideoHide" tf="VideoHide.txt"></VideoHide>
+<authority id="100" fp="authority" tf="authority.txt"></authority>
+<Redev_srch id="101" fp="Redev_srch" tf="Redev_srch.txt"></Redev_srch>
+<Telnet id="102" fp="Telnet"></Telnet>
+<Upgrade_Camaer id="103" fp="Upgrade_Camaer" tf="Upgrade_Camaer.txt" ></Upgrade_Camaer>
+<Forgetpassword id="104" fp="Forgetpassword" tf="Forgetpassword.txt" ></Forgetpassword>
+<Addcamera_channel id="105" fp="Addcamera_channel"></Addcamera_channel>
+<SelectVideomode id="106" fp="SelectVideomode" tf="SelectVideomode.txt"></SelectVideomode>
+<Ipcupdate id="107" fp="IpcUpdateOnline" tf="IpcUpdateOnline.txt"></Ipcupdate>
+<Wifi id="108" fp="Wifi" tf="Wifi.txt"></Wifi>
+<Screenshot id="109" fp="Screenshot" tf="Screenshot.txt"></Screenshot>
+<Prerecord id="110" fp="Prerecordtime" tf="Prerecordtime.txt"></Prerecord>
+<Wifi_4g id="111" fp="Wifi_4g" tf="Wifi_4g.txt"></Wifi_4g>
+<Videodeletion id="112" fp="Videodeletion" tf="Videodeletion.txt"></Videodeletion>
+<Videodelete_info id="113" fp="Videodelete_info" tf="Videodelete_info.txt"></Videodelete_info>
+<Forget_check id="114" fp="Forgetpassword_check"></Forget_check>
+<VideoHide_local id="115" fp="VideoHide_local" tf="VideoHide.txt"></VideoHide_local>
+<FTP_backup id="116" fp="FTPbackup" tf="FTPbackup.txt"></FTP_backup>
+<Human id="117" fp="Human" tf="Smartconfig.txt"></Human>
+<Face_detection id="118" fp="Facedetection" tf="Facedetection.txt"></Face_detection>
+<Facedatabase id="119" fp="Facedatabase" tf="Facedatabase.txt"></Facedatabase>
+<Newfacepicture id="120" fp="Newfacepicture" tf="Newfacepicture.txt"></Newfacepicture>
+<Newfacedatebase id="121" fp="Newfacedatebase" tf="Newfacedatebase.txt"></Newfacedatebase>
+<Newfilename id="122" fp="Newfilename"  tf="Newfilename.txt"></Newfilename>
+<Fileopendialog id="123" fp="Fileopendialog" tf="Fileopendialog.txt"></Fileopendialog>
+<Processmethod id="124" fp="Processmethod" tf="Processmethod.txt"></Processmethod>
+<Pbcuttime id="131" fp="Pbcuttime" tf="Pbcuttime.txt"></Pbcuttime>
+<Picturebackup id="132" fp="Picturebackup" tf="Picturebackup.txt"></Picturebackup>
+<Searchpicture id="133" fp="Searchpicture" tf="Searchpicture.txt"></Searchpicture>
+<Showpicture id="134" fp="Showpicture" tf="Showpicture.txt"></Showpicture>
+<Playbacktip id="136" fp="Playbacktip" tf="Playbacktip.txt" bg="#42" ></Playbacktip>
+<Pbsettime id="138" fp="Pbsettime"></Pbsettime>
+<Smartfacecomparison id="139" fp="Smartfacecomparison" tf="Smartconfig.txt"></Smartfacecomparison>
+<Facecomparisonsearch id="140" fp="Facecomparisonsearch" tf="Facecomparisonsearch.txt"></Facecomparisonsearch>
+<Facecomparisonpicsearch id="141" fp="Facecomparisonpicsearch" tf="Facecomparisonpicsearch.txt"></Facecomparisonpicsearch>
+<Facedatabaseupload id="142" fp="Facedatabaseupload" tf="Facedatabaseupload.txt"></Facedatabaseupload>
+<Facecomparisonsearch_view id="149" fp="Facecomparisonsearch_view" tf="Facecomparisonsearch_view.txt"></Facecomparisonsearch_view>
+<Facedbsimilarity id="150" fp="Facedbsimilarity"></Facedbsimilarity>
+<Recordlog id="154" fp="Recordlog" tf="Recordlog.txt"></Recordlog>
+<Ipeye id="157" fp="Ipeye" tf="Ipeye.txt"></Ipeye>
+<Newfacepicture_batchimport id="158" fp="Newfacepicture_batchimport" tf="Newfacepicture.txt"></Newfacepicture_batchimport>
+<Batchimport_info id="159" fp="Batchimport_info" tf="Batchimport_info.txt"></Batchimport_info>
+<Processmethod_md id="160" fp="Processmethod_md" tf="Processmethod.txt"></Processmethod_md>
+<Processmethod_alarm id="161" fp="Processmethod_alarm" tf="Processmethod.txt"></Processmethod_alarm>
+<LocalAlarmOut id="162" fp="LocalAlarmOut" tf="LocalAlarmOut.txt"></LocalAlarmOut>
+
+
+<Start id="165" fp="Start" tf="Start.txt"></Start>
+
+
+<UnlockPattern id="166" fp="UnlockPattern" tf="UnlockPattern.txt"></UnlockPattern>
+
+
+<StartTooltip id="167" fp="StartTooltip" tf="Fisheyetip.txt"></StartTooltip >
+
+
+<Systemright id="180" fp="Systemright" tf="Systemright.txt"></Systemright>
+<Maintainright id="181" fp="Maintainright" tf="Maintainright.txt"></Maintainright>
+<Channelright id="182" fp="Channelright" tf="Channelright.txt"></Channelright>
+<Storageright id="183" fp="Storageright" tf="Storageright.txt"></Storageright>
+<Diskright id="184" fp="Diskright" tf="Diskright.txt"></Diskright>
+<Wisdomright id="185" fp="Wisdomright" tf="Wisdomright.txt"></Wisdomright>
+
+<Ntp id="200" fp="Ntp" tf="Ntp.txt"></Ntp>
+<Usermancheck id="27" fp="Usermancheck" tf="Usermancheck.txt"></Usermancheck>
+
+
+<Preview_ui id="201" fp="Preview" tf="Preview.txt"></Preview_ui>
+
+
+<Preview_buttom id="202" fp="Preview_bottom" tf="Preview_bottom.txt"></Preview_buttom>
+
+<Wizardharddisk id="203" fp="Wizardharddisk" tf="Diskman.txt"></Wizardharddisk>
+<Wizardmodifypw id="204" fp="Wizardmodifypw" tf="Usermod.txt"></Wizardmodifypw>
+<Showprgr_desk id="205" fp="Showprogress_desk" tf="Showpro.txt"></Showprgr_desk>
+<Redev_view id="206" fp="Redev_view"></Redev_view>
+<ChangeIP id="207" fp="ChangeIP" tf="ChangeIP.txt"></ChangeIP>
+
+
+<Pbtagtip id="208" fp="Pbtagtip"></Pbtagtip>
+
+
+<Newpbtag id="209" fp="Newpbtag" tf="Newpbtag.txt"></Newpbtag>
+
+
+<PopupMenu id="210" fp="PopupMenu" tf="PopupMenu.txt"></PopupMenu>
+
+
+<copyandpaste id="211" fp="copyandpaste"></copyandpaste>
+
+
+<Version_desk id="212" fp="Verinfo_desk"></Version_desk>
+
+
+<Net_Status id="213" fp="Net_Status" tf="Net_status.txt"></Net_Status>
+
+
+<NetstatusDesk id="214" fp="Net_Status_desk" tf="Net_status.txt"></NetstatusDesk>
+<ExactSearch id="215" fp="ExactSearch" tf="ExactSearch.txt"></ExactSearch>
+<Humanfiles id="216" fp="Humanfiles" tf="Humanfiles.txt"></Humanfiles>
+
+
+<Record_status_desk id="217" fp="Record_status_desk" tf="Record_status.txt"></Record_status_desk>
+
+
+<recordstatus id="218" fp="Record_status" tf="Record_status.txt"></recordstatus>
+
+<Recordprogress id="219" fp="Recordprogress" ></Recordprogress>
+
+
+<Disk_Status id="220" fp="Disk_Status" tf="Disk_Status.txt"></Disk_Status>
+
+
+<Disk_Status_desk id="221" fp="Disk_Status_desk" tf="Disk_Status.txt"></Disk_Status_desk>
+
+
+<Alarmout_trigger id="222" fp="Alarm_trigger_desk" tf="LocalAlarmoutset.txt"></Alarmout_trigger>
+
+<Localalarm_set id="223" fp="Localalarmset" tf="LocalAlarmset.txt"></Localalarm_set>
+
+
+<Alarm_status_desk id="224" fp="Alarm_status_desk" tf="AlarmRecord_status.txt"></Alarm_status_desk>
+
+<Localalarmoutset id="225" fp="Localalarmoutset" tf="LocalAlarmoutset.txt"></Localalarmoutset>
+
+<Buzzer id="226" fp="Buzzer" tf="Buzzer.txt"></Buzzer>
+
+
+<Showalarm id="227" fp="Showalarm" tf="Showalarm.txt"></Showalarm>
+<Showalarm_set id="228" fp="Showalarm_set" tf="Showalarm_set.txt"></Showalarm_set>
+
+
+<Camera_status id="229" fp="Camera_status" tf="Camera_status.txt"></Camera_status>
+
+
+<AlarmRecord_status id="230" fp="AlarmRecord_status" tf="AlarmRecord_status.txt"></AlarmRecord_status>
+
+<SmartFacerecognition id="231" fp="SmartFacerecognition" tf="Smartconfig.txt"></SmartFacerecognition>
+
+
+<Import_export id="232" fp="Import_export" tf="Import_export.txt"></Import_export>
+
+
+<Nettest id="233" fp="Nettest" tf="Nettest.txt"></Nettest>
+
+
+<Playvideofile id="234" fp="Playvideofile" tf="Showpicture.txt"></Playvideofile>
+
+
+<FrontRecordprogress id="235" fp="Frontrecordprogress" tf="Frontrecordprogress.txt"></FrontRecordprogress>
+
+
+<LogoutPreviewAuthority id="236" fp="LogoutPreviewAuthority" tf="LogoutPreviewAuthority.txt"></LogoutPreviewAuthority>
+
+
+<ScheduleModify id="237" fp="ScheduleModify" tf="ScheduleModify.txt"></ScheduleModify>
+
+</HSpeedModules>

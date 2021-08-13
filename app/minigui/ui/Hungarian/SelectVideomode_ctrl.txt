@@ -1,0 +1,12 @@
+[Ctrltxt]
+num=10
+1=Válassza a Mód lehetőséget
+2=Mód
+3=Mind
+4=kocsi
+5=AHD
+6=CVI
+7=TVI
+8=CVBS
+9=Alkalmaz
+10=Megszünteti

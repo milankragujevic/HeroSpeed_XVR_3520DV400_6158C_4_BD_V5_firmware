@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=/
+2=/
+3=Erreur de format d'heure!
+4=La charge réseau est trop grande, supprimez progressivement caméra
+5=La charge réseau est redevenue normale
+6=Aucune autorisation!
+7=Mise à jour en cours, ne pas éteindre l'appareil evoya!
+8=Formatage en cours, veuillez patienter…
+9=Interrogation…
+10=No channels that support this feature!
+11=Détection facial
+12=Mode
+13=Lecture 5m
+14=Le volume
+15=Zoomer
+16=Image
+17=Information flux
+18=Fermer
+19=Le mot de passe actuel est trop simple, veuillez modifier le mot de passe!
+20=De nouveaux périphériques de stockage ont été trouvés, formater comme disque d'enregistrement ?
+21=En développement!
+22=Manual screenshot failed!
+23=Arrêt du disque
+24=Le mot de passe actuel est trop simple, veuillez modifier le mot de passe!
+25=Capturer

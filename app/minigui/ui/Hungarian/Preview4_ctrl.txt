@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Főmenü
+2=1-kép
+3=Csat1
+4=Csat2
+5=Csat3
+6=Csat4
+7=4-kép
+8=Képváltás
+9=Rögzítési beállítás
+10=Fényképezőgép hozzáadása
+11=Visszajátszás
+12=PTZ
+13=XVR video
+14=Válassza a Mód lehetőséget
+15=Kézi képernyőmentés
+16=Arc összehasonlítás

@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Mozgásérzékelés
+2=Videó hamisítás
+3=Videojel vesztés
+4=Riasztási bemenet
+5=Riasztási kimenet
+6=Rendszerhiba
+7=Esemény típus
+8=Engedélyez
+9=Nincs lemez: Lemezhiba: Megszakadt hálózat: IP-ütközés
+10=Normál kapcsolat
+11=Alapértelmezett
+12=Alkalmaz
+13=Riasztási kimenet
+14=Berregő

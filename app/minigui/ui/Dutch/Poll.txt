@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Reset naar fabrieksinstellingen ?
+2=Pollingstijd tussen 5 en 255.

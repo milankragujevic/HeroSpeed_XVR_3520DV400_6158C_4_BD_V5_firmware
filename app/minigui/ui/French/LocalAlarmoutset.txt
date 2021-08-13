@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Erreur de format d'heure!
+2=Activer
+3=Fermer
+4=Ajouter 6 horaires maximum par jour!

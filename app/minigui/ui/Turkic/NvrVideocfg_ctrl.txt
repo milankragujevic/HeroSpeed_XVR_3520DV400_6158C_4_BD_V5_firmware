@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=XVR Image
+2=Bright
+3=Kontrast
+4=Doygunluk
+5=Renk tonu
+6=Varsayılan
+7=Uygula
+8=iptal

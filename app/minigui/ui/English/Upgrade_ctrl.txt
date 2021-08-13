@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=No.
+2=Name
+3=Size
+4=Date
+5=Refresh
+6=Upgrade

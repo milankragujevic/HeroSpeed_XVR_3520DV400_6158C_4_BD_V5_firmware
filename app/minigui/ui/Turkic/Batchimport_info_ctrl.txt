@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=toptan giriş
+2=Ad
+3=durum
+4=Onaylamak

@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Datei suchen
+2=CH
+3=Fehlermeldung
+4=Startzeit / Endzeit
+5=Endzeit
+6=Dateityp
+7=Benötigte Kapazität:
+8=Verfügbar / Gesamtkapazität:
+9=Export
+10=Abbrechen
+11=Aktualisieren
+12=Ansicht
+13=Los
+14=Alle
+15=Gruppe:
+16=Kanal
+17=Zeit
+18=FTP Export

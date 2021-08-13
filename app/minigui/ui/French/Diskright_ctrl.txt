@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Calendrier
+2=Enregistrement
+3=Capture
+4=Stockage d'information
+5=Mode de stockage
+6=Sauvegarde automatique
+7=Avancée

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Suchen, festhalten!
+2=Kein Upgrade-Paket
+3=Es kann nur ein Upgrade-Paket ausgewählt werden!
+4=Bitte wählen Sie eine Upgrade-Datei!
+5=Aktualisierung?
+6=Aktualisieren, nicht ausschalten!
+7=Upgrade fehlgeschlagen!
+8=Upgrade erfolgreich!
+9=Der ONVIF-Kanal unterstützt kein Upgrade!
+10=Kanal
+11=Update erfolgreich
+12=Update fehlgeschlagen
+13=Der RTSP-Kanal unterstützt kein Upgrade!
+14=Bitte legen Sie die USB-Festplatte ein.

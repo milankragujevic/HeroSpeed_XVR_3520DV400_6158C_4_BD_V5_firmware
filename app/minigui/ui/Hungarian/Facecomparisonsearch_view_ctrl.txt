@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=\
+2=Csatorna
+3=Csatorna
+4=Kezdete
+5=Hasonlóság
+6=Lejátszás
+7=Kép biztonsági másolata
+8=Biztonsági másolat feljegyzés
+9=Mentés
+10=Megszünteti
+11=Mind
+12=Ábra
+13=Lista
+14=Pontos keresés
+15=FTP mentés

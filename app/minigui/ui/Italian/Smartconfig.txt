@@ -1,0 +1,18 @@
+[wintip]
+num=16
+1=Attendere durante la lettura dei parametri….
+2=Nessun permesso!
+3=Errore di riga della regola!
+4=C'è una linea di attraversamento!
+5=Sulla stessa linea!
+6=Questo dispositivo canale non supporta la funzionalità.
+7=Allarme Acustico
+8=Invia e-mail
+9=Registrazione del canale
+10=Lista nera
+11=Lista bianca
+12=Lista nera e lista bianca
+13=Maximum support for
+14=Canale
+15=channels
+16=In sviluppo!

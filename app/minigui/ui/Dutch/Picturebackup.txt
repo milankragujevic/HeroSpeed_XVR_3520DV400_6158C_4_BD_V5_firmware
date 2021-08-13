@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Niet genoeg schijfruimte.
+2=Bestand opslaan, even geduld aub.
+3=Backup voltooid
+4=Kan de bestanden niet naar een mobiele harde schijf schrijven
+5=Selecteer een bestand
+6=De wachttijd zou niet langer dan 30 minuten moeten zijn
+7=Dit keer geen bestanden.
+8=Fout in tijdnotatie!
+9=Bezig met opslaan, even geduld aub…
+10=Er zijn een of meer kanalen die geen toestemming hebben!
+11=Dit kanaal heeft geen toestemming!
+12=Please select a channel
+13=Voer aub de usb-stick in

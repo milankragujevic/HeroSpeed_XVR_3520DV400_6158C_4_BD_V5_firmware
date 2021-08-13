@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Custom
+2=Restore the default parameters?
+3=Custom cannot be empty.

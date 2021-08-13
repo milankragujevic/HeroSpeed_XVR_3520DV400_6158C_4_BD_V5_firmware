@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Nombre de base de dato
+2=Número
+3=\
+4=Borrar
+5=Nuevo
+6=Detalles base de datos de rostros
+7=Nombre
+8=Número
+9=Borrar
+10=Modelo de rostros
+11=Añadir
+12=Importar por lotes
+13=Numero de Caracteristica

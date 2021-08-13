@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Adres IP
+2=Maska sieci
+3=Brama
+4=Główny DNS
+5=Zapasowy DNS
+6=MAC urządzenia
+7=Włącz DHCP
+8=Adres PPPoE
+9=Maska Podsieci PPPoE
+10=Brama Domyślna PPPoE
+11=\
+12=\
+13=Włącz
+14=wyłączyć

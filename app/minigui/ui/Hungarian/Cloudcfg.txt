@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Ellenőrzés…
+2=Test sikeres.
+3=Test hibás
+4=Feltöltési mappa módosítása szükséges!
+5=Visszaállítja az alapértelmezett paramétereket?
+6=Kapcsolódva
+7=Feloldás

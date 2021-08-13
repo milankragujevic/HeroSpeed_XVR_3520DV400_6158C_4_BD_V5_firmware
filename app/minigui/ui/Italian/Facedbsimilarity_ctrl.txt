@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Somiglianza
+2=Conferma
+3=Cancella
+4=Lista nera: lista bianca
+5=Finestre

@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Lütfen kanal değişkenlerinizi ve ağ durumunuzu kontrol ediniz!
+2=Varsayılan değişkenleri geri yüklesin mi?
+3=Şifreleme değişkenleri kaydediliyor, lütfen bekleyiniz…
+4=Değişkenler getiriliyor, lütfen bekleyiniz…
+5=Değişkenlerin getirilmesi başarısız oldu…
+6=Bit hızı kapsamı 512-8192
+7=Kamera değişkenlerinin ayarlanması başarısız oldu.
+8=Bu kanal, cihazın desteklemediği H265
+9=İzin yok!
+10=Cihaz H265'i desteklemiyor.
+11=Main Bitrate range 64-8192.
+12=Alt Bitrate aralığı 64-2048.

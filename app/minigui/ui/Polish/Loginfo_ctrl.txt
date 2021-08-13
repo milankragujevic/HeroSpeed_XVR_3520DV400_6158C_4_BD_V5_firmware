@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Typ
+2=Rozpoczęcie
+3=Zakończenie
+4=Wszystkie logi:Zarządzanie systemem:Zarządzanie użytkownikiem:Konfiguracja parametrów:Operacje na plikach:Informacje o statusie:Zdarzenia alarmowe
+5=Szukanie
+6=Nr.
+7=Czas
+8=Zdarzenie
+9=Użytkownik
+10=Eksport
+11=Eksportuj wszystko
+12=Wyczyść

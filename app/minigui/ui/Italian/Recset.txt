@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Ripristina la configurazione iniziale?
+2=Nessun permesso!
+3=Sei sicuro di voler uscire dalla configurazione assistita?
+4=Le nuove impostazioni saranno attivate dopo il riavvio. Ora riavvia?
+5=La procedura Configurazione assistita è terminata!
+6=Errore di formato temporale!
+7=E’ possibile aggiungere un massimo di 6 schedulazioni a giorno!
+8=Almeno un canale non ha le autorizzazioni necessarie!

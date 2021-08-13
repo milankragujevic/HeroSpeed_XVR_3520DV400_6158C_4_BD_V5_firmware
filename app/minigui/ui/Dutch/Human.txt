@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Reset naar fabrieksinstellingen ?
+2=Fout in tijdnotatie!
+3=Maximale ondersteuning voor
+4=Kanaal
+5=kanalen

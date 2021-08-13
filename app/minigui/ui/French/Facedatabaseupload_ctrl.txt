@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Uploader de la Base de Données
+2=Liste des Bases de Données de Visages
+3=Nom
+4=Heure
+5=Image de Visage
+6=Utilisateur
+7=Consulter
+8=Capacité Restant/Totale
+9=OK
+10=Annuler
+11=1

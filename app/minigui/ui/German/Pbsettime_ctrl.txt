@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Zeiteinstellung
+2=Bitte stellen Sie die Clip-Zeit ein:
+3=Stellen Sie die Wiedergabezeit ein
+4=Endzeit
+5=Speichern
+6=Abbrechen

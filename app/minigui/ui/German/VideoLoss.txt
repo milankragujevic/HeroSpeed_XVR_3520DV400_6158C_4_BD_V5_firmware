@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Auf Werkseinstellungen zurücksetzen?
+2=Keine Erlaubnis!
+3=Bildschirmanzeige
+4=E-Mail senden
+5=Tonalarm

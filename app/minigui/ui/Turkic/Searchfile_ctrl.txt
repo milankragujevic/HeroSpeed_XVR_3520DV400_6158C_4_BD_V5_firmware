@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Dosya Ara
+2=CH
+3=Olay türü
+4=Başlama zamanı/ sona erme zamanı
+5=Bitiş zamanı
+6=Dosya tipi
+7=Gerekli kapasite:
+8=Mevcut / toplam kapasite:
+9=İhracat
+10=iptal
+11=Yenileme
+12=görünüm
+13=Go
+14=Tümü
+15=Grup;
+16=Kanal
+17=zaman
+18=FTP ihracat

@@ -1,0 +1,5 @@
+[Ctrltxt]
+num=3
+1=Abmelden
+2=Neustarten
+3=Herunterfahren

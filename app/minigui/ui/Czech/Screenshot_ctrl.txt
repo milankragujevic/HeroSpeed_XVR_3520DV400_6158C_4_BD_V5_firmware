@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Manuální snímání obrazovky
+2=/
+3=/
+4=/
+5=/
+6=Zrušit
+7=Rozlišení
+8=Kanál

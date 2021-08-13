@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Add Face Database
+2=Name
+3=List Type
+4=Blacklist: Whitelist
+5=Similarity
+6=Save
+7=Cancel

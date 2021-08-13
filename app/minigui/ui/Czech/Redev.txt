@@ -1,0 +1,21 @@
+[wintip]
+num=19
+1=Vyhledáním zařízení, čekejte…
+2=Chcete opravdu opustit průvodce ?
+3=Opravdu chcete změnit IP adresu vzdáleného zařízení ?
+4=zařízení je FishEyE které je nutno konfigurovat samostatně
+5=Zařízení je již přidáno v maximálním počtu.
+6=Bez povolení!
+7=Odstraňuji kameru, čekejte…
+8=Vyberte kanál!
+9=Kanál Plug and Play nelze odstranit.
+10=Spojeno
+11=Neznámá chyba
+12=Chyba připojení k síti
+13=Chyba portu nebo serveru
+14=Chyba uživatelského jména nebo hesla
+15=Stream přístup selhal
+16=CH
+17=Pásmo nevyužité:
+18=Pouze jedna karta může automaticky přidávat!
+19=Zda otevřete všechny kanály H264+ nebo H265+?

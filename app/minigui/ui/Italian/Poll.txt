@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Ripristina la configurazione iniziale?
+2=L’intervallo deve essere compreso tra 5 e 255 secondi.

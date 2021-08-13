@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Stellen Sie das Entsperrungsmuster ein
+2=admin
+3=das Entsperrungsmuster vergessen
+4=Benutzer wechseln

@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Paramètre enregistrement
+2=Caméra
+3=Tous
+4=Opération
+5=Enregistrement
+6=Détection
+7=Tous
+8=Dim.
+9=Lun.
+10=Mar.
+11=Mer.
+12=Jeu.
+13=Ven.
+14=Sam.
+15=Par défaut
+16=Copier
+17=Appliquer
+18=Annuler
+19=Plus de configurations
+20=Intelligent
+21=Alarme
+22=M | A
+23=M & A
+24=Aucun

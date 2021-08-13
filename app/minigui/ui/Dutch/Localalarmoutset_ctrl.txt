@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Bewerk
+2=Alarmuitgang
+3=Naam van het alarm
+4=Vertraging
+5=Alarmstatus
+6=5 Seconden:10 Seconden:30 Seconden:1 Minute:2 Minuten:5 Minuten:10 Minuten: manueel verwijderen.
+7=Bewapen Plan
+8=Activeren
+9=Deselecteer
+10=\
+11=\
+12=Kopieer
+13=Toepassen
+14=Alles
+15=Zon
+16=Maa
+17=Din
+18=Woe
+19=Don
+20=Vrij
+21=Zat
+22=Normaal
+23=Bewerk

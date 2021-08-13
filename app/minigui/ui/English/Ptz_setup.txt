@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Patrol
+2=Patrol need two preset at least!
+3=Restore the default parameters?
+4=This channel has no permission!
+5=Cruising,forbid modify...

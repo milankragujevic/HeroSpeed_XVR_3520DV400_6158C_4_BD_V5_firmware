@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Auf Werkseinstellungen zurücksetzen?
+2=Falsches Domainformat

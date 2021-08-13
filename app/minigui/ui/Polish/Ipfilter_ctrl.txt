@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Typ Restrykcji
+2=Tryb Restrykcji
+3=Włącz
+4=Czarna lista:Lista dozwolonych
+5=Adres IP: Adres MAC
+6=Dodaj
+7=Edytuj
+8=Usuń
+9=Zastosuj
+10=Lista Restrykcji
+11=Adres IP
+12=MAC urządzenia
+13=Usuń Wszystko

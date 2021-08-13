@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Kanaal
+2=kanaal naam
+3=Tijd
+4=Tekst
+5=Datumweergave
+6=Menupositie
+7=Spiegel
+8=Jaar Maand Dag:Maand Dag Jaar:Dag Maand Jaar
+9=Links_boven:Links_onder
+10=Uit:Horizontaal:Verticaal:Beide
+11=Toepassen
+12=Kopieer

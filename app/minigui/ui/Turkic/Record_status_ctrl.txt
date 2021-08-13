@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=CH
+2=Kayıt durumu
+3=Akış tipi
+4=Bit Hızı (Mbps)
+5=Kayıt tipi
+6=Sabit Disk Sürücü Numarası
+7=Kapat

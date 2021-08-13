@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Beperking Type
+2=Beperking Wijze
+3=Activeer
+4=Zwarte Lijst: Toegestane Lijst
+5=IP Adres: MAC Adres
+6=Toevoegen
+7=Bewerk
+8=Verwijder
+9=Toepassen
+10=Beperking Lijst
+11=Ip adres
+12=Apparaat MAC
+13=Alles Verwijderen

@@ -1,0 +1,4 @@
+[Ctrltxt]
+num=2
+1=Annuler
+2=Retour

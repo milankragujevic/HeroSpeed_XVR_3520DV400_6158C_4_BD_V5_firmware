@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Md x="%15" y="%10" w="%100-%15" h="%100-%10" title="Motion Detection">
+
+<row type="ctrl_button" x="%2" y="30" w="%10+25" h="40" s="12:13:41:48" gap="0">
+<b id="2" s="12:48:49:41:40">1</b>
+<b id="152">2</b>
+<b id="153">3</b>
+<b id="154">4</b>
+<b id="155">5</b>
+<b id="156">6</b>
+<b id="157">20</b>
+</row>
+<row type="static" x="%2" y="69" w="%81+18" h="2" s="11:12:31" bcol="1" gap="10">
+<s id="3"></s>
+</row>
+
+<col type="static" x="%2" y="100" w="%14" h="40" s="11:12:31" bcol="10" ft="18" gap="10">
+<s id="4">7</s>
+<s id="5">8</s>
+</col>
+
+<col x="%17+10" y="100" w="%19" h="40" gap="10">
+<cb type="CtrlCombobox" id="21" s="11:12:13:14:21:22:23" ad="416"></cb>
+<b type="ctrl_button" id="22" s="12:13:44"></b>
+</col>
+
+<row type="ctrl_button" x="%2" y="200" w="150" h="40" s="12:13:16:41:48" gap="10">
+<b id="23" s="12:13:16:41:49:48">9</b>
+<b id="24">10</b>
+<b id="25">11</b>
+</row>
+<row type="static" x="%2" y="239" w="%81+18" h="2" s="11:12:31" bcol="1" gap="10">
+<s id="6"></s>
+</row>
+
+<row x="%49" y="270" h="40" gap="%1">
+<s type="static" id="7" w="%10" s="11:12:31" bcol="10">12</s>
+<tb type="ctrl_trackbar" id="26" w="%18" s="11:12:13:61:62:63"></tb>
+</row>
+<row type="ctrl_button" x="%3" y="%35+300" w="140" h="40" s="12:13:41" gap="10" ft="16">
+<b id="27">13</b>
+<b id="28">14</b>
+</row>
+
+<col type="ctrl_button" x="%4" w="106" h="47" s="11:44" >
+<b id="160" y="%28">21</b>
+<b id="161" y="%34">22</b>
+<b id="162" y="%40">23</b>
+<b id="163" y="%46">24</b>
+<b id="164" y="%52">25</b>
+<b id="165" y="%58">26</b>
+<b id="166" y="%64">27</b>
+<b id="167" y="%70">28</b>
+</col>
+<col type="ctrl_button" x="%76" w="50" h="47" s="13:41:42" tc="2" >
+<b id="168" y="%34" bg="./image/Redev/paintclean.png" bgc="./image/Redev/paintclean_hover.png"></b>
+<b id="169" y="%40" bg="./image/Redev/paintclean.png" bgc="./image/Redev/paintclean_hover.png"></b>
+<b id="170" y="%46" bg="./image/Redev/paintclean.png" bgc="./image/Redev/paintclean_hover.png"></b>
+<b id="171" y="%52" bg="./image/Redev/paintclean.png" bgc="./image/Redev/paintclean_hover.png"></b>
+<b id="172" y="%58" bg="./image/Redev/paintclean.png" bgc="./image/Redev/paintclean_hover.png"></b>
+<b id="173" y="%64" bg="./image/Redev/paintclean.png" bgc="./image/Redev/paintclean_hover.png"></b>
+<b id="174" y="%70" bg="./image/Redev/paintclean.png" bgc="./image/Redev/paintclean_hover.png"></b>
+</col>
+
+<row type="ctrl_button" x="%4" y="%76" w="120" h="36" bgw="16" gap="0" tc="40" s="13:42:44">
+<b id="175" bg="./image/pb/r_green.png" bgc="./image/pb/c_green.png">29</b>
+</row>
+
+<row type="listview_ex" x="%2" y="270" w="250" h="336" s="11:13:14:203:204:205" itemcnt="1" itemh="56" gap="0">
+<list id="34">
+<item w="250" cbox="1" all="1" align="l">15</item>
+</list>
+<list id="35">
+<item w="250" cbox="1" all="1" align="l">16</item>
+</list>
+</row>
+
+
+
+
+<row type="ctrl_button" x="%82-590" y="%75+54" w="140" h="40" s="12:13:41" ft="16" gap="10">
+<b id="36">17</b>
+<b id="37">18</b>
+<b id="38">19</b>
+<b id="39">30</b>
+</row>
+
+
+
+</Md>

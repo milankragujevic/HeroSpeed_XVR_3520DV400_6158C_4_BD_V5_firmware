@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Erősítse meg az engedélyt
+2=Megerősít
+3=OK
+4=Megszünteti

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Conf. Cruise
+2=No. Preset
+3=Sosta
+4=Velocità
+5=Conferma
+6=Cancella

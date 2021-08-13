@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LogoutPreviewAuthority x="%15" y="%10" w="%100-%15" h="%100-%10" title="LogoutPreviewAuthority">
+		
+<row type="listview_ex" id="15" x="%3" y="30" w="%60" h="%50+10" s="11:12:13:14:15:203:204" itemcnt="2" itemh="56" gap="0">
+<item w="%35" align="l">1</item>
+<item w="%24" cbox="1" all="1" align="l">2</item>
+</row>
+
+
+<row type="ctrl_button" x="%82-140" y="%94-140" w="140" h="40" s="12:13:41" gap="10" ft="16">
+<b id="14">3</b>
+</row>
+</LogoutPreviewAuthority>

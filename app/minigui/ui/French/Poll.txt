@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Restaurer les paramètres par défaut?
+2=Temps d'interrogation entre 5 et 255.

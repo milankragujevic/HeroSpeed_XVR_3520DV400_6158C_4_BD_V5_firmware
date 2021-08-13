@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=No mobile hard disk!
+2=Désinstallation réussie!
+3=Echec de désinstallation!
+4=fichier d'enregistrement
+5=Sauvegarde en cours, veuillez patienter…
+6=Sauvegarde réussie!
+7=Echec de sauvegarde!
+8=Aucun disque de sauvegarde
+9=Echec installation!
+10=Erreur inconnue!
+11=Aucune autorisation!
+12=Ecriture impossible sur le disque dur mobile!
+13=Echec de lecture des données enregistrées!
+14=Not enough disk space.

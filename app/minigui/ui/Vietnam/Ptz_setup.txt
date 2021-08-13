@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Tuần tra
+2=Tuần tra cần ít nhất hai thiết lập trước!
+3=Khôi phục các tham số mặc định?
+4=Kênh này không có sự cho phép!
+5=Đang tuần tra, cấm thay đổi ...

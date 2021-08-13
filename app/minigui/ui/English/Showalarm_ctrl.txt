@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Alarm Information
+2=Exception
+3=Normal Event
+4=Smart Event
+5=Set
+6=Time to Alarm
+7=Alarm/Exception
+8=Play
+9=Information(Channel No.,Alarm Input No.,HDD,IP Address,etc.)

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Dirección IP
+2=Máscara de red
+3=Puerta de enlace
+4=DNS primaria
+5=DNS secundaria
+6=Dirección MAC
+7=Habilitar DHCP
+8=Dirección PPPoE
+9=Máscara de Subred PPPoE
+10=Pasalera por Defecto PPPoE
+11=\
+12=\
+13=Habilitado
+14=inhabilitar

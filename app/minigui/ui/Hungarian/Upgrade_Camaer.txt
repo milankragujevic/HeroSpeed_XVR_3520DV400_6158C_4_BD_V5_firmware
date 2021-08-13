@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Please select upgrade channel no.!
+2=Sikertelen feltöltés!
+3=Sikeres feltöltés!
+4=Válasszon frissítő fájlt!
+5=Frissíti?
+6=Fájl nem található!
+7=Csatorna
+8=sikeres frissítés!
+9=frissítés sikertelen!
+10=Frissítés feltöltése alatt ne kapcsolja ki az eszközt!

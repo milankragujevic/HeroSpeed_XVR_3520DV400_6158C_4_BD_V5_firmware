@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Seleziona il database dei volti
+2=Successo:
+3=Non riuscito:
+4=Lotto aggiunto correttamente!
+5=Lotto aggiunto non riuscito!
+6=Il percorso del disco USB non esiste
+7=Il disco USB non ha immagini del viso
+8=Aggiunta di un massimo di 5000 foto del viso!
+9=Aggiunta di una foto del viso
+10=Il database dei volti non esiste
+11=Aggiunta di un database max 16 volti!
+12=Capacità Residua
+13=Capacità Totale

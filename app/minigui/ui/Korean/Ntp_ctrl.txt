@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=TCP/IP
+2=DDNS
+3=NTP
+4=FTP
+5=UPNP
+6=NTP 활성화
+7=NTP 서버
+8=사용자정의
+9=NTP 포트
+10=간격(분)
+11=기본값
+12=적용
+13=PPPOE
+14=(30-1440)

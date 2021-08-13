@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<AlarmStatusDesk x="%22" y="%100-700" w="800" h="640">
+
+<row>
+    <list type="listview_ex" id="1" x="30" y="30" w="740" h="504" s="12:13:14:15" itemcnt="5" itemh="56">
+        <item w="160" align="l">1</item>
+        <item w="150" align="l">2</item>
+        <item w="130" align="l">3</item>
+        <item w="130" align="l">4</item>
+        <item w="210" align="l">5</item>
+    </list>
+</row>
+
+<row type="ctrl_button" x="330" y="580" w="140" h="40" s="12:13:41" ft="16" gap="10">
+    <b id="2">6</b>
+</row>
+
+</AlarmStatusDesk>

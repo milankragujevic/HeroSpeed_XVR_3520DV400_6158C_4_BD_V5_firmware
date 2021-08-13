@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Nová složka
+2=Název souboru
+3=Potvrzení
+4=Zrušit

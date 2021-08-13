@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Detecção de movimento
+2=Ajuste de vídeo
+3=Vídeo perdido
+4=Entrada alarme
+5=Saída alarme
+6=Exceção
+7=Tipo de evento
+8=Habilitar
+9=Nenhum Disco: Erro no Disco: Rede Desconectada: Conflito de IP
+10=Ligação Normal
+11=Padrão
+12=Aplique
+13=Saída alarme
+14=Campainha

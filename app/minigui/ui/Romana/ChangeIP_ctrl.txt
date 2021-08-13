@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Schimbați adresele IP
+2=Porniți Ip
+3=Mască de rețea
+4=portal
+5=Nume Utilizator
+6=Parola
+7=Confirmare
+8=Anulare
+9=DNS
+10=Portul HTTP
+11=Portul RTSP

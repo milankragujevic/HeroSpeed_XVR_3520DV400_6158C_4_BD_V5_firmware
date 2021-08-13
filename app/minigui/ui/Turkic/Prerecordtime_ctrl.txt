@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Daha fazla ayar
+2=Ön kayıt süresi (ler)
+3=Post-Record(s)
+4=Ses kaydı
+5=Varsayılan
+6=Kaydet
+7=iptal

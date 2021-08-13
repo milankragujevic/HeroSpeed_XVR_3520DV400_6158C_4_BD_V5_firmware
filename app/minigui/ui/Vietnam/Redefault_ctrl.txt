@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Khôi phục lại giá trị mặc định của camera
+2=Khôi phục tham số  lưu trữ mặc định
+3=khôi phục hệ thống lưu trữ mặc định
+4=Khôi phục  mặc định bảo trì
+5=Khôi phục cài đặt gốc
+6=Ứng dụng

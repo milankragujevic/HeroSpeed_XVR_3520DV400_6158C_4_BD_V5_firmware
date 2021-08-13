@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Configurazione
+2=Generale
+3=Rete
+4=Display
+5=Eccezione
+6=Utente
+7=Configurazione Canale
+8=Allarme locale
+9=IP/porta
+10=DDNS
+11=E-mail
+12=P2P
+13=FTP
+14=UPnP
+15=PPPOE
+16=Cloud Storage
+17=Telnet
+18=Abilita
+19=Applica
+20=Cancella
+21=Preview
+22=Wifi
+23=Filtro IP

@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=Metoda de procesare
+2=Timp de armare
+3=Metoda de procesare
+4=Afișajul ecranului
+5=Alarmă buzzer
+6=Trimite email-ul
+7=Încărcați în FTP
+8=Înregistrarea canalelor
+9=Captură
+10=Activați ieșirea de alarmă
+11=Alarma de ieșire
+12=Nume alarma
+13=Salvare
+14=Anulare
+15=1
+16=2
+17=3
+18=4
+19=5
+20=6
+21=7
+22=8
+23=legătură
+24=Timp înregistrare (sec)
+25=Buzzer Time(sec)

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=En cours d'utilisation
+2=Disque N°.
+3=Normal
+4=Disque non connecté!
+5=Formatage en cours, veuillez patienter…
+6=Périphérique en cours d'utilisation
+7=Erreur inconnue
+8=Formatage réussi
+9=Echec formatage.
+10=Veuillez sélectionner un disque
+11=Le formatage provoquera la perte des données présentent sur le disque, confirmer?
+12=Aucune autorisation!
+13=Impossible de formater le disque USB
+14=Êtes-vous sûr de quitter l'assistant de configuration?

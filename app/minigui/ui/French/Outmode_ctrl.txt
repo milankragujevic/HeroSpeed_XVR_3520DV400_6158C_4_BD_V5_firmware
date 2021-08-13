@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Résolution
+2=Transparence menu
+3=Afficher heure OSD
+4=Afficher après démarrage
+5=1024x768:1280x720:1280x1024:1920x1080
+6=Par défaut
+7=Appliquer
+8=Afficher le nom du canal

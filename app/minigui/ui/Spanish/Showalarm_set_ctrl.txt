@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Notificación de Eventos
+2=Todos
+3=Aplicar
+4=Cancelar

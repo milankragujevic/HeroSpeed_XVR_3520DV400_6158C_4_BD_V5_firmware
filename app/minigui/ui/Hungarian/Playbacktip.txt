@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Nincs jogosultsága!
+2=A rögzítés nem sikerült
+3=Elfog
+4=Hang
+5=Zoom
+6=Címke hozzáadása
+7=Halszem
+8=Bezárás
+9=A felvétel sikeres. Kérjük, ellenőrizze a fájlkezelést.

@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Confirm Permission
+2=Onaylamak
+3=Tamam
+4=iptal

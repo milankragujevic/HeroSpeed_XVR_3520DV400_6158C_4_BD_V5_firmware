@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=tên mục lục không thể gồm những ký tự sau: trống \/:*?"|'%
+2=tên mục lục không thể  là trống

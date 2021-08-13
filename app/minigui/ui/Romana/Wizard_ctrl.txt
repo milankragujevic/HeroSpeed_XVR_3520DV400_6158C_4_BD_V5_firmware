@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Limba
+2=Limbă sistem
+3=Salvare
+4=Ieșire

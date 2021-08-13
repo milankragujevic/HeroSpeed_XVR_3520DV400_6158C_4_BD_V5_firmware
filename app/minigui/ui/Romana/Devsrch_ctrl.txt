@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Cautare dispozitiv
+2=IP
+3=Port
+4=Tip vanzare
+5=Versiunea softului
+6=Filtru
+7=Onvif: Segment multiplu: Private: Onvif și Private
+8=Cautare
+9=Adaugare
+10=Manual Add
+11=Anulare
+12=Adaugă/Șterge

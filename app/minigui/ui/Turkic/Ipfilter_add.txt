@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=liste sayısı en fazlasına vardı
+2=IP adressinizi yazın
+3=Mac adressinizi yazın
+4=Mac adressinizi yanlış
+5=Adres zaten var!

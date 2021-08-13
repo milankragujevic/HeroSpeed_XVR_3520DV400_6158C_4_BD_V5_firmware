@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=In fase di aggiornamento, non spegnere!
+2=Errore durante la procedura di upgrade!
+3=La procedura di upgrade si è conclusa con successo!
+4=Selezionare il file per l’aggiornamento!
+5=Aggiorna?
+6=Nessun aggiornamento rilevato.
+7=Trova una nuova versione, scarica file online?
+8=Download fallito a causa di problemi di stabilità della connessione…
+9=In scaricamento….
+10=Errore
+11=Download riuscito, aggiornamento online?
+12=Il file non esiste!

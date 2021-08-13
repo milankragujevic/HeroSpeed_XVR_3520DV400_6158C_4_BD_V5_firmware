@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Ustawienia patrolowania
+2=Kanał
+3=Presety
+4=Patrol
+5=Ustaw
+6=Wywołaj
+7=1:2:3
+8=Nr.
+9=Nazwa
+10=Ustawienie wstępne
+11=Szybkość
+12=Czas postoju
+13=Konfig.
+14=Usuń
+15=Włącz trasę
+16=Usuń trasę
+17=Usuń wszystkie
+18=Anuluj
+19=Powiększenie
+20=Ostrość
+21=Przysłona
+22=Szybkość
+23=Enter
+24=Wyłącz trasę

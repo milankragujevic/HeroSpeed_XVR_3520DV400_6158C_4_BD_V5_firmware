@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Đang nhận thông tin ...
+2=Liên kết đã thành công!
+3=Liên kết thất bại!
+4=Đang chờ đợi...
+5=Vui lòng sử dụng trình duyệt để mở url sau, hoàn thành xác nhận:

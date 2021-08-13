@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Camera instelling terug naar fabrieksinstelling zetten
+2=Herstel de Standaard Parameter van de Opslag
+3=Herstel de Standaard Parameter van het Systeem
+4=Onderhoudsinstelling terug naar fabrieksinstelling zetten
+5=Fabrieksinstellingen terugzetten
+6=Toepassen

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Similitudine
+2=Vârstă
+3=Sex
+4=Ochelari
+5=Pălărie
+6=List type:
+7=Timp:
+8=Lista albă
+9=Lista neagră
+10=Nici unul
+11=Man
+12=Woman
+13=Show only faces
+14=Show only human figures

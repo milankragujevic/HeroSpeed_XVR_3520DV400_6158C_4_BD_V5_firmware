@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Patrol
+2=Patrol need two preset at least!
+3=?לדחמה תרירבל םירטמרפה תא רזחשל
+4=!האשרה ןיא הז ץורעל
+5=... תונשל ןיא ,טוישב

@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Ajouter la Base de Données de Visages
+2=Nom
+3=Type de Liste
+4=Liste Noire:Liste Blanche
+5=Similitude
+6=Sauvegarder
+7=Annuler

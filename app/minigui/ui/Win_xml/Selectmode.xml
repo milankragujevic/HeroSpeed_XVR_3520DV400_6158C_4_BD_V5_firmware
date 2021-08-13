@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Mode x="10" y="510" w="526" h="420" title="Mode Selection">
+
+<col type="ctrl_button" x="140" y="160" w="250" h="24" s="12:13:44" gap="5">
+<b id="1">Automatic network mode</b>
+<b id="2">Manual network mode</b>
+</col>
+
+<row type="ctrl_button" x="80" y="380" w="140" h="28" s="12:13:41" gap="2">
+<b id="4" ft="20">Previous Step</b>
+<b id="5" ft="20">Next Step</b>
+<b id="6" ft="20" x="329">Cancel</b>
+</row>
+
+</Mode>

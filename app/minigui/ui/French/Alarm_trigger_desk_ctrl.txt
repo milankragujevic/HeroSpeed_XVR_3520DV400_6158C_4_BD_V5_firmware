@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Nom de la sortie d'alarme
+2=État d'alarme
+3=Déclencher
+4=Effacer
+5=Fermer

@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Revenire la parametrii initiali?
+2=Fara permisiune!
+3=Afișajul ecranului
+4=Buzzer time(sec)
+5=Alarmă buzzer

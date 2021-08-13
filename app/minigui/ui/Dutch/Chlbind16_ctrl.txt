@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Configuratie
+2=algemeen
+3=Netwerk
+4=tonen
+5=Uitzonderingen
+6=Gebruiker
+7=Kanaal configureren
+8=Kanaal configureren
+9=Channel
+10=HD
+11=IP
+12=Standaardinstellingen
+13=Toepassen
+14=Annuleren
+15=weergave vooraf
+16=Lokaal alarm
+17=Lite-modus
+18=Inschakelen: Uitschakelen
+19=wifi
+20=IP Filter

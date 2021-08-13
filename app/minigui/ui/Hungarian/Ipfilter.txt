@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=IP Cím
+2=MAC cím

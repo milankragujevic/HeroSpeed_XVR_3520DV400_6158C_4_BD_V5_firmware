@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Canal
+2=POE
+3=OSD
+4=Imagine
+5=Setare PTZ
+6=Mască de confidențialitate
+7=Codificați parametrii
+8=Înregistrare flux
+9=Sub-flux
+10=Numar canal
+11=Mască de confidențialitate locală
+12=Setare PTZ

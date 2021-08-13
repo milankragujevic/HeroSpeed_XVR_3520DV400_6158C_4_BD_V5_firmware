@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Tamaño máximo del imagen seleccionado 1M
+2=Error de formato de tiempo!
+3=Hay uno o más canales sin permiso.
+4=Sin permiso!
+5=Todos los Canales
+6=Sube un imagen por favor.
+7=Por favor seleccione un canal

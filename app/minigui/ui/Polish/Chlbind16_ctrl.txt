@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Konfiguracja
+2=Podstawowy
+3=Sieć
+4=Wyświetlanie
+5=Awaria
+6=Użytkownik
+7=Konfiguracja kanału
+8=Konfiguracja kanału
+9=K.
+10=HD
+11=IP
+12=Domyślne
+13=Zastosuj
+14=Anuluj
+15=Podgląd
+16=Alarm lokalny
+17=Wersja uproszczona
+18=Włącz: wyłącz
+19=Wifi
+20=Filtr IP

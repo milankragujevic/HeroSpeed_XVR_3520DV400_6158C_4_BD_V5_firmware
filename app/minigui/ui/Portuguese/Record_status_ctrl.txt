@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=CH
+2=Status de registro
+3=Stream type
+4=Taxa de bits (Mbps)
+5=Exportar Gravações
+6=Disco No.
+7=Fechar

@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=XVR Image
+2=Bright
+3=Contrast
+4=Saturation
+5=Hue
+6=Default
+7=Apply
+8=Cancel

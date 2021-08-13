@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Obteniendo Información
+2=Enlace Exitoso.
+3=Enlace Fallido.
+4=Esperando…
+5=Utilice el navegador para abrir la siguiente url, complete la validación:

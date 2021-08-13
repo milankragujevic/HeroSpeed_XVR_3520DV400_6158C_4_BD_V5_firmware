@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Menü
+2=1-KAM
+3=KAM1
+4=KAM2
+5=KAM3
+6=KAM4
+7=4-KAM
+8=Kanalumschaltung
+9=Aufnahme-Einstellungen
+10=Kamera hinzu
+11=Wiedergabe
+12=PTZ
+13=XVR Bild
+14=Auswahlmodus
+15=Handbuch Screenshot
+16=Gesichtsvergleich

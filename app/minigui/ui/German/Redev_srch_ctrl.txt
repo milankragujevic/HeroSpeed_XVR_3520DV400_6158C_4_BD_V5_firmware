@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Gerät suchen
+2=Bearbeiten
+3=IP
+4=Anschluss
+5=Protokal
+6=Firmware Version
+7=Filter
+8=Onvif:Multi net segment:Private:Onvif and Private
+9=Suche
+10=Hinzuf.
+11=Abbrechen
+12=IP ändern
+13=Hinzufügen / Löschen

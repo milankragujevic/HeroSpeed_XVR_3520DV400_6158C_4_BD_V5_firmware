@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Canal
+2=Nombre del canal
+3=Estado
+4=Detección de Movimiento
+5=Vídeo perdido

@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Imagen XVR
+2=Brillante
+3=Contraste
+4=Saturación
+5=Tinte
+6=Defecto
+7=Aplicar
+8=Cancelar

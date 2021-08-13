@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Restore the default parameters?
+2=No permission!
+3=Screen Display
+4=E-mail Notification
+5=Buzzer Alarm

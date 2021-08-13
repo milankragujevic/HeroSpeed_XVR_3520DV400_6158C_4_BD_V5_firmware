@@ -1,0 +1,18 @@
+[wintip]
+num=16
+1=Zjišťuji parametry…
+2=Bez povolení!
+3=Chyba pravidla linie!
+4=Linie překročení!
+5=Na stejné linii!
+6=Toto kanálové zařízení nepodporuje tuto funkci
+7=Zvuková výstraha
+8=Odeslat e-mail
+9=Kanál záznamu
+10=Černá listina
+11=Bílá listina
+12=Listina černá a bílá
+13=Maximum support for
+14=Kanál
+15=channels
+16=Ve vývoji!

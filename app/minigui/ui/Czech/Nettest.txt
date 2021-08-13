@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Průměrné zpoždění:
+2=ms
+3=Míra ztráty paketů:
+4=Cílová adresa nedosažitelná!
+5=Testovací síť, prosím čekejte ...
+6=Zachycený balíček ...
+7=Nastavení zálohování paketů sítě se povedlo!
+8=Vložte USB disk.
+9=IP adresa je špatná!
+10=Vložte síťový kabel.

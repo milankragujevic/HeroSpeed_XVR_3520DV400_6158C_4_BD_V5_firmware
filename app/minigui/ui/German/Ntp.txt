@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Benutzerdefinierte
+2=Auf Werkseinstellungen zurücksetzen?
+3=Benutzerdefiniert kann nicht leer sein.

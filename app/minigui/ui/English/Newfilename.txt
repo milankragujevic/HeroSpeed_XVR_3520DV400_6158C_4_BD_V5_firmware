@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Directory name cannot contain following characters Space\/:*?"|'%.
+2=Directory name cannot be empty.

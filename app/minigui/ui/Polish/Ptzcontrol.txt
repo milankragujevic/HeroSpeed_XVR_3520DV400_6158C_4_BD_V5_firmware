@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Wykonywanie patrolu, modyfikacja zabroniona...
+2=Już uruchomiony!
+3=Już zamknięty!
+4=Brak pozwolenia !

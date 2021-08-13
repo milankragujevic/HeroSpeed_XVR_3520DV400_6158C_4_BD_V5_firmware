@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Podobnost
+2=Věk
+3=Sex
+4=Brýle
+5=Čepice
+6=List type:
+7=Čas:
+8=Bílá listina
+9=Černá listina
+10=žádný
+11=Man
+12=Woman
+13=Show only faces
+14=Show only human figures

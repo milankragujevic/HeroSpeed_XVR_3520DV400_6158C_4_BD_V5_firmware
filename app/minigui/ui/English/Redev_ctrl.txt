@@ -1,0 +1,19 @@
+[Ctrltxt]
+num=17
+1=Search
+2=Auto Add
+3=Manual Add
+4=Update
+5=Delete
+6=Enable H264+/H265+
+7=Camera Name
+8=Connection Status
+9=CH
+10=Edit
+11=Del
+12=Conf.
+13=Link
+14=IP
+15=Port
+16=Protocol
+17=Firmware Version

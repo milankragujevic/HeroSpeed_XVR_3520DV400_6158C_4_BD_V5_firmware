@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Cautare dispozitiv
+2=Editați
+3=IP
+4=Port
+5=Protocal
+6=Versiunea softului
+7=Filtru
+8=Onvif: Segment multiplu: Private: Onvif și Private
+9=Cautare
+10=Adaugare
+11=Anulare
+12=Modificați adresa IP
+13=Adaugă/Șterge

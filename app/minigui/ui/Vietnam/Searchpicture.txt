@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Vui lòng chọn một tệp.
+2=Không đủ dung lượng đĩa.
+3=Tìm kiếm, vui lòng đợi ...
+4=Không thể di chuyển dữ liệu vào ổ cứng di động.
+5=Sao lưu đã hoàn tất
+6=Vui lòng lắp đĩa usb!
+7=Quá nhiều tập tin, ngừng tìm kiếm!
+8=bắt ảnh bằng tay
+9=Chuyển động
+10=Báo động
+11=Chuyển động và báo động
+12=Chuyển động và báo động

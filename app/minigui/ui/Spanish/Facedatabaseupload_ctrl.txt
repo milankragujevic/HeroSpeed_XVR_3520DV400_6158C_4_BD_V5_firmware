@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Subir desde base de datos de rostros
+2=Lista de base de datos de rostros
+3=Nombre
+4=Hora
+5=Imagen de rostros
+6=Usuario
+7=Revisar
+8=Memoria restante/Capacidad:
+9=Sí
+10=Cancelar
+11=1

@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Csat
+2=Csatorna Név
+3=Állapot
+4=Mozgásérzékelés
+5=Videojel vesztés

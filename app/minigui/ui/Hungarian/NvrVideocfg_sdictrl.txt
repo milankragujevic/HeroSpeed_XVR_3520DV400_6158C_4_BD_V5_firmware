@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=DVR Image
+2=Fényerő
+3=Kontraszt
+4=Telítettség
+5=Szín
+6=Alapértelmezett
+7=Alkalmaz
+8=Megszünteti

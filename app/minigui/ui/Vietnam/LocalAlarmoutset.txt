@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Lỗi định dạng thời gian!
+2=Bật
+3=Tắt
+4=Thêm tối đa 6 lịch trình mỗi ngày!

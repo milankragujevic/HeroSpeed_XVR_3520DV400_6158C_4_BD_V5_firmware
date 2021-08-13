@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Typ
+2=Začátek
+3=Konec
+4=Všechny události:Nastavení systému:Nastavení uživatelů:Nastavení parametrů:Soubory:Stav zařízení:Alarmy
+5=Hledat
+6=Č.
+7=čas
+8=Událost
+9=Uživatel
+10=Vývozní
+11=Export vše
+12=Smazat

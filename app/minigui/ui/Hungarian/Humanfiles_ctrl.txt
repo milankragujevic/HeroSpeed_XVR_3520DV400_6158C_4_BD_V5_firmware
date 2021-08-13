@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=\
+2=\
+3=\
+4=Idő
+5=Csatorna
+6=File típus
+7=Ma: Tegnap: Utolsó 2 nap: Utolsó 3 nap: Utolsó 7 nap: Utolsó 14 nap: Egyéni
+8=Videó és Kép
+9=Nincs feltétel
+10=Keresés
+11=Mentés

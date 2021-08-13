@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Tên gọi cảnh báo phát ra
+2=Trạng thái báo động
+3=Khởi động
+4=Xóa
+5=Tắt

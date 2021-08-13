@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Revisar
+2=Ruta de dispositivo
+3=Todos los archivos (*.*): *.jpg
+4=Hacia arriba
+5=Nombre
+6=tamaño
+7=Tipo
+8=Fecha de modificación
+9=Borrar
+10=Sí
+11=Cancelar
+12=Nueva carpeta

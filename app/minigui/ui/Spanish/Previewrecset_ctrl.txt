@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Condifuración de grabación
+2=Canal
+3=Todos
+4=Operar
+5=Grabar
+6=Movimiento
+7=Todos
+8=Dom.
+9=Lun.
+10=Mar.
+11=Mie.
+12=Jue.
+13=Vie.
+14=Sab.
+15=Defecto
+16=copiar
+17=Aplicar
+18=Cancelar
+19=Más ajustes
+20=Inteligente
+21=Alarma
+22=M | A
+23=M & A
+24=Ninguna

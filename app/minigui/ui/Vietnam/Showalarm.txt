@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=Phát hiện chuyển động
+2=Mất video
+3=Gây ra nhập cảnh báo
+4=\
+5=\
+6=Khuôn mặt( chụp mặt)
+7=Xâm lược
+8=Vượt qua vạch
+9=Thay đổi cảnh
+10=Sót lại đồ dùng
+11=Cầm lấy đồ dùng
+12=So sánh khuôn mặt
+13=Người ở lại
+14=Phát hiện đám đông
+15=Mất video chính
+16=Mất video phụ
+17=Xuất cảnh báo
+18=Khói
+19=Tia hồng ngoại
+20=Hình người
+21=Không có ổ cứng
+22=Lỗi ổ cứng
+23=Mất mạng
+24=Xung đột IP
+25=MAC bất đồng

@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Please select face database
+2=Success:
+3=Failed:
+4=Batch added successfully!
+5=Batch added failed!
+6=USB disk path does not exist
+7=USB disk directory without face map
+8=Přidání max. 5 000 obličeje!
+9=Adding face picture
+10=The face database does not exist
+11=Přidání databáze max. 16 obličejů!
+12=Zbývající velikost
+13=Celková velikost

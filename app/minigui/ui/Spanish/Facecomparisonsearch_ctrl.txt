@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Filtro de búsqueda por evento
+2=Filtro de búsqueda por imagen
+3=Canal
+4=Hora
+5=Tipo
+6=Hoy: Ayer: Los Pasados 2 Días: Los Pasados 3 Días: Los Pasados 7 Días: Los Pasados 14 Días: Personalizar
+7=Lista negra:Lista blanca:Lista negra y lista blanca
+8=Buscar

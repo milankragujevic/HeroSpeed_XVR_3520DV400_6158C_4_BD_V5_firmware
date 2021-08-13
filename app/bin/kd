@@ -1,0 +1,9 @@
+#!/bin/sh
+echo "Hi3521D!!!"
+echo "kill the watchdog";
+
+himm 0x12070c00 0x1ACCE551 > /dev/null
+himm 0x12070008 0x0 > /dev/null
+himm 0x12070c00 0x0 > /dev/null
+
+

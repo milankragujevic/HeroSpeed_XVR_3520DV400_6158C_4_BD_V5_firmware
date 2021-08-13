@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Ön
+2=Kayıttan oynatma
+3=Dosya yönetimi
+4=Akıllı analiz
+5=Kanal
+6=Depolama
+7=Sistem
+8=Bakım
+9=Ticaret uygulamaları
+10=İndirme
+11=Bell
+12=Alarm
+13=Yedekleme
+14=Güç kesildi.

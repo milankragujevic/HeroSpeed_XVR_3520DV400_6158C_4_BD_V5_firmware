@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Not enough disk space.
+2=Copia de seguridad de archivos, espere.
+3=Copia de seguridad terminada
+4=No se pueden escribir datos en el disco duro móvil.
+5=Seleccione un archivo.
+6=El tiempo de consulta rápida no debe exceder los 30 minutos.
+7=This time no files.
+8=Error de formato de tiempo!
+9=En proceso de respaldo, por favor espere ...
+10=Hay uno o más canales sin permiso.
+11=Este canal no tiene permiso.
+12=Por favor seleccione un canal
+13=por favor inserte el disco usb

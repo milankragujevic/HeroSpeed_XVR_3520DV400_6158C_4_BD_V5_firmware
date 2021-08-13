@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Nouvelle étiquette
+2=Nom
+3=OK
+4=Annuler
+5=Modifier l'étiquette

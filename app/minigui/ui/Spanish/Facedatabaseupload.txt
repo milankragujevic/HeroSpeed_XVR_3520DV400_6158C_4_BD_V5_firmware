@@ -1,0 +1,3 @@
+[wintip]
+num=1
+1=Por favor, elija imagen de rostros

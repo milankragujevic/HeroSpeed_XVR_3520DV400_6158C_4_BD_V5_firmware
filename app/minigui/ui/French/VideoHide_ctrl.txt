@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Caméra
+2=Activer
+3=Effacer zone 1
+4=Effacer zone 2
+5=Effacer zone 3
+6=Effacer tous
+7=Appliquer
+8=Copier

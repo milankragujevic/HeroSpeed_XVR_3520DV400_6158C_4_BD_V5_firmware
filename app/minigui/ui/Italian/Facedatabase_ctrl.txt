@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Nome della libreria
+2=Numero
+3=\
+4=Cancellare
+5=Nuovo
+6=Dettagli  database del viso
+7=Nome
+8=Numero
+9=Cancellare
+10=Modello di faccia
+11=Aggiungi
+12=Importazione batch
+13=Numero funzione

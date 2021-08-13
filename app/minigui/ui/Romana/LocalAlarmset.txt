@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Alarmă buzzer
+2=Buzzer time(sec)
+3=Afișajul ecranului
+4=Eroare de format de timp!
+5=Adăugați un maxim de 6 programe pe zi!

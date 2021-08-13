@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Đầu vào số báo động
+2=Tên báo động
+3=Alarm Type
+4=Trạng thái báo động
+5=Kích động luồng ghi hình
+6=Tắt

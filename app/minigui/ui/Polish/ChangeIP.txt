@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Brak pozwolenia!
+2=Konfiguracja nie powiodła się
+3=Konfilkt IP
+4=Błędny adres IP!
+5=Nieprawidłowa maska podsieci!
+6=Nieprawidłowa brama!
+7=Nieprywatny IPC nie może modyfikować portów DNS,HTTP i RTSP, potwierdzać zmian?

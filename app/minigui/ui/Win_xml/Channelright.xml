@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Preview x="0" y="%10" w="%15" h="%100-%10" title="Preview">
+
+<col type="ctrl_trackbar" x="%15-10" y="0" w="10" h="%100" s="11:13:16:61:62:63:68" ex="87" gap="-1">
+<tb id="99" tcol="20"></tb>
+</col>
+<col type="ctrl_button" x="0" y="10" w="%15" h="40" s="12:13:16:41:42:48" gap="10" tc="1" >
+<b id="100" type="static"  x="%3-30" w="%15-30" h="30" s="12:13:31" bcol="30" ft="14" gap="0">1</b>
+<b id="101" s="12:16:48:49:41:42" bg="./image/radiobutton_bg/addcamera.png" bgc="./image/radiobutton_bg/addcamera_hover.png">1</b>
+<b id="103" bg="./image/radiobutton_bg/OSDsetup.png" bgc="./image/radiobutton_bg/OSDsetup_hover.png">3</b>
+<b id="104" bg="./image/radiobutton_bg/image.png" bgc="./image/radiobutton_bg/image_hover.png">4</b>
+<b id="105" bg="./image/radiobutton_bg/ptz.png" bgc="./image/radiobutton_bg/ptz_hover.png">5</b>
+<b id="106" bg="./image/radiobutton_bg/ptz_setting.png" bgc="./image/radiobutton_bg/ptz_setting_hover.png">12</b>
+<b id="107" bg="./image/radiobutton_bg/overlay.png" bgc="./image/radiobutton_bg/overlay_hover.png">6</b>
+<b id="108" bg="./image/radiobutton_bg/overlay_local.png" bgc="./image/radiobutton_bg/overlay_local_hover.png">11</b>
+<b id="109" bg="./image/radiobutton_bg/chlname.png" bgc="./image/radiobutton_bg/chlname_hover.png" gap="26">10</b>
+<b id="110" type="static"  x="%3-30" w="%15-30" h="30" s="12:13:31" bcol="30" ft="14" gap="0">7</b>
+<b id="111" bg="./image/radiobutton_bg/mainstream.png" bgc="./image/radiobutton_bg/mainstream_hover.png">8</b>
+
+</col>
+
+</Preview>

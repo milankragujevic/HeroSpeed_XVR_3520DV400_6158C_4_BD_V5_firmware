@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Paraméterek lekérése, kérem várjon…
+2=Ehhez a csatornához  nincs engedélye!

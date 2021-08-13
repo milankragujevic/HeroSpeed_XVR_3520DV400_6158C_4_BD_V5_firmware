@@ -1,0 +1,5 @@
+[Ctrltxt]
+num=3
+1=Pozostały Rozmiar/MB
+2=Pozostały Czas/Min
+3=Postęp zapisu kopii

@@ -1,0 +1,13 @@
+[wintip]
+num=11
+1=Geen toestemming!
+2=Reset naar fabrieksinstellingen ?
+3=Fout in tijdnotatie!
+4=Zondag
+5=Maandag
+6=Dinsdag
+7=Woensdag
+8=Donderdag
+9=Vrijdag
+10=Zaterdag
+11=Tijdsperioden kunnen niet worden overschreden of opgenomen!

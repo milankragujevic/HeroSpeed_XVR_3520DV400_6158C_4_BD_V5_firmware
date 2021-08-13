@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Vyhledávání podle události
+2=Vyhledávání podle obrázku
+3=Kanál
+4=čas
+5=Typ
+6=Dnes: Včera: Poslední 2 dny: Poslední 3 dny: Posledních 7 dní: Posledních 14 dní: Vlastní
+7=Černá listina: Bílá listina: Listina černá a bílá
+8=Hledání

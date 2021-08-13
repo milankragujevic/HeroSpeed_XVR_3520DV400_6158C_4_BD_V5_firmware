@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Logowanie użytkownika
+2=admin
+3=Logowanie
+4=Zamknij
+5=Zapomniałem hasła
+6=Automatyczne logowanie

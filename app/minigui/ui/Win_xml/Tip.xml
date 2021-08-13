@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Tip>
+
+
+<row type="ctrl_button" x="4" y="4" w="32" h="32" bgw="-1" s="12:13:41:42:411" gap="8"  tc="1000">
+    
+    <b id="20" bg="./image/radiobutton_bg/tipscreen_hover.png" ></b>
+
+    
+    <b id="11" bg="./image/radiobutton_bg/auto.png"></b>
+    <b id="12" x="44"bg="./image/radiobutton_bg/ahd.png"></b>
+    <b id="13" x="44" bg="./image/radiobutton_bg/cvi.png"></b>
+    <b id="14" x="44" bg="./image/radiobutton_bg/tvi.png"></b>
+    <b id="15" x="44" bg="./image/radiobutton_bg/cvbs.png"></b>
+    <b id="16" x="44" bg="./image/radiobutton_bg/ipc.png"></b>
+
+    <b id="2" bg="./image/radiobutton_bg/tipplay_hover.png"></b>
+    <b id="3" s="12:13:42:44:411" bg="./image/radiobutton_bg/tipmute.png" bgc="./image/radiobutton_bg/tipvolum.png"></b>
+    <b id="4" bg="./image/radiobutton_bg/tipzoom_hover.png"></b>
+    <b id="5" bg="./image/radiobutton_bg/tip_image.png"></b>
+    <b id="6" bg="./image/radiobutton_bg/tipstream_hover.png"></b>
+    <b id="21" bg="./image/radiobutton_bg/tipptz_hover.png"></b>
+    <b id="22" s="12:13:42:44" bg="./image/radiobutton_bg/tiprecord.png" bgc="./image/radiobutton_bg/tipnrecord.png"></b>
+    <b id="7" bg="./image/radiobutton_bg/close.png" bgc="./image/radiobutton_bg/close.png"></b>
+</row>
+<row type="ctrl_button" y="40" h="40">
+    <b id="8" type="static" s="11:12:31" x="0" w="400" bcol="110" ft="16"></b>
+    <b id="9" type="ctrl_trackbar" x="0" w="400" s="11:12:13:61:62:63"></b>
+</row>
+</Tip>

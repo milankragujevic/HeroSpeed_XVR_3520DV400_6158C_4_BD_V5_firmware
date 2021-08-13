@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Cercando, aspetta!
+2=Nessun aggiornamento rilevato.
+3=Può essere selezionato solo un pacchetto di aggiornamento!
+4=Selezionare il file per l’aggiornamento!
+5=Aggiorna?
+6=In fase di aggiornamento, non spegnere!
+7=Errore durante la procedura di upgrade!
+8=La procedura di upgrade si è conclusa con successo!
+9=Il canale ONVIF non supporta l'aggiornamento!
+10=Canale
+11=Aggiornamento completato!
+12=Aggiornamento fallito!
+13=Il canale RTSP non supporta l'aggiornamento!
+14=Inserire il disco-periferica USB.

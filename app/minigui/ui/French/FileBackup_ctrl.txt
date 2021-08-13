@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Heure
+2=Caméra
+3=Type fichier
+4=Étiquette
+5=Type évenement
+6=Numéro de plaque
+7=Statut du fichier
+8=Région / pays
+9=Aujourd'hui: Hier: 2 derniers jours: 3 derniers jours: 7 derniers jours: 14 derniers jours: Personnaliser
+10=Video:Picture
+11=Tout : Débloqué : Verrouillé
+12=Exportation rapide
+13=Recherche

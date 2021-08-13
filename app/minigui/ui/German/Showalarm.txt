@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=Bewegungsmelder
+2=Videoverlust
+3=Alarmeingangsauslöser
+4=\
+5=\
+6=Gesicht (Gesichtserfassung)
+7=Einbruch
+8=Übergang
+9=Szenenwechsel
+10=Artikel verlassenen
+11=Artikel holen
+12=Gesichtsvergleich
+13=Wandern
+14=Mitarbeiterversammlung
+15=Hauptstrom-Videoverlust
+16=Sub-Stream-Videoverlust
+17=Alarm aus
+18=Rauch
+19=Infrarot
+20=Humanoid
+21=Keine Festplatte
+22=Festplattenfehler
+23=Netz getrennt
+24=IP-Konflikt
+25=MAC-Konflikt

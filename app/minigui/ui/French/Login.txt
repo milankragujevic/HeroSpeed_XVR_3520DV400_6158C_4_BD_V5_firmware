@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Cet utilisateur n'existe pas!
+2=Le mot de passe est incorrect, il y a
+3=Initialisation en cours, veuillez patienter...
+4=Êtes-vous sûr de quitter l'assistant de configuration?
+5=chances.
+6=Le mot de passe ou le moyen de déverrouillage a été mal saisi 5 fois. Veuillez réessayer après 30 minutes.
+7=Le mot de passe a été mal saisi 5 fois. Veuillez réessayer après 30 minutes.

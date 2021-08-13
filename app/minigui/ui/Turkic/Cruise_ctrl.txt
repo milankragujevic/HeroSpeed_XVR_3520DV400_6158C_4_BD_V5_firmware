@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Devriye Gezme Kurulumu
+2=Kanal
+3=Ön Ayarlar
+4=Devriye Gezme
+5=Ayarlama
+6=Adlandırma
+7=1:2:3
+8=Numara
+9=Ad
+10=Ön Ayar
+11=Hız
+12=Dayanma Süresi
+13=Kurulum
+14=Sil
+15=Devriyeyi aç
+16=Devriyeyi sil
+17=Tüm devriyeleri sil
+18=iptal
+19=Yakınlaştır
+20=Odakla
+21=İris
+22=Hız
+23=Girmek
+24=Devriyeyi kapat

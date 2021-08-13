@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Gebruiker succesvol toegevoegd!
+2=/
+3=Gebruiker bestaat al!
+4=Voer aub een gebruikersnaam in!
+5=Voer aub een wachtwoord in!
+6=Voer aub een nieuw wachtwoord in!
+7=Wachtwoord is niet correct!
+8=Wachtwoorden komen niet overeen!
+9=Onbekende fout!
+10=Administrator kan niet worden verwijderd!
+11=Gebruikersnaam kan geen root of admin worden genoemd!
+12=De gebruikersnaam mag de lege ruimtesleutel niet bevatten
+13=Het wachtwoord mag niet minder dan 8 bytes zijn en ten minste één cijfer en letter bevatten!
+14=If the user name or password length is geater than 10,it can not be all numbers

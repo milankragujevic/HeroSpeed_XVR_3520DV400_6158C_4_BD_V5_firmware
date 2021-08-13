@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Similitudine
+2=OK
+3=Anulare
+4=Lista neagră: Lista albă
+5=mod

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<AlarmInRecordStatus x="%15" y="%10" w="%100-%15" h="%100-%10">
+
+<row>
+    <list type="listview_ex" id="1" x="%3" y="30" w="%79" h="560" s="12:13:14:15" itemcnt="5" itemh="56">
+        <item w="%13" align="l">1</item>
+        <item w="%14" align="l">2</item>
+        <item w="%13" align="l">3</item>
+        <item w="%13" align="l">4</item>
+        <item w="%16" align="l">5</item>
+    </list>
+</row>
+
+
+</AlarmInRecordStatus>

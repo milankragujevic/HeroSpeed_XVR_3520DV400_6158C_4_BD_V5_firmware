@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Klip beállításai
+2=Kérjük, állítsa be a klip idejét:
+3=Kezdete
+4=Vége
+5=Mentés
+6=Megszünteti

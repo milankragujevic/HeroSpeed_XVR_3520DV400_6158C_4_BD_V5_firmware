@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=HDD
+2=Allgemein
+3=HDD Info
+4=Nr.
+5=Status
+6=Gesamt
+7=Restkapazität
+8=Gerätetyp
+9=Warnung: Der DVR startet nach der Formatierung der Festplatte automatisch neu!
+10=Aktualisieren
+11=Formatieren
+12=Abbrechen
+13=Vorschau

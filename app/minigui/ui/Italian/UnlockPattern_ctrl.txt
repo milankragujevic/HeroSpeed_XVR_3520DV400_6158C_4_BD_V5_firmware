@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Imposta il modello di sblocco
+2=Admin
+3=Dimentica il modello di sblocco
+4=Cambia utente

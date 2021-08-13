@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=stare
+2=Actualizare automată
+3=Timpul de actualizare
+4=Verifica
+5=Actualizare
+6=Salvare

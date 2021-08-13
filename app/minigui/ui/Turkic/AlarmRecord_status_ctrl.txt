@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Alarm girişi no:
+2=Alarm adı
+3=Alarm Type
+4=Alarm durumu
+5=Tetikleme rekor kanalı
+6=Kapat

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=No mobile hard disk!
+2=A desinstalação foi bem sucedida!
+3=A desinstalação falhou!
+4=Arquivo de registro
+5=Em processo de backup, aguarde ...
+6=O backup foi bem-sucedido!
+7=O backup falhou!
+8=Nenhum disco para backup
+9=Falha de montagem!
+10=Erro desconhecido!
+11=Sem permissão!
+12=Não é possível escrever no disco rígido móvel!
+13=Falha ao ler dados de registro!
+14=Not enough disk space.

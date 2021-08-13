@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Configuración de la Patrullaje
+2=Canal
+3=Presets
+4=Patrullaje
+5=Establecer
+6=Llamado
+7=1:2:3
+8=No.
+9=Nombre
+10=Programar
+11=Velocidad
+12=Tiempo de permanencia
+13=Configuración
+14=Eliminar
+15=Crucero
+16=Eliminar crucero
+17=Eliminar todo el crucero
+18=Cancelar
+19=Acercamiento
+20=Focos
+21=Iris
+22=Velocidad
+23=Entrar
+24=Pagar el tour

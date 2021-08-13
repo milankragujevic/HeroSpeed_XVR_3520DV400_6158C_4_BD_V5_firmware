@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Cambia
+2=Ingresso allarme
+3=Nome allarme
+4=Abilita
+5=Tipo
+6=N.O:N.C
+7=Programma di inserimento
+8=Azione di collegamento
+9=Collegamento normale
+10=Registrazione del canale
+11=Attiva uscita allarme
+12=Copia
+13=Applica
+14=Tutti
+15=Dom.
+16=Lun.
+17=Mar.
+18=Mer.
+19=Gio.
+20=Ven.
+21=Sab.
+22=Normale
+23=Cambia
+24=Monitoraggio a schermo intero

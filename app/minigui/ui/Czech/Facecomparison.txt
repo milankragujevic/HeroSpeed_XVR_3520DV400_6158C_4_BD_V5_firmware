@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Zjišťuji parametry…
+2=Černá listina
+3=Bílá listina
+4=Listina černá a bílá

@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=No permission!
+2=Playback.
+3=Record File Backup.
+4=Disk Manage.
+5=Record schedule and camera encode set.
+6=Camera add,camera osd,image,motion detection,videoloss,ptz,privacy mask setup,channelname.
+7=System date/time,network,display,exception,user setup,channel config.
+8=Stream,log,version info and system update,restore default.
+9=System logout and reboot.
+10=System date/time,network,display,exception,user setup,channel config,local alarm.

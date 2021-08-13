@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=TCP/IP
+2=DDNS
+3=NTP
+4=FTP
+5=UPnP
+6=Wifi
+7=PPPOE
+8=Mạng LAN
+9=Bật DDNS
+10=Kiểu DDNS
+11=Thời gian làm mới (giây)
+12=Tên người dùng
+13=Mật khẩu
+14=Tên miền
+15=Mặc định
+16=Ứng dụng

@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Không cho phép!
+2=Cấu hình Không thành công
+3=Xung đột IP
+4=Địa chỉ IP không hợp lệ!
+5=Subnet mark không hợp lệ!
+6=Cổng không hợp lệ!

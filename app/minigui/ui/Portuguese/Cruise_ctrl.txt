@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Configuração da patrulha
+2=Canal
+3=Predefinições
+4=Patrulha
+5=Conjunto
+6=Ligar
+7=1:2:3
+8=Não.
+9=Nome
+10=Predefinido
+11=Rapidez
+12=Permanecer tempo
+13=Configuração
+14=Del
+15=Cruzeiro ligado
+16=Deletar Cruzeiro
+17=Deletar todo cruzeiro
+18=cancelar
+19=Zoom
+20=Focus
+21=Íris
+22=Rapidez
+23=Entrar
+24=cruzeiro Fechar

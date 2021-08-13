@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Nicht mehr als 4 Kanäle!
+2=Nicht mehr als 8 Kanäle!
+3=Keine Erlaubnis!
+4=Kanalaufnahme

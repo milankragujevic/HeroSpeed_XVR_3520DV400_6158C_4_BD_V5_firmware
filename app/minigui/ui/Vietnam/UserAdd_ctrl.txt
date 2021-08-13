@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Thêm người dùng
+2=Tên người dùng
+3=Mật khẩu
+4=Xác nhận
+5=Cấp độ
+6=Nhà điều hành: Tổng quát
+7=Lưu
+8=Hủy

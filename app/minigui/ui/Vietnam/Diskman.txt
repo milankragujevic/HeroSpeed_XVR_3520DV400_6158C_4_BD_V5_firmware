@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Khi sử dụng
+2=Số HDD.
+3=Bình thường
+4=Không kết nối ổ cứng!
+5=Đang xử lý định dạng, vui lòng đợi ...
+6=Thiết bị đang được sử dụng.
+7=Lỗi không rõ
+8=Định dạng đã thành công
+9=Định dạng không thành công.
+10=Vui lòng chọn một ổ cứng
+11=Việc định dạng sẽ làm mất tất cả dữ liệu trên ổ cứng. Tiếp tục?
+12=Không cho phép!
+13=Không thể định dạng đĩa USB.
+14=Bạn có chắc chắn thoát khỏi trình hướng dẫn khởi động?

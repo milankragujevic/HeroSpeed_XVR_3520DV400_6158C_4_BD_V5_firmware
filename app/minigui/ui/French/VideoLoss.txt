@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Restaurer les paramètres par défaut?
+2=Aucune autorisation!
+3=Affichage à l'écran
+4=Envoi d'email
+5=Alerte buzzer

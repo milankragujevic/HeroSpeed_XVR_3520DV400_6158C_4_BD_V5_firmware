@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Fichier image
+2=Fichier vidéo
+3=En sauvegarde, veuillez patienter...
+4=Espace disque insuffisant
+5=Sauvegarde réussie!
+6=Echec de sauvegarde!

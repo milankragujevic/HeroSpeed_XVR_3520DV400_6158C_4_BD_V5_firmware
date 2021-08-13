@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Łączenie...
+2=Połączony
+3=Przywrócić parametry domyślne?
+4=Maksymalna liczba linii w tablicy mapowania portów to 16 linii!

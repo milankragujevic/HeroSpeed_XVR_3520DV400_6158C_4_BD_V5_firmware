@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Főmenü
+2=Visszajátszás
+3=Export
+4=HDD
+5=Rögzítés
+6=Csatorna
+7=Rendszerbeállítás
+8=Karbantartás
+9=Leállítás

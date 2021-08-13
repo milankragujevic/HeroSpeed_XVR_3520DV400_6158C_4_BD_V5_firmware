@@ -1,0 +1,24 @@
+[wintip]
+num=22
+1=Capture
+2=Lecture instantanée
+3=PTZ
+4=Zoomer
+5=Audio
+6=Image
+7=Information
+8=Commencer l'enregistrement d'une journée
+9=Passer à l'écran d'accueil
+10=fisheye
+11=Désactiver le POS
+12=Désactiver la position 3D
+13=Arrêter le record de la journée
+14=Passer au sous-écran
+15=Activer le POS
+16=Activer la position 3D
+17=Capture échouée
+18=No Permission
+19=Le commencement d'enregistrement a échoué, veuillez modifier le programme d'enregistrement.
+20=RTSP ne supporte pas cette fonctionnalité
+21=Capture d'images réussie, veuillez vérifier dans la gestion des fichiers.
+22=Fermer

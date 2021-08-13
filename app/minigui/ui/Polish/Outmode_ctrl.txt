@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Rozdzielczość
+2=Przezroczystość interfejsu
+3=Pokaż czas OSD
+4=Pokaż po uruchomieniu
+5=1024x768:1280x720:1280x1024:1920x1080
+6=Domyślne
+7=Zastosuj
+8=Pokaż nazwę kanału

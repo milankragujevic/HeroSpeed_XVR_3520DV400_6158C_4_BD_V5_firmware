@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Zvuková výstraha
+2=Odeslat e-mail
+3=Zobrazení
+4=Chyba formátu času!
+5=Nejvýše je možno použít 6 kalendářů pro jeden den !

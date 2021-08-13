@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Canal
+2=Numar canal
+3=Timp
+4=Text
+5=Formatul datei
+6=Poziția OSD
+7=Oglindă
+8=Anul Luna Ziua: Luna Ziua Anul: Ziua Luna Anul
+9=Stânga sus:Stânga jos
+10=Off: Orizontal: Vertical: Ambele
+11=Salvare
+12=Copie

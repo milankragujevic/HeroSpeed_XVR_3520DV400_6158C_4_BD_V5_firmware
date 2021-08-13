@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Importă în grup
+2=Nume
+3=stare
+4=Confirmare

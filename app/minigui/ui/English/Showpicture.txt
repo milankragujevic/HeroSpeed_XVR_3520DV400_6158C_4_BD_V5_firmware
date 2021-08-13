@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1= Is already the first page
+2= Is already the last page

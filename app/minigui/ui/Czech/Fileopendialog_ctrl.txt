@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Zobrazit
+2=Cesta zařízení
+3=Všechny soubory(*.*):*.jpg
+4=Nahoru
+5=Jméno
+6=Velikost
+7=Typ
+8=Datum změny
+9=Smazat
+10=Potvrzení
+11=Zrušit
+12=Nová složka

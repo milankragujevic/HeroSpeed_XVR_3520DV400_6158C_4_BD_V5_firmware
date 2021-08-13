@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Geen toestemming!
+2=Verwijder deze gebruiker?
+3=Administrator kan niet worden verwijderd!
+4=Maximaal 256 gebruikers!
+5=De groep bevat een gebruiker die niet verwijderd kan worden!
+6=Kan de huidige gebruiker niet verwijderen!
+7=Maximaal 20 groepen!
+8=Grupa administratora nie może być usunięta!
+9=Selecteer een Gebruiker
+10=U bent geen lid van de groep, geen toestemming om deze actie uit te voeren
+11=zwak
+12=Średni
+13=Silny
+14=Administrator
+15=Operator
+16=algemeen
+17=Wachtwoord

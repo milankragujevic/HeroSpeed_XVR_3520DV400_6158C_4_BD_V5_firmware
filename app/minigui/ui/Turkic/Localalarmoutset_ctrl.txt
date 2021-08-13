@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Düzenle
+2=Alarm çıkışı
+3=Alarm adı
+4=gecikme
+5=Alarm durumu
+6=5 Saniye: 10 Saniye: 30 Saniye: 1 Dakika: 2 Dakika: 5 Dakika: 10 Dakika: Manuel Temizle
+7=Kurma planı
+8=tetik
+9=Açık
+10=\
+11=\
+12=Kopyala
+13=Uygula
+14=Tümü
+15=Pazar
+16=Pazartesi
+17=Salı
+18=Çarşamba
+19=Perşembe
+20=Cuma
+21=Cumartesi
+22=Normal
+23=Düzenle

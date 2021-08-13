@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Not enough disk space.
+2=File mentése, kérem várjon…
+3=Archiválás kész!
+4=Nem lehet adatot írni a lemezre.
+5=Kérem válasszon file-t.
+6=A gyors lekérdezési idő nem haladhatja meg a 30 percet.
+7=This time no files.
+8=Rossz idő formátum!
+9=Mentés folyamatban, kérem várjon...
+10=Egy vagy több csatornához nincs jogosultsága
+11=Ez a csatorna nincs engedélyezve
+12=Válasszon csatornát
+13=Kérjük, helyezze be az usb lemezt!

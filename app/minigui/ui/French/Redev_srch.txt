@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Recherche de périphérique, veuillez patienter!
+2=Êtes-vous sûr de quitter l'assistant de configuration?
+3=L'opération remplacera l'IP du périphérique distant, souhaitez-vous continuer?
+4=La caméra Fisheye nécessite d'être ajoutée séparément
+5=Le périphérique est déjà connecté plusieurs fois, vous ne pouvez plus l'ajouter.
+6=Ajouter une caméra, veuillez patienter.
+7=ajoutée
+8=Suppression de la caméra, veuillez patienter…

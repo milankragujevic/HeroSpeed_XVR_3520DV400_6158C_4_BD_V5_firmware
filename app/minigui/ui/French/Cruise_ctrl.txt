@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Config. Patrouille
+2=Caméra
+3=Sélections
+4=Patrouille
+5=Assigner
+6=Appel
+7=1:2:3
+8=N°.
+9=Nom
+10=Sélection
+11=Vitesse
+12=Temps d'arrêt
+13=Configuration
+14=Supprimer
+15=Activer croisement
+16=Supprimer croisement
+17=Supprimer tous les croisements
+18=Annuler
+19=Zoomer
+20=Mise au point
+21=Ouverture
+22=Vitesse
+23=Entrer
+24=Désactiver le tour

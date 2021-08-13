@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Status
+2=Auto Update
+3=Update Time
+4=Check 
+5=Upgrade
+6=Apply 

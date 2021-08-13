@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Bağlanıyor…
+2=bağlı
+3=Varsayılan değişkenleri geri yüklesin mi?
+4=Bağlantı noktası adreslemesi en yüksek satır sayısı 16 satırdır!

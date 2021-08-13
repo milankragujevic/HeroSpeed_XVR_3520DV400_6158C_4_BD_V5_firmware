@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Název výstupního alarmu
+2=Stav alarmu
+3=Spouštěč
+4=Smazat
+5=Zavřít

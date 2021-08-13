@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Restaurar parametros por defecto?
+2=Sin permiso!
+3=Visualización de la pantalla
+4=Enviar correo electrónico
+5=Alarma del zumbador

@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Kanál
+2=Název kanálu
+3=čas
+4=Text
+5=Formát času
+6=Pozice OSD
+7=Zrcadlo
+8=Rok měsíc den:Měsíc den rok: Den měsíc rok
+9=Nahoru_doleva:Dolů:doleva
+10=Vypnuto:Horizontální:Vertikální:Oboje
+11=Použít
+12=Kopírovat

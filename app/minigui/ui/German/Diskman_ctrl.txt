@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Aktualisieren
+2=Formatieren
+3=Reparieren
+4=Nr.
+5=Status
+6=Gesamt
+7=Restkapazität
+8=Gerätetyp
+9=Warnung: NVR wird nach der Formatierung der Festplatte automatisch neu gestartet!

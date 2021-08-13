@@ -1,0 +1,10 @@
+#!/bin/sh
+
+telnet=`ps | grep -v grep | grep "telnet.sh" | awk '{print $1}'`
+if [ -n "$telnet" ];then
+kill -9 $telnet 
+echo "close telnet.sh"
+telnetd&
+fi
+
+

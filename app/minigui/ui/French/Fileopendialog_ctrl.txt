@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Consulter
+2=Chemin du périphérique
+3=Tous les fichiers (*.*): *.Jpg
+4=En haut
+5=Nom
+6=Taille
+7=Type
+8=Date de modification
+9=Supprimer
+10=OK
+11=Annuler
+12=Nouveau dossier

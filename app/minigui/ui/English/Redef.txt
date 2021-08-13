@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Restoring default Parameters, Please wait...
+2=Restore Default
+3=New settings will be activated after rebooting.Reboot now?
+4=Restore the default parameters?

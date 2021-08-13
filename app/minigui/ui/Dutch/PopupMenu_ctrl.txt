@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Terugspelen
+2=Document Beheer
+3=Systeem instellingen
+4=Log in
+5=Afsluiten
+6=Uitloggen

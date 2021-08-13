@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=/
+2=/
+3=Fout in tijdnotatie!
+4=Het netwerkverbruik is te groot, gelieve minder kanalen te verwijderen
+5=Het netwerkverbruik is weer normaal
+6=Geen toestemming!
+7=Upgraden, niet uitschakelen aub!
+8=Bezig met formatteren, even geduld aub…
+9=Wisselen van scherm…
+10=Geen kanalen die deze functie ondersteunen!
+11=Gezichtsherkenning
+12=Functie
+13=5 min afspelen
+14=Volume
+15=Zoom
+16=Afbeelding
+17=Stream Info
+18=Sluiten
+19=Het huidige wachtwoord is te simpel, wijzig het wachtwoord!
+20=Nieuwe opslagapparaten gevonden, formatteren als recordschijf onmiddellijk?
+21=In ontwikkeling!
+22=Handmatige screenshot mislukt!
+23=Disk verboden
+24=Het huidige wachtwoord is te simpel, wijzig het wachtwoord!
+25=Gevangen nemen

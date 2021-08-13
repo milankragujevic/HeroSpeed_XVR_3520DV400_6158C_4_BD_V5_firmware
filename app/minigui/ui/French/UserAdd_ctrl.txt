@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Ajouter utilisateur
+2=Nom d'utilisateur
+3=Mot de passe
+4=Confirmer
+5=Grade
+6=Opérateur:Général
+7=Sauvegarder
+8=Annuler

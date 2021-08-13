@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Voeg gebruiker toe
+2=Gebruikersnaam
+3=Wachtwoord
+4=Bevestig
+5=Niveau
+6=Operator:Algemeen
+7=Opslaan
+8=Annuleren

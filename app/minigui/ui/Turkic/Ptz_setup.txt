@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Devriye Gezme
+2=Devriye gezmek için en az iki ön ayar gerekli
+3=Varsayılan değişkenleri geri yüklesin mi?
+4=Bu kanalın izni yok!
+5=Seyir, korusun ...

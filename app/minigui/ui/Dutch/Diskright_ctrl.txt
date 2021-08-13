@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Schema
+2=Opnemen
+3=Gevangen nemen
+4=Opslag Apparaat
+5=Opslag Mode
+6=Automatische Back-up
+7=Gevorderd

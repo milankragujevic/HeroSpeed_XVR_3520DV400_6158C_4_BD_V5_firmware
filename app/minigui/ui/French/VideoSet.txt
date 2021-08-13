@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=La luminosité est trop grande, la luminosité max est
+2=Le contraste est trop haut, le max. est
+3=La saturation est trop haute, le max. est
+4=La netteté est trop forte, le max. est
+5=Lecture des paramètres, veuillez patienter…
+6=Cette chaîne n'a pas de permission!
+7=Récupération de paramètre échouée
+8=RTSP ne supporte pas cette fonctionnalité

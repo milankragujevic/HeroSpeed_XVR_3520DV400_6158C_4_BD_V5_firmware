@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Reset naar fabrieksinstellingen ?
+2=Het poortnummer moet tussen 1 en 65535 vallen!
+3=Testen van FTP, even geduld aub…
+4=FTP kan niet worden verzonden!
+5=FTP test succesvol
+6=Fout in tijdnotatie!
+7=Bestandsnaam mag de volgende tekenen niet bevatten: \ / : * ? " < > |
+8=Gebruikersnaam of wachtwoord mag niet de volgende symbolen bevatten:! % & #
+9=FTP-server formaat fout!

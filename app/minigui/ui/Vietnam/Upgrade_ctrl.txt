@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Số.
+2=Tên
+3=Kích thước
+4=Thời gian
+5=Làm mới
+6=Nâng cấp

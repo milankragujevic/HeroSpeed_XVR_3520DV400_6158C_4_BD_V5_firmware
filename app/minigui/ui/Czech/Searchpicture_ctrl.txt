@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Vyhledávání obrázků
+2=Kanál
+3=Typ
+4=čas
+5=Zobrazit
+6=Uživatel
+7=Zobrazit
+8=Zbývající/celková kapacita:
+9=Záloha
+10=Zrušit
+11=Obnovit

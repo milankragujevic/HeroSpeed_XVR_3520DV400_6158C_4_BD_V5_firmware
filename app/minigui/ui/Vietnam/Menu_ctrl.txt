@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Danh mục
+2=Phát lại
+3=Xuất ra
+4=HDD
+5=Ghi hình
+6=Camera
+7=Cấu hình
+8=Bảo trì
+9=Tắt nguồn

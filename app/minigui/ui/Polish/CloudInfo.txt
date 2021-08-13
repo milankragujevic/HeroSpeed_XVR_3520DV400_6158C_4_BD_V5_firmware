@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Pobieranie informacji...
+2=Powiązano pomyślne!
+3=Powiązanie nieudane!
+4=Oczekiwanie...
+5=Proszę użyć przeglądarki do otwarcia następującego adresu URL, aby zakończyć walidację

@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Uživatel neexistuje !
+2=Nesprávné heslo, zbývají
+3=Inicializuje se, počkejte…
+4=Chcete opravdu opustit průvodce ?
+5=šance.
+6=5 neúspěšných pokusů o zadání hesla nebo vzoru odemknutí. Zkuste to prosím znovu za 30 minut.
+7=5 neúspěšných pokusů o zadání hesla. Zkuste to prosím znovu za 30 minut.

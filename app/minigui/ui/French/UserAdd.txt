@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Ajout utilisateur réussi!
+2=/
+3=Cet utilisateur existe déjà!
+4=Veuillez saisir un nom d'utilisateur!
+5=Veuillez saisir un mot de passe!
+6=Veuillez saisir un nouveau mot de passe!
+7=Mot de passe incorrect!
+8=Les mots de passe ne correspondent pas!
+9=Erreur inconnue!
+10=L'administrateur ne peut pas être supprimé!
+11=Le nom d'utilisateur ne peut pas être appelé root ou admin!
+12=Le nom d'utilisateur ne peut pas inclure la clé d'espace vide
+13=Attention:Le mot de passe doit être au moins cinq chracters de long, et il devrait être composé d'au moins une lettre et un chiffre.
+14=Si la longueur du nom d'utilisateur ou du mot de passe est supérieure à 10, il ne peut pas y avoir que des chiffres

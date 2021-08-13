@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Alarmde x="360" y="160" w="560" h="400" title="Alarm Input">
+
+<ai type="static" id="1001" x="20" y="62" w="100" h="24" s="11:12:31">Alarm Input</ai>
+<aen type="static" id="1002" x="20" y="86" w="100" h="24" s="11:12:31">Switch Linkage</aen>
+<atl type="static" id="1005" x="280" y="146" w="100" h="24" s="11:12:31">Alarm Time</atl>
+
+<aiv type="CtrlCombobox" id="1013" x="162" y="60" w="100" h="22" s="11:12:13:21:22:23" ad="100">
+<selen>All</selen>
+</aiv>
+<aenv type="ctrl_button" id="1014" x="162" y="86" w="28" h="28" s="12:13:44"></aenv>
+
+<ao type="ctrl_button" id="1027" x="20" y="146" w="100" h="28" s="12:13:44">Alarm Out</ao>
+
+<aom1 type="ctrl_button" id="1092" x="150" y="146" w="22" h="22" s="13:44:46">1</aom1>
+<atlv type="myedit" id="1017" x="380" y="146" w="40" h="22" s="11:12:13:54" ex="81:82:83"></atlv>
+
+<def type="ctrl_button" id="1126" x="100" y="360" w="100" h="28" s="12:13:41">Default</def>
+<save type="ctrl_button" id="1127" x="250" y="360" w="100" h="28" s="12:13:41">Save</save>
+<cancel type="ctrl_button" id="1128" x="380" y="360" w="100" h="28" s="12:13:41">Cancel</cancel>
+
+</Alarmde>

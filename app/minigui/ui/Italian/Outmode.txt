@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Le nuove impostazioni saranno attivate dopo il riavvio. Ora riavvia?
+2=Canale
+3=Ripristina la configurazione iniziale?
+4=1 schermo
+5=4 schermo
+6=8 schermo
+7=9 schermo
+8=16 schermo
+9=25 schermo
+10=36 schermo
+11=64 schermo
+12=32 Finestre
+13=Il dispositivo non supporta questa risoluzione!

@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Please select upgrade channel no.!
+2=Upgrade failed!
+3=Upgrade succeeded!
+4=Please select upgrade file!
+5=Upgrade?
+6=File is not exist!
+7=Channel
+8=update succeeded!
+9=update failed!
+10=Upgrading, do not power off!

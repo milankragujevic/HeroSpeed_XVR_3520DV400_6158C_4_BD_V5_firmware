@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Abilita
+2=DropBox
+3=Google
+4=Directory di upload
+5=Nome Utente
+6=Spazio disponibile
+7=Spazio utilizzato
+8=Prova connessione FTP
+9=Predefinito
+10=Applica
+11=Google
+12=IPEYE
+13=Associa(Bind)

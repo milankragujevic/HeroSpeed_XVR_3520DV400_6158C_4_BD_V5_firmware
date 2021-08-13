@@ -1,0 +1,21 @@
+[wintip]
+num=19
+1=Buscando dispositivo, por favor aguarde …
+2=esta seguro que quiere salir del asistente de buteo
+3=Esta operación cambiará el valor de la IP del dispositivo remoto, confirmar los cambios?
+4=es el fisheye ojo de pez equipo que se añaden por separado
+5=El dispositivo está agregado muchas veces, no se puede agregar
+6=Sin permiso!
+7=Borrando cámara, por favor espere
+8=Por favor selecciona el canal!
+9=El canal de conectar y reproducir no se puede eliminar.
+10=Normal
+11=Error desconocido
+12=Error de conexión de red
+13=Error de puerto o servidor
+14=Passord error
+15=Acceso a la transmision fallido
+16=Canal
+17=Ancho de banda libre:
+18=¡Solo una tarjeta puede agregarse automáticamente!
+19=¿Abrir todos los canales H264+ o H265+？

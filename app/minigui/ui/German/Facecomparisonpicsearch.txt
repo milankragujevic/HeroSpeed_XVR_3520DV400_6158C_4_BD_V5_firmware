@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Das gewählte Bild darf nicht größer als 1M sein.
+2=Zeitformatfehler!
+3=Es gibt einen oder mehrere Sender, die keine Erlaubnis haben!
+4=Keine Erlaubnis!
+5=alle Kanäle
+6=Bitte laden Sie ein Bild hoch.
+7=Bitte wählen Sie einen Kanal

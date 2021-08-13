@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=Processando...
+2=Tempo para armar
+3=Processando...
+4=Exibição de tela
+5=Alarme do zumbido
+6=Enviar e-mail
+7=Enviar para FTP
+8=Gravar canal
+9=Captura
+10=Habilitar saída de alarme
+11=Saída alarme
+12=Nome alarme
+13=Aplique
+14=cancelar
+15=1
+16=2
+17=3
+18=4
+19=5
+20=6
+21=7
+22=8
+23=ligação
+24=Tempo de gravação (segundos)
+25=Buzzer Time(sec)

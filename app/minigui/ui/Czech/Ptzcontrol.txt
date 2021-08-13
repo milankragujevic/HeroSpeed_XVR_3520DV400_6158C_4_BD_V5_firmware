@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Provádí se cesta, není možnost nastavení…
+2=Již bylo otevřeno !
+3=Již bylo zavřeno !
+4=Bez povolení !

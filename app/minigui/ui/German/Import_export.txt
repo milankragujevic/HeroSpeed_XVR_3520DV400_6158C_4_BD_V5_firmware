@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Neue Einstellungen werden nach dem Neustart aktiviert. Jetzt neu starten?
+2=Exportieren, bitte warten...
+3=Erfolgreich!
+4=Stecken Sie den USB-Stick!
+5=Die Datenbank konnte nicht geöffnet werden.
+6=Datenbank ist beschädigt.
+7=Unbekannter Fehler.
+8=Keine Dateien zum Import verfügbar
+9=Neustart erforderlich, um Import abzuschliessen

@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=Setare PTZ
+2=Canal
+3=Control PTZ
+4=Control comun
+5=Zoom
+6=concentra
+7=Iris
+8=Viteza
+9=Presetare
+10=Tel
+11=Croaziera pe
+12=Plecați
+13=Presetare
+14=1:2:3
+15=Set de croaziere

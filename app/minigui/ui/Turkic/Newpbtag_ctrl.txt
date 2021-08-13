@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Yeni etiket
+2=Ad
+3=Tamam
+4=iptal
+5=Etiket düzenleme

@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Cấu hình
+2=Tổng hợp
+3=Mạng lưới
+4=Hiển thị
+5=Ngoại lệ
+6=Người dùng
+7=Cấu hình kênh
+8=Báo động Riêng tư
+9=IP/ Cổng
+10=DDNS
+11=E-mail
+12=P2P
+13=FTP
+14=UPnP
+15=PPPOE
+16=Lưu trữ đám mây
+17=Telnet
+18=Bật
+19=Ứng dụng
+20=Hủy
+21=Xem trước
+22=Wifi
+23=Lọc bỏ IP

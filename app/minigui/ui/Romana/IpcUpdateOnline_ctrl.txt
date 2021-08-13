@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=IPC Update
+2=CH
+3=Nume
+4=Marime
+5=Timp
+6=Actualizați
+7=Anulare

@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Etes-vous sûr que vous voulez modifier la configuration ?
+2=Rétablie automatiquement après une seconde

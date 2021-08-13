@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Kanaal
+2=Doel
+3=Gezichtsherkenning
+4=Slim Evenement
+5=Lichaam detectie
+6=Auto detectie

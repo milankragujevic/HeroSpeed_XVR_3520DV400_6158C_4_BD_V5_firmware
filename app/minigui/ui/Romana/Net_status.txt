@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Adresa IP
+2=Masca de rețea
+3=portal
+4=DNS primar
+5=DNS secundar
+6=Device MAC
+7=Activați DHCP
+8=Adresă PPPoE
+9=Mască de subrețea PPPoE
+10=Gateway implicit PPPoE
+11=\
+12=\
+13=Activat
+14=dezactivați

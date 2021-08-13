@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=IPC Update
+2=CH
+3=Name
+4=Size
+5=Time
+6=Update
+7=Cancel

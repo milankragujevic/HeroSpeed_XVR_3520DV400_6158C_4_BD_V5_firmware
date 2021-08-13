@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Název adresáře nesmí obsahovat žádný z následujících znaků: mezera \/:*?"|'%
+2=Název adresáře nesmí být prázdný

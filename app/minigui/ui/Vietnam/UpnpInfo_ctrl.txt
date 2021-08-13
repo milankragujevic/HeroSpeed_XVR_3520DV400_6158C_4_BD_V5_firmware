@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Thông tin cổng
+2=Tên Máy Chủ
+3=Giao thức
+4=Cổng nội bộ
+5=Cổng mở rộng
+6=TCP,UDP
+7=Lưu
+8=Hủy

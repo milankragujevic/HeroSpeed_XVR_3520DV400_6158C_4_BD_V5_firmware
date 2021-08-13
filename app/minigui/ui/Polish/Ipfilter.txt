@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Adres IP
+2=MAC urządzenia

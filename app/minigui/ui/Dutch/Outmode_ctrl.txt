@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Resolutie
+2=Transparantie van UI
+3=Geef menu tijd weer
+4=Weergave na herstart
+5=1024x768:1280x720:1280x1024:1920x1080
+6=Standaardinstellingen
+7=Toepassen
+8=Toon kanaalnaam

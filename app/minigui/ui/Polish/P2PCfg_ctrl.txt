@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=E-mail
+2=P2P
+3=Sieć
+4=Wyświetlanie
+5=Awaria
+6=Użytkownik
+7=IP/Port
+8=DDNS
+9=E-mail
+10=P2P
+11=FTP
+12=UPnP
+13=Zapis w chmurze
+14=Status
+15=Włącz P2P
+16=Numer kanału
+17=Odśwież
+18=Zastosuj
+19=Anuluj
+20=Podgląd
+21=Szyfrowanie
+22=BRAK: SSL
+23=Odstęp czasu przesyłu (min)
+24=Zmaknij i prześlij:2:5:10
+25=Numer użytkownika

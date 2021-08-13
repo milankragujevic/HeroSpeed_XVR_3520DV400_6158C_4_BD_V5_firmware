@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Nyisd ki
+2=Bezárás
+3=Video stream
+4=Sub stream
+5=Összetett áram
+6=Rögzítés
+7=Mozgás
+8=Riasztás
+9=M és A
+10=Intelligens

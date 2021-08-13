@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=No mobile hard disk!
+2=Odinstalowano!
+3=Odinstalowanie nieudane!
+4=plik zapisu
+5=Tworzenie kopii, czekaj.
+6=Zarchiwizowano!
+7=Archiwizacja nieudana!
+8=Brak dysku do archiwizacji
+9=Błąd montowania!
+10=Nieznany błąd!
+11=Brak pozwolenia!
+12=Nie można zapisać danych na przenośnym dysku!
+13=Odczyt zapisanych danych nieudany !
+14=Not enough disk space.

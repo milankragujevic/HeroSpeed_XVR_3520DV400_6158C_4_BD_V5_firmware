@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Patrol Setup
+2=Canal
+3=presetări
+4=Presetare
+5=Setare
+6=Tel
+7=1:2:3
+8=Nr.
+9=Nume
+10=Presetare
+11=Viteza
+12=Stai Ora
+13=Setari
+14=Stergere
+15=Croaziera pe
+16=Del croazieră
+17=Del toate croaziere
+18=Anulare
+19=Zoom
+20=concentra
+21=Iris
+22=Viteza
+23=introduce
+24=Plecați

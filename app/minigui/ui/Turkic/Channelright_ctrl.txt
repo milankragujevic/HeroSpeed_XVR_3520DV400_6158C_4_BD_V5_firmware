@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Kamera
+2=POE
+3=OSD
+4=Resim
+5=PTZ
+6=Gizlilik Maskesi
+7=Kodlama Parametreleri
+8=Akışı Kaydet
+9=Alt akış
+10=Kanal ismi
+11=Yerel Gizlilik Maskesi
+12=PTZ Kurulumu

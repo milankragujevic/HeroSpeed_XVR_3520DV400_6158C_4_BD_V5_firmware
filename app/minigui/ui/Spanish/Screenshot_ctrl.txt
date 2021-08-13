@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Captura de pantalla manual
+2=/
+3=/
+4=/
+5=/
+6=Cancelar
+7=Resolución
+8=Canal

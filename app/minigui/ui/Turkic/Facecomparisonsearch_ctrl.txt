@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=olaya göre Ara
+2=Görsele göre Ara
+3=Kanal
+4=zaman
+5=Tür
+6=Bugün: dün: son 2 gün: son 3 gün: son 7 gün: son 14 gün: alışkanlık
+7=Kara liste: Beyaz liste: Kara liste ve Beyaz liste
+8=Arama

@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Abrir
+2=Fechar
+3=N.O
+4=N.C

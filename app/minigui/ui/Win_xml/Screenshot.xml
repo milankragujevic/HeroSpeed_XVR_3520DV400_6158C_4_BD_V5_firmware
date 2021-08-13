@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Screenshot x="550" y="250" w="800" h="640"  title="Screenshot">
+<row type="static">
+<s id="20" x="0" y="4" w="2" h="632" s="11:12:31" bcol="3"></s>
+<s id="21" x="4" y="0" w="792" h="2" s="11:12:31" bcol="3"></s>
+<s id="22" x="798" y="4" w="2" h="632" s="11:12:31" bcol="3"></s>
+<s id="23" x="4" y="638" w="792" h="2" s="11:12:31" bcol="3"></s>
+<s id="24" x="30" y="4" w="200" h="64" s="11:12:31" ft="18" bcol="10">1</s>
+</row>
+<row x="750" y="15" w="34" h="34" s="12:13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="11" bg="./image/menu/close.png" bgc="./image/menu/close.png" bgw=""></b>
+</row>
+
+<col type="static" x="13" y="85" w="200" h="40" s="11:12:31" gap="10" bcol="10" ft="18">
+<s id="13">8</s>
+</col>
+
+<col type="static" x="150" y="85" w="200" h="40" s="11:12:31" gap="10" bcol="10" ft="18">
+<e type="myedit" id="2" s="11:12:13:56:58" ex="81:82:83:84:85"></e>
+</col>
+
+<col type="static" x="443" y="85" w="200" h="40" s="11:12:31" gap="10" bcol="10" ft="18">
+<s id="12">7</s>
+</col>
+
+<col type="static" x="580" y="85" w="200" h="40" s="11:12:31" gap="10" bcol="10" ft="18">
+<e type="myedit" id="1" s="11:12:13:56:58" ex="81:82:83:84:85"></e>
+</col>
+
+<row type="static" x="14" y="138" w="772" h="488" s="11:12:31" bcol="6" gap="0">
+<s id="9"></s>
+</row>
+</Screenshot>

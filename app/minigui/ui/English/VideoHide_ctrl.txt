@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Channel
+2=Enable
+3=Clear Zone 1
+4=Clear Zone 2
+5=Clear Zone 3
+6=Clear All
+7=Apply
+8=Copy

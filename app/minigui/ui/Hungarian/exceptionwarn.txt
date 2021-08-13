@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Nincs Lemez
+2=Merevlemez hiba
+3=Hálózat megszakadt
+4=IP cím ütközés
+5=Helyi risztás

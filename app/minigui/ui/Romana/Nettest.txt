@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Întârziere medie:
+2=Domnișoară
+3=Rata pierderii pachetelor:
+4=Destinația nu poate fi găsită!
+5=Testarea rețelei, vă rugăm să așteptați ...
+6=Fiind prins de pachetul ...
+7=Rețeaua de succes de captură de pachete de rețea!
+8=Introduceți discul USB.
+9=Adresa IP este greșită!
+10=Introduceți cablul de rețea.

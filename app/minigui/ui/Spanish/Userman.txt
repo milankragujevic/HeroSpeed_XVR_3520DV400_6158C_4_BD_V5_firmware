@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Sin permiso!
+2=Borras este usuario?
+3=El administrador no puede ser borrado
+4=Máximo de usuarios 256!
+5=El grupo tiene un usuario, no puede ser borrado!
+6=No puede borrarse el usuario seleccionado
+7=Máximo de grupos 20!
+8=El grupo administrador no puede ser eliminado
+9=Elige un usuario por favor
+10=Usted no pertenece a este grupo, no tiene permisos para esta operación
+11=Débil
+12=Media
+13=Fuerte
+14=Administrador
+15=Operador
+16=General
+17=Contraseña

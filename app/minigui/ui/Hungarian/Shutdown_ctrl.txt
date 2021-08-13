@@ -1,0 +1,5 @@
+[Ctrltxt]
+num=3
+1=Kijelentkezés
+2=Újraindít
+3=Leállítás

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Nr. intrare alarmă
+2=Nume alarma
+3=Alarm Type
+4=Starea alarmelor
+5=Declanșator canal de înregistrare
+6=Închide

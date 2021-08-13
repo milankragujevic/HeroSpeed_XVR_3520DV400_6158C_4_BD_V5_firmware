@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Cruise instellingen
+2=Preset nummer
+3=Wachttijd
+4=Snelheid
+5=Bevestig
+6=Annuleren

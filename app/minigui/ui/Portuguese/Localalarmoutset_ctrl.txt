@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Editar
+2=Saída alarme
+3=Nome alarme
+4=Duração de tempo
+5=Status alarme
+6=5 Segundos: 10 Segundos: 30 Segundos: 1 Minuto: 2 Minutos: 5 Minutos: 10 Minutos: Remover Manualmente
+7=Hora de Alerta
+8=Desencadear
+9=Limpar
+10=\
+11=\
+12=Copiar
+13=Aplique
+14=Todos
+15=Dom.
+16=Seg.
+17=Ter.
+18=Qua.
+19=Qui.
+20=Sex.
+21=Sabado
+22=Normal
+23=Editar

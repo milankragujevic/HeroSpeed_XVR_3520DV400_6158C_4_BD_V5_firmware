@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Configuration
+2=Général
+3=Réseau
+4=Affichage
+5=Exceptions
+6=Utilisateur
+7=Config. Caméra
+8=Config. Caméra
+9=CAM
+10=HD
+11=IP
+12=Par défaut
+13=Appliquer
+14=Annuler
+15=Aperçu
+16=Alarme locale
+17=Mode simplifié
+18=Activer : désactiver
+19=Wifi
+20=Filtre d'IP

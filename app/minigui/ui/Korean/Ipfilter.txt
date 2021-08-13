@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Ip 주소
+2=MAC 장치

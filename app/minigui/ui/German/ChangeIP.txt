@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Keine Erlaubnis!
+2=Konfiguration fehlgeschlagen
+3=IP-Konflikt
+4=Falsche IP-Adresse
+5=Subnetzmaske Fehler
+6=Gateway Fehler
+7=Το μη ιδιωτικό IPC δεν μπορεί να τροποποιήσει τις θύρες DNS,HTTP και RTSP, να επιβεβαιώσει τις αλλαγές;

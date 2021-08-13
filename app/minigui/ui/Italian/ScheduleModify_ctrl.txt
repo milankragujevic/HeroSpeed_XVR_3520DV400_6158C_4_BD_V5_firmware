@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Schedulazione registrazione
+2=Settima corrente:
+3=Schedulazione 1
+4=Schedulazione 2
+5=Schedulazione 3
+6=Schedulazione 4
+7=Schedulazione 5
+8=Schedulazione 6
+9=Uso
+10=Tutti
+11=Dom.
+12=Lun.
+13=Mar.
+14=Mer.
+15=Gio.
+16=Ven.
+17=Sab.
+18=Salva
+19=Cancella
+20=Programma 7
+21=Programma 8
+22=Domenica: lunedì: martedì: mercoledì: giovedì: venerdì: sabato
+23=Applica

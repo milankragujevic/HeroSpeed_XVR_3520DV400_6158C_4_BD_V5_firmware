@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Editace
+2=Alarmu vstup
+3=Název alarmu
+4=Povolit
+5=Typ
+6=N.O:N.C
+7=Upozornění času
+8=Akce řetězové vazby
+9=Běžný odkaz
+10=Kanál záznamu
+11=Výstup spouštěcího alarmu
+12=Kopírovat
+13=Použít
+14=Vše
+15=Ne
+16=Po
+17=Út
+18=St
+19=Čt
+20=Pá
+21=So
+22=Standardní
+23=Editace
+24=Monitorování na celou obrazovku

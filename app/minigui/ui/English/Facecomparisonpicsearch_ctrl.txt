@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Search By Event
+2=Search By Picture
+3=Local Upload
+4=Database Upload
+5=Channel
+6=Time
+7=Similarity(0-100)
+8=Today:Yesterday:Last 2 Days:Last 3 Days:Last 7 Days:Last 14 Days:Custom
+9=Search

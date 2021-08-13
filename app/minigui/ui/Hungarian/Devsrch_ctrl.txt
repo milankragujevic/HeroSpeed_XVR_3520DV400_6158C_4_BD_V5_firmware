@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Eszköz keresés
+2=IP Cím
+3=Port
+4=Protocol
+5=Firmware verzió
+6=Szűrő
+7=ONVIF:Multi net segment:PRIVATE:ONVIF / PRIVATE
+8=Keresés
+9=Hozzáadás
+10=Manual Add
+11=Megszünteti
+12=Hozzáad/Töröl

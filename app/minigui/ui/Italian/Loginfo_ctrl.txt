@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Tipo
+2=Inizio
+3=Fine
+4=Tutti i LOG:Impostazioni di sistema:Impostazioni utente:Configurazione parametri:Operazioni file:Stato prompt:Eventi allarme
+5=Interroga
+6=No.
+7=Ora
+8=Evento
+9=Utente
+10=Esportazione
+11=Esporta tutto
+12=Svuota

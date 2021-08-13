@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=Salvare de rezerva inregistrata
+2=CH
+3=Tip
+4=Timp pornire
+5=Timp Oprire
+6=Marime
+7=ID
+8=Interogare salvare de rezerva
+9=Rămas:
+10=Necesar:
+11=Format fisier
+12=AVI
+13=Reimprospatare
+14=Salvare de rezerva
+15=Stergere

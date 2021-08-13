@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Visualizar
+2=Caminho do Dispositivo
+3=Todos os Arquivos (*. *): * .jpg
+4=Acima
+5=Nome
+6=Tamanho
+7=Tipo
+8=Tempo de Modificação
+9=Deletar
+10=Confirmado
+11=cancelar
+12=Pasta Nova

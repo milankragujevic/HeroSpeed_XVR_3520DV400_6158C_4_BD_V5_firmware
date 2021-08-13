@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=A imagem selecionada não pode ser maior que 1M!
+2=Erro no formato de hora!
+3=Existem um ou mais canais sem permissão.
+4=Sem permissão!
+5=Todos os Canais
+6=Faça upload de uma imagem.
+7=Selecione um canal

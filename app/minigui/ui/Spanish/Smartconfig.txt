@@ -1,0 +1,18 @@
+[wintip]
+num=16
+1=Obtención de parámetros, Espere ...
+2=Sin permiso!
+3=Error de regla de línea!
+4=¡Hay una línea de cruce!
+5=En la misma línea!
+6=La función no es admisible para el dispositivo en este canal
+7=Alarma del zumbador
+8=Enviar correo electrónico
+9=grabacion de canal
+10=Lista negra
+11=Lista blanca
+12=Lista negra y lista blanca
+13=Maximum support for
+14=Canal
+15=channels
+16=¡En desarrollo!

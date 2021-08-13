@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Ajouter
+2=Modifier
+3=Supprimer
+4=Verrouillez la permission de la capture de paysage à temps réel sur l'écran
+5=N°.
+6=Nom d'utilisateur
+7=Sécurité
+8=Grade
+9=Autorité

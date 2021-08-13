@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Aperto
+2=Chiudere
+3=Flusso video
+4=Sub stream
+5=Flusso composito
+6=Registra
+7=Ril. Movimento
+8=Allarme
+9=M e A
+10=Intelligente

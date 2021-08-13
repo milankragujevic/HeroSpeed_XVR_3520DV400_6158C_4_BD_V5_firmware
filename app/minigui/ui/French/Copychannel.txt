@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Pas plus de 4 caméras!
+2=Pas plus de 8 caméras!
+3=Aucune autorisation!
+4=Enregistrement du canal

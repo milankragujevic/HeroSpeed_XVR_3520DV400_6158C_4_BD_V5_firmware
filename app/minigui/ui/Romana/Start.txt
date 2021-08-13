@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=previzualizare
+2=Redare
+3=Managementul fișierelor
+4=Analiză inteligentă
+5=Canal
+6=Depozitare
+7=Sistem
+8=întreținere
+9=Aplicație de afaceri
+10=Descarca
+11=Bell
+12=Alarma
+13=Salvare de rezerva
+14=Oprire

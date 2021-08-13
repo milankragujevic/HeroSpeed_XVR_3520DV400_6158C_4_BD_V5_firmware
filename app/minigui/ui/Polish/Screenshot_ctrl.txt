@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Manualny zrzut ekranu
+2=/
+3=/
+4=/
+5=/
+6=Anuluj
+7=Rozdzielczość
+8=Kanał

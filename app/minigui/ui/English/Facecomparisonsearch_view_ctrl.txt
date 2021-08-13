@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=\
+2=Channel
+3=Channel
+4=Start Time
+5=Similarity
+6=Play
+7=Backup Image
+8=Backup Record
+9=Backup
+10=Cancel
+11=All
+12=Figure
+13=List
+14=Exact Search
+15=FTP Backup

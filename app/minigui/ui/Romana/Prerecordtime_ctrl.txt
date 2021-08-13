@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Mai multe setari
+2=Timp (e) de preînregistrare
+3=Post-înregistrare(i)
+4=Înregistrează audio
+5=Initial
+6=Salvare
+7=Anulare

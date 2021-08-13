@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Kayıt Zaman Planı
+2=Hafta Geçerli Ayar:
+3=Zaman Planı 1
+4=Zaman Planı 2
+5=Zaman Planı 3
+6=Zaman Planı 4
+7=Zaman Planı 5
+8=Zaman Planı 6
+9=Kullanım:
+10=Tümü
+11=Pazar
+12=Pazartesi
+13=Salı
+14=Çarşamba
+15=Perşembe
+16=Cuma
+17=Cumartesi
+18=Kaydet
+19=iptal
+20=Çizelge 7
+21=Çizelge 8
+22=Pazar; pazartesi; salı; çarşamba
+23=Uygula

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Xem trước
+2=Phát lại
+3=Quản lý tập tin
+4=Phân tích
+5=Kênh
+6=Lưu trữ
+7=Hệ thống
+8=Bảo trì
+9=Ứng dụng thương mại
+10=Tải về
+11=Bell
+12=Báo động
+13=Sao lưu
+14=Mất điện

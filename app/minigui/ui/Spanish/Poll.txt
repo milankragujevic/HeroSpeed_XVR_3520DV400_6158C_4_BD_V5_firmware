@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Restaurar parametros por defecto?
+2=Tiempo de sondeo entre 5 y 255.

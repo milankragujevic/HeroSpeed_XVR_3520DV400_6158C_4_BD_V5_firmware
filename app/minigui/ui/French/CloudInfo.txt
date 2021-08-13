@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Récupération des informations…
+2=Liaison réussie!
+3=Echec liaison!
+4=Patientez…
+5=Veuillez utiliser le navigateur pour ouvrir l'URL suivante et complétez la validation :

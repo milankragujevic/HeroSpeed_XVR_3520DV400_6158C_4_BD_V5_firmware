@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Hafeninformationen
+2=Servername
+3=Protokoll
+4=Interne Port
+5=Externe Port
+6=TCP,UDP
+7=Speichern
+8=Abbrechen

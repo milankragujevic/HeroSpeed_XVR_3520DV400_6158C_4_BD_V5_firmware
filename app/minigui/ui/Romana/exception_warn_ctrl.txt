@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Eveniment dispozitiv
+2=Nici un disc
+3=Eroare de disc
+4=Rețea ruptă
+5=Conflictul Ip
+6=Alarme locale
+7=Pierderea calității video
+8=Alarmă inteligentă

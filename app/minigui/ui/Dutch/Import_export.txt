@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Nieuwe instellingen worden na het rebooten geactiveerd. Herstarten nu?
+2=Exporting,please wait...
+3=Succes!
+4=Voer aub de usb-stick in
+5=Kon de database niet openen
+6=Database is beschadigd
+7=Onbekende fout
+8=No imported files!
+9=Importing,after success will reboot

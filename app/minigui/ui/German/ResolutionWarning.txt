@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Möchten Sie die Konfiguration wirklich ändern?
+2=Wird in xx Sekunden wiederhergestellt.

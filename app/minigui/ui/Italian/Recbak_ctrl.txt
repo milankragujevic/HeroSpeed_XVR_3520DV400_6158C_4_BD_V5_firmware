@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=Backup Record
+2=CH
+3=Tipo
+4=Inizio
+5=Fine
+6=Dimensioni
+7=ID
+8=Backup Log
+9=Rimanenti:
+10=Richieste:
+11=Formato File
+12=avi
+13=Aggiorna
+14=Backup
+15=Svuota

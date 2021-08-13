@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Ripristina la configurazione iniziale?
+2=La porta deve essere compresa nell’intervallo 1-65535!
+3=Attendere, il dispositivo sta testando l’invio di una mail di prova….
+4=L’invio della mail di test non è riuscito!
+5=L’invio della mail di test è riuscito, verificarne la ricezione nella casella !
+6=Il formato dell'indirizzo email non è corretto.
+7=Il formato del server SMTP non è corretto.
+8=Errore di formato temporale!
+9=Personalizza

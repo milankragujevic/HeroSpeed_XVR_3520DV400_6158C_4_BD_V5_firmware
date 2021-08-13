@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=E-mail
+2=P2P
+3=Hálózat
+4=Kijelző
+5=Rendszerhibák
+6=Felhasználó
+7=IP/Port
+8=DDNS
+9=E-mail
+10=P2P
+11=FTP
+12=UPnP
+13=Felhő tárhely
+14=Állapot
+15=P2P engedélyezés
+16=Csatornaszám
+17=Frissítés
+18=Alkalmaz
+19=Megszünteti
+20=Előnézet
+21=Kódolás
+22=NONE:SSL
+23=Nyomási idő (perc)
+24=Közeli kép nyomása: 2: 5: 10
+25=Felhasználó sorsz.

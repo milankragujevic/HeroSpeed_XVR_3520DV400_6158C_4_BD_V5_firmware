@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Menü
+2=1-Pencere
+3=Kanal1
+4=Kanal2
+5=Kanal3
+6=Kanal4
+7=4-Pencere
+8=Tarama
+9=Kayıt Kurulumu
+10=Kamera Ekle
+11=Kayıttan oynatma
+12=PTZ
+13=DVR Image
+14=Mod seç
+15=Manuel Ekran Görüntüsü
+16=Yüz Karşılaştırması

@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Archivo
+2=Carpeta

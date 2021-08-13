@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Adăugați utilizatorul cu succes!
+2=/
+3=Utilizatorul există deja!
+4=Introduceți numele de utilizator!
+5=Introduceți parola!
+6=Introduceți parola nouă!
+7=Parola este incorecta!
+8=Necorespunderea parolei!
+9=Eroare Necunoscuta!
+10=Administratorul nu poate fi șters!
+11=Numele de utilizator nu poate fi numit root sau admin!
+12=Numele de utilizator nu poate include cheia spațiului gol
+13=Atenție: Parola Nu Trebuie Să Fie Mai Mică De 8 Octeți Și Să Conțină Cel Puțin O Cifră Și O Literă!
+14=Dacă numele de utilizator sau lungimea parolei este mai mare de 10, nu pot fi toate numerele

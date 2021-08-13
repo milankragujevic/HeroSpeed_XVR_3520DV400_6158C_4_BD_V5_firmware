@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=TCP/IP
+2=DDNS
+3=NTP
+4=FTP
+5=UPnP
+6=WIFI
+7=PPPOE
+8=WAN
+9=Activați DDNS
+10=Tip DDNS
+11=Timp de reîmprospătare (sec)
+12=Nume Utilizator
+13=Parola
+14=Domeniu
+15=Initial
+16=Salvare

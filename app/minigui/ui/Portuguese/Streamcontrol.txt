@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=CH
+2=Kb / S
+3=Resolução
+4=Por favor digite um número de página válido

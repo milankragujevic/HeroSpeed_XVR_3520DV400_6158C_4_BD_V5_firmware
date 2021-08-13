@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Setări pentru Clipuri
+2=Vă rugăm să Setați Ora Clipului:
+3=Timp pornire
+4=Timp Oprire
+5=Salvare
+6=Anulare

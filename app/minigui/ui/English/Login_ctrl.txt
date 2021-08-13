@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=User Login
+2=Admin
+3=Login
+4=Close
+5=Forget Password
+6=Auto Login

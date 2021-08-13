@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Reprodução
+2=Gerenciamento de Documento
+3=Configuração do sistema
+4=Entrar
+5=Desligar
+6=Sair

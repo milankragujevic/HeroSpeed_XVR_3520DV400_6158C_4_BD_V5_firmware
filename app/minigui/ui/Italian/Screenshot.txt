@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Nome:
+2=Dimensione:
+3=Durata
+4=Tempo:
+5=Esportazione riuscita
+6=Esportazione fallita
+7=E-mail inviata con successo
+8=Impossibile inviare e-mail
+9=Esportazione, attendere…
+10=Invio di email, attendere ...
+11=Are you sure exit?
+12=Inserire il disco-periferica USB.

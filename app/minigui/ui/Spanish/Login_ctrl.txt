@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Usuario para iniciar sesión
+2=administración
+3=loguear
+4=Cerrar
+5=Contraseña olvidada
+6=Ingreso automático

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Ingresso allarme n.
+2=Nome allarme
+3=Tipo allarme
+4=Stato allarme
+5=Attiva il canale di registrazione
+6=Chiudere

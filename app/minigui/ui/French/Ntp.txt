@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Personnaliser
+2=Restaurer les paramètres par défaut?
+3=La coutume ne peut pas être vide.

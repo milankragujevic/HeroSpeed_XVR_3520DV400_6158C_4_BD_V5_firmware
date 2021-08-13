@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<Verinfo x="%15" y="%10" w="%100-%15" h="%100-%10" title="Version Info">
+
+<col type="static" x="%3" y="30" w="300" h="40" s="11:12:31" bcol="10" ft="16" gap="10">
+    <s id="7">1</s>
+    <s id="1">2</s>
+    <s id="14">3</s>
+    <s id="16">10</s>
+    <s id="17">11</s>
+    <s id="2">4</s>
+    <s id="3">5</s>
+    <s id="10">6</s>
+    <s id="11" s="11:31">7</s>
+</col>
+
+<col type="static" x="%3+300" y="30" w="500" h="40"s="11:12:31" bcol="10" ft="16" gap="10">
+    <s id="8"></s>
+    <s id="4"></s>
+    <s id="15"></s>
+    <s id="9"></s>
+    <s id="18"></s>
+    <s id="5"></s>
+    <s id="6"></s>
+    <s id="12"></s>
+    <s id="13" s="11:31"></s>
+</col>
+
+</Verinfo>

@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Bütün kanallar
+2=Zaman formatı hatası!
+3=Bir veya daha fazla kanalın izni yok!
+4=İzin yok!
+5=Lütfen bir kanal seçin

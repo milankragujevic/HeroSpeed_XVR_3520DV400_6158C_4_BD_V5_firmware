@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Nessun permesso!
+2=Config non riuscita
+3=Conflitto di IP
+4=Indirizzo IP non valido!
+5=Subnet non valida!
+6=Indirizzo Gateway non valido!
+7=IPC non privato non è possibile modificare le porte DNS,HTTP ed RTSP, confermi le modifiche?

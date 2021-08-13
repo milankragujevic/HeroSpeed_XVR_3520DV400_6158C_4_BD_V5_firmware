@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=No mobile hard disk!
+2=Bileşen kaldırma başarılı!
+3=Bileşen kaldırma başarısız!
+4=Kayıt dosyası
+5=Yedekleme sürüyor, lütfen bekleyiniz…
+6=Yedekleme başarılı!
+7=Yedekleme başarısız!
+8=Yedekleme için sabit disk sürücüsü yok!
+9=Bağlanma hatası
+10=Bilinmeyen hata!
+11=İzin yok!
+12=Verileri mobil sabit diske sığdırılamıyor!
+13=Veri kaydı okuma hatası!
+14=Not enough disk space.

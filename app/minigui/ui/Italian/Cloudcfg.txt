@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=In fase di test
+2=Test riuscito.
+3=Test fallito.
+4=E' opportuno effettuare l'UNBIND prima di cambiare la directory di upload.
+5=Ripristina la configurazione iniziale?
+6=Associa(Bind)
+7=Disassocia(Unbind)

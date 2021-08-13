@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Mozgásérzékelés
+2=Videó hamisítás
+3=Videojel vesztés
+4=Riasztási bemenet
+5=Riasztási kimenet
+6=Rendszerhiba
+7=Riasztási bemenet száma
+8=Riasztási név
+9=Alarm Type
+10=Engedélyez
+11=Szerkesztés
+12=Berregő

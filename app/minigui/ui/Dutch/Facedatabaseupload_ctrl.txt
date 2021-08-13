@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Upload vanuit Gezichtsbibliotheek
+2=Gezichtsbibliotheek Lijst
+3=Naam
+4=Tijd
+5=Gezichtsfoto
+6=Gebruiker
+7=Bekijk
+8=Resterende/Totale Capaciteit:
+9=OK
+10=Annuleren
+11=1

@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=IPC-update
+2=Channel
+3=Naam
+4=Grootte
+5=Tijd
+6=bijwerken
+7=Annuleren

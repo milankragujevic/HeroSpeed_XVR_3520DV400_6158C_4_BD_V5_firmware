@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=De helderheid is te groot, helderheid is Max
+2=De waarde van het contrast is te hoog, max. is:
+3=De waarde van de saturatie is te hoog, max.is:
+4=De waarde van de scherpte is te hoog, max.is
+5=Instellingen ophalen, even geduld aub…
+6=Dit kanaal heeft geen toestemming!
+7=Kan parameter niet ophalen
+8=RTSP ondersteunt deze functie niet

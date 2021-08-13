@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Revenire la parametrii initiali?
+2=Pe net
+3=Deconectat
+4=Trecere la Criptare - Te rog inchide mai intai P2P

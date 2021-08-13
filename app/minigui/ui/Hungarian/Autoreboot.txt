@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Vas.
+2=Hét.
+3=Kedd
+4=Szer.
+5=Csüt.
+6=Pén.
+7=Szo.
+8=Visszaállítja az alapértelmezett paramétereket?
+9=óra
+10=Perc

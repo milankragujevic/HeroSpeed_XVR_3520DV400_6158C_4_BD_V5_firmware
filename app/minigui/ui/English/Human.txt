@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Restore the default parameters?
+2=Time format error!
+3=Maximum support for
+4=channel
+5=channels

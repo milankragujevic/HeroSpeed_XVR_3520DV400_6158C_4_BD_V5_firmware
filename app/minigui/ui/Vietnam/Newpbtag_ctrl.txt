@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Nhãn mới
+2=Tên
+3=xác nhận/ ok
+4=Hủy
+5=Soạn nhãn

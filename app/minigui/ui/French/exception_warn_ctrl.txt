@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Événement de périphérique
+2=Aucun disque
+3=Erreur de disque
+4=Réseau non disponible
+5=Conflit d'IP
+6=Alarmes locales
+7=Perte de vidéo
+8=Alarme intelligente

@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Dodaj listę twarzy
+2=Lokalne ustawienia wideo
+3=Robienie zdjęć
+4=Importuj zdjęcie
+5=Nazwa
+6=Ok
+7=Anuluj
+8=Kanał
+9=Szablon twarzy
+10=Nagrywanie
+11=Pobieranie szablonu twarzy
+12=Wybierz twarz
+13=Nowy
+14=Nagraj ponownie

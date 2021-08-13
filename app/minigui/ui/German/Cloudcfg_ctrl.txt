@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Aktivieren
+2=Dropbox
+3=Google
+4=Upload Ordne
+5=Benutzername
+6=Kapazität
+7=Benutzt
+8=Test
+9=Standard
+10=Anwenden
+11=Google
+12=IPEYE
+13=Binden

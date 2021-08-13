@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=PTZ
+2=Kanál
+3=Ovládání PTZ
+4=Obecné ovládání
+5=Zvětšení
+6=Ostření
+7=Závěrka
+8=Rychlost
+9=Předvolba
+10=Volání
+11=Cesta povolena
+12=Cesta vypnuta
+13=Hlídka
+14=1:2:3
+15=Plavba lodí

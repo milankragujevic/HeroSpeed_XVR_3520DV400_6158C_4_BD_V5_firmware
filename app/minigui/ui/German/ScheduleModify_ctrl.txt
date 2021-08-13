@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Zeitplan
+2=Aktuelle Wochenplan
+3=Zeitplan 1
+4=Zeitplan 2
+5=Zeitplan 3
+6=Zeitplan 4
+7=Zeitplan 5
+8=Zeitplan 6
+9=anwenden für:
+10=Alle
+11=So.
+12=Mo.
+13=Di.
+14=Mi.
+15=Do.
+16=Fr.
+17=Sa.
+18=Speichern
+19=Abbrechen
+20=Zeitplan 7
+21=Zeitplan 8
+22=Mo..:Di.:Mi.:Do.:Fr.:Sa.:So.
+23=Anwenden

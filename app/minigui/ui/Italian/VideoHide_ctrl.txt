@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Canale
+2=Abilita
+3=Cancellare Zona 1
+4=Cancellare Zona 2
+5=Cancellare Zona 3
+6=Cancellare tutto
+7=Applica
+8=Copia

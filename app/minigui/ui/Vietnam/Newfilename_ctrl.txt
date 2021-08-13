@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=tạo cặp mới
+2=Tên tệp
+3=xác nhận/ ok
+4=Hủy

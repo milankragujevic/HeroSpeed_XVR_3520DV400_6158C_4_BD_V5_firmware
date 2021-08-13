@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Nummer
+2=Status
+3=Totale capaciteit
+4=Resterende capaciteit
+5=Apparaat type
+6=Totale Capaciteit:
+7=Resterende Capaciteit:
+8=Sluiten

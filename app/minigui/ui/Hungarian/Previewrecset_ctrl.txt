@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Rögzítési beállítás
+2=Csatorna
+3=Mind
+4=Művelet
+5=Rögzítés
+6=Mozgás
+7=Mind
+8=Vas.
+9=Hét.
+10=Kedd
+11=Szer.
+12=Csüt.
+13=Pén.
+14=Szo.
+15=Alapértelmezett
+16=Másol
+17=Alkalmaz
+18=Megszünteti
+19=További beállítások
+20=Intelligens
+21=Riasztás
+22=M | A
+23=M & A
+24=Egyik sem

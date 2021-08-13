@@ -1,0 +1,24 @@
+[Ctrltxt]
+num=22
+1=Konfiguracja
+2=Podstawowy
+3=Sieć
+4=Wyświetlanie
+5=Awaria
+6=Użytkownik
+7=Awaria dysku
+8=Awaria sieci
+9=Typ zdarzenia
+10=Włącz
+11=Wyśij e-mail
+12=Alarm dźwiękowy
+13=Brak dysku:Awaria dysku
+14=Domyślne
+15=Zastosuj
+16=Anuluj
+17=Podgląd
+18=Konfiguracja kanału
+19=Wyświetlacz
+20=Alarm lokalny
+21=Wifi
+22=Filtr IP

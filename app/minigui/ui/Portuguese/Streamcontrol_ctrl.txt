@@ -1,0 +1,5 @@
+[Ctrltxt]
+num=3
+1=Taxa de Recv:
+2=Taxa de envio:
+3=Ir

@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Nâng cấp, không tắt!
+2=Nâng cấp không thành công!
+3=Nâng cấp thành công!
+4=Hãy chọn tệp nâng cấp!
+5=Nâng cấp?
+6=Không có gói nâng cấp
+7=Tìm phiên bản mới, Tải tập tin trực tuyến?
+8=Mạng không ổn định, tải xuống không thành công ...
+9=Đang tải xuống ...
+10=Lỗi ngoại lệ
+11=Tải về thành công, nâng cấp trực tuyến?
+12=Tệp không tồn tại!

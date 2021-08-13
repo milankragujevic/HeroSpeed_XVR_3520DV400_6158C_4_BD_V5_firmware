@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Upravit uživatele
+2=Uživatelské jméno
+3=Upravit heslo
+4=Staré heslo
+5=Nové heslo
+6=Potvrdit
+7=Úroveň
+8=Administrátor:Operátor:Obecný
+9=Uložit
+10=Zrušit
+11=Resetujte bezpečnostní problémy
+12=Problém zabezpečení 1
+13=Odpověď1
+14=Problém zabezpečení 2
+15=Odpověď2
+16=Problém zabezpečení 3
+17=Odpověď3
+18=Vyberte prosím problém: Jaké je vaše číslo?: Který den je narozeniny vašeho otce?: Jaká je vaše oblíbená anglická písnička?: Který den je narozeniny vaší matky?
+19=Vyberte prosím problém: Jaké je vaše číslo školy ?: Jaké jsou vaše štěstí?: Jméno vaší oblíbené hvězdy je? (Anglicky): Den vašeho výročí svatby je?
+20=Vyberte prosím problém: Jaká je vaše nejoblíbenější poštovní schránka ?: Jaký je poštovní kód pro vaši oblast?: Jaký je název vašeho domácího mazlíčka ?: Jaké jsou vaše telefonní čísla?
+21=Exportovat klíč
+22=Odemknutí vzoru
+23=Uvést vzor odemknutí do provozu
+24=Upravit vzor odemknutí do provozu

@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Detekcja ruchu
+2=Sabotaż wideo
+3=Utrata sygnału wideo
+4=Wejście alarmowe
+5=Wyjście alarmowe
+6=Awaria
+7=Numer Wyjścia Alarmu
+8=Nazwa alarmu
+9=Opóźnienie
+10=Edytuj
+11=Brzęczyk

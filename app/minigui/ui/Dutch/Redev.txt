@@ -1,0 +1,21 @@
+[wintip]
+num=19
+1=Apparaat zoeken, even geduld aub!
+2=Wilt u de boot wizard afsluiten?
+3=Deze aanpassing zal het IP adres van het apparaat wijzigen, bevestigen?
+4=Fisheye apparatuur moet apart worden gekoppeld
+5=Het apparaat is te vaak verbonden, u kunt deze niet toevoegen
+6=Geen toestemming!
+7=Camera verwijderen, even geduld aub…
+8=Selecteer een kanaal!
+9=Het Plug en Play-kanaal kan niet worden verwijderd.
+10=Normal
+11=Onbekende fout
+12=Het netwerk verkeerd verbonden.
+13=Haven of seConnection statusrver
+14=Fout bij gebruikersnaam of wachtwoord
+15=Streamtoegang is mislukt
+16=Channel
+17=Bandbreedte inactief:
+18=Slechts een enkele kaart kan automatisch worden toegevoegd!
+19=Of u alle kanalen H264+ of H265+ wilt openen?

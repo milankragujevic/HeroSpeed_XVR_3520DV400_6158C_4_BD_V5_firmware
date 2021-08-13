@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Testen…
+2=Test succesvol.
+3=Test gefaald.
+4=Wijzig de upload folder, voor effect loskoppelen en opnieuw koppelen.
+5=Reset naar fabrieksinstellingen ?
+6=Binden
+7=losbinden

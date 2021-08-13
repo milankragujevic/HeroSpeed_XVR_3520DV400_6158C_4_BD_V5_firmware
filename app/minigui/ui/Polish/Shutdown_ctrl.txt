@@ -1,0 +1,5 @@
+[Ctrltxt]
+num=3
+1=Wyloguj
+2=Restart
+3=Zamknięcie

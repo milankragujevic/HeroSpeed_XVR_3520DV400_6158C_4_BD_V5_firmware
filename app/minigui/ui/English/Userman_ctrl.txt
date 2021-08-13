@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Add
+2=Modify
+3=Delete
+4=Live View Permission on Lock Screen
+5=No.
+6=User Name
+7=Security
+8=Level
+9=Authority

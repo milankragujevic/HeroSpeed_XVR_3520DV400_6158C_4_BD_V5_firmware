@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=O Bright é muito grande, Max brilho é
+2=O Contraste é muito grande, o Contraste máximo é
+3=A Saturação é muito grande, Saturação Máx é
+4=A Nitidez é muito grande, Nitidez Máx.
+5=Obtendo parâmetros, Por favor aguarde...
+6=Este canal não tem permissão!
+7=Não foi possível obter o parâmetro
+8=O RTSP não suporta esse recurso

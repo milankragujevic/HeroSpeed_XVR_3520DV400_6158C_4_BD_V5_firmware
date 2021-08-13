@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Configuração do canal
+2=Habilitar
+3=Canal
+4=Protocolo
+5=Visualização
+6=Nome do usuário
+7=Senha
+8=IP
+9=domínio
+10=Porta
+11=Principal
+12=Sub
+13=Principal:Sub
+14=Salve
+15=cancelar
+16=Adicionar caminho
+17=manual: conectar e reproduzir
+18=manual: conectar e reproduzir

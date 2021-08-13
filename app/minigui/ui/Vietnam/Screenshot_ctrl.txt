@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Ảnh chụp màn hình thủ công
+2=/
+3=/
+4=/
+5=/
+6=Hủy
+7=Độ phân giải
+8=Kênh

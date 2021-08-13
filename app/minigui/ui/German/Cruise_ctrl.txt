@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Überwachungseinrichtung
+2=Kanal
+3=Voreinstellungen
+4=PTZ Patrol
+5=Setzen
+6=Starten
+7=1:2:3
+8=Nr.
+9=Name
+10=Voreinstellung
+11=Geschwindigkeit
+12=Verweilzeit
+13=Einstellung
+14=Löschen
+15=Cruise An
+16=Cruise löschen
+17=Lösche alles
+18=Abbrechen
+19=Zoom
+20=Fokus
+21=Iris
+22=Geschwindigkeit
+23=Eingeben
+24=Cruise AUS

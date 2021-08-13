@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=Email
+2=P2P
+3=Netwerk
+4=tonen
+5=Uitzonderingen
+6=Gebruiker
+7=IP/Poort
+8=DDNS
+9=Email
+10=P2P
+11=FTP
+12=UPnP
+13=Cloud opslag
+14=staat
+15=Activeer P2P
+16=Kanaal nummer
+17=Ververs
+18=Toepassen
+19=Annuleren
+20=weergave vooraf
+21=Encryptie type
+22=NONE:SSL
+23=Duw interval (min)
+24=Duw Sluiten: 2:5:10
+25=Gebruikersnummer

@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Restaurar os parâmetros padrão?
+2=Nome do canal não suportado;
+3=Há um ou mais canais não têm permissão!

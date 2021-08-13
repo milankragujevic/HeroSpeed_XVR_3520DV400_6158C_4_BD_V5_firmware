@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=TCP/IP
+2=DDNS
+3=NTP
+4=FTP
+5=UPNP
+6=開啟NTP
+7=NTP伺服器
+8=自定義
+9=NTP埠
+10=更新間隔(分)
+11=預設
+12=應用
+13=PPPOE
+14=(30-1440)

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Lecture
+2=Gestion de documents
+3=Config. Système
+4=Se connecter
+5=Eteindre
+6=Se déconnecter

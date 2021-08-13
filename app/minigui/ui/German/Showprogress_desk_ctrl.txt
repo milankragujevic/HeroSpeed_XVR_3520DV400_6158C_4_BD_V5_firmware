@@ -1,0 +1,4 @@
+[Ctrltxt]
+num=2
+1=Abbrechen
+2=Rückkehr

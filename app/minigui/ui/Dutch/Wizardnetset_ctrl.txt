@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Datum en Tijd;1
+2=Netwerk;2
+3=Harde Schijf;3
+4=Camera;4
+5=Platform;5
+6=Verander Wachtwoord;5
+7=Netwerk Setup
+8=Activeer DHCP
+9=Ip adres
+10=Netwerk masker
+11=poort
+12=Primaire DNS
+13=Secondaire DNS
+14=Vorige
+15=Volgende
+16=Uitgang

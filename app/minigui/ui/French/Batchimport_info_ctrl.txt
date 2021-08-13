@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Importation par lots
+2=Nom
+3=Statut
+4=Confirmer

@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Date et heure;1
+2=Réseau;2
+3=Disque dur;3
+4=Caméra;4
+5=Plate-forme;5
+6=Changez le mot de passe;5
+7=Réglage de la date et de l'heure
+8=Fuseau horaire
+9=Format date
+10=Date/heure
+11=Année Mois Jour: Mois Jour Année: Jour Mois Année
+12=Suivant
+13=Sortie
+14=Activer l'assistant

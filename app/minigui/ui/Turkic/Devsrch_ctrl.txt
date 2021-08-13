@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Cihaz Ara
+2=IP
+3=Liman
+4=İletişim Kuralı
+5=Ürün bilgisi sürümü
+6=Filtre
+7=ONVIF:Çoklu ağ parçası:Özel:ONVIF ve Özel
+8=Arama
+9=Ekle
+10=Manual Add
+11=iptal
+12=Ekle / Del

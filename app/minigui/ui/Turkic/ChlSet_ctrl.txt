@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Kanal Kurulumu
+2=Etkinleştir
+3=Kanal
+4=İletişim Kuralı
+5=Ön
+6=Kullanıcı Adı
+7=Parola
+8=IP
+9=alan
+10=Liman
+11=Ana
+12=Alt
+13=Ana:Alt
+14=Kaydet
+15=iptal
+16=Yol ekle
+17=Manuel: tak ve çalıştır
+18=Manuel

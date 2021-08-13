@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Recherches par Événement
+2=Recherches par Image
+3=Téléchargement local
+4=Téléchargement de base de données
+5=Caméra
+6=Heure
+7=Similarité(0-100)
+8=Aujourd'hui: Hier: 2 derniers jours: 3 derniers jours: 7 derniers jours: 14 derniers jours: Personnaliser
+9=Recherche

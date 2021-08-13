@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Meniu Principal
+2=Redare
+3=Export
+4=HDD
+5=Înregistrare
+6=Canal
+7=System Setup
+8=întreținere
+9=Închide

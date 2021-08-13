@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Ustawienia trasy
+2=Nr. presetu
+3=Czas postoju
+4=Szybkość
+5=Ustal
+6=Anuluj

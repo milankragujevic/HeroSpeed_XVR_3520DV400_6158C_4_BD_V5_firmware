@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Motion Detection
+2=Video Tampering
+3=Video Loss
+4=Alarm Input
+5=Alarm Output
+6=Exception
+7=Alarm Output No.
+8=Alarm Name
+9=Delay
+10=Edit
+11=Buzzer

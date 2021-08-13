@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=E-mail
+2=P2P
+3=Retea
+4=Ecran
+5=Exception
+6=Utilizator
+7=IP / Port
+8=DDNS
+9=E-mail
+10=P2P
+11=FTP
+12=UPnP
+13=Stocare in cloud
+14=stare
+15=Activați P2P
+16=Numărul canalului
+17=Reimprospatare
+18=Salvare
+19=Anulare
+20=previzualizare
+21=Criptare
+22=NONE: SSL
+23=Interval de apăsare (minute)
+24=Închideți imaginea apăsând: 2: 5: 10
+25=Numărul de utilizator

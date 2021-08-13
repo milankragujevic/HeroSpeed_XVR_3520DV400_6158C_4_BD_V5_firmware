@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Apparaat zoeken
+2=Bewerk
+3=IP
+4=Poort
+5=protocal
+6=Firmware versie
+7=Filter
+8=Onvif:Segment wielu sieci:Prywatny:Onvif i Prywatny
+9=Zoeken
+10=Toevoegen
+11=Annuleren
+12=IP wijzigen
+13=Toevoegen/Deleten

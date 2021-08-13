@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Channel Setup
+2=Enable
+3=Channel
+4=Protocol
+5=Preview
+6=User Name
+7=Password
+8=IP
+9=Domain
+10=Port
+11=Main
+12=Sub
+13=Main:Sub
+14=Save
+15=Cancel
+16=Add Method
+17=Manual:Plug And Play
+18=Manual

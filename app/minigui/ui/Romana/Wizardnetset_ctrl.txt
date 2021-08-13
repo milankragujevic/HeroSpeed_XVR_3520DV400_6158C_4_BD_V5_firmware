@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Dată și oră;1
+2=Rețea;2
+3=Hard-disk;3
+4=Cameră;4
+5=Platformă;5
+6=Schimbare parolă;5
+7=Configurare rețea
+8=Activați DHCP
+9=Adresa IP
+10=Masca de rețea
+11=portal
+12=DNS primar
+13=DNS secundar
+14=Anterior
+15=Următor
+16=Ieșire

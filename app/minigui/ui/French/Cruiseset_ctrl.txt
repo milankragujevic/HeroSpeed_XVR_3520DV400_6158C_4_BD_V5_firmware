@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Config. Croisement
+2=Sélection N°.
+3=Temps d'arrêt
+4=Vitesse
+5=Confirmer
+6=Annuler

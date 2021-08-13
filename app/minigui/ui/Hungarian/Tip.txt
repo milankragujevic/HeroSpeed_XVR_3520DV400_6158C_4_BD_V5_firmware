@@ -1,0 +1,24 @@
+[wintip]
+num=22
+1=Elfog
+2=Azonnali lejátszás
+3=PTZ
+4=Zoom
+5=Hang
+6=Kép
+7=Információ
+8=Indítsa el az egész napos rekordot
+9=Váltás a főmenüre
+10=Halszem
+11=POS letiltása
+12=Kapcsolja ki a 3D pozíciót
+13=Állítsa le az egész napos rekordot
+14=Váltás a almenüre
+15=POS engedélyezése
+16=Kapcsolja be a 3D pozíciót
+17=A rögzítés nem sikerült
+18=No Permission
+19=A felvétel megkezdése sikertelen, kérjük, módosítsa a felvételi ütemtervet.
+20=Az RTSP nem támogatja ezt a funkciót
+21=A felvétel sikeres. Kérjük, ellenőrizze a fájlkezelést.
+22=Bezárás

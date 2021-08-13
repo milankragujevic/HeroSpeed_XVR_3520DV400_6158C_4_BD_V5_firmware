@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=No mobile hard disk!
+2=Wurde erfolgreich deinstalliert
+3=Deinstallation fehlgeschlagen
+4=Aufzeichnungsdatei
+5=Die Sicherung läuft, bitte warten.
+6=Sicherung wurde erfolgreich ausgeführt
+7=Sicherung wurde nicht erfolgreich ausgeführt
+8=Zugriff auf das Speichermedium nicht möglich
+9=Mounten von Laufwerken ist fehlgeschlagen
+10=Unbekannter Fehler
+11=Keine Erlaubnis!
+12=Kann keine Daten auf die mobile Festplatte schreiben!
+13=Lesen von Aufzeichnungsdaten ist fehlgeschlagen!
+14=Not enough disk space.

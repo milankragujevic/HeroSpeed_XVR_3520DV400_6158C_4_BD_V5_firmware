@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=General
+2=Red
+3=TCP/IP
+4=Configuración
+5=Usuario
+6=Filtro de Direcciones
+7=Vacaciones
+8=POS
+9=Evento
+10=Evento Normal
+11=Evento Inteligente
+12=Vista en Vivo
+13=Imagen
+14=Revisar
+15=Canal - Cero
+16=Avanzado
+17=Almacenamiento Nube
+18=Normal
+19=Configuracion de Canal
+20=Eliminar Vista Previa

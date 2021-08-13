@@ -1,0 +1,24 @@
+[wintip]
+num=22
+1=Chụp
+2=Phát lại ngay lập tức
+3=PTZ
+4=Phóng to
+5=Âm thanh
+6=Hình ảnh
+7=Thông tin
+8=Bắt đầu kỷ lục cả ngày
+9=Đổi sang màn hình chính
+10=Mắt cá
+11=Dựng sử dụng POS
+12=Tắt vị trí 3D
+13=Dừng kỷ lục cả ngày
+14=Đổi sang màn hình nhỏ
+15=Khởi động POS
+16=Mở vị trí 3D
+17=bắt ảnh thất bại
+18=No Permission
+19=Bắt đầu ghi hình thất bại, xin thay đổi bảng thời gian ghi hình
+20=RTSP không hỗ trợ tính năng này
+21=Chụp ảnh thành công, xin kiểm tra tại file
+22=Tắt

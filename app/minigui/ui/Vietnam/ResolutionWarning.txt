@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Bạn có xác nhận thay đổi độ phân giải không?
+2=giây phút sau  sẽ tự động khôi phục

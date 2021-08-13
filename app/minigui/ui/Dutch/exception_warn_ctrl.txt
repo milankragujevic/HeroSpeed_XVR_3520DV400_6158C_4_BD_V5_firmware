@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Apparaatgebeurtenis
+2=Geen schijf
+3=Schijffout
+4=Netwerk kapot
+5=Ip Conflict
+6=Lokale alarmen
+7=Video verlies
+8=Intelligent alarm

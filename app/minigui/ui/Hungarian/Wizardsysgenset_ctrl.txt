@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Dátum és idő;1
+2=Hálózat;2
+3=Merevlemez;3
+4=Kamera;4
+5=Platform;5
+6=Jelszó megváltoztatása;5
+7=Dátum és idő beállítása
+8=Időzóna
+9=Dátum formátum
+10=Dátum/idő
+11=ÉÉ HH NN:HH NN ÉÉ:NN HH ÉÉ
+12=Következő
+13=Kilépés
+14=Varázsló engedélyezése

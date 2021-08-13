@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Vorschau
+2=Wiedergabe
+3=Dokumentenverwaltung
+4=Intelligente Analyse
+5=Kanal
+6=Lagerung
+7=Systeminfo
+8=Wartung
+9=Geschäftsanwendung
+10=Herunterladen
+11=Bell
+12=Alarm
+13=Backup
+14=Ausschalten

@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=TCP/IP
+2=DDNS
+3=NTP
+4=FTP
+5=UPnP
+6=WI-FI
+7=PPPOE
+8=WAN
+9=Ativar DDNS
+10=Tipo DDNS
+11=Tempo de atualização (seg)
+12=Nome do usuário
+13=Senha
+14=domínio
+15=Padrão
+16=Aplique

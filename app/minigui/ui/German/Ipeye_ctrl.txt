@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Google
+2=IPEYE
+3=\
+4=\
+5=\
+6=\
+7=\
+8=\
+9=\
+10=\
+11=\
+12=Kanal
+13=IPEYE-Client
+14=Aktivieren
+15=Abbrechen
+16=Anwenden
+17=Vorschau
+18=Kopieren
+19=IPEYE
+20=IPEYE unterstützt nur die H264-Codierung

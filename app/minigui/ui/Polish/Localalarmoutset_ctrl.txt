@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Edytuj
+2=Wyjście alarmowe
+3=Nazwa alarmu
+4=Opóźnienie
+5=Status alarmu
+6=5 Sekund:10 Sekund:30 Sekund:1 Minuta:2 Minuty:5 Minut:10 Minut: Wyczyść Manualnie
+7=Czas alarmu
+8=Wyzwolenie
+9=Wyczyść
+10=\
+11=\
+12=Kopiuj
+13=Zastosuj
+14=Wsz.
+15=Nie.
+16=Pon.
+17=Wto.
+18=Śro.
+19=Czw.
+20=Pią.
+21=Sob.
+22=Zwykły
+23=Edytuj

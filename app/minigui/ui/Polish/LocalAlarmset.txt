@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Alarm dźwiękowy
+2=Wyślij e-mail
+3=Wyświetlacz
+4=Błąd formatu czasu!
+5=Dodaj maksymalnie 6 grafików na dzień !

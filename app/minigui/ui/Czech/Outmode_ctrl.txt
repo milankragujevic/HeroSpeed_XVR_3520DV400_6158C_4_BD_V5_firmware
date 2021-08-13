@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Rozlišení
+2=Průhlednost UI
+3=Zobrazit čas OSD
+4=Zobrazit po startu
+5=1024x768:1280x720:1280x1024:1920x1080
+6=Výchozí
+7=Použít
+8=Zobrazit název kanálu

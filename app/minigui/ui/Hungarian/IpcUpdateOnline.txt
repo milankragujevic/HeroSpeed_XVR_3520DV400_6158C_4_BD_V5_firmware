@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Keresés folyamatban!
+2=Nincs újabb FW
+3=Csak egy frissítési csomagot lehet kiválasztani!
+4=Válasszon frissítő fájlt!
+5=Frissíti?
+6=Frissítés feltöltése alatt ne kapcsolja ki az eszközt!
+7=Sikertelen feltöltés!
+8=Sikeres feltöltés!
+9=Az ONVIF csatorna nem támogatja a frissítést!
+10=Csatorna
+11=sikeres frissítés!
+12=frissítés sikertelen!
+13=Az RTSP-csatorna nem támogatja a frissítést!
+14=Kérem csatlakoztassa az USB eszközt.

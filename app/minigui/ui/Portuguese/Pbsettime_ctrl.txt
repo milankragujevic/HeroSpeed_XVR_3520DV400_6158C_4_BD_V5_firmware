@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Configurações de Tempo
+2=Por favor, defina o tempo do clipe:
+3=Configurações de Tempo de Reprodução
+4=Fim do tempo
+5=Salve
+6=cancelar

@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=/
+2=/
+3=Rossz idő formátum!
+4=A hálózati terhelés túl nagy, kérjük, fokozatosan törölje a csatornákat
+5=A hálózat terhelése visszaállt normál állapotba
+6=Nincs jogosultsága!
+7=Frissítés feltöltése alatt ne kapcsolja ki az eszközt!
+8=Formázás folyamatban, kérem várjon...
+9=Lekérdezés...
+10=No channels that support this feature!
+11=Arcfelismerés
+12=Mód
+13=Gyors lejátszás
+14=Hangerő
+15=Zoomolás
+16=Kép
+17=Kódfolyam-információ
+18=Bezárás
+19=A jelenlegi jelszó túl egyszerű, kérjük változtassa meg!
+20=New storage devices were found,format as record disk immediately?
+21=Fejlesztés alatt!
+22=A manuális képernyőkép nem sikerült!
+23=Lemezmegállás használva
+24=A jelenlegi jelszó túl egyszerű, kérjük változtassa meg!
+25=Elfog

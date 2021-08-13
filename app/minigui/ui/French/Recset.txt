@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Restaurer les paramètres par défaut?
+2=Aucune autorisation!
+3=Êtes-vous sûr de quitter l'assistant de configuration?
+4=Les nouveaux paramètres seront activés après le redémarrage. Redémarrez maintenant?
+5=L'assistant de configuration est terminé!
+6=Erreur de format d'heure!
+7=Ajouter 6 horaires maximum par jour!
+8=Il y a une ou plusieurs caméras sans autorisation!

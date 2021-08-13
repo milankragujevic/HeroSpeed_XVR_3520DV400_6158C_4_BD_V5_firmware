@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Açık
+2=Kapat
+3=Video akışı
+4=Alt akış
+5=Kompozit akışı
+6=Kayıt
+7=Hareket
+8=Alarm
+9=M ve A
+10=Akıllı

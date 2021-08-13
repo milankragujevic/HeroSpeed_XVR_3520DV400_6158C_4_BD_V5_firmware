@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Adresse IP
+2=Masque réseau
+3=Passerelle
+4=DNS primaire
+5=DNS secondaire
+6=Périphérique MAC
+7=Activer DHCP
+8=Adresse PPPoE
+9=Masque de sous-réseau PPPoE
+10=Passerelle PPPoE
+11=\
+12=\
+13=Activer
+14=désactiver

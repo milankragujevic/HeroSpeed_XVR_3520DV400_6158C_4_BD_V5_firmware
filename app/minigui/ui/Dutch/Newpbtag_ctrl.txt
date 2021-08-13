@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Nieuwe Tag
+2=Naam
+3=OK
+4=Annuleren
+5=Tag bewerken

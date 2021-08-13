@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Bewegungsmelder
+2=Video Temperieren
+3=Videoverlust
+4=Alarmeingang
+5=Alarmausgang
+6=Störungsmeldung
+7=Nummer des Alarmeingangs
+8=Alarmname
+9=Alarmtyp
+10=Aktivieren
+11=Bearbeiten
+12=Summer

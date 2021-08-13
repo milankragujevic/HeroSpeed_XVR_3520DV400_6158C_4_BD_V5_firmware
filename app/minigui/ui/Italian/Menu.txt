@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Nessun permesso!
+2=PlayBack.
+3=Backup file (record)
+4=Gest. Disco
+5=Registra programma e impostazioni di codifica della telecamera.
+6=Camera add,camera osd,image,motion detection,videoloss,ptz,privacy mask setup,channelname.
+7=Sistema data / ora, rete, display, eccezione, configurazione utente, configurazione canale.
+8=Stream, Log, Inf Versione a Update Sistema, Ripristino
+9=Logout, Riavvio e Spegnimento
+10=Sistema data / ora, rete, display, eccezione, configurazione utente, configurazione canale, allarme locale.

@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=No.
+2=Stato
+3=Capacità Totale
+4=Capacità Residua
+5=Tipo Dispositivo
+6=Capacità totale:
+7=Capacità rimanente:
+8=Chiudere

@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Alarm Uitgang Naam
+2=Alarmstatus
+3=Activeren
+4=Deselecteer
+5=Sluiten

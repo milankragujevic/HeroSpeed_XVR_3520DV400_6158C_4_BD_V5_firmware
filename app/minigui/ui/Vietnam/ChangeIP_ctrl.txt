@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Thay đổi địa chỉ IP
+2=Bắt đầu Ip
+3=Mặt nạ mạng
+4=Cổng vào
+5=Tên đăng nhập
+6=Mật khẩu
+7=Xác nhận
+8=Hủy
+9=DNS
+10=Cổng HTTP
+11=Cổng RSTP

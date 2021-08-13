@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Log de sauvegarde
+2=Id
+3=Journal
+4=Annuler
+5=OK
+6=Type
+7=Progrès de la sauvegarde

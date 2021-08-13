@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Típus
+2=Kezdete
+3=Vége
+4=Mind:Rendszer kezelés:Felhasználó kezelés:Paraméter beállítás:Filekezelés:Gyors státusz:Riasztási esemény
+5=Lekérdezés
+6=Sorsz.
+7=Idő
+8=Esemény
+9=Felhasználó
+10=Export
+11=Export mindent
+12=Törlés

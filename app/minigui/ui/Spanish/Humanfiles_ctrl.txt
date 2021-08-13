@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=\
+2=\
+3=\
+4=Hora
+5=Canal
+6=Tipo de archivo
+7=Hoy: Ayer: Los Pasados 2 Días: Los Pasados 3 Días: Los Pasados 7 Días: Los Pasados 14 Días: Personalizar
+8=Vídeo & Imagen
+9=Condiciones Vacías
+10=Buscar
+11=Grabar

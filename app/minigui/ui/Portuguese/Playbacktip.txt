@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Sem permissão!
+2=Falha ao capturar o mapa
+3=Captura
+4=Áudio
+5=Zoom
+6=Adicionar etiqueta
+7=Olho de peixe
+8=Fechar
+9=Captura Com Sucesso, Por Favor, Verifique No Gerenciamento De Arquivos.

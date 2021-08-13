@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=The selected picture cannot be larger than 1M!
+2=Time format error!
+3=There are one or more channel have no permission!
+4=No permission!
+5=All Channels
+6=Please upload an image.
+7=Please select a channel

@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Gerätename
+2=Model-Nr.
+3=Geräteversion
+4=Version
+5=Datum
+6=Gesamtzahl der Kanäle
+7=Gesamtzahl der POE-Kanäle
+8=Schließen
+9=P2P
+10=GUI-Versionsnummer
+11=WEB-Versionsnummer

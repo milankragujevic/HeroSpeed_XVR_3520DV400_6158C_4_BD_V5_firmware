@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Vui lòng xác nhận thông số kênh và trạng thái mạng của bạn!
+2=Khôi phục các tham số mặc định?
+3=Đang lưu enc para, vui lòng đợi...
+4=Đang nhận param, Xin chờ ...
+5=Nhận param không thành công ...
+6=Phạm vi của BitRate là 512-8192.
+7=Đặt thông số không thành công.
+8=Kênh này là h265 mà thiết bị không hỗ trợ
+9=Không cho phép!
+10=Thiết bị không hỗ trợ H265.
+11=Main Bitrate range 64-8192.
+12=Sub bitrate phạm vi 64-2048.

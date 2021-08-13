@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Konfiguration
+2=Allgemein
+3=Netzwerk
+4=Bildschirm
+5=Störungsmeldung
+6=Benutzer
+7=Kanal Konfiguration
+8=Kanal Konfiguration
+9=CH
+10=HD
+11=IP
+12=Standard
+13=Anwenden
+14=Abbrechen
+15=Vorschau
+16=Lokaler Alarm
+17=Lite-Modus
+18=Aktivieren:deaktivieren
+19=WLAN
+20=IP Filter

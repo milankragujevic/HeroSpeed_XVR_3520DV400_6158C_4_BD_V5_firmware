@@ -1,0 +1,3 @@
+[wintip]
+num=1
+1=Khôi phục các tham số mặc định?

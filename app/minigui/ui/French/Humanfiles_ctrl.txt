@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=\
+2=\
+3=\
+4=Heure
+5=Caméra
+6=Type fichier
+7=Aujourd'hui: Hier: 2 derniers jours: 3 derniers jours: 7 derniers jours: 14 derniers jours: Personnaliser
+8=Vidéo & Photo
+9=Conditions vides
+10=Recherche
+11=Sauvegarder

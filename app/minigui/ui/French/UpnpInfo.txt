@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Le nom du serveur doit être renseigné.
+2=Les ports interne et externe ne peuvent être 0.
+3=Les ports interne et externe doivent être différents.

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Benutzer erfolgreich hinzugefügt
+2=/
+3=Benutzer existiert bereits
+4=Bitte geben Sie Benutzername ein
+5=Bitte geben Sie Passwort ein
+6=Bitte geben Sie neue Passwort
+7=Passwort ist falsch!
+8=Die Passwörter stimmen nicht überein!
+9=Unbekannter Fehler
+10=Administrator-Konto kann nicht gelöscht werden!
+11=Der Benutzername darf nicht root oder admin heißen!
+12=Der Benutzername darf keinen Leerzeichen enthalten
+13=Achtung: Das Passwort darf nicht weniger als 8 Zeichen sein und mindestens eine Ziffer und einen Buchstaben enthalten!
+14=Wenn der Benutzername oder die Kennwortlänge größer als 10 ist, kann es sich nicht um alle Nummern handeln

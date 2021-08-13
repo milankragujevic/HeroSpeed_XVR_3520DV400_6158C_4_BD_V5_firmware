@@ -1,0 +1,21 @@
+[wintip]
+num=19
+1=Gerätesuche, bitte warten...
+2=Sind Sie sicher, dass Sie den DVS-Assistenten beenden möchten?
+3=DVS Einrichtungsassistent vereinfacht die Ersteinrichtung und weist automatisch für jeder IP-Kamera in Ihrem Netzwerk eine eindeutige IP-Adresse. Fortfahren?
+4=Die Fisheye-Kamera muss separat hinzugefügt werden
+5=Die Kamera antwortet nicht. Bitte die Kamera neu starten!
+6=Keine Erlaubnis!
+7=Kamera löschen, bitte warten …
+8=Bitte wählen Sie einen Kanal
+9=Plug-and-Play-Kanal kann nicht gelöscht werden
+10=Normal
+11=Unbekannter Fehler
+12=Netzverbindung ist fehlgeschlagen
+13=Port oder Server Fehler
+14=Benutzername oder Passwort ist falsch
+15=Fehler beim Abrufen des Streams
+16=CH
+17=Bandbreite:
+18=Nur eine einzige Karte kann automatisch hinzugefügt werden!
+19=ob alle Kanäle H264+ oder H265+ öffnen?

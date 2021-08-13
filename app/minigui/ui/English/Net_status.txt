@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=IP Address
+2=Network Mask
+3=Gateway
+4=Primary DNS
+5=Secondary DNS
+6=MAC Address
+7=Enable DHCP
+8=PPPoE Address
+9=PPPoE Subnet Mask
+10=PPPoE Default Gateway
+11=\
+12=\
+13=Enable
+14=Disable

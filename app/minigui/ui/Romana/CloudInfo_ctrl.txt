@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Legare
+2=Cod de autorizare
+3=Confirmare
+4=Anulare

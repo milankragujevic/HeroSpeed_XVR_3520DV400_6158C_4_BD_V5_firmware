@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=\
+2=Kanaal
+3=Kanaal
+4=Starttijd
+5=Gelijkenis
+6=Afspelen
+7=Back-up Afbeelding
+8=Back-up Record
+9=backup
+10=Annuleren
+11=Alles
+12=Chart
+13=Lijst
+14=Exact zoeken
+15=FTP-back-up

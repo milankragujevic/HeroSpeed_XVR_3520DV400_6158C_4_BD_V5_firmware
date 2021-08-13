@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Zjišťuji parametry…
+2=Tento kanál nemá žádné oprávnění!

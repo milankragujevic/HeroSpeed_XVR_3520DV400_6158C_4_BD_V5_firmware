@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Arquivo de pesquisa
+2=CH
+3=Tipo de evento
+4=Hora de Início/Hora de Término
+5=Fim do tempo
+6=Tipo de arquivo
+7=Capacidade necessária:
+8=Disponível / Capacidade total:
+9=Exportar
+10=cancelar
+11=Atualizar
+12=Visualizar
+13=Ir
+14=Todos
+15=Grupo:
+16=Canal
+17=Tempo
+18=FTP Exportar

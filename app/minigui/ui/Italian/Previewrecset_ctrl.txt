@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Configurazione Reg.
+2=Canale
+3=Tutti
+4=Operazioni
+5=Registra
+6=Ril. Movimento
+7=Tutti
+8=Dom.
+9=Lun.
+10=Mar.
+11=Mer.
+12=Gio.
+13=Ven.
+14=Sab.
+15=Predefinito
+16=Copia
+17=Applica
+18=Cancella
+19=Impostazioni avanzate
+20=Intelligente
+21=Allarme
+22=M | A
+23=M & A
+24=Nessuno

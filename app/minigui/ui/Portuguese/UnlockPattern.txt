@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Por favor, desenhe um padrão de desbloqueio.
+2=Solte o mouse quando terminar.
+3=Conecte pelo menos 4 pontos, por favor tente novamente.
+4=Por favor, desenhe o padrão novamente para confirmar.
+5=O padrão desenhado de duas vezes é diferente, por favor confirme novamente.
+6=Por favor, lembre-se do seu padrão.
+7=O modo de desbloqueio está errado, existem
+8=Entrar
+9=chances.
+10=A senha ou o modo de desbloqueio foi digitado incorretamente 5 vezes. Tente novamente após 30 minutos.

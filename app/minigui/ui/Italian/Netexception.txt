@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Ripristina la configurazione iniziale?
+2=Schermo
+3=Invia e-mail
+4=Allarme Acustico

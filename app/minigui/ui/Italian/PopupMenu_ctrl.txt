@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Riproduzione
+2=Gestione documenti
+3=Setup Sistema
+4=Accesso
+5=Spegnimento
+6=Logout

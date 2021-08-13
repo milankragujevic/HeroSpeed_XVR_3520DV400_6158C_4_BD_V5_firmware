@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Nahrávat od databáze tváří
+2=Seznam databáze tváří
+3=Jméno
+4=čas
+5=Obrázek tváře
+6=Uživatel
+7=Zobrazit
+8=Zbývající/celková kapacita:
+9=Potvrzení
+10=Zrušit
+11=1

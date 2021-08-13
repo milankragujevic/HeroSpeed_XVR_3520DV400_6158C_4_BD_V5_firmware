@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=PTZ
+2=Caméra
+3=Contrôle PTZ
+4=Contrôle commun
+5=Zoomer
+6=Mise au point
+7=Ouverture
+8=Vitesse
+9=Sélection
+10=Appel
+11=Activer croisement
+12=Désactiver le tour
+13=Patrouille
+14=1:2:3
+15=Configuration tour de garde

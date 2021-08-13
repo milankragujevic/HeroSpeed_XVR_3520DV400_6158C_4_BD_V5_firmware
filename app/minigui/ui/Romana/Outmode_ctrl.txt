@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Rezolutie
+2=Interfața UI
+3=Afișați ora OSD
+4=Arată după boot
+5=1024x768:1280x720:1280x1024:1920x1080
+6=Initial
+7=Salvare
+8=Afișați numele canalului

@@ -1,0 +1,18 @@
+[wintip]
+num=16
+1=Değişkenler getiriliyor, lütfen bekleyiniz…
+2=İzin yok!
+3=Satır kuralı hatası!
+4=Bir geçit hattı var!
+5=Aynı çizgide!
+6=Bu özellik desteklenmiyor.
+7=Alarm sesli uyarıcı
+8=E-mail gönder
+9=Kanal Kaydı
+10=Kara liste
+11=Beyaz liste
+12=Kara liste ve Beyaz liste
+13=Maximum support for
+14=Kanal
+15=channels
+16=Geliştirilmekte!

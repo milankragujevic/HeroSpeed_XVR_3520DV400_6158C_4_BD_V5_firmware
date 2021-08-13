@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Please select face database
+2=החלצה
+3=לשכנ
+4=!החילצה הווצא תפסות
+5=!הלשכנ הווצא תפסות
+6=USB disk path does not exist
+7=USB disk directory without face map
+8=!םומיסקמ םינפ תנומת תפסוה
+9=Adding face picture
+10=םייק וניא םינפ ינותנ דסמ
+11=16 לש ילמיסקמ םינותנ דסמ תפסוה!םינפ 
+12=תירויש תלוביק
+13=תלוביק כ"הס

@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Arquivo de imagem anormal ou formato não suportado (suporta-se apenas jpg)
+2=O arquivo selecionado não pode ser maior que 1M!
+3=Falha ao extrair o modelo de rosto
+4=Lançamento falhou
+5=O autovalor ou número de face excede o limite superior
+6=Por favor digite um nome!

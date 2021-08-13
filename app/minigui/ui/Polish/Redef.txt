@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Przywracanie parametrów domyślnych, proszę czekać...
+2=Przywróć domyślne
+3=Nowe ustawienia zostaną aktywowane po ponownym uruchomieniu systemu. Uruchom ponownie teraz?
+4=Przywrócić parametry domyślne?

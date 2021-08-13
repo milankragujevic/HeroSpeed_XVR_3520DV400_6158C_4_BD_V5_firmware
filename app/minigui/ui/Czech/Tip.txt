@@ -1,0 +1,24 @@
+[wintip]
+num=22
+1=Zachycení
+2=Okamžité přehrávání
+3=PTZ
+4=Zvětšení
+5=Audio
+6=Obraz
+7=Informace
+8=Spusťte celodenní záznam
+9=Přepnout na domovskou obrazovku
+10=rybí oko
+11=Zakázat POS
+12=Vypnout 3D pozici
+13=Zastavit celodenní záznam
+14=Přepnout na vedlejší obrazovku
+15=Povolit POS
+16=Zapnout 3D pozici
+17=Nepodařilo se zachytit snímek obrazovky
+18=No Permission
+19=Nelze zahájit nahrávání. Změňte prosím rozvrh nahrávání.
+20=RTSP tuto funkci nepodporuje
+21=Zdařilo se zachycení snímku, zkontrolujte prosím na správci souborů.
+22=Zavřít

@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Idioma
+2=Idioma do Sistema
+3=Aplique
+4=Sair

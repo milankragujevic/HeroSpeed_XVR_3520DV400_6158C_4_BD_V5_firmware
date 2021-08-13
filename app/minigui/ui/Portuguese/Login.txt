@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=O nome de usuário não existe!
+2=A senha está incorreta, existem
+3=Inicializando, por favor aguarde...
+4=Tem a certeza de sair do assistente de inicialização?
+5=chances.
+6=A senha ou o modo de desbloqueio foi digitado incorretamente 5 vezes. Tente novamente após 30 minutos.
+7=A senha foi digitada incorretamente 5 vezes. Tente novamente após 30 minutos.

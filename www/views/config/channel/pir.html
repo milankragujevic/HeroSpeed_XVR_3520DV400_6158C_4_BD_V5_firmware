@@ -1,0 +1,49 @@
+<div class="options-block dot-template J-dot-template">
+    {{= dotRender("tagHeadModel", [{name: lang.optPIR, hide: true, attr: "class='current'"}]) }}
+    <div class="tag-block ">
+        <div class="form-item">
+            <span class="width200">
+                <label lang="channel"></label>
+            </span>
+            <span>
+                <select id="getlstvpirchannel" class="medium-select" matchval="getlstvpirchannel">
+                </select>
+            </span>
+        </div>
+        <div class="form-item">
+            <label langs="enPIR"><input type="checkbox" matchval="getlstvpirlightopen"></label>
+        </div>
+        <div class="form-item">
+            <label langs="enPIRalarm"><input type="checkbox" matchval="getlstvpirlightalarm"></label>
+        </div>
+        <div class="form-item">
+            <label langs="enPIRleft"><input type="checkbox" matchval="getlstvpirleftenable"></label>
+        </div>
+        <div class="form-item">
+            <label langs="enPIRright"><input type="checkbox" matchval="getlstvpirrightenable"></label>
+        </div>
+        <div class="form-item">
+            <span class="width200">
+                <label lang="PIRtime"></label>
+            </span>
+            <span> <input type="text" class="small-input" maxlength="5" min="10" max="1200" def="60" matchval="getlstvpirlightduring"></span>
+        </div>
+        <div class="form-item">
+            <span class="width200">
+                <label lang="sensitivity"></label>
+            </span>
+            <span>
+                <select id="getlstvpirsensitity" class="medium-select" matchval="getlstvpirsensitity">
+                    <option value="1" lang="low"></option>
+                    <option value="2" lang="middle"></option>
+                    <option value="3" lang="high"></option>
+                </select>
+            </span>
+        </div>
+    </div>
+    <div class="tag-block ">
+        <div class="form-item">
+            <input type="button" id="btnSave" lang="save" class="btn web-btn" onclick="savePIR();">
+        </div>
+    </div>
+</div>

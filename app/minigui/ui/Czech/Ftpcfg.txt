@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Obnovit výchozí nastavení ?
+2=Port může být v rozsahu 1-65535 !
+3=Testuji FTP, čekejte…
+4=Chyba ukládání na FTP !
+5=Test FTP v pořádku.
+6=Chyba formátu času!
+7=Soubor nemůže obsahovat znaky:                \ / : * ? " < > |
+8=Uživatelské jméno nebo Heslo nemůže obsahovat následující symboly:! % & #
+9=Chyba formátu serveru FTP!

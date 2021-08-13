@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Hodnota jasu je příliš vysoká, maximální hodnota jasu je
+2=Kontrast je příliš velký, maximální hodnota je
+3=Saturace je příliš velká, maximální hodnota je
+4=Ostrost je příliš velká, maximální hodnota je
+5=Zjišťuji parametry…
+6=Tento kanál nemá žádné oprávnění!
+7=Parametr se nezdařil
+8=RTSP tuto funkci nepodporuje

@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Numele directorului nu poate conține unul dintre următoarele caractere: Spațiu \ /: *? "| '%
+2=Numele directorului nu poate fi gol

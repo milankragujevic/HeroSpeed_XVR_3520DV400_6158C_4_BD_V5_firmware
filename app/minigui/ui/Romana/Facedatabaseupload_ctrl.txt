@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Încărcați din Baza de Date Facială
+2=Lista Bazei de Date Faciale
+3=Nume
+4=Timp
+5=Imagine Facială
+6=Utilizator
+7=Vizualizare
+8=Capacitate Rămasă / Totală:
+9=OK
+10=Anulare
+11=1

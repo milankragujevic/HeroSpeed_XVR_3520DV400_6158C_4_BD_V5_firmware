@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Data e ora; 1
+2=Rete; 2
+3=Hard Disk; 3
+4=Macchina fotografica; 4
+5=Piattaforma; 5
+6=Cambia password; 5
+7=Hard Disk
+8=No.
+9=Stato
+10=Capacità Totale
+11=Capacità Residua
+12=Tipo Dispositivo
+13=Formatta
+14=Precedente
+15=Prossimo
+16=Uscita

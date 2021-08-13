@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Risoluzione
+2=Trasparenza UI
+3=Mostra Tempo sull’OSD
+4=Mostra dopo il riavvio
+5=1024x768:1280x720:1280x1024:1920x1080
+6=Predefinito
+7=Applica
+8=Mostra il nome canale

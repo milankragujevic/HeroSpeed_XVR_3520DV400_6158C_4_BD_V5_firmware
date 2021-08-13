@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Realizat
+2=Nu a reușit

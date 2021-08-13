@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Getting param,Please wait...
+2=Blacklist
+3=Whitelist
+4=Blacklist And Whitelist

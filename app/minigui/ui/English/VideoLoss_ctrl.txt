@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Motion Detection
+2=Video Tempering
+3=Video Loss
+4=Alarm Input
+5=Alarm Output
+6=Exception
+7=Channel
+8=Enable
+9=Arming Schedule
+10=Linkage Action
+11=Normal Linkage
+12=Default
+13=Copy
+14=Apply
+15=Alarm Output
+16=Buzzer

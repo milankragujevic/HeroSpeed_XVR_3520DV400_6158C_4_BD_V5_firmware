@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Jazyk
+2=Jazyk systému
+3=Použít
+4=Ukončit

@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Fout in tijdnotatie!
+2=Activeer
+3=Sluiten
+4=Voer maximaal 6 schema's in per dag!

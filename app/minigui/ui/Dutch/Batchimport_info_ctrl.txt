@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Groep importeren
+2=Naam
+3=staat
+4=Bevestig

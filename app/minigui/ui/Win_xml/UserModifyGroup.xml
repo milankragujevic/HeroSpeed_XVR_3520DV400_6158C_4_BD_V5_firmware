@@ -1,0 +1,245 @@
+
+<UserAddGroup x="360" y="160" w="820" h="650" title="Edit user">
+
+<row>
+<s type="static" id="4" x="24" y="22" w="38" h="38" s="11:12:36" bg="./image/icon/users.png"></s>
+<s type="static" id="5" x="69" y="33" w="200" h="25" s="11:12:31" ft="20">Modify group</s>
+</row>
+
+<col type="static" x="80" y="100" w="180" h="24" s="11:12:31" gap="16">
+<s id="1" >Group</s>
+<s id="2" >Group name</s>
+<s id="3" >Remarks</s>
+
+<s id="6" >Authority</s>
+</col>
+
+<col x="180" y="93" w="180" h="32" s="11:12:31" gap="5">
+<cb id="10" type="CtrlCombobox" s="11:12:13:21:22:23" ex="81" ad="96"></cb>
+<e id="11" type="myedit" s="11:12:13:56" ex="81:82:83:84:85:86"></e>
+<e id="12" type="myedit" s="11:12:13:56" ex="81:82:83:84:85:86"></e>
+</col>
+
+<row type="ctrl_button" x="33" y="250" w="150" h="24" s="12:13:41:48" gap="30">
+<b id="22" s="12:13:41:48:49">System</b>
+<b id="23">Playback</b>
+<b id="24">Real-time monitoring</b>
+</row>
+
+<row type="ctrl_button" x="80" y="290" w="60" h="24" s="12:13:44" gap="5">
+<b id="25">All</b>
+</row>
+
+<row type="ctrl_button" x="80" y="330" w="150" h="25"  s="12:13:44"  gap="30">
+<cb id="26">User account</cb>
+<cb id="27">System setup</cb>
+<cb id="28">Clear log</cb>
+<cb id="29">Default/Upgrade</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="370" w="150" h="25"  s="12:13:44"  gap="30">
+<cb id="30">PTZ control</cb>
+<cb id="31">System info</cb>
+<cb id="32">Shutdown</cb>
+<cb id="33">Backup</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="410" w="150" h="25"  s="12:13:44"  gap="30">
+<cb id="34">Storage management</cb>
+<cb id="35">Events set</cb>
+<cb id="36">Network set</cb>
+<cb id="37">Camera</cb>
+</row>
+
+
+<row type="ctrl_button" x="80" y="290" w="120" h="24" s="13:44" gap="5">
+<b id="40">All</b>
+</row>
+
+<row type="ctrl_button" x="80" y="330" w="60" h="25"  s="13:44"  gap="25">
+<cb id="41">1</cb>
+<cb id="42">2</cb>
+<cb id="43">3</cb>
+<cb id="44">4</cb>
+<cb id="45">5</cb>
+<cb id="46">6</cb>
+<cb id="47">7</cb>
+<cb id="48">8</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="360" w="60" h="24"  s="13:44" gap="25">
+<cb id="49">9</cb>
+<cb id="50">10</cb>
+<cb id="51">11</cb>
+<cb id="52">12</cb>
+<cb id="53">13</cb>
+<cb id="54">14</cb>
+<cb id="55">15</cb>
+<cb id="56">16</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="390" w="60" h="24"  s="13:44" gap="25">
+<cb id="57">17</cb>
+<cb id="58">18</cb>
+<cb id="59">19</cb>
+<cb id="60">20</cb>
+<cb id="61">21</cb>
+<cb id="62">22</cb>
+<cb id="63">23</cb>
+<cb id="64">24</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="420" w="60" h="24"  s="13:44" gap="25">
+<cb id="65">25</cb>
+<cb id="66">26</cb>
+<cb id="67">27</cb>
+<cb id="68">28</cb>
+<cb id="69">29</cb>
+<cb id="70">30</cb>
+<cb id="71">31</cb>
+<cb id="72">32</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="450" w="60" h="24"  s="13:44" gap="25">
+<cb id="73">33</cb>
+<cb id="74">34</cb>
+<cb id="75">35</cb>
+<cb id="76">36</cb>
+<cb id="77">37</cb>
+<cb id="78">38</cb>
+<cb id="79">39</cb>
+<cb id="80">40</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="480" w="60" h="24"  s="13:44" gap="25">
+<cb id="81">41</cb>
+<cb id="82">42</cb>
+<cb id="83">43</cb>
+<cb id="84">44</cb>
+<cb id="85">45</cb>
+<cb id="86">46</cb>
+<cb id="87">47</cb>
+<cb id="88">48</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="510" w="60" h="24"  s="13:44" gap="25">
+<cb id="89">49</cb>
+<cb id="90">50</cb>
+<cb id="91">51</cb>
+<cb id="92">52</cb>
+<cb id="93">53</cb>
+<cb id="94">54</cb>
+<cb id="95">55</cb>
+<cb id="96">56</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="540" w="60" h="24"  s="13:44" gap="25">
+<cb id="97">57</cb>
+<cb id="98">58</cb>
+<cb id="99">59</cb>
+<cb id="100">60</cb>
+<cb id="101">61</cb>
+<cb id="102">62</cb>
+<cb id="103">63</cb>
+<cb id="104">64</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="290" w="120" h="24" s="13:44" gap="5">
+<b id="105">All</b>
+</row>
+
+<row type="ctrl_button" x="80" y="330" w="60" h="25"  s="13:44"  gap="25">
+<cb id="106">1</cb>
+<cb id="107">2</cb>
+<cb id="108">3</cb>
+<cb id="109">4</cb>
+<cb id="110">5</cb>
+<cb id="111">6</cb>
+<cb id="112">7</cb>
+<cb id="113">8</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="360" w="60" h="24"  s="13:44" gap="25">
+<cb id="114">9</cb>
+<cb id="115">10</cb>
+<cb id="116">11</cb>
+<cb id="117">12</cb>
+<cb id="118">13</cb>
+<cb id="119">14</cb>
+<cb id="120">15</cb>
+<cb id="121">16</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="390" w="60" h="24"  s="13:44" gap="25">
+<cb id="122">17</cb>
+<cb id="123">18</cb>
+<cb id="124">19</cb>
+<cb id="125">20</cb>
+<cb id="126">21</cb>
+<cb id="127">22</cb>
+<cb id="128">23</cb>
+<cb id="129">24</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="420" w="60" h="24"  s="13:44" gap="25">
+<cb id="130">25</cb>
+<cb id="131">26</cb>
+<cb id="132">27</cb>
+<cb id="133">28</cb>
+<cb id="134">29</cb>
+<cb id="135">30</cb>
+<cb id="136">31</cb>
+<cb id="137">32</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="450" w="60" h="24"  s="13:44" gap="25">
+<cb id="138" s="13:41:42:48">33</cb>
+<cb id="139">34</cb>
+<cb id="140">35</cb>
+<cb id="141">36</cb>
+<cb id="142">37</cb>
+<cb id="143">38</cb>
+<cb id="144">39</cb>
+<cb id="145">40</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="480" w="60" h="24"  s="13:44" gap="25">
+<cb id="146">41</cb>
+<cb id="147">42</cb>
+<cb id="148">43</cb>
+<cb id="149">44</cb>
+<cb id="150">45</cb>
+<cb id="151">46</cb>
+<cb id="152">47</cb>
+<cb id="153">48</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="510" w="60" h="24"  s="13:44" gap="25">
+<cb id="154">49</cb>
+<cb id="155">50</cb>
+<cb id="156">51</cb>
+<cb id="157">52</cb>
+<cb id="158">53</cb>
+<cb id="159">54</cb>
+<cb id="160">55</cb>
+<cb id="161">56</cb>
+</row>
+
+<row type="ctrl_button" x="80" y="540" w="60" h="24"  s="13:44" gap="25">
+<cb id="162">57</cb>
+<cb id="163">58</cb>
+<cb id="164">59</cb>
+<cb id="165">60</cb>
+<cb id="166">61</cb>
+<cb id="167">62</cb>
+<cb id="168">63</cb>
+<cb id="169">64</cb>
+</row>
+
+
+<row type="ctrl_button" x="258" y="605" w="150" h="34" s="12:13:41" gap="20">
+<b id="16" ft="20">Save</b>
+<b id="17" ft="20">Cancel</b>
+</row>
+
+</UserAddGroup>

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Použito
+2=Číslo disku
+3=Standardní
+4=Disk nepřipojen !
+5=Formátuji disk, počkejte…
+6=Zařízení se používá.
+7=Neznámá chyba
+8=Formátování dokončeno.
+9=Formátování skončilo chybou.
+10=Vyberte disk
+11=Formátování smaže všechna data, pokračovat ?
+12=Bez povolení!
+13=USB disk nemůže být zformátován.
+14=Chcete opravdu opustit průvodce ?

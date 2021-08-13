@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Fișierul de căutare
+2=CH
+3=Tip de eveniment
+4=Oră începere/Oră terminare
+5=Timp Oprire
+6=Tip fișier
+7=Capacitate necesară:
+8=Capacitate disponibilă:
+9=Export
+10=Anulare
+11=Reimprospatare
+12=Vizualizare
+13=Accesare
+14=Toate
+15=Grup:
+16=Canal
+17=Timp
+18=FTP Export

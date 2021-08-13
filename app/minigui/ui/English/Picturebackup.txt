@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Not enough disk space.
+2=File backuping,please wait.
+3=Backup finished
+4=Cannot wirte data to mobile hard disk.
+5=Please select a file.
+6=The fast backup time should not exceed 30 minutes.
+7=This time no files.
+8=Time format error!
+9=In process of backing, please wait...
+10=There are one or more channel have no permission!
+11=This channel has no permission!
+12=Please select a channel
+13=Please insert the usb disk!

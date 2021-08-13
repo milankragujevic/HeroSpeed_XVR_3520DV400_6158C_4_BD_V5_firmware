@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=Metoda zpracování
+2=Čas aktivace
+3=Metoda zpracování
+4=Zobrazení
+5=Zvuková výstraha
+6=Odeslat e-mail
+7=Upload do FTP
+8=Kanál záznamu
+9=Zachycení
+10=Povolit výstup alarmu
+11=Alarm výstup
+12=Název alarmu
+13=Použít
+14=Zrušit
+15=1
+16=2
+17=3
+18=4
+19=5
+20=6
+21=7
+22=8
+23=vazba
+24=Čas nahrávky (s)
+25=Buzzer Time(sec)

@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Kênh
+2=Bật
+3=Xóa vùng 1
+4=Xóa vùng 2
+5=Xoá Vùng 3
+6=Xóa tất cả
+7=Ứng dụng
+8=Sao chép

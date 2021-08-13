@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Aggiungi elenco volti
+2=Imp. Video Locale
+3=Fotografi
+4=Importazione di immagini
+5=Nome
+6=Conferma
+7=Cancella
+8=Canale
+9=Modello di faccia
+10=Tiro
+11=Estratto modello viso
+12=Seleziona la faccia
+13=Nuovo
+14=Riprendi

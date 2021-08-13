@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Thêm người dùng thành công!
+2=/
+3=Người dùng đã tồn tại!
+4=Vui lòng nhập tên người dùng!
+5=Vui lòng nhập mật khẩu!
+6=Vui lòng nhập mật khẩu mới!
+7=Mật khẩu không đúng!
+8=Mật khẩu không khớp!
+9=Lỗi không rõ!
+10=Quản trị viên không thể bị xóa!
+11=Tên người dùng không được gọi là root hoặc admin!
+12=Tên người dùng không thể bao gồm phím khoảng trống
+13=Cảnh cáo ; Mật khẩu không thể ít hơn 8 ký tự, ít nhất phải có 1 con số và 1 chữ cái.
+14=Nếu tên người dùng hoặc độ dài mật khẩu lớn hơn 10, thì đó không thể là tất cả các số

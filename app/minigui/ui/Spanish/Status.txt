@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=/
+2=/
+3=Error de formato de tiempo!
+4=La red está sobrecargada, por favor borrar canales gradualmente
+5=La red se encuentra en estado normal
+6=Sin permiso!
+7=Actualizando, no apagar!!
+8=En proceso de formateo, por favor espere ...
+9=Monitoreando …
+10=No channels that support this feature!
+11=Detección de rostro
+12=Modo
+13=5 min de reproducción
+14=Volumen
+15=Acercamiento
+16=Imagen
+17=Información del flujo de código
+18=Cerrar
+19=La contraseña actual es muy simple, por favor modifique la contraseña!
+20=Se encontraron nuevos dispositivos de almacenamiento, formatee como disco de grabación de inmediato?
+21=¡En desarrollo!
+22=Manual screenshot failed!
+23=Parada de disco utilizada
+24=La contraseña actual es muy simple, por favor modifique la contraseña!
+25=Capturar

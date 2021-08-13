@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Kanal
+2=hedef
+3=Yüz tanıma
+4=akıllı faaliyet
+5=Body Detection
+6=Car Detection

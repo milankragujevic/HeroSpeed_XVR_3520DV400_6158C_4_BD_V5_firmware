@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=No.
+2=Nombre
+3=tamaño
+4=fecha
+5=Refrescar
+6=Actualizar

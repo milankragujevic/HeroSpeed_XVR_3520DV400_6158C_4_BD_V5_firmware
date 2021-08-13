@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Retraso de red, prueba de pérdida de paquetes
+2=Selección de NIC
+3=Dirección de destino
+4=Prueba

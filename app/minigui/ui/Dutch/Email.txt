@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Reset naar fabrieksinstellingen ?
+2=Het poortnummer moet tussen 1 en 65535 vallen!
+3=E-mail testen, even geduld aub…
+4=E-mail kon niet worden verzonden!
+5=Succes! Controleer de inbox.
+6=Het formaat van het e-mailadres is onjuist.
+7=Het SMTP-serverformaat is onjuist.
+8=Fout in tijdnotatie!
+9=gewoonte

@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Restaurando valores de fábrica, por favor espere …
+2=Restaurar por defecto
+3=La nueva configuración se activará después de reiniciar. ¿Reiniciar ahora?
+4=Restaurar parametros por defecto?

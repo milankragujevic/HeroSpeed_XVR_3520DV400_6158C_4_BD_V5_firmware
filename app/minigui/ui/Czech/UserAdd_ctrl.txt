@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Přidat uživatele
+2=Uživatelské jméno
+3=Heslo
+4=Potvrdit
+5=Úroveň
+6=Operátor:Obecné
+7=Uložit
+8=Zrušit

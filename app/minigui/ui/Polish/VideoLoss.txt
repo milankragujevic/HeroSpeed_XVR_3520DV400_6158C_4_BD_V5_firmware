@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Przywrócić parametry domyślne?
+2=Brak pozwolenia!
+3=Wyświetlacz
+4=Wyślij e-mail
+5=Alarm dźwiękowy

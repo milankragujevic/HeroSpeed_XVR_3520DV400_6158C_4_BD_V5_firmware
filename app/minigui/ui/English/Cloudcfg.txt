@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Testing...
+2=Test succeed.
+3=Test failure.
+4=Change Upload folder need to unbind and then rebind to take effect.
+5=Restore the default parameters?
+6=Bind
+7=Unbind

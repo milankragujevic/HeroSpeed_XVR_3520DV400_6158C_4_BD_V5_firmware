@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Menu
+2=Playback
+3=Export
+4=HDD
+5=Record
+6=Camera
+7=Configuration
+8=Maintenance
+9=Shutdown

@@ -1,0 +1,21 @@
+[wintip]
+num=19
+1=Recherche de périphérique, veuillez patienter!
+2=Êtes-vous sûr de quitter l'assistant de configuration?
+3=L'opération remplacera l'IP du périphérique distant, souhaitez-vous continuer?
+4=La caméra Fisheye nécessite d'être ajoutée séparément
+5=Le périphérique est déjà connecté plusieurs fois, vous ne pouvez plus l'ajouter.
+6=Aucune autorisation!
+7=Suppression de la caméra, veuillez patienter…
+8=Sélectionnez une chaine S.V.P.
+9=Les canaux Plug and Play ne peuvent pas être supprimés,
+10=Connecté
+11=Erreur inconnue
+12=Erreur de connection au réseau
+13=Erreur de chaine ou de serveur
+14=Erreur d'utilisateur ou de mot de passe
+15=L'accès au flux a échoué
+16=CAM
+17=Bande passante inactive:
+18=Seule une seule carte peut être ajouter automatiquement !
+19=Voulez-vous ouvrir tous les canaux H264 + ou H265 +?

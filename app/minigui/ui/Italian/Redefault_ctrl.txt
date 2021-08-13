@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Ripristino dei settaggi iniziali (Camera)
+2=Ripristina i parametri predefiniti di archiviazione
+3=Ripristina i parametri predefiniti del sistema
+4=Ripristino dei settaggi iniziali (Sched. Riavvio)
+5=Reset alle condizioni iniziali
+6=Applica

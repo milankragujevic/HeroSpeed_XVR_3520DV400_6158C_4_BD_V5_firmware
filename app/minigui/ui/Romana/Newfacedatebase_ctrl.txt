@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Adăugați Baza de Date Facială
+2=Nume
+3=Tip de Listă
+4=Lista neagră: Lista albă
+5=Similitudine
+6=Salvare
+7=Anulare

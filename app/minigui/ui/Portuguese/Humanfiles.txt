@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Todos os Canais
+2=Erro no formato de hora!
+3=Existem um ou mais canais sem permissão.
+4=Sem permissão!
+5=Selecione um canal

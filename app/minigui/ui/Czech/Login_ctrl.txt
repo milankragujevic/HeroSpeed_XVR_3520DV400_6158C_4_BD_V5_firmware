@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Přihlášení
+2=admin
+3=Přihlásit
+4=Zavřít
+5=Zapomenout heslo
+6=Automatické přihlášení

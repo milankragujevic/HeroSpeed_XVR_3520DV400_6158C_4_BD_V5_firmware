@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Si prega di disegnare un modello di sblocco.
+2=Si prega di rilasciare il mouse dopo il completamento.
+3=Connetti almeno 4 punti, per favore riprova.
+4=Si prega di disegnare nuovamente il modello per confermare.
+5=Il modello disegnato due volte è diverso, conferma di nuovo.
+6=Per favore ricorda il tuo modello.
+7=La sequenza di sblocco è sbagliata, ci sono
+8=Accesso
+9=possibilità.
+10=La password o il metodo di sblocco sono stati inseriti in modo errato 5 volte. Riprova dopo 30 minuti.

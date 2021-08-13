@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Varsayılan değişkenleri geri yüklesin mi?
+2=İzin yok!
+3=Yeniden başlatma sihirbazından çıkmak istediğinize emin misiniz?
+4=Yeni ayarlar yeniden başlatıldıktan sonra aktif hale getirilecek. Şimdi yeniden başlatılsın mı?
+5=Önyükleme Sihirbazı kurulumu tamamlandı!
+6=Zaman formatı hatası!
+7=Bir gün için en fazla 6 zaman planı ekleyin!
+8=Bir veya daha fazla kanalın izni yok!

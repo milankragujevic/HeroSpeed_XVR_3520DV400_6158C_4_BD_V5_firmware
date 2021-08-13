@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Cài đặt tuần tra
+2=Điểm.
+3=Thời gian nghỉ
+4=Tốc độ
+5=Xác nhận
+6=Hủy

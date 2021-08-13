@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Restaurar paramentros da câmera para padrão
+2=Restaurar Parâmetro Predefinido de Armazenamento
+3=Restaurar parâmetro Predefinido do Sistema
+4=Restaurar parâmetros de manutenção para padrão
+5=Restaurar configurações de fabrica
+6=Aplique

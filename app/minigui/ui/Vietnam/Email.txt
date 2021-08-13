@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Khôi phục các tham số mặc định?
+2=Số cổng phải từ 1 đến 65535!
+3=Kiểm tra email, xin vui lòng chờ...
+4=Không thể gửi e-mail!
+5=Thành công. Kiểm tra hộp thư đến.
+6=Định dạng địa chỉ email không đúng.
+7=Định dạng máy chủ SMTP không chính xác.
+8=Lỗi định dạng thời gian!
+9=Tùy chỉnh

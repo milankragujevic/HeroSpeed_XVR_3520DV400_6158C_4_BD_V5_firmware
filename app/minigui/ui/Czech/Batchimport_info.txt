@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Podařit se
+2=Selhání

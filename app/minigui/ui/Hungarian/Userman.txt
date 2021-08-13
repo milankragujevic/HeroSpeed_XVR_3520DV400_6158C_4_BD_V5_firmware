@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Nincs jogosultsága!
+2=Törli a felhasználót?
+3=Az Adminisztrátor nem törölhető!
+4=Max. 256 felhasználó adható hozzá!
+5=A csoport felhasználóval nem lehet törölni!
+6=Nem törölheti az aktuális felhasználót!
+7=Max. 20 csoport adható hozzá!
+8=Az adminisztrátor csoport nem törölhető!
+9=Kérjük, válasszon felhasználót
+10=Ön nem tagja a csoportnak, nincs engedélye ennek a műveletnek a végrehajtására.
+11=Gyenge
+12=Közepes
+13=Erős
+14=Administrator
+15=Operator
+16=Általános
+17=Jelszó

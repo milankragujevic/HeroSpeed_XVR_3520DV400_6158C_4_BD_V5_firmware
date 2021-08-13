@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Ora
+2=Canale
+3=Tipo di file
+4=Etichetta
+5=Tipo di Evento
+6=Piastra n.
+7=Stato del file
+8=Area / Paese
+9=Oggi: Ieri: Ultimi 2 giorni: Ultimi 3 giorni: Ultimi 7 giorni: Ultimi 14 giorni: Personalizzato
+10=Video:Picture
+11=Tutto: Sbloccato: Bloccato
+12=Esportazione veloce
+13=Ricerca

@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Değişkenleri kaydetsin mi?
+2=Aygıtları arıyor, lütfen daha sonra çıkış yapın!
+3=IP adresi doğru değil!
+4=Lütfen aygıt seçin!
+5=Düzenle
+6=El İle Ekleme
+7=Kullanıcı adı boş bırakılamaz!
+8=Alan adı çözünürlük bozulması.
+9=Alan biçimi yanlış.

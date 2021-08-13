@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=/
+2=/
+3=Chyba formátu času!
+4=Síťový provoz je příliš velký, odstraňte některé kamery
+5=Síťový provoz je opět v pořádku
+6=Bez povolení!
+7=Probíhá aktualizace, nevypínejte zařízení !
+8=Formátuji disk, počkejte…
+9=Polling…
+10=No channels that support this feature!
+11=Detekce obličeje
+12=Režim
+13=5min záznam
+14=Hlasitost
+15=Zvětšení
+16=Obraz
+17=informace o streamu
+18=Zavřít
+19=Aktuální heslo je příliš jednoduché, prosím upravte heslo!
+20=Byly nalezeny nová zařízení pro ukládání dat ihned formátována jako záznamový disk?
+21=Ve vývoji!
+22=Manual screenshot failed!
+23=Používá se disková zarážka
+24=Aktuální heslo je příliš jednoduché, prosím upravte heslo!
+25=Zachycení

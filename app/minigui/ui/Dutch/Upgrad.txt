@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Upgraden, niet uitschakelen aub!
+2=Upgrade mislukt!
+3=Upgrade Succesvol!
+4=Selecteer aub upgrade bestand!
+5=Upgraden?
+6=Geen upgrade pakket
+7=Zoek nieuwe versie, download bestand online?
+8=Netwerk is niet stabiel, download mislukt…
+9=Downloaden…
+10=Uitzondering fout
+11=Download slagen, online upgraden?
+12=Bestand bestaat niet!

@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Not enough disk space.
+2=File backup, vă rugăm să așteptați.
+3=Backupul a fost terminat
+4=Nu pot fi transmise date pe hard disk mobil.
+5=Selectați un fișier.
+6=The fast query time should not exceed 30 minutes.
+7=This time no files.
+8=Eroare de format de timp!
+9=În proces de susținere, vă rugăm să așteptați ...
+10=Există unul sau mai multe canale fără permisiune!
+11=Acest canal nu are permisiune!
+12=Selectați un canal
+13=Introduceți discul USB!

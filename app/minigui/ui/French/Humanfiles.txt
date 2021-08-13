@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Toutes les chaînes
+2=Erreur de format d'heure!
+3=Il y a un ou plusieurs canaux sans permission!
+4=Aucune autorisation!
+5=Sélectionnez une chaine S.V.P.

@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Einschränkungstyp
+2=Einschränkungsmodus
+3=Aktivieren
+4=Schwarze Liste: Zulässige Liste
+5=IP-Adresse: MAC-Adresse
+6=Hinzuf.
+7=Bearbeiten
+8=Löschen
+9=Anwenden
+10=Einschränkungsliste
+11=IP Adresse
+12=MAC-Adresse
+13=Alles löschen

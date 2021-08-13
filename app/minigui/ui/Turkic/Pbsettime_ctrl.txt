@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Zaman ayarı
+2=Lütfen montaj zamanını ayarla.
+3=Çalma süresi ayarı
+4=Bitiş zamanı
+5=Kaydet
+6=iptal

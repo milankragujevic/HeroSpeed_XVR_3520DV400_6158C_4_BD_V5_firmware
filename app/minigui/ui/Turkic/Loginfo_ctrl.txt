@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Tür
+2=Başlangıç zamanı
+3=Bitiş zamanı
+4=Tüm sistem günlüğü:Sistem Yönetimi:Kullanıcı Yönetimi:Değişken kurulumu:Dosya İşlemleri:Başlatma durumu:Alarm olayı
+5=Sorgu
+6=Numara
+7=zaman
+8=Olay
+9=Kullanıcı
+10=İhracat
+11=Tümünü dışa aktar
+12=Açık

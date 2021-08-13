@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Enable
+2=Dropbox
+3=Google
+4=Upload Folder
+5=Username
+6=Capacity
+7=Used
+8=Test
+9=Default
+10=Apply
+11=Google
+12=IPEYE
+13=Bind

@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Cihaz adı
+2=model numarası
+3=Cihaz sürümü
+4=Sistem sürümü
+5=tarih
+6=Toplam kanal sayısı
+7=Toplam POE kanalı sayısı
+8=Kapat
+9=P2P
+10=GUI Sürümü
+11=WEB sürümü

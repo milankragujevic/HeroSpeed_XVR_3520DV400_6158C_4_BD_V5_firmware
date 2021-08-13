@@ -1,0 +1,23 @@
+[wintip]
+num=21
+1=Sửa đổi người dùng thành công!
+2=Không thể sửa đổi đặc quyền của quản trị viên!
+3=Người dùng đã tồn tại!
+4=Vui lòng nhập tên người dùng!
+5=Vui lòng nhập mật khẩu!
+6=Vui lòng nhập mật khẩu mới!
+7=Mật khẩu không đúng!
+8=Mật khẩu không khớp!
+9=Không thể thay đổi quyền người dùng của riêng họ!
+10=Lỗi không rõ!
+11=Tên người dùng không được gọi là root hoặc admin!
+12=Tên người dùng không thể bao gồm phím khoảng trống
+13=Bạn không phải là thành viên của nhóm, không được phép thực hiện thao tác này.
+14=Lỗi cấp độ người dùng!
+15=Cảnh cáo ; Mật khẩu không thể ít hơn 8 ký tự, ít nhất phải có 1 con số và 1 chữ cái.
+16=Nếu tên người dùng hoặc độ dài mật khẩu lớn hơn 10, thì đó không thể là tất cả các số
+17=Xin bổ sung cho hoàn thiệt.
+18=Xuất ra thành công!
+19=Xin vui lòng chèn usb.
+20=Xuất không thành công!
+21=Bạn có chắc chắn thoát khỏi trình hướng dẫn khởi động?

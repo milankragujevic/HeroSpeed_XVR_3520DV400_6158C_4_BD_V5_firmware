@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Núm. Input de Alarma
+2=Nombre de la alarma
+3=Tipo de alarma
+4=Estado de alarma
+5=Activar Canal de Grabación
+6=Cerrar

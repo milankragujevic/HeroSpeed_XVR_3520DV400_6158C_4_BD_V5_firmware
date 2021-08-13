@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Hãy chọn kênh nâng cấp!
+2=Nâng cấp không thành công!
+3=Nâng cấp thành công!
+4=Hãy chọn tệp nâng cấp!
+5=Nâng cấp?
+6=Tệp không tồn tại!
+7=Kênh
+8=cập nhật đã thành công!
+9=cập nhật không thành công!
+10=Nâng cấp, không tắt!

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Curise Setup
+2=Preset No.
+3=Stay Time
+4=Speed
+5=Confirm
+6=Cancel

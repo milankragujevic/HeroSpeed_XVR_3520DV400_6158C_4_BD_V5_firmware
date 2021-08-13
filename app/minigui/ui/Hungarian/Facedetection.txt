@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Hasonlóság
+2=Kor
+3=Sex
+4=Szemüveg
+5=Kalap
+6=List type:
+7=Idő:
+8=Fehérlista
+9=Feketelista
+10=Egyik sem
+11=Man
+12=Woman
+13=Show only faces
+14=Show only human figures

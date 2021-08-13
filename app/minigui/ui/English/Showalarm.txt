@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=Motion Detection
+2=Video Loss
+3=Alarm Input Trigger
+4=\
+5=\
+6=Face(Face Capture)
+7=Intrusion
+8=Crossover
+9=Scene Change
+10=Goods Legacy
+11=Goods Take
+12=Face Compare
+13=People Stay
+14=People Gathering
+15=Main Stream Video Loss
+16=Sub Stream Video Loss
+17=Alarm Out
+18=Smoke
+19=Infrare
+20=Human
+21=No Disk
+22=Disk Error
+23=Net Disconnected
+24=IP Conflict
+25=MAC Conflict

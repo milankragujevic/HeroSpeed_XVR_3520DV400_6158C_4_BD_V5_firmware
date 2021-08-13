@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Allarme Acustico
+2=Invia e-mail
+3=Schermo
+4=Errore di formato temporale!
+5=E’ possibile aggiungere un massimo di 6 schedulazioni a giorno!

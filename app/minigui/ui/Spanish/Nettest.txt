@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Retraso promedio:
+2=ms
+3=Tasa de pérdida de paquetes:
+4=¡Dirección de destino inalcanzable!
+5=Prueba de red, por favor espere ...
+6=Al ser atrapado el paquete ...
+7=¡Éxito de copia de seguridad de paquete de captura de red
+8=Por favor inserte el disco usb.
+9=La dirección IP es incorrecta
+10=Por favor inserte el cable de red

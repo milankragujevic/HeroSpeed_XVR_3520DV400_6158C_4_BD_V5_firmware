@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Editar
+2=Salida de alarma
+3=Nombre de la alarma
+4=Demora
+5=Estado de alarma
+6=5 Segundos: 10 Segundos: 30 Segundos: 1 Minuto: 2 Minutos: 5 Minutos: 10 Minutos: Limpiar Manualmente
+7=Horario de Alarma
+8=Activar
+9=Claro
+10=\
+11=\
+12=copiar
+13=Aplicar
+14=Todos
+15=Dom.
+16=Lun.
+17=Mar.
+18=Mie.
+19=Jue.
+20=Vie.
+21=Sab.
+22=Normal
+23=Editar

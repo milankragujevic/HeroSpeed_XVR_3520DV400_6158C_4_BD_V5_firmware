@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=otwarty
+2=Zamknij
+3=Strumień wideo
+4=Strumień pomocniczy
+5=Strumień złożony
+6=Zapis
+7=Ruch
+8=Alarm
+9=M i A
+10=Inteligentny

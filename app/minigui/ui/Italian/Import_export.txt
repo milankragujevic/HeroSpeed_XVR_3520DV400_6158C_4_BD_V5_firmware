@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Le nuove impostazioni saranno attivate dopo il riavvio. Ora riavvia?
+2=Esportazione, attendere prego…
+3=Successo!
+4=Inserire un disco USB
+5=Il Database non può essere aperto.
+6=Database danneggiato.
+7=Errore Sconosciuto.
+8=File non importato!
+9=Importazione, al termine bisognerà riavviare

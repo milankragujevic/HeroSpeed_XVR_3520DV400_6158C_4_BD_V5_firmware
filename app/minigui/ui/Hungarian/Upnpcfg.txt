@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Kapcsolódás…
+2=Kapcsolódva
+3=Visszaállítja az alapértelmezett paramétereket?
+4=A Port mapping tábla maximum 16 sor tartalmazhat!

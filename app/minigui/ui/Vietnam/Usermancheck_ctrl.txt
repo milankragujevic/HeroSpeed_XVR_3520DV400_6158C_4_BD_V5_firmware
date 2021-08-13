@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Xác nhận quyền hạn
+2=Xác nhận
+3=xác nhận/ ok
+4=Hủy

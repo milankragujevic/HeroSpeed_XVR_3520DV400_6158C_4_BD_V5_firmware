@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Redefault x="%15" y="%10" w="%100-%15" h="%100-%10" title="Default">
+
+<col type="ctrl_button" x="%3" y="30" w="400" h="40" s="12:13:44" ft="16" gap="30">
+    <b id="1">1</b>
+    <b id="2">2</b>
+    <b id="3">3</b>
+    <b id="4">4</b>
+    <b id="5">5</b>
+</col>
+
+<row type="ctrl_button" x="%82-140" y="%94-140" w="140" h="40" s="12:13:41" ft="16" gap="10">
+    <b id="6">6</b>
+</row>
+
+</Redefault>

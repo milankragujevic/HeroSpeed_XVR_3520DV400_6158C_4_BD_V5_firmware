@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UnlockPattern x="0" y="0" w="350" h="280" title="UnlockPattern">
+
+<col type="static" x="12" y="5" w="185" h="30" s="12:13:31"  bcol="10" >
+<s id="1"  ft="16" >3</s>
+</col>	
+<row x="294" y="18" w="16" h="16" s="12:13:41:42" ex="81" gap="10">
+<b type="ctrl_button" id="2" bg="./image/icon/pro_delall.png" bgw=""></b>
+<b type="ctrl_button" id="3" bg="./image/icon/close.png" bgw=""></b>
+</row>
+
+<col type="ctrl_trackbar" x="338" y="55" w="10" h="215" s="11:13:16:61:62:63:68" ex="87" gap="-1">
+<tb id="99" tcol="20"></tb>
+</col>
+</UnlockPattern>

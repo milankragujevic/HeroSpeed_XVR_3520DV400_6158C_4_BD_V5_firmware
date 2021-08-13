@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Détection de mouvement
+2=Falsification vidéo
+3=Perte de vidéo
+4=Entrée d'alarme
+5=Sortie d'alarme
+6=Exception
+7=Numéro de la sortie d'alarme
+8=Nom de l'alarme
+9=Retard
+10=Editer
+11=Avertisseur sonore

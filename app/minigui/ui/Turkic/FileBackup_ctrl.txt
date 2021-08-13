@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=zaman
+2=Kanal
+3=Dosya tipi
+4=Etiket
+5=Olay türü
+6=Plaka no:
+7=Dosya durumu
+8=alan/ülke
+9=Bugün: dün: son 2 gün: son 3 gün: son 7 gün: son 14 gün: alışkanlık
+10=Video:Picture
+11=Tam: kilitlemedi: kilitli
+12=Hızlı ihracat
+13=Arama

@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Network Delay,Packet Loss Test
+2=NIC Selection
+3=Destination Address
+4=Test

@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Setările noi vor fi activate după repornire.Reportați acum?
+2=Canal
+3=Revenire la parametrii initiali?
+4=1 Ecran
+5=4 Ecrane
+6=8 Ecrane
+7=9 Ecrane
+8=16 Ecrane
+9=25 de Ecrane
+10=36 de Ecrane
+11=64 de Ecrane
+12=32 de Ecrane
+13=Dispozitivul nu acceptă această rezoluție!

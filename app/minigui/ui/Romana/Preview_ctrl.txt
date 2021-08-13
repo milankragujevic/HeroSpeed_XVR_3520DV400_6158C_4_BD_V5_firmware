@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Canal
+2=Țintă
+3=Detectare facială
+4=Eveniment inteligent
+5=Detecție corp
+6=Detecție mașină

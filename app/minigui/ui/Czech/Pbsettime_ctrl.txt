@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Nastavení času
+2=Nastavte čas střihu:
+3=Nastavení času playbacku
+4=Konec
+5=Uložit
+6=Zrušit

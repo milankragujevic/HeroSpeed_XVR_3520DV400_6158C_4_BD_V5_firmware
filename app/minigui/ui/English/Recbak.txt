@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=No mobile hard disk!
+2=Uninstall succeeded!
+3=Uninstall failed!
+4=Record File
+5=In process of backup, Please wait...
+6=Backup succeeded!
+7=Backup failed!
+8=No disk for backup
+9=Mount failure!
+10=Unknown error!
+11=No permission!
+12=Cannot wirte data to mobile hard disk!
+13=Read record data failed !
+14=Not enough disk space.

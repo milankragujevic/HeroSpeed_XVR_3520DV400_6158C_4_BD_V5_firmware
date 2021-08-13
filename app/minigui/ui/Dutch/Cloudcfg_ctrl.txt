@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Activeer
+2=Dropbox
+3=Google
+4=Upload map
+5=Gebruikersnaam
+6=Capaciteit
+7=Gebruikt
+8=Test
+9=Standaardinstellingen
+10=Toepassen
+11=Google
+12=IPEYE
+13=Binden

@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Przywrócić parametry domyślne?
+2=Numer portu musi być z zakresu pomiędzy 1 i 65535!
+3=Testowanie ustawień e-mail, czekaj.
+4=E-mail nie może być doręczony!
+5=Sukces. Sprawdź skrzynkę odbiorczą.
+6=Format adresu e-mail jest nieprawidłowy.
+7=Format serwera SMTP jest nieprawidłowy.
+8=Błąd formatu czasu!
+9=Własne

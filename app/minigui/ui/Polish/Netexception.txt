@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Przywrócić parametry domyślne?
+2=Wyświetlacz
+3=Wyślij e-mail
+4=Alarm dźwiękowy

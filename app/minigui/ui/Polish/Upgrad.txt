@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Aktualizacja, nie wyłączać zasilania!
+2=Aktualizacja nieudana!
+3=Zaktualizowano!
+4=Proszę wybrać plik aktualizacji!
+5=Aktualizować?
+6=Brak pakietu aktualizacji
+7=Znajdź nową wersję, Pobierz plik online?
+8=Sieć jest niestabilna, pobranie nieudane...
+9=Pobieranie...
+10=Błąd awarii
+11=Pobierz pomyślnie, uaktualnij online?
+12=Plik nie istnieje!

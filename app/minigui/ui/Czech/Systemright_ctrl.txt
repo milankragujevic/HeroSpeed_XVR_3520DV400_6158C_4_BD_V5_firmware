@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Obecné
+2=Síť
+3=TCP/IP
+4=Nastavení
+5=Uživatel
+6=Síťová listina černá a bílá
+7=Dovolená
+8=POS
+9=Událost
+10=Obyčejná událost
+11=Chytrá (Smart) událost
+12=Konfigurace zobracení
+13=Zobrazení
+14=Zobrazit
+15=Nulový kanál
+16=Pokročilé
+17=Nastavení Cloud
+18=Standardní
+19=Nastavení kanálu
+20=Náhled odhlášení

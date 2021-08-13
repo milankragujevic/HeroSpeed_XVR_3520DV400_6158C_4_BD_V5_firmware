@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Enccfg x="%15" y="%10" w="%100-%15" h="%100-%10" title="Encoding">
+
+<col type="static" x="%3" y="30" w="180" h="40" s="11:12:31" bcol="10" gap="%2">
+<s id="1" >5</s>
+<s id="2" gap="30">14</s>
+</col>
+
+<col type="CtrlCombobox" x="%3+200" y="30" w="%20" h="40" s="11:12:13:14:21:22:23" gap="%2">
+<cb id="21" ad="416" ></cb>
+<e type="myedit" id="22" s="11:12:51" gap="30"></e>
+</col>
+
+
+<row type="static" x="%3" y="160" w="%94-250" h="2" s="11:12:31" bcol="1" gap="10">
+<s id="16"></s>
+</row>
+
+
+<col type="static" x="%3" y="180" w="180" h="40" s="11:12:31" bcol="10" gap="%2">
+<s id="3">6</s>
+<s id="4"></s>
+<s id="5">25</s>
+</col>
+
+<col type="CtrlCombobox" x="%3+200" y="180" w="%20" h="40" s="11:12:13:14:21:22:23" gap="%2">
+<cb id="23" ad="80"></cb>
+<cb id="24" ad="80">
+<selcn>17</selcn>
+</cb>
+<cb id="25" ad="120">
+<selcn>26</selcn>
+</cb>
+</col>
+
+
+<col type="static" x="%40" y="180" w="180" h="40" s="11:12:31" bcol="10" gap="%2">
+<s id="6">23</s>
+<s id="7">29</s>
+<s id="8">21</s>
+</col>
+
+
+<col type="CtrlCombobox" x="%40+200" y="180" w="%20" h="40" s="11:12:13:14:21:22:23" gap="%2">
+<cb id="26" ad="120">
+<selcn>24</selcn>
+</cb>
+<cb id="29" ad="80">
+<selcn>30</selcn>
+</cb>
+<b type="ctrl_button" id="27" y="%4+260" w="40" s="11:12:44"></b>
+<e type="myedit" id="28" x="%40+240" y="%4+260" w="%20-40" s="11:12:13:56:57" ex="81:82:83:84:85"></e>
+</col>
+
+
+<row type="static" x="%3" y="365" w="%94-250" h="2" s="11:12:31" bcol="1" gap="10">
+<s id="16"></s>
+</row>
+
+
+<col type="static" x="%3" y="380" w="180" h="40" s="11:12:31" bcol="10" gap="%2">
+<s id="7"></s>
+<s id="8">8</s>
+<s id="9">9</s>
+<s id="10">2</s>
+<s id="11">22</s>
+<s id="12">13</s>
+<s id="13">11</s>
+<s id="14">10</s>
+
+</col>
+
+
+
+
+<col type="CtrlCombobox" x="%3+250" y="380" w="%20" h="40" s="11:12:13:14:21:22:23" gap="%2">
+<s type="static" id="30" s="11:12:33" bcol="10">7</s>
+<cb id="31" ad="360"></cb>
+<cb id="32" ad="80">
+<selcn>16</selcn>
+</cb>
+<cb id="33" ad="80">
+<selcn>19</selcn>
+</cb>
+<tb type="ctrl_trackbar" id="34" s="11:12:13:61:62:63"></tb>
+<cb id="35" ad="160">
+<selcn>15</selcn>
+</cb>	
+<tb type="ctrl_trackbar" id="36" s="11:12:13:61:62:63"></tb>
+<e type="myedit" id="37" s="11:12:13:54" ex="81:82:83" ad="12000"></e>
+
+</col>
+
+
+<col type="CtrlCombobox" x="%28+250" y="380" w="%20" h="40" s="11:12:13:14:21:22:23" gap="%2">
+<s type="static" id="40" s="11:12:33" bcol="10">12</s>
+<cb id="41" ad="80"></cb>
+<cb id="42" ad="80">
+<selcn>16</selcn>
+</cb>
+<cb id="43" ad="80">
+<selcn>19</selcn>
+</cb>
+<tb type="ctrl_trackbar" id="44" s="11:12:13:61:62:63"></tb>
+<cb id="45" ad="160">
+<selcn>15</selcn>
+</cb>
+<tb type="ctrl_trackbar" id="46" s="11:12:13:61:62:63"></tb>
+<e type="myedit" id="47" s="11:12:13:54" ex="81:82:83" ad="12000"></e>
+
+
+</col>
+
+
+<row type="ctrl_button" x="%78-440" y="%90-50" w="140" h="40" s="12:13:41" gap="5" ft="16">
+<b id="50">27</b>
+<b id="51">28</b>
+<b id="52">1</b>
+</row>
+
+
+</Enccfg>

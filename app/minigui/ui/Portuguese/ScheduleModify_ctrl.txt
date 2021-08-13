@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Calendário de Registros
+2=Semana Atual:
+3=Horário 1
+4=Horário 2
+5=Horário 3
+6=Horário 4
+7=Horário 5
+8=Horário 6
+9=Use para:
+10=Todos
+11=Dom.
+12=Seg.
+13=Ter.
+14=Qua.
+15=Qui.
+16=Sex.
+17=Sabado
+18=Salve
+19=cancelar
+20=Agenda 7
+21=Agenda 8
+22=Dom.: Seg.: Ter.: Qua.: Qui: Sex.: Sáb.
+23=Aplique

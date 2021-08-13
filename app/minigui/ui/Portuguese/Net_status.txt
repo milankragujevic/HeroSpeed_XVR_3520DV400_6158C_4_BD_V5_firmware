@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Endereço IP
+2=Máscara de rede
+3=Gateway
+4=DNS primário
+5=DNS secundário
+6=Dispositivo MAC
+7=Habilitar DHCP
+8=Endereço de PPPoE
+9=Máscara de Sub-rede PPPoE
+10=Ponte de Ligação de PPPoE
+11=\
+12=\
+13=Habilitar
+14=Desabilitar

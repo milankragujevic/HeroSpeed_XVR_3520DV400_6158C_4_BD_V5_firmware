@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Obținerea informațiilor ...
+2=Legatura a reusit!
+3=Legarea eșecului!
+4=Aşteptare...
+5=Utilizați browserul pentru a deschide următorul url, validare completă:

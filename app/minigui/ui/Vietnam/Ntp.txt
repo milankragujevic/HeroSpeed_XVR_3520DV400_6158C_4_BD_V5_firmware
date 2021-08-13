@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Tùy chỉnh
+2=Khôi phục các tham số mặc định?
+3=Tùy chỉnh không thể để trống.

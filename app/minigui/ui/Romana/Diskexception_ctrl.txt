@@ -1,0 +1,24 @@
+[Ctrltxt]
+num=22
+1=System Setup
+2=General
+3=Retea
+4=Ecran
+5=Exception
+6=Utilizator
+7=Excepție de disc
+8=Excepție de rețea
+9=Tip de eveniment
+10=Activat
+11=Trimite email-ul
+12=Alarmă buzzer
+13=Nici un disc: Eroare de disc
+14=Initial
+15=Salvare
+16=Anulare
+17=previzualizare
+18=Configurarea canalului
+19=Afișajul ecranului
+20=Alarma locală
+21=Wifi
+22=Filtru IP

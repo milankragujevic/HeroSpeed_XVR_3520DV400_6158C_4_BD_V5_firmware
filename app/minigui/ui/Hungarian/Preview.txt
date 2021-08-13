@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Hasonlóság
+2=Kor
+3=Nem
+4=Szemüveg
+5=Kalap
+6=IGEN
+7=NO
+8=Hosszú
+9=Rövidíteni
+10=Férfi
+11=Nő
+12=Név
+13=Mód: Feketelista
+14=Mód: Fehérlista
+15=Mód: Feketelista és Fehérlista
+16=Szakáll
+17=Csatorna

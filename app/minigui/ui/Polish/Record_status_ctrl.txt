@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=K.
+2=Status zapisu
+3=Typ strumienia
+4=Szybkość (Mb/s)
+5=Typ zapisu
+6=Dysk Nr.
+7=Zamknij

@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Initialisation en cours, veuillez patienter...
+2=Restaurer par défaut
+3=Les nouveaux paramètres seront activés après le redémarrage. Redémarrez maintenant?
+4=Restaurer les paramètres par défaut?

@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Hareket Sezme
+2=Video temperleme
+3=Video kaybı
+4=Alarm girişi
+5=Alarm çıkışı
+6=İstisna
+7=Olay türü
+8=Etkinleştir
+9=Disk yok: disk hatası: bozuk bağlantı: IP anlaşmazlığı
+10=Normal link
+11=Varsayılan
+12=Uygula
+13=Alarm çıkışı
+14=zil

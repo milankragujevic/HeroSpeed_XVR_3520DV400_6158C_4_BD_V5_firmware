@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Danh mục
+2=Xem
+3=Kênh1
+4=Kênh2
+5=Kênh3
+6=Kênh4
+7=Xem 4
+8=Tuần tra
+9=Thiết lập ghi hinh
+10=Thêm Camera
+11=Phát lại
+12=PTZ
+13=Hình ảnh DVR
+14=Chọn chế độ
+15=Ảnh chụp màn hình thủ công
+16=so sánh khuôn mặt

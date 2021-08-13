@@ -1,0 +1,4 @@
+[Ctrltxt]
+num=2
+1=Megszünteti
+2=Vissza

@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Ütemezés
+2=Rögzítés
+3=Elfog
+4=Tárolóeszköz
+5=Tárolási mód
+6=Automatikus mentés
+7=Haladó

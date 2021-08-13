@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Yüz listesine ekleme yap
+2=Yerel Video Kurulumu
+3=Fotoğraf çekimi
+4=Resimleri içe aktar
+5=Ad
+6=Tamam
+7=iptal
+8=Kanal
+9=Yüz şablonu
+10=Çek
+11=Yüz şablonunu çıkart
+12=Yüz Seç
+13=yenisini kur
+14=Yeniden çek

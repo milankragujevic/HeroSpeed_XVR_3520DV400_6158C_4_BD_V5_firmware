@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Please select upgrade channel no.!
+2=Yükseltme başarısız!
+3=Yükseltme başarılı!
+4=Lütfen yükseltme dosyasını seçin!
+5=Yükselt?
+6=Dosya mevcut değil!
+7=Kanal
+8=güncelleme başarılı!
+9=Güncelleme başarısız oldu!
+10=Yükseltme, kapatmayın!

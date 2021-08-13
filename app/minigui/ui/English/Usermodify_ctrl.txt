@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Modify User
+2=User Name
+3=Modify Password
+4=Old Password
+5=New Password
+6=Confirm
+7=Level
+8=Administrator:Operator:General
+9=Save
+10=Cancel
+11=Reset security issues
+12=Security issue1
+13=Answer1
+14=Security issue2
+15=Answer2
+16=Security issue3
+17=Answer3
+18=Please select issue:What is your job number?:Which day is your father's birthday?:What is your favorite English song?:Which day is your mother's birthday?
+19=Please select issue:What is your school number?:What is your lucky numbers?:The name of your favorite star is?(English):The day of your wedding anniversary is?
+20=Please select issue:What is your most popular mailbox?:What is the postal code for your area?:What is your pet's name?:What is your phone numbers?
+21=Export key
+22=Unlock Pattern
+23=Enable Unlock Pattern
+24=Modify Unlock Pattern

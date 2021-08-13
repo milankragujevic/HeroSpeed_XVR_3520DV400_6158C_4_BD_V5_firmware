@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=CH
+2=Kanalbezeichnung
+3=Status
+4=Bewegungsmelder
+5=Videoverlust

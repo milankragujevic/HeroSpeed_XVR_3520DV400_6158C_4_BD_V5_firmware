@@ -1,0 +1,3 @@
+[wintip]
+num=1
+1=Nincs elég teljesítmény a dekódoláshoz

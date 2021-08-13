@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=権限が必要です!
+2=再生
+3=録画ファイルバックアップ
+4=ディスク管理
+5=録画スケジュール及びカメラエンコーディング設定
+6=Camera add,camera osd,image,motion detection,videoloss,ptz,privacy mask setup,channelname.
+7=System date/time,network,display,exception,user setup,channel config.
+8=ストリーム,ログ,バージョン情報とアップデート,初期化
+9=システムログアウト及び再起動.
+10=System date/time,network,display,exception,user setup,channel config,local alarm.

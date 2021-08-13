@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Informații port
+2=Numele serverului
+3=Tip vanzare
+4=Port intern
+5=Portul extern
+6=TCP, UDP
+7=Salvare
+8=Anulare

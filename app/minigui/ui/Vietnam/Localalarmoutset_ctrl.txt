@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Chỉnh sửa
+2=Đầu ra báo động
+3=Tên báo động
+4=Trì hoãn
+5=Trạng thái báo động
+6=5 giây:10 giây:30 giây:1 phút:2phút:5phút:10phút:xóa bằng tay
+7=Thời gian  vũ trang
+8=Khởi động
+9=Xóa
+10=\
+11=\
+12=Sao chép
+13=Ứng dụng
+14=Tất cả
+15=CN.
+16=Hai.
+17=Ba.
+18=Tư.
+19=Năm.
+20=Sáu.
+21=Bảy.
+22=Bình thường
+23=Chỉnh sửa

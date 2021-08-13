@@ -1,0 +1,24 @@
+[Ctrltxt]
+num=22
+1=Nastavení
+2=Obecné
+3=Síť
+4=Zobrazení
+5=Vyjímky
+6=Uživatel
+7=Chyba disku
+8=Chyba sítě
+9=Typ události
+10=Povolit
+11=Odeslat e-mail
+12=Zvuková výstraha
+13=Žádný disk:Chyba disku
+14=Výchozí
+15=Použít
+16=Zrušit
+17=Náhled
+18=Nastavení kanálu
+19=Zobrazení
+20=Místní alarm
+21=Wifi
+22=Filtr IP

@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Proszę narysuj wzrór odblokowania
+2=Zwolnij przycisk myszy po ukończeniu
+3=Połącz minimum 4 punkty, spróbuj ponownie
+4=Proszę narysuj ponownie wzór aby potwierdzić
+5=Narysowane wzory są różne, proszę potwierdź ponownie
+6=Proszę zapamiętaj swój wzór
+7=Wzór odblokowujący jest nieprawidłowy, są
+8=Logowanie
+9=szans.
+10=Hasło lub wzór odblokowujący został wprowadzony niepoprawnie 5 razy. Proszę spróbuj ponownie po 30 minutach.

@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Soare.
+2=Mon.
+3=Tue.
+4=Miercuri
+5=Thu.
+6=Vineri
+7=Sat.
+8=Revenire la parametrii initiali?
+9=ora
+10=min

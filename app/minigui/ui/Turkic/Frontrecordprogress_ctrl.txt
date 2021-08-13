@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Sistem Günlüğü Yedekleme
+2=kimlik
+3=Sistem Günlüğü
+4=iptal
+5=Tamam
+6=Tür
+7=yedekleme ilerleme durumu

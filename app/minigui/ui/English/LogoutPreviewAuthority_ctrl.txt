@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=3
+1=Channel
+2=Preview
+3=Apply
+

@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Rileva Dispositivo
+2=IP
+3=Porta
+4=Protocollo
+5=Versione FW
+6=Filtra
+7=Onvif:Rete multisegmento:Privato:Onvif e Privato
+8=Ricerca
+9=Aggiungi
+10=Manual Add
+11=Cancella
+12=Aggiungi / Elimina

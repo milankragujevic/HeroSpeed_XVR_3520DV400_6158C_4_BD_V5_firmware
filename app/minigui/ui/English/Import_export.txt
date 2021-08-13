@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=New settings will be activated after rebooting.Reboot now?
+2=Exporting,please wait...
+3=Success!
+4=Please insert the usb disk!
+5=Failed to open the database.
+6=Database is damaged.
+7=Unknown error.
+8=No imported files!
+9=Importing,after success will reboot

@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Neue Einstellungen werden nach dem Neustart aktiviert. Jetzt neu starten?
+2=Kanal
+3=Auf Werkseinstellungen zurücksetzen?
+4=1 Bildschirm
+5=4 Bilder
+6=8 Bilder
+7=9 Bilder
+8=16 Bilder
+9=25 Bilder
+10=36 Bilder
+11=64 Bilder
+12=32 Bildschirme
+13=Das Gerät unterstützt diese Auflösung nicht!

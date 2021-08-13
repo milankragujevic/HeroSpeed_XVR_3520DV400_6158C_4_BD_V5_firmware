@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Frissítés feltöltése alatt ne kapcsolja ki az eszközt!
+2=Sikertelen feltöltés!
+3=Sikeres feltöltés!
+4=Válasszon frissítő fájlt!
+5=Frissíti?
+6=Nincs újabb FW
+7=Új verzió elérhető, letölti?
+8=A hálózati kapcsolat nem stabil, letöltés sikertelen…
+9=Letöltés…
+10=Rendszerhiba Hiba
+11=Letöltés sikeres, Frissíti?
+12=Fájl nem található!

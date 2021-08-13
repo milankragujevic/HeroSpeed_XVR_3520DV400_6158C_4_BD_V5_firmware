@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addip x="120" y="80" w="650" h="490" title="addip">
+<row type="static">
+<s id="80" x="0" y="4" w="2" h="482" s="11:12:31" bcol="3"></s>
+<s id="81" x="4" y="0" w="642" h="2" s="11:12:31" bcol="3"></s>
+<s id="82" x="648" y="4" w="2" h="482" s="11:12:31" bcol="3"></s>
+<s id="83" x="4" y="488" w="642" h="2" s="11:12:31" bcol="3"></s>
+<s id="84" x="30" y="0" w="200" h="70" s="11:12:31" ft="18" bcol="10">1</s>
+<s id="85" x="2" y="70" w="646" h="2" s="11:12:31" bcol="2"></s>
+</row>
+<row x="600" y="15" w="34" h="34" s="12:13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="16" bg="./image/menu/close.png" bgw=""></b>
+</row>
+<col type="static" x="30" y="90" w="185" h="40" s="11:31" gap="10" bcol="10" ft="18">
+<s id="6" type="ctrl_button" s="12:13:44"  w="150"  ft="16">2</s>
+<s id="7" type="ctrl_button" s="12:13:44"  x="215" y="90" w="150"  ft="16"  >3</s>
+<s id="1">2</s>
+<s id="2" y="140">3</s>
+</col>	
+
+<col x="260" y="140" w="360" h="40" gap="10">
+
+<ip type="CtrlIpAddress" id="4" s="13:71:72:73" ex="83" ad="0"></ip>
+<e type="CtrlIpAddress" id="5" y="140" s="13:70:71:72:73" ex="85" ad="0"></e>
+</col>
+
+<row type="ctrl_button" x="180" y="420" w="140" h="40" s="12:13:41" gap="10" ft="16">
+<b id="20">4</b>
+<b id="21">5</b>
+</row>
+
+</addip>

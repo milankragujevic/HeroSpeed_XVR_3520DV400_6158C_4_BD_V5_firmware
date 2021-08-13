@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Probíhá aktualizace, nevypínejte zařízení !
+2=Akutalizace selhala !
+3=Aktualizace dokončena !
+4=Vyberte soubor pro aktualizaci !
+5=Aktualizovat ?
+6=Aktualizace není k dispozici
+7=Najít novou verzi, Stáhnout soubor online?
+8=Stažení selhalo, zkuste to znova.
+9=Stahuji …
+10=Chyba
+11=Stáhnout úspěšné, inovovat online?
+12=Soubor neexistuje!

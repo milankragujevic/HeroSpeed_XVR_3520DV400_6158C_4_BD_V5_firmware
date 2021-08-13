@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Filtro de búsqueda por evento
+2=Filtro de búsqueda por imagen
+3=Subir desde equipo local
+4=Subir Base de Datos
+5=Canal
+6=Hora
+7=Similitud (0-100)
+8=Hoy: Ayer: Los Pasados 2 Días: Los Pasados 3 Días: Los Pasados 7 Días: Los Pasados 14 Días: Personalizar
+9=Buscar

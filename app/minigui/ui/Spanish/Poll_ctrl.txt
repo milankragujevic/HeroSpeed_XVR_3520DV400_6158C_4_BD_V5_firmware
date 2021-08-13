@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Monitoreo
+2=Habilitado
+3=Tiempo
+4=Modo
+5=Defecto
+6=Aplicar
+7=Cancelar

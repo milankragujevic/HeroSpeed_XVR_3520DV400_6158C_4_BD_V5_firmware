@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=The server name cannot be empty.
+2=The internal port and external port cannot be zero.
+3=Internal port or external port are not the same.

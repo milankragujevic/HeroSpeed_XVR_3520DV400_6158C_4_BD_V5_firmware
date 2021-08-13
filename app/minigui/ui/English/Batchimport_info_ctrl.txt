@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Batch Import
+2=Name
+3=Status
+4=Confirm

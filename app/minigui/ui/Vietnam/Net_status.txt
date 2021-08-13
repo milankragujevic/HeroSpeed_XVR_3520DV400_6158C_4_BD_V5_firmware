@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Địa chỉ IP
+2=Mặt nạ mạng
+3=Cổng vào
+4=DNS chính
+5=DNS phụ
+6=địa chỉ MAC
+7=Bật DHCP
+8=Địa chỉ PPPoE
+9=Yểm mã mạng con PPPoE
+10=Mạng quan PPPoE
+11=\
+12=\
+13=Bật
+14=Vô hiệu hóa

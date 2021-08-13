@@ -1,0 +1,23 @@
+[wintip]
+num=21
+1=Modifiez l'utilisateur avec succès!
+2=Les privilèges administrateur ne sont pas modifiables!
+3=Cet utilisateur existe déjà!
+4=Veuillez saisir un nom d'utilisateur!
+5=Veuillez saisir un mot de passe!
+6=Veuillez saisir un nouveau mot de passe!
+7=Mot de passe incorrect!
+8=Les mots de passe ne correspondent pas!
+9=Il n'est pas possible de changer ses propres permissions !
+10=Erreur inconnue!
+11=Le nom d'utilisateur ne peut pas être appelé root ou admin!
+12=Le nom d'utilisateur ne peut pas inclure la clé d'espace vide
+13=Vous n'êtes pas membre du groupe, vous n'avez pas la permission d'effectuer cette opération.
+14=Erreur au niveau de l'utilisateur!
+15=Attention:Le mot de passe doit être au moins cinq chracters de long, et il devrait être composé d'au moins une lettre et un chiffre.
+16=Si la longueur du nom d'utilisateur ou du mot de passe est supérieure à 10, il ne peut pas y avoir que des chiffres
+17=Veuillez remplir !
+18=Exportation réussie
+19=Veuillez insérer un disque USB.
+20=Exportation échouée
+21=Êtes-vous sûr de quitter l'assistant de configuration?

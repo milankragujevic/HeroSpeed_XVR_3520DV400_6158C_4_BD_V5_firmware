@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Geen toestemming!
+2=Terugspelen.
+3=Backup opname bestand.
+4=HDD Beheer.
+5=Opnameschema en camera coderingsset.
+6=Camera-add, camera-osd, afbeelding, bewegingsdetectie, videoloss, ptz, instelling privacymasker, kanaalnaam.
+7=Systeemdatum / -tijd, netwerk, weergave, uitzondering, gebruikersinstellingen, kanaalconfiguratie.
+8=Streamen, loggen, versie-info en systeemupdate, standaard herstellen.
+9=Systeem uitloggen en herstarten.
+10=Systeemdatum / -tijd, netwerk, weergave, uitzondering, gebruikersinstellingen, kanaalconfiguratie, lokaal alarm.

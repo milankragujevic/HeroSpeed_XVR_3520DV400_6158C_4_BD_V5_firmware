@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Ril. Movimento
+2=Sintonizzazione video
+3=Perdita di video
+4=Ingresso allarme
+5=Uscita allarme
+6=Eccezione
+7=Canale
+8=Abilita
+9=Programma di inserimento
+10=Azione di collegamento
+11=Collegamento normale
+12=Predefinito
+13=Copia
+14=Applica
+15=Uscita allarme
+16=Cicalino

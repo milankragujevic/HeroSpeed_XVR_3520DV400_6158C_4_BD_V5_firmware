@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<more x="460" y="260" w="526" h="420" title="Show more">
+
+
+<col type="static" x="120" y="50" w="150" h="28" s="11:12:31" gap="20">
+<s id="1">CH</s>
+<s id="2">IP</s>
+<s id="3">Port</s>
+<s id="4">Protocol</s>
+<s id="5">Device Name</s>
+<s id="6">Device Type</s>
+</col>
+
+<col type="static" x="280" y="50" w="250" h="28" s="11:12:31" gap="20">
+<s id="7"></s>
+<s id="8"></s>
+<s id="9"></s>
+<s id="10"></s>
+<s id="11"></s>
+<s id="12"></s>
+</col>
+
+
+
+<row x="200" y="380" w="140" h="28" s="12:13:41">
+<b type="ctrl_button" id="13" ft="20">Cancel</b>
+</row>
+
+
+
+</more>

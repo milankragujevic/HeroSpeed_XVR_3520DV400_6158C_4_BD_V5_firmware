@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=durum
+2=Otomatik güncelleme
+3=Güncelleme tarihi
+4=Kontrol
+5=Yükseltme
+6=Uygula

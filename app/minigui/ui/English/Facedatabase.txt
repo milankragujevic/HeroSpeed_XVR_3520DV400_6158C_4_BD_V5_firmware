@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Please select face database
+2=Success:
+3=Failed:
+4=Batch added successfully!
+5=Batch added failed!
+6=USB disk path does not exist
+7=USB disk directory without face map
+8=Adding max 5000 face picture!
+9=Adding face picture
+10=The face database does not exist
+11=Adding max 16 face database!
+12=Residual Capacity
+13=Total Capacity

@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Jméno zařízení
+2=Model
+3=Verze zařízení
+4=Verze systému
+5=datum
+6=Celkový počet kanálů
+7=Celkový počet kanálů POE
+8=Zavřít
+9=P2P
+10=Číslo verze GUI
+11=Číslo verze WEB

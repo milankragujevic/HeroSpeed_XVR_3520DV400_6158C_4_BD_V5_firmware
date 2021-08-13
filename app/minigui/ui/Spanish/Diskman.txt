@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=En uso
+2=Número de disco
+3=Normal
+4=No conectar el disco!
+5=En proceso de formateo, por favor espere ...
+6=El dispositivo está en uso.
+7=Error desconocido
+8=El formato tuvo éxito
+9=El formato falló.
+10=Seleccione un disco
+11=El formateo causará la pérdida de todos los datos en el disco. ¿Continuar?
+12=Sin permiso!
+13=No se pudo formatear el disco USB.
+14=esta seguro que quiere salir del asistente de buteo

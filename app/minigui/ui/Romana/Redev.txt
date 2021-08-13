@@ -1,0 +1,21 @@
+[wintip]
+num=19
+1=Cautare dispozitiv, asteptati!
+2=Ești sigur că ieși din expertul de pornire?
+3=Operația va schimba adresa IP a dispozitivului la distanță, va confirma modificările?
+4=is the fisheye equipment that require added separately.
+5=Dispozitivul este conectat de prea multe ori, nu puteți adăuga.
+6=Fara permisiune!
+7=Ștergerea camerei, vă rugăm să așteptați ...
+8=Selectați canalul!
+9=Canalul Plug and Play nu poate fi șters.
+10=Normal
+11=Eroare Necunoscuta
+12=Eroare de conectare netă
+13=Eroare port sau server
+14=Passord error
+15=Accesul la stream a esuat
+16=CH
+17=Lățime de bandă inactiv:
+18=Numai o singură carte poate adăuga automat!
+19=Doriți să deschideți toate canalele H264+ sau H265+?

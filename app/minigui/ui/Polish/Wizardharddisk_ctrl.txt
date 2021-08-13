@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Data i Czas;1
+2=Sieć;2
+3=Dysk Twardy;3
+4=Kamera;4
+5=Platforma;5
+6=Zmień Hasło;5
+7=Dysk twardy
+8=Nr.
+9=Stan
+10=Łączne miejsce
+11=Pozostałe miejsce
+12=Typ urządzenia
+13=Formatowanie
+14=Poprzedni
+15=Następny
+16=Wyjdź

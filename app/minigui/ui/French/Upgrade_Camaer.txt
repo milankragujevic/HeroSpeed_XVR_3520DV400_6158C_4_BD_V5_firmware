@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Veuillez sélectionner le numéro de canal de mise à niveau!
+2=Echec de mise à jour!
+3=Mise à jour réussie!
+4=Sélectionnez un fichier de mise à jour!
+5=Mettre à jour?
+6=Le fichier n'existe pas!
+7=Caméra
+8=Mise à jour réussie !
+9=Mise à jour échouée
+10=Mise à jour en cours, ne pas éteindre l'appareil evoya!

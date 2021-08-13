@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=2
+1=importazione della configurazione
+2=esportazione della configurazione
+
+

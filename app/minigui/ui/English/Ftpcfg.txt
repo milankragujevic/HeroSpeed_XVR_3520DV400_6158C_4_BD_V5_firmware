@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Restore the default parameters?
+2=The port number setting interval is 1-65535
+3=Testing FTP, Please wait...
+4=FTP can't be delivered!
+5=FTP test success.
+6=Time format error!
+7=File name cannot contain following symbols:                \ / : * ? " < > |
+8=User name or Password cannot contain the following symbols:    ! % & #
+9=FTP server format error!

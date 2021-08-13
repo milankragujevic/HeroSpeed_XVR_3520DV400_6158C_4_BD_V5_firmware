@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authority x="120" y="80" w="800" h="720" title="authority">
+<row type="static">
+<s id="180" x="0" y="4" w="2" h="712" s="11:12:31" bcol="3"></s>
+<s id="181" x="4" y="0" w="792" h="2" s="11:12:31" bcol="3"></s>
+<s id="182" x="798" y="4" w="2" h="712" s="11:12:31" bcol="3"></s>
+<s id="183" x="4" y="718" w="792" h="2" s="11:12:31" bcol="3"></s>
+<s type="static" id="184" x="30" y="0" w="200" h="70" s="11:12:31" ft="18" bcol="10">1</s>
+<s id="185" x="0" y="70" w="800" h="2" s="11:12:31" bcol="2"></s>
+</row>
+<row x="750" y="15" w="34" h="34" s="12:13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="19" bg="./image/menu/close.png" bgc="./image/menu/close.png" bgw=""></b>
+</row>
+
+<row type="ctrl_button" x="30" y="75" w="140" h="30" s="12:13:16:48" gap="20">
+<b id="22" s="12:13:16:48:49">2</b>
+<b id="23">3</b>
+<b id="24" w="200">4</b>
+</row>
+<row type="ctrl_button" x="30" y="120" w="400" h="30" s="12:13:44" gap="0">
+<b id="25">5</b>
+</row>
+<col type="ctrl_button" x="30" y="155" w="400" h="30" s="12:13:44" gap="0">
+<cb id="26">6</cb>
+<cb id="27">7</cb>
+<cb id="28">8</cb>
+<cb id="29">9</cb>
+<cb id="30">10</cb>
+<cb id="31">11</cb>
+<cb id="32">12</cb>
+<cb id="33">13</cb>
+</col>
+
+
+<row type="ctrl_button" x="30" y="120" w="400" h="30" s="13:44" gap="0">
+<b id="50">21</b>
+</row>
+<col type="ctrl_button" x="30" y="155" w="400" h="30" s="13:44" gap="0">
+<cb id="51">22</cb>
+<cb id="52">23</cb>
+<cb id="53">24</cb>
+<cb id="54">25</cb>
+<cb id="55">26</cb>
+<cb id="56">27</cb>
+<cb id="57">28</cb>
+<cb id="58">29</cb>
+</col>
+<row x="30" y="130" h="40" gap="20">
+<s id="70" type="static" w="230" s="11:12:31" bcol="10" ft="18">37</s>
+<cb id="71" type="CtrlCombobox" w="380" s="11:12:13:14:21:22:23" ad="256"></cb>
+<b id="72" type="ctrl_button" x="30" y="170" w="100" h="40" s="13:44">38</b>
+</row>
+<row type="ctrl_button" x="30" y="210" w="68" h="40" s="13:44" gap="0">
+<cb id="73">39</cb>
+<cb id="74">40</cb>
+<cb id="75">41</cb>
+<cb id="76">42</cb>
+<cb id="77">43</cb>
+<cb id="78">44</cb>
+<cb id="79">45</cb>
+<cb id="80">46</cb>
+<cb id="81">47</cb>
+<cb id="82">48</cb>
+<cb id="83">49</cb>
+</row>
+<row type="ctrl_button" x="30" y="250" w="68" h="40" s="13:44" gap="0">
+<cb id="84">50</cb>
+<cb id="85">51</cb>
+<cb id="86">52</cb>
+<cb id="87">53</cb>
+<cb id="88">54</cb>
+<cb id="89">55</cb>
+<cb id="90">56</cb>
+<cb id="91">57</cb>
+<cb id="92">58</cb>
+<cb id="93">59</cb>
+<cb id="94">60</cb>
+</row>
+<row type="ctrl_button" x="30" y="290" w="68" h="40" s="13:44" gap="0">
+<cb id="95">61</cb>
+<cb id="96">62</cb>
+<cb id="97">63</cb>
+<cb id="98">64</cb>
+<cb id="99">65</cb>
+<cb id="100">66</cb>
+<cb id="101">67</cb>
+<cb id="102">68</cb>
+<cb id="103">69</cb>
+<cb id="104">70</cb>
+<cb id="105">71</cb>
+</row>
+<row type="ctrl_button" x="30" y="330" w="68" h="40" s="13:44" gap="0">
+<cb id="106">72</cb>
+<cb id="107">73</cb>
+<cb id="108">74</cb>
+<cb id="109">75</cb>
+<cb id="110">76</cb>
+<cb id="111">77</cb>
+<cb id="112">78</cb>
+<cb id="113">79</cb>
+<cb id="114">80</cb>
+<cb id="115">81</cb>
+<cb id="116">82</cb>
+</row>
+<row type="ctrl_button" x="30" y="370" w="68" h="40" s="13:44" gap="0">
+<cb id="117">83</cb>
+<cb id="118">84</cb>
+<cb id="119">85</cb>
+<cb id="120">86</cb>
+<cb id="121">87</cb>
+<cb id="122">88</cb>
+<cb id="123">89</cb>
+<cb id="124">90</cb>
+<cb id="125">91</cb>
+<cb id="126">92</cb>
+<cb id="127">93</cb>
+</row>
+<row type="ctrl_button" x="30" y="410" w="68" h="40" s="13:44" gap="0">
+<cb id="128">94</cb>
+<cb id="129">95</cb>
+<cb id="130">96</cb>
+<cb id="131">97</cb>
+<cb id="132">98</cb>
+<cb id="133">99</cb>
+<cb id="134">100</cb>
+<cb id="135">101</cb>
+<cb id="136">102</cb>
+</row>
+<row type="ctrl_button" x="255" y="655" w="140" h="40" s="12:13:41" gap="10" ft="16">
+<b id="18">103</b>
+<b id="16">104</b>
+</row>
+</authority>

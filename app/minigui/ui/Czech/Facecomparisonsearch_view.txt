@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Vyberte soubor.
+2=Nedostatek místa na disku.
+3=Vyhledávání, čekejte ...
+4=Chyba zápisu na přenosný disk.
+5=Záloha dokončena
+6=Vložte USB disk!
+7=Příliš mnoho souborů zastavte vyhledávání!
+8=Video nebylo nalezeno.
+9=Vyberte typ zálohy!
+10=Podobnost
+11=Je zálohován. Zrušte zálohu nebo pokračujte po dokončení zálohy.
+12=Vršek
+13=Přidáno k frontě zálohování.
+14=Selhalo přidání k frontě zálohování.
+15=Nepodařilo se extrahovat rysy tváří.
+16=Soubor lidí
+17=Vyhledávání porovnání tváří

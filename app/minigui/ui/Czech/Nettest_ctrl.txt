@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Síťové zpoždění, Test ztráty paketů
+2=Výběr NIC
+3=Cílová adresa
+4=Test

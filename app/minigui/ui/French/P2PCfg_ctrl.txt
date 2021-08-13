@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=Email
+2=P2P
+3=Réseau
+4=Affichage
+5=Exceptions
+6=Utilisateur
+7=IP / Port
+8=DDNS
+9=Email
+10=P2P
+11=FTP
+12=UPnP
+13=Stockage Cloud
+14=Statut
+15=Activer P2P
+16=Nombre de canaux
+17=Actualiser
+18=Appliquer
+19=Annuler
+20=Aperçu
+21=Cryptage
+22=AUCUN: SSL
+23=Intervalle de poussée (min)
+24=Fermeture de poussée: 2: 5: 10
+25=Nombre d'utilisateur

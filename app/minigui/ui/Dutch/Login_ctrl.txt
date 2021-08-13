@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Gebruiker inloggen
+2=Administrator
+3=Log in
+4=Sluiten
+5=Wachtwoord vergeten
+6=Automatische login

@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=TCP/IP
+2=DDNS
+3=NTP
+4=FTP
+5=UPnP
+6=wifi
+7=PPPoE
+8=Bleek
+9=DDNS Activeren
+10=DDNS-type
+11=Ververstijd (sec)
+12=Gebruikersnaam
+13=Wachtwoord
+14=Domein
+15=Standaardinstellingen
+16=Toepassen

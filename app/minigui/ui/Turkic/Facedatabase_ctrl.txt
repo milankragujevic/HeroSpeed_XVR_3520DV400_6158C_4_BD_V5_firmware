@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Kütüphane adı
+2=Numara
+3=\
+4=Sil
+5=yenisini kur
+6=Yüz veritabanı ayrıntıları
+7=Ad
+8=Numara
+9=Sil
+10=Yüz şablonu
+11=Ekle
+12=toptan giriş
+13=Özellik Numarası

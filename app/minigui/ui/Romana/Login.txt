@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Numele de utilizator nu exista!
+2=Parolă este incorectă, există
+3=Initializare, Va rugam asteptati
+4=Ești sigur că ieși din expertul de pornire?
+5=șanse.
+6=Parola sau modelul de deblocare a fost introdus incorect de 5 ori. Vă rugăm să încercați din nou peste 30 de minute.
+7=Parola a fost introdusă incorect de 5 ori. Vă rugăm să încercați din nou peste 30 de minute.

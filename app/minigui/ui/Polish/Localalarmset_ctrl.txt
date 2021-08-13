@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Edytuj
+2=Wejście alarmowe
+3=Nazwa alarmu
+4=Włącz
+5=Typ
+6=N.O:N.C
+7=Czas alarmu
+8=Akcja połączona
+9=Normalne Połączenie
+10=Nagraj kanał
+11=Wyjście uruchomienia alarmu
+12=Kopiuj
+13=Zastosuj
+14=Wsz.
+15=Nie.
+16=Pon.
+17=Wto.
+18=Śro.
+19=Czw.
+20=Pią.
+21=Sob.
+22=Zwykły
+23=Edytuj
+24=Monitorowanie na pełnym ekranie

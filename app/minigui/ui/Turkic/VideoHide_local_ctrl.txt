@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Kanal
+2=Etkinleştir
+3=Temiz Alan 1
+4=Temiz Alan 2
+5=Temiz Alan 3
+6=Tümünü sil
+7=Uygula
+8=Kopyala

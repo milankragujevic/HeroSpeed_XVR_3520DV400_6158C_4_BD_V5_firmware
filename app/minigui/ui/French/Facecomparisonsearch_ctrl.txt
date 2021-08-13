@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Recherches par Événement
+2=Recherches par Image
+3=Caméra
+4=Heure
+5=Type
+6=Aujourd'hui: Hier: 2 derniers jours: 3 derniers jours: 7 derniers jours: 14 derniers jours: Personnaliser
+7=Liste Noire:Liste Blanche:Liste Noire Et Liste Blanche
+8=Recherche

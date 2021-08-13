@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Videohide x="0" y="0" w="%100" h="%100" title="Videohide">
+<row>
+<s type="static" id="40" x="0" y="0" w="%100" h="2" s="11:12:33" bcol="7"></s>
+<s type="static" id="41" x="0" y="%100-3" w="%100" h="2" s="11:12:33" bcol="7"></s>
+<s type="static" id="42" x="0" y="3" w="2" h="%100-6" s="11:12:33" bcol="7"></s>
+<s type="static" id="43" x="%100-3" y="3" w="2" h="%100-6" s="11:12:33" bcol="7"></s>
+<s type="static" id="45" x="3" y="%100-5" w="%100-6" h="2" s="11:12:33" bcol="5"></s>
+<s type="static" id="46" x="3" y="3" w="2" h="%100-8" s="11:12:33" bcol="5"></s>
+<s type="static" id="47" x="%100-5" y="3" w="2" h="%100-8" s="11:12:33" bcol="5"></s>
+<s type="static" id="52" x="249" y="58" w="2" h="%100-63" s="11:12:33" bcol="5"></s>
+<s type="static" id="53" x="251" y="58" w="2" h="%100-63" s="11:12:33" bcol="9"></s>
+<s type="static" id="31" x="6" y="5" w="%100-12" h="49" s="11:12:33" ft="16" bcol="20">10</s>
+</row>
+<row x="%100-37" y="19" w="20" h="20" s="12:13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="20" bg="./image/menu/close.png" bgc="./image/menu/close_hover.png" bgw="" ft="16"></b>
+</row>
+<col type="ctrl_button" x="5" y="58" w="244" h="54" s="12:13:41:42:48" gap="0">
+<b id="105" s="12:16:48:41:42" bg="./image/radiobutton_bg/addcamera.png">2</b>
+<b id="101" bg="./image/radiobutton_bg/OSDsetup.png">3</b>
+<b id="100" bg="./image/radiobutton_bg/image.png">4</b>
+<b id="125" bg="./image/radiobutton_bg/motiondetection.png">5</b>
+<b id="132" bg="./image/radiobutton_bg/videoloss.png">6</b>
+<b id="102" bg="./image/radiobutton_bg/ptz.png">7</b>
+<b id="103" bg="./image/radiobutton_bg/overlay.png">8</b>
+<b id="107" bg="./image/radiobutton_bg/chlname.png">22</b>
+<b id="148" bg="./image/radiobutton_bg/intelligent.png">9</b>
+<b id="149" s="12:16:48:41:42:49"bg="./image/radiobutton_bg/facecompare.png">25</b>
+<b id="137" bg="./image/radiobutton_bg/updatecamera.png">24</b>
+</col>
+<row type="ctrl_button" x="265" y="55" w="130" h="50" s="12:13:48:41" gap="20">
+<b id="150" s="12:16:48:41:49:40">10</b>
+<b id="151" s="12:16:48:41">11</b>
+</row>
+<col type="static" x="265" y="105" w="%30-24" h="40" s="11:12:31" bcol="114" gap="-1">
+<chl id="1" >1</chl>
+<s id="2" bcol="118">12</s>
+<s id="3" bcol="114">13</s>
+</col>
+<col x="%30+240" y="105" w="%70-256" h="40" s="12:13:41" gap="-1">
+<cb type="CtrlCombobox" id="11" s="11:12:13:14:21:22:23" ad="160" tcol="20">
+</cb>
+<b type="ctrl_button" id="12" s="12:13:44" tcol="115"></b>
+<b type="ctrl_button" id="13" s="12:13:42:44" bg="./image/radiobutton_bg/set.png"  bgc="./image/radiobutton_bg/set.png" tcol="125"></b>
+</col>
+<row>
+<aadv type="listview_ex" id="15" x="265" y="235" w="%100-280" h="425" s="11:12:13:14:15:203:204:205" itemcnt="5" itemh="40">
+<item w="%5" cbox="1" all="1" line="0" ></item>
+<item w="%30" align="l">16</item>
+<item w="%15" align="l">14</item>
+<item w="%15" align="l">18</item>
+<item w="%6">17</item>
+</aadv>
+</row>
+<row type="ctrl_button" x="265" y="673" w="135" h="44" s="12:13:41:42" bgw="0" tc="100" gap="10">
+<b id="17" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">19</b>
+<b id="18" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">20</b>
+</row>
+<row type="ctrl_button" x="5" y="%100-58" w="244" h="54" s="12:13:41:42" bgw="0" tc="2" ex="81">
+<b id="134" bg="./image/common/btnpre.png" bgc="./image/common/btnpre_hover.png" ft="16">21</b>
+</row>
+
+</Videohide>

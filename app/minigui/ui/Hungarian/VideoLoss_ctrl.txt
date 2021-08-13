@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Mozgásérzékelés
+2=Videó hamisítás
+3=Videojel vesztés
+4=Riasztási bemenet
+5=Riasztási kimenet
+6=Rendszerhiba
+7=Csatorna
+8=Engedélyez
+9=Élesítés ütemezése
+10=Összekapcsolási művelet
+11=Normál kapcsolat
+12=Alapértelmezett
+13=Másol
+14=Alkalmaz
+15=Riasztási kimenet
+16=Berregő

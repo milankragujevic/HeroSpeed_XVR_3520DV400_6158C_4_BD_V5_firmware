@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Sự kiện thiết bị
+2=Không có ổ cứng
+3=Lỗi ổ cứng
+4=Mạng bị hỏng
+5=Xung đột IP
+6=Báo động nội bộ
+7=Mất video
+8=Báo động thông minh

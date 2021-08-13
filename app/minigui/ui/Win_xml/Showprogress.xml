@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Showpgr x="250" y="137" w="400" h="120">
+<row>
+<s type="static" id="32" x="0" y="0" w="400" h="2" s="11:12:33" bcol="7"></s>
+<s type="static" id="33" x="0" y="118" w="400" h="2" s="11:12:33" bcol="7"></s>
+<s type="static" id="34" x="0" y="2" w="2" h="118" s="11:12:33" bcol="7"></s>
+<s type="static" id="35" x="398" y="2" w="2" h="118" s="11:12:33" bcol="7"></s>
+</row>
+<row>
+<prog type="progressbar" id="1" x="70" y="55" w="260" h="30" s="12:13:300"></prog>
+</row>
+</Showpgr>

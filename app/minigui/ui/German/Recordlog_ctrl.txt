@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Backup-Protokoll
+2=Identität
+3=Log
+4=Abbrechen
+5=OK

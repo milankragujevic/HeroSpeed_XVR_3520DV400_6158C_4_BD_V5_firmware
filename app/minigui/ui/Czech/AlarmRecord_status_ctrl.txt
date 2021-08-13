@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Číslo vstupního alarmu
+2=Název alarmu
+3=Typ alarmu
+4=Stav alarmu
+5=Spoušť kanálu nahrávání
+6=Zavřít

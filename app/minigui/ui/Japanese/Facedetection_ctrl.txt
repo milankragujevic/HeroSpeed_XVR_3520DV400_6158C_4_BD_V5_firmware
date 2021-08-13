@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=顔キャプチャー
+2=比較結果
+3=Mode:Blacklist
+4=Mode:Whitelist
+5=Mode: Black And White List

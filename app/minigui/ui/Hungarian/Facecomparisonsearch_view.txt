@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Kérem válasszon file-t.
+2=Nincs elég hely az eszközön.
+3=Keresés, várjon ...
+4=Nem lehet adatot írni a lemezre.
+5=Archiválás kész!
+6=Kérjük, helyezze be az usb lemezt!
+7=Túl sok fájl, állítsa le a keresést!
+8=A videó nem található
+9=Kérjük, válassza ki a biztonsági másolat fajtáját!
+10=Hasonlóság
+11=Biztonsági másolat folyamatban, kérjük szüntesse meg a biztonsági másolatot, vagy folytassa a biztonsági másolat befejeződésével.
+12=A felső
+13=felkerült a biztonsági mentési sorba.
+14=Nem sikerült hozzáadni a biztonsági mentési sorhoz.
+15=Az arcvonások kinyerése sikertelen.
+16=Emberi fájlok
+17=Arc összehasonlítás keresés

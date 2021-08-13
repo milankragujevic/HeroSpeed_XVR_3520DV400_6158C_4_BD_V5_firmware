@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Opname instelling
+2=Kanaal
+3=Alles
+4=Bedien
+5=Opnemen
+6=Beweging
+7=Alles
+8=Zon
+9=Maa
+10=Din
+11=Woe
+12=Don
+13=Vrij
+14=Zat
+15=Standaardinstellingen
+16=Kopieer
+17=Toepassen
+18=Annuleren
+19=More Settings
+20=Intelligent
+21=Alarm
+22=M | A
+23=M & A
+24=Geen

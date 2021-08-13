@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Erro no formato de hora!
+2=Habilitar
+3=Fechar
+4=Adicione um máximo de 6 agendas por dia!

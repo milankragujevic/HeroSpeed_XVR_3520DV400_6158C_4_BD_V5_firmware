@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Kiểm tra...
+2=Kiểm tra thành công.
+3=Kiểm tra lỗi.
+4=Thay đổi thư mục Tải lên cần phải hủy liên kết và sau đó phản hồi để có hiệu lực.
+5=Khôi phục các tham số mặc định?
+6=Liên kết
+7=Hủy liên kết

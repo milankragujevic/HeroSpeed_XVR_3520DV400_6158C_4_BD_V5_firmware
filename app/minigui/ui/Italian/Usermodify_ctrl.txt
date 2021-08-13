@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Modifica Utente
+2=Nome Utente
+3=Modifica password
+4=Vecchia Password
+5=Nuova password
+6=Conferma
+7=Livello
+8=Amministratore:Operatore:Generale
+9=Salva
+10=Cancella
+11=Resetta i problemi di sicurezza
+12=Domanda di sicurezza 1
+13=Risposta 1
+14=Domanda di sicurezza 2
+15=Risposta 2
+16=Domanda di sicurezza 3
+17=Risposta 3
+18=Seleziona un problema: Qual è il tuo numero di lavoro?: Quale giorno è il compleanno di tuo padre?: Qual è la tua canzone inglese preferita?: Quale giorno è il compleanno di tua madre?
+19=Seleziona il problema: Qual è il tuo numero di scuola?: Qual è il tuo numero fortunato?: Il nome della tua stella preferita è? (Inglese): Il giorno del tuo anniversario di matrimonio è?
+20=Seleziona il problema: Qual è la tua casella di posta più popolare?: Qual è il codice postale della tua zona?: Qual è il nome del tuo animale domestico?: Quali sono i tuoi numeri di telefono?
+21=Chiave di esportazione
+22=Sblocchi il disegno
+23=Abilita il modello di sblocco
+24=Modifica il modello di sblocco

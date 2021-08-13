@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Neuer Ordner
+2=Dateiname
+3=OK
+4=Abbrechen

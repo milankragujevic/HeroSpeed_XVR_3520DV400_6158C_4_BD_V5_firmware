@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Sem permissão!
+2=Falha na configuração
+3=Conflito de IP
+4=Endereço IP inválido!
+5=Máscara de sub-rede inválida!
+6=Gateway inválido!
+7=Wszystkie: Nagrywanie: Ruch: Inteligentny: Alarm: Ruch i alarm

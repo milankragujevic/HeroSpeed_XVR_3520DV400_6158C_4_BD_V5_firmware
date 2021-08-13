@@ -1,0 +1,4 @@
+[Ctrltxt]
+num=2
+1=Hủy
+2=Quay lại

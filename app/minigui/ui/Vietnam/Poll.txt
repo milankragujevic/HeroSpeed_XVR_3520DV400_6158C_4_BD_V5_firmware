@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Khôi phục các tham số mặc định?
+2=Thời gian tuần tra từ 5 đến 255.

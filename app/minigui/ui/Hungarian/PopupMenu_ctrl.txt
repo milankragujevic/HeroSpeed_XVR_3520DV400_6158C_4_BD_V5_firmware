@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Visszajátszás
+2=Dokumentum kezelés
+3=Rendszer beállítás
+4=Belépés
+5=Leállítás
+6=Kijelentkezés

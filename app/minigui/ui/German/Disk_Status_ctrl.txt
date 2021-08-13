@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Nr.
+2=Status
+3=Gesamt
+4=Restkapazität
+5=Gerätetyp
+6=Gesamtkapazität:
+7=Restkapazität:
+8=Schließen

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Felhasználó belépés
+2=admin
+3=Belépés
+4=Bezárás
+5=Elfelejtett jelszo
+6=Automatikus bejelentkezés

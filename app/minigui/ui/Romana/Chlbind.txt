@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=When you select 4 HD channel,you just be able to select 0 IP channel?
+2=Configul canalului sa schimbat, vă rugăm să reporniți!
+3=When you select 8 HD channel,you just be able to select 1 IP channel?
+4=Setările noi vor fi activate după repornire.Reportați acum?

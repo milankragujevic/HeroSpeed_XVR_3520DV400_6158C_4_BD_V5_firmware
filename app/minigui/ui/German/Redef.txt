@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Wiederherstellung der Standardparameter, bitte warten …
+2=Werkseinstellungen
+3=Neue Einstellungen werden nach dem Neustart aktiviert. Jetzt neu starten?
+4=Auf Werkseinstellungen zurücksetzen?

@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Nom de Base de Données
+2=Nombre
+3=\
+4=Supprimer
+5=Nouveau
+6=Détails de la Base de Données de Visages
+7=Nom
+8=Nombre
+9=Supprimer
+10=Modèle de visages
+11=Ajouter
+12=Importation par lots
+13=Numéro de fonction

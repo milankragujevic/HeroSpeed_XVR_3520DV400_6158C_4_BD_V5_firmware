@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Thêm dữ liệu khuôn mặt
+2=Tên
+3=loại hình danh bạ
+4=Danh sách đen, danh  sách trắng
+5=Tương tự
+6=Lưu
+7=Hủy

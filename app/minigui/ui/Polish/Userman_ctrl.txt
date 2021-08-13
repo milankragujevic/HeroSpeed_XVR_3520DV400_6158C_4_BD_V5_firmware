@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Dodaj
+2=Modyfikować
+3=Usuń
+4=Pozwolenie Podglądu na Zablokowanym Ekranie
+5=Nr.
+6=Użytkownik
+7=Bezpieczeństwo
+8=Poziom
+9=Uprawnienia

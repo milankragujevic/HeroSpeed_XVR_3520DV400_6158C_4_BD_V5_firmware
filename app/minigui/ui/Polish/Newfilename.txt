@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Nazwa ścieżki nie może zawierać tych znaków  Spacja\/:*?"|'%.
+2=Nazwa ścieżki nie może być pusta

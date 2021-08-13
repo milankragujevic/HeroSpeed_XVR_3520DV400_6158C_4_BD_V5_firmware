@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Problém se obrazovým souborem anebo nepodporovaný formát  (podporuje pouze formát jpg)
+2=Vybraný soubor nesmí být větší než 1M
+3=Selhalo extrahování šablony tváře
+4=Selhání spuštění
+5=Vlastní hodnoty nebo počet ploch přesahuje horní limit
+6=Zadejte název

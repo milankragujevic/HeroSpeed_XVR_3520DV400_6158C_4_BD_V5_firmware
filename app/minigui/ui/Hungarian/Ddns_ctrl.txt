@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=TCP/IP
+2=DDNS
+3=NTP
+4=FTP
+5=UPnP
+6=Wifi
+7=PPPOE
+8=WAN
+9=DNS engedélyezve
+10=DDNS típus
+11=Frissítési idő(mp)
+12=Felhasználó név
+13=Jelszó
+14=Domain
+15=Alapértelmezett
+16=Alkalmaz

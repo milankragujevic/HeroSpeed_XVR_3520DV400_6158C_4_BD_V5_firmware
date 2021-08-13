@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Name:
+2=Size:
+3=Len:
+4=Time:
+5=Xuất thành công
+6=Xuất không thành công
+7=Đã gửi thành công e-mail
+8=Không thể gửi e-mail
+9=Đang xuất, vui lòng chờ ...
+10=Đang gửi email, vui lòng chờ ...
+11=Bạn có chắc chắn thoát?
+12=Xin vui lòng chèn usb.

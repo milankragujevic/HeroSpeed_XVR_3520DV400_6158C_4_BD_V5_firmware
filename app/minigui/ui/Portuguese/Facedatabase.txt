@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Por favor, selecione banco de dados de rosto
+2=Sucesso:
+3=Falhou:
+4=Lote adicionado com sucesso!
+5=Falha ao adicionar lote!
+6=Caminho de disco USB não existe
+7=Diretório de disco USB sem mapa de rosto
+8=Adicionando no máximo 5000 imagens de rosto!
+9=Adicionando imagem de rosto
+10=O banco de dados de rosto não existe
+11=Adicionando no máximo 16 banco de dados de rosto!
+12=Capacidade Restante
+13=Capacidade Total

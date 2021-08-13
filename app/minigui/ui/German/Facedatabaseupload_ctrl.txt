@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Von Gesichtsdatenbank hochladen
+2=Liste der Gesichtsbibliothek
+3=Name
+4=Zeit
+5=Gesichtsbild
+6=Benutzer
+7=Ansicht
+8=Rest- / Gesamtkapazität:
+9=OK
+10=Abbrechen
+11=1

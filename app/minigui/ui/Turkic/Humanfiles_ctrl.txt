@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=\
+2=\
+3=\
+4=zaman
+5=Kanal
+6=Dosya tipi
+7=Bugün: dün: son 2 gün: son 3 gün: son 7 gün: son 14 gün: alışkanlık
+8=Video ve resim
+9=Boş şartlar
+10=Arama
+11=Kaydet

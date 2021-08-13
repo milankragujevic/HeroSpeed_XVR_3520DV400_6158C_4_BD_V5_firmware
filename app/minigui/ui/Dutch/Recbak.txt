@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Geen mobiele harde schijf!
+2=Uninstall succes!
+3=Uninstall mislukt!
+4=opnamebestand
+5=Bezig met backup, even geduld aub…
+6=Backup succesvol!
+7=Backup mislukt!
+8=Geen schijf beschikbaar voor backup
+9=Montage mislukt!
+10=Onbekende fout!
+11=Geen toestemming!
+12=Kan geen data naar mobiele HDD schrijven!
+13=Lezen opgenomen data mislukt!
+14=Niet genoeg schijfruimte.

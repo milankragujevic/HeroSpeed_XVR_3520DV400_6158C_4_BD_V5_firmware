@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Csat
+2=Felvételi státusz
+3=Stream típus
+4=Bitráta (Mbps)
+5=Felvételi típus
+6=Lemez sorsz.
+7=Bezárás

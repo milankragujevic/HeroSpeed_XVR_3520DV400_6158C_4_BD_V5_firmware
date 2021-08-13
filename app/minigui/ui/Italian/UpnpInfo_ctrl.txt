@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Informazioni Porta
+2=Nome Server
+3=Protocollo
+4=Porta Interna
+5=Porta Externa
+6=TCP,UDP
+7=Salva
+8=Cancella

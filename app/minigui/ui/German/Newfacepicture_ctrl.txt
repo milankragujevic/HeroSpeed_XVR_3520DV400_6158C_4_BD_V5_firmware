@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Fügen Sie eine Gesichtsliste hinzu
+2=Lokale Video Setup
+3=Bilder aufnehmen
+4=Bilder einführen
+5=Name
+6=OK
+7=Abbrechen
+8=Kanal
+9=Gesichtsvorlage
+10=aufnehmen
+11=Gesichtsvorlage extrahieren
+12=Wählen Sie Gesicht
+13=Neu
+14=erneu aufnehmen

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=No mobile hard disk!
+2=Desinstalación exitosa!
+3=Desinstalación fallida!
+4=Archivo de grabación
+5=Respaldo en proceso, por favor espere …
+6=Respaldo realizado con éxito!
+7=Respaldo falló!
+8=No hay disco para hacer respaldo
+9=No idea what is this for?
+10=Error desconocido
+11=Sin permiso!
+12=No pueden grabarse los datos en el disco duro externo
+13=Lectura de datos fallida
+14=Not enough disk space.

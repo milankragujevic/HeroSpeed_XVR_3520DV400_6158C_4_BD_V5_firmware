@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Độ trễ trung bình:
+2=Cô
+3=Tỷ lệ mất gói:
+4=Địa chỉ đích không thể truy cập!
+5=Kiểm tra mạng, vui lòng đợi ...
+6=Bị bắt gói ...
+7=Mạng chụp gói sao lưu thành công!
+8=Xin vui lòng chèn usb.
+9=Địa chỉ IP bị sai!
+10=Vui lòng chèn cáp mạng.

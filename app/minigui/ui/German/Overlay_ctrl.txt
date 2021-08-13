@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Kanal
+2=Kanalbezeichnung
+3=Zeit
+4=Text
+5=Datumsformat
+6=OSD-Position
+7=Spiegeln
+8=Jahr Monat Tag:Monat Tag Jahr:Tag Monat Jahr
+9=Oben links:Unten links
+10=Aus:Horizontal:Vertikal:Beide
+11=Anwenden
+12=Kopieren

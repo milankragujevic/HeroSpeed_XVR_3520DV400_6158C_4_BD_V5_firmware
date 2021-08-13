@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Loại hình hạn chế
+2=Chế độ hạn chế
+3=Bật
+4=Danh sách đen: danh sách cho phép
+5=Địa chỉ IP: địa chỉ MAC
+6=Thêm
+7=Chỉnh sửa
+8=Xóa
+9=Ứng dụng
+10=danh sách hạn chế
+11=Địa chỉ IP
+12=địa chỉ MAC
+13=Xoá bỏ tất cả

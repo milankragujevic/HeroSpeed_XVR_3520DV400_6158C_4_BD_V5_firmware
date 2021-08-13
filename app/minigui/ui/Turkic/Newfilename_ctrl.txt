@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Yeni klasör
+2=Belge adı
+3=Tamam
+4=iptal

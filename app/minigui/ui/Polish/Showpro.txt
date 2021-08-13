@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Inicjowanie dysku, czekaj.
+2=nieudana

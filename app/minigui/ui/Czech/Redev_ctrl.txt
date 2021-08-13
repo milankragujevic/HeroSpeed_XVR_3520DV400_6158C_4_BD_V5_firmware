@@ -1,0 +1,19 @@
+[Ctrltxt]
+num=17
+1=Hledání
+2=Automatické přidání
+3=Ruční přidání
+4=Aktualizace
+5=Smazat
+6=Otevřete H264 + / H265 +
+7=Název zařízení
+8=Stav připojení
+9=CH
+10=Editace
+11=Smaž
+12=Nast.
+13=Odkaz
+14=IP adresa
+15=Přístav
+16=Protokol
+17=Verze firmware

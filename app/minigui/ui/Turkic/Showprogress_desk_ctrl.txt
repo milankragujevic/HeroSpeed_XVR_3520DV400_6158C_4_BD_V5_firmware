@@ -1,0 +1,4 @@
+[Ctrltxt]
+num=2
+1=iptal
+2=Geri Dön

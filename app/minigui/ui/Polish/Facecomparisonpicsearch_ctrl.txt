@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Szukaj po zdarzeniach
+2=Szukaj po zdjęciach
+3=Lokalne wgrywanie
+4=Wgranie bazy danych
+5=Kanał
+6=Czas
+7=Podobieństwo(0-100)
+8=Dzisiaj:Wczoraj:Ostatnie 2 Dni:Ostatnie 3 Dni:Ostatnie 7 Dni:Ostatnie 14 Dni:Niestandardowy
+9=Szukaj

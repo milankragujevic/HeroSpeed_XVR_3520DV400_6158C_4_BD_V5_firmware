@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=La nueva configuración se activará después de reiniciar. ¿Reiniciar ahora?
+2=Canal
+3=Restaurar os parâmetros padrão?
+4=1 janela
+5=4 janelas
+6=8 janelas
+7=9 janelas
+8=16 janelas
+9=25 janelas
+10=36 janelas
+11=64 janelas
+12=32 telas
+13=O dispositivo não se suporta esta resolução!

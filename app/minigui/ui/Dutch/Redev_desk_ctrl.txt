@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Datum en Tijd; 1
+2=Netwerk; 2
+3=Harde Schijf; 3
+4=Camera; 4
+5=Platform; 5
+6=Verander Wachtwoord; 5
+7=Camera toevoegen
+8=Channel
+9=Bewerk
+10=Verwijder
+11=Configureer
+12=Link
+13=IP
+14=Poort
+15=Protocol
+16=Firmware versie
+17=Verbindingsstatus
+18=Zoeken
+19=Automatisch toevoegen
+20=Handmatig toevoegen
+21=Vorige
+22=Volgende
+23=Uitgang
+24=Camera Naam

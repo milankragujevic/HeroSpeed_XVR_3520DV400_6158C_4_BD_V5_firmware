@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Selectați un fișier.
+2=Not enough disk space.
+3=Căutând, așteptați ...
+4=Nu pot fi transmise date pe hard disk mobil.
+5=Backupul a fost terminat
+6=Introduceți discul USB!
+7=Prea multe fișiere, încetați să căutați!
+8=Captură manuală
+9=Mişcare
+10=Alarma
+11=Mișcare sau Alarmă
+12=Mișcare sau Alarmă

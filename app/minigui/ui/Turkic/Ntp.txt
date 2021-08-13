@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=görenek
+2=Varsayılan değişkenleri geri yüklesin mi?
+3=Özel boş olamaz.

@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Sto cercando dispositivi, attendere!
+2=Sei sicuro di voler uscire dalla configurazione assistita?
+3=Questa scelta può cambiare l’IP dei dispositivi remoti, conferma?
+4=La camera FishEye va aggiunta separatamente
+5=Il dispositivo è stato già associato diverse volte, non è possibile aggiungerlo.
+6=Aggiungi fotocamera, per favore aspetta.
+7=aggiunto
+8=Sto rimuovendo una camera, attendere.

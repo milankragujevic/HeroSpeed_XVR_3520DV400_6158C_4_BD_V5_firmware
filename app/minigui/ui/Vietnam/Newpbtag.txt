@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Tên mục lục không được có các ký hiệu như: space\/:*"？l’%
+2=tên mục lục không thể  là trống

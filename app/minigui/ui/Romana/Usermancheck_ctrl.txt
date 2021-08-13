@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Confirmare permisiune
+2=Confirmare
+3=OK
+4=Anulare

@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Not enough disk space.
+2=Dosya yedekleniyor, lütfen bekleyiniz…
+3=Yedekleme bitti
+4=Taşınabilir sabit disk sürücüsüne veri yazılamıyor.
+5=Lütfen bir dosya seçiniz.
+6=Hızlı sorgu süresi 30 dakikayı geçmemelidir.
+7=This time no files.
+8=Zaman formatı hatası!
+9=Yedekleme sürüyor, lütfen bekleyiniz…
+10=Bir veya daha fazla kanalın izni yok!
+11=Bu kanalın izni yok!
+12=Lütfen bir kanal seçin
+13=Cannot read hard disk.

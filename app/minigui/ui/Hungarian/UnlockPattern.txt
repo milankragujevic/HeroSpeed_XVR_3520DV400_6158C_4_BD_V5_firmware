@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Kérjük, rajzoljon egy feloldási mintát.
+2=Engedje fel az egeret a befejezés után.
+3=Csatlakoztasson legalább 4 pontot, próbálkozzon újra.
+4=A megerősítéshez kérjük, rajzolja meg újra a mintát.
+5=A másodszor megrajzolt minta különbözik, kérjük, erősítse meg újra.
+6=Kérjük, ne felejtse el a mintát.
+7=A feloldási minta nem megfelelő, vannak
+8=Belépés
+9=esélyek.
+10=A jelszót vagy a feloldási mintát ötször hibásan adta meg. Kérjük, próbálja újra 30 perc múlva.

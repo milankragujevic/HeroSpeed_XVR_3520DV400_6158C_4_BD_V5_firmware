@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Előnézet
+2=Visszajátszás
+3=Fájlkezelés
+4=Intelligens elemzés
+5=Csatorna
+6=Tárolás
+7=Rendszer
+8=Karbantartás
+9=Üzleti alkalmazás
+10=Letöltés
+11=Bell
+12=Riasztás
+13=Mentés
+14=Kikapcsolás

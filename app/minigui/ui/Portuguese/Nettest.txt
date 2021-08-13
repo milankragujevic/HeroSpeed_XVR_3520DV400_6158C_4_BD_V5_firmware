@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Atraso médio:
+2=Senhora
+3=Taxa de perda de pacotes:
+4=Endereço de destino inalcançável
+5=Testando rede, aguarde ...
+6=Ser pego no pacote ...
+7=Sucesso de backup de pacote de captura de rede
+8=Por favor insira o disco usb.
+9=O endereço IP é errado
+10=Please insert the network cable.

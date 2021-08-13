@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=başarı
+2=başarısız oldu

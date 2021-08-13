@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Tipo
+2=Hora de Inicio
+3=Hora Final
+4=Todos los registros: Administración del sistema: Administración de usuarios: Configuración de parámetros: Operaciones de archivo: indicador de estado: evento de alarma
+5=Consulta
+6=No.
+7=Hora
+8=Evento
+9=Usuario
+10=Exportar
+11=Exportar todo
+12=Claro

@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Set The Unlock Pattern
+2=Admin
+3=Forget The Unlock Pattern
+4=Switch User

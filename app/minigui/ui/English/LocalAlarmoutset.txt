@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Time format error!
+2=Enable
+3=Close
+4=Add a maximum of 6 schedule a day !

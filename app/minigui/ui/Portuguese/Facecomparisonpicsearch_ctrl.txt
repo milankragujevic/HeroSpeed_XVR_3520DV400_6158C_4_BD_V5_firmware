@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Pesquisa por evento
+2=Pesquisa por imagem
+3=Upload local
+4=Upload de Banco de Dados
+5=Canal
+6=Tempo
+7=Similaridade (0-100)
+8=Hoje: Ontem: Últimos 2 dias: Últimos 3 dias: Últimos 7 dias: Últimos 14 dias: Personalizado
+9=Pesquisar

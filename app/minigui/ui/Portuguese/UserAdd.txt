@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Usuário adicionado com sucesso!
+2=/
+3=O usuário já existe!
+4=Digite o nome do usuário!
+5=Digite a Senha!
+6=Digite a nova Senha!
+7=Senha incorreta!
+8=Senha incorreta!
+9=Erro desconhecido!
+10=Administrador não pode ser excluído!
+11=Nome de usuário não pode ser chamado de root ou admin!
+12=O nome de usuário não pode incluir a chave de espaço em branco
+13=Dica: A senha não deve ter menos que 8 bytes e conter pelo menos um dígito e uma letra
+14=Se o nome do usuário ou o comprimento da senha for superior a 10, não pode ser todos os números

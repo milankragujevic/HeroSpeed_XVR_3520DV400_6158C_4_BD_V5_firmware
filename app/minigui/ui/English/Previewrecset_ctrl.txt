@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Record Setup
+2=Channel
+3=All
+4=Operate
+5=Record
+6=Motion
+7=All
+8=Sun.
+9=Mon.
+10=Tue.
+11=Wed.
+12=Thu.
+13=Fri.
+14=Sat.
+15=Default
+16=Copy
+17=Apply
+18=Cancel
+19=More Settings
+20=Intelligent
+21=Alarm
+22=M | A
+23=M & A
+24=None

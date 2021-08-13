@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Pesquisa de Imagens
+2=Canal
+3=Tipo
+4=Tempo
+5=Visualizar
+6=Utilizador
+7=Visualizar
+8=Capacidade restante/ total:
+9=Cópia de segurança
+10=cancelar
+11=Atualizar

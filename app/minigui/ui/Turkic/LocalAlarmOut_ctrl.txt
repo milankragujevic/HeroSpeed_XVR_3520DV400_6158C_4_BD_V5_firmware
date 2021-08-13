@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Hareket Sezme
+2=Videoya onaysız değişiklik yapılması
+3=Video kaybı
+4=Alarm girişi
+5=Alarm çıkışı
+6=İstisna
+7=Alarm çıktı numarası
+8=Alarm adı
+9=gecikme
+10=Düzenle
+11=zil

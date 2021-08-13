@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Kanál
+2=Cíl
+3=Detekce obličeje
+4=Chytrá (Smart) událost
+5=Detekce lidská těla
+6=Detekce vozidla

@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Tarama
+2=Etkinleştir
+3=Zaman
+4=Mod
+5=Varsayılan
+6=Uygula
+7=iptal

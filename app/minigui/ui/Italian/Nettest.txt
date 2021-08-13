@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Ritardo medio
+2=ms
+3=Velocità pacchetti persi:
+4=Indirizzo di destinazione irraggiungibile!
+5=Test di rete, attendere…
+6=Inizio cattura dei pacchetti…
+7=Backup cattura dei pacchetti di rete effettuato!
+8=Inserire il disco-periferica USB.
+9=Indirizzo IP errato!
+10=Si prega di inserire il cavo di rete.

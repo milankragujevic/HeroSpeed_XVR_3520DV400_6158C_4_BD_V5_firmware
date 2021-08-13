@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Geen schijf
+2=Schijffout
+3=Netwerk kapot
+4=Ip Conflict
+5=Lokaal alarm

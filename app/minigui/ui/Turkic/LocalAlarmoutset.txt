@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Zaman formatı hatası!
+2=Etkinleştir
+3=Kapat
+4=Bir gün için en fazla 6 zaman planı ekleyin!

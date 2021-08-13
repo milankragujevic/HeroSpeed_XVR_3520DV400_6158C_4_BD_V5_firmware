@@ -1,0 +1,13 @@
+[wintip]
+num=11
+1=Keine Erlaubnis!
+2=Auf Werkseinstellungen zurücksetzen?
+3=Zeitformatfehler!
+4=Sonntag
+5=Montag
+6=Dienstag
+7=Mittwoch
+8=Donnerstag
+9=Freitag
+10=Samstag
+11=Zeitraum kann nicht überschritten oder eingeschlossen werden!

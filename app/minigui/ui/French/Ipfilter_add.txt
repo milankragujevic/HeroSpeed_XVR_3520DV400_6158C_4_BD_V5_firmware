@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Le nombre de listes a atteint la limite supérieure
+2=Veuillez entrer l'adresse IP
+3=Veuillez entrer l'adresse Mac
+4=Le format de l'adresse MAC est incorrect.
+5=L'adresse existe déjà!

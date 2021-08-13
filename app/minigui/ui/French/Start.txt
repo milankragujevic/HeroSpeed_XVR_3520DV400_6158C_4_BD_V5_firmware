@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Aperçu
+2=Lecture
+3=Gestion de fichiers
+4=Analyse intelligente
+5=Caméra
+6=Stockage
+7=Système
+8=Maintenance
+9=Application commerciale
+10=Télécharger
+11=Bell
+12=Alarme
+13=Sauvegarde
+14=Coupture d'électricité

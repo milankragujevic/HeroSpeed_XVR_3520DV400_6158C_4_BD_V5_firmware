@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Menu
+2=1-obraz
+3=K.1
+4=K.2
+5=K.3
+6=K.4
+7=4-obrazy
+8=Karuzela
+9=Ustawienia zapisu
+10=Dodaj kamerę
+11=Odtwarzanie
+12=PTZ
+13=Obraz DVR
+14=Wybierz tryb
+15=Manualny zrzut ekranu
+16=Porównywanie twarzy

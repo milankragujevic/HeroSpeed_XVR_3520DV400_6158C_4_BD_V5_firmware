@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Ril. Movimento
+2=Manomissione video
+3=Perdita di video
+4=Ingresso allarme
+5=Uscita allarme
+6=Eccezione
+7=Uscita allarme n.
+8=Nome allarme
+9=Ritardo
+10=Cambia
+11=Cicalino

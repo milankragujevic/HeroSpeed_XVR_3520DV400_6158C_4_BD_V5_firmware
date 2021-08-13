@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Naam:
+2=Grootte:
+3=Lengte:
+4=Tijd:
+5=Export succesvol
+6=Export mislukt
+7=E-mail verzonden
+8=Verzenden van e-mail mislukt
+9=Exporteren, even geduld aub ...
+10=E-mail verzenden, een ogenblik geduld ...
+11=Weet je zeker dat je weggaat?
+12=Voer de usb-schijf in.

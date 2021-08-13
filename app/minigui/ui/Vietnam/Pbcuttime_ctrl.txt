@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=đặt cắt xén
+2=Xin đặt thời gian cắt xén
+3=Thời gian bắt đầu
+4=Thời gian kết thúc
+5=Lưu
+6=Hủy

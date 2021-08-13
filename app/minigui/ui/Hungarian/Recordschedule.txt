@@ -1,0 +1,13 @@
+[wintip]
+num=11
+1=Nincs jogosultsága!
+2=Visszaállítja az alapértelmezett paramétereket?
+3=Rossz idő formátum!
+4=Vasárnap
+5=Hétfő
+6=Kedd
+7=Szerda
+8=Csütörtök
+9=Péntek
+10=Szombat
+11=Az időszakok nem léphetők át, vagy nem vehetők fel!

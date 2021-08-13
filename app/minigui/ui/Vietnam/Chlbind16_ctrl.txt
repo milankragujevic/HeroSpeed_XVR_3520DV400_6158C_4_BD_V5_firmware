@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Cấu hình
+2=Tổng hợp
+3=Mạng lưới
+4=Hiển thị
+5=Ngoại lệ
+6=Người dùng
+7=Cấu hình kênh
+8=Cấu hình kênh
+9=Kênh
+10=HD
+11=IP
+12=Mặc định
+13=Ứng dụng
+14=Hủy
+15=Xem trước
+16=Báo động Riêng tư
+17=Chế độ Lite
+18=Cho phép:vô hiệu hóa
+19=Wifi
+20=Lọc bỏ IP

@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Çözünürlük
+2=Kullanıcı arabirim parlaklığı
+3=OSD zamanını göster
+4=Önyüklemeden sonra göster
+5=1024x768: 1280x720: 1280x1024: 1920x1080
+6=Varsayılan
+7=Uygula
+8=Kanal adını göster

@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Görüntü dosyası anormal veya dosya formatı desteklenmiyor (sadece jpg formatı destekleniyor)
+2=Seçme dosyası 1M'den büyük olamaz
+3=Yüz şablonu çıkartılamadı
+4=başlaması başarısızdır
+5=Özellik yada yüzün sayısı en fazlasını geçti.
+6=adı yazın

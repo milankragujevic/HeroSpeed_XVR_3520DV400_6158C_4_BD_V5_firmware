@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Bewegings detectie
+2=Video Knoeien
+3=Video verlies
+4=Alarmingang
+5=Alarmuitgang
+6=Uitzondering
+7=Vertragingstijd(1~120s)
+8=5 Sec:10 Sec:30 Sec:1 Min:2 Min:5 Min:10 Min
+9=Test
+10=Toepassen
+11=Zoemer

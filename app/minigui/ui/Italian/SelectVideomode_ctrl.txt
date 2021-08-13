@@ -1,0 +1,12 @@
+[Ctrltxt]
+num=10
+1=Seleziona la modalità
+2=Finestre
+3=Tutti
+4=AUTO
+5=AHD
+6=CVI
+7=TVI
+8=CVBS
+9=Applica
+10=Cancella

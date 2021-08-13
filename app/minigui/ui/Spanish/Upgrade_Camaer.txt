@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Por favor, seleccione actualizar canal no.
+2=Falló la actualización!
+3=Actualizado con éxito!
+4=Por favor seleccione archivo para actualización!
+5=Actualizar?
+6=¡El archivo no existe!
+7=Canal
+8=actualización exitosa!
+9=actualización fallida
+10=Actualizando, no apagar!!

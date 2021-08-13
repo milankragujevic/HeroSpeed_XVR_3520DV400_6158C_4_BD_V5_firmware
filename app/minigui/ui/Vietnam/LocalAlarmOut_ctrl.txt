@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Phát hiện chuyển động
+2=Video bóp méo
+3=Mất video
+4=Đầu vào báo động
+5=Đầu ra báo động
+6=Ngoại lệ
+7=Ký hiệu cảnh báo phát ra
+8=Tên báo động
+9=Trì hoãn
+10=Chỉnh sửa
+11=Buzzer

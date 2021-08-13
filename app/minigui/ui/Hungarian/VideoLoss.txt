@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Visszaállítja az alapértelmezett paramétereket?
+2=Nincs jogosultsága!
+3=Képernyő
+4=E-mail küldés
+5=Hangjelző

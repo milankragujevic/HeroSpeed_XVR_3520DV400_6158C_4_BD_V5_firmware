@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=La dimension de l'image sélectionnée ne peut pas être supérieure à 1M!
+2=Erreur de format d'heure!
+3=Il y a un ou plusieurs canaux sans permission!
+4=Aucune autorisation!
+5=Toutes les chaînes
+6=Veuillez télécharger une image.
+7=Sélectionnez une chaine S.V.P.

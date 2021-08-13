@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Add user successfully!
+2=/
+3=The user already exists!
+4=Please input user name!
+5=Please input password!
+6=Please input new password!
+7=Password is incorrect!
+8=Password mismatch!
+9=Unknown error!
+10=Administrator can not be deleted!
+11=User name cannot be called root or admin!
+12=User name cannot include the blank space key
+13=The password must not be less than 8 bytes and contain at least one digit and letter!
+14=If the user name or password length is geater than 10,it can not be all numbers

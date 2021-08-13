@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Sprache
+2=Systemsprache
+3=Anwenden
+4=Ausfahrt

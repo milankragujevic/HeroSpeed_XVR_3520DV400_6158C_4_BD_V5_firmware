@@ -1,0 +1,21 @@
+[wintip]
+num=19
+1=Wyszukiwanie urządzeń. Czekaj.
+2=Na pewno wyjść z kreatora konfiguracji?
+3=Operacja zmieni adres IP zdalnego urządzenia, potwierdzasz zmianę?
+4=jest urządzeniem typu rybie oko, które należy dodać oddzielnie
+5=Urządzenie jest połączone zbyt wiele razy, nie można dodać.
+6=Brak pozwolenia!
+7=usuwanie kamery, czekaj.
+8=Proszę wybrać kanał!
+9=Nie można usunąć kanału Plug and Play.
+10=Połączony
+11=Nieznany błąd
+12=Błąd połączenia sieci
+13=Błąd portu lub serwera
+14=Błąd użytkownika lub hasła
+15=Nie udało się uzyskać dostępu do strumienia
+16=K.
+17=Przepustowość
+18=Tylko jedna karta może automatycznie dodać!
+19=Czy otworzyć wszystkie kanały H264+ lub H265+?

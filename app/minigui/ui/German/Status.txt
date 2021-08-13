@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=/
+2=/
+3=Zeitformatfehler!
+4=Die Netzwerklast ist zu groß, bitte schrittweise Kanal löschen
+5=Das Netzwerk ist wieder stabil.
+6=Keine Erlaubnis!
+7=Aktualisieren, nicht ausschalten!
+8=Wird formatiert, bitte warten...
+9=Automatische Umschaltung
+10=No channels that support this feature!
+11=Gesichtserkennung
+12=Ansicht
+13=5 Min Wiedergabe
+14=Volumen
+15=Zoomen
+16=Bild
+17=Strominfo
+18=Schließen
+19=Das aktuelle Passwort ist zu einfach, bitte ändern Sie das Passwort!
+20=Neue Speichergeräte wurden gefunden, formatieren Sie diese als Datenträger sofort?
+21=In Entwicklung!
+22=Manual screenshot failed!
+23=Disk stop used
+24=Das aktuelle Passwort ist zu einfach, bitte ändern Sie das Passwort!
+25=Erfassen

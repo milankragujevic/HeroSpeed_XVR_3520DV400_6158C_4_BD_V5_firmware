@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Menu
+2=1-Cam
+3=Cam1
+4=Cam2
+5=Cam3
+6=Cam4
+7=4-Cam
+8=Interrogation
+9=Paramètre enregistrement
+10=Ajouter caméra
+11=Lecture
+12=PTZ
+13=Image DVR
+14=Sélectionnez le mode
+15=Capture d'écran manuelle
+16=Comparaison de Visages

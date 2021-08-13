@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Gezichtlijst toevoegen
+2=Lokaal video instellingen
+3=Foto Maken
+4=Afbeelding Importeren
+5=Naam
+6=OK
+7=Annuleren
+8=Kanaal
+9=Gezicht Template
+10=Neem een foto
+11=Uittreksel
+12=Selecteer Gezicht
+13=Nieuw
+14=Neem opnieuw

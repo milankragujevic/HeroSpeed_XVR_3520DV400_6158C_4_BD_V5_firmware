@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Archiválás napló
+2=ID
+3=Napló
+4=Megszünteti
+5=OK
+6=Típus
+7=Biztonsági másolat folyamata

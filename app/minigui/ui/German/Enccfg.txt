@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Bitte bestätigen Sie Ihre Kanalparameter und Netzwerkstatus!
+2=Auf Werkseinstellungen zurücksetzen?
+3=Einstellungen werden gespeichert, bitte warten...
+4=Informationsabfrage, bitte warten...
+5=Informationsabfrage fehlgeschlagen...
+6=Bitrate in Bereich von 512 bis 8192
+7=Speichern der Parameter fehlgeschlagen.
+8=Dieser Kanal ist H265, das das Gerät nicht unterstützt
+9=Keine Erlaubnis!
+10=Gerät unterstützt H265 nicht.
+11=Main Bitrate range 64-8192.
+12=Sub Bitrate Bereich 64-2048.

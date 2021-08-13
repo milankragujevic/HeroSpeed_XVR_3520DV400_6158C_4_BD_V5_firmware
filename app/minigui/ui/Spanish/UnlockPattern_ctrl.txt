@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Configurar patrón de desbloqueo
+2=administración
+3=¿Olvida patrón de desbloqueo?
+4=Cambiar de usuario

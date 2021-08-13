@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LocalAlarmOut x="%15" y="%10" w="%100-%15" h="%100-%10" title="Local Alarm">
+<row type="ctrl_button" x="%2" y="30" w="%10+20" h="40" s="12:13:41:48" gap="0">
+<b id="151" >1</b>
+<b id="152">2</b>
+<b id="153">3</b>
+<b id="154">4</b>
+<b id="2" s="12:48:49:41:40">5</b>
+<b id="156">6</b>
+<b id="157">11</b>
+</row>
+<row type="static" x="%2" y="69" w="%80+18" h="2" s="11:12:31" bcol="1" gap="10">
+<s id="3"></s>
+</row>
+
+<row >
+<list type="listview_ex" id="1" x="%2" y="130" w="%79" h="448" s="11:12:13:14:203:204:205" itemcnt="4" itemh="56">
+<item w="%20" align="l">7</item>
+<item w="%20" align="l">8</item>
+<item w="%20" align="l">9</item>
+<item w="%19" align="l">10</item>
+</list>
+</row>
+
+</LocalAlarmOut>

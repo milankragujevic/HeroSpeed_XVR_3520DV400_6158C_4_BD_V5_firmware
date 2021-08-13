@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menu x="360" y="160" w="820" h="650" title="System Set">
+
+<row x="60" y="58" w="150" h="150" s="12:13:41:42" ex="81" bgw="100" gap="34" type="ctrl_button">
+<b id="1" bg="./image/sysset/genset.png">General</b>
+<b id="2" bg="./image/sysset/encset.png">Encoding</b>
+<b id="3" bg="./image/sysset/recset.png">Rec Setup</b>
+<b id="4" bg="./image/sysset/netset.png">Network</b>
+
+</row>
+
+<row x="60" y="245" w="150" h="150" s="12:13:41:42" ex="81" bgw="100" gap="34" type="ctrl_button">
+<b id="5" bg="./image/sysset/videodet.png">Motion Detection</b>
+<b id="6" bg="./image/sysset/ptzset.png">PTZ Setup</b>
+<b id="7" bg="./image/sysset/outmode.png">Display</b>
+<b id="8" bg="./image/sysset/default.png">Default</b>
+</row>
+
+<row x="60" y="435" w="150" h="150" s="12:13:41:42" ex="81" bgw="100" gap="34" type="ctrl_button">
+<b id="9" bg="./image/sysset/videocfg.png">Image Color</b>
+<b id="10" bg="./image/sysset/ddns.png">DDNS</b>
+<b id="11" bg="./image/sysset/p2p.png">P2P Config</b>
+<b id="12" bg="./image/sysset/netmode.png">Network Mode</b>
+</row>
+
+
+</Menu>

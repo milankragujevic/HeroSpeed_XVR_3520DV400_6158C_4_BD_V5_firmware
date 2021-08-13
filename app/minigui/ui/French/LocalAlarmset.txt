@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Alerte buzzer
+2=Envoi d'email
+3=Affichage à l'écran
+4=Erreur de format d'heure!
+5=Ajouter 6 horaires maximum par jour!

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Accesso Utente
+2=Admin
+3=Accesso
+4=Chiudere
+5=Password dimenticata
+6=Login automatico

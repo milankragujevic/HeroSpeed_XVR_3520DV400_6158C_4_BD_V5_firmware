@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Enccfg x="120" y="80" w="800" h="710" title="Enc Param">
+<row type="static">
+<s id="60" x="0" y="0" w="800" h="2" s="11:12:33" bcol="7"></s>
+<s id="61" x="0" y="707" w="800" h="2" s="11:12:33" bcol="7"></s>
+<s id="62" x="0" y="3" w="2" h="704" s="11:12:33" bcol="7"></s>
+<s id="63" x="797" y="3" w="2" h="704" s="11:12:33" bcol="7"></s>
+<s id="64" x="3" y="705" w="794" h="2" s="11:12:33" bcol="5"></s>
+<s id="65" x="3" y="3" w="2" h="702" s="11:12:33" bcol="5"></s>
+<s id="66" x="795" y="3" w="2" h="702" s="11:12:33" bcol="5"></s>
+<s type="static" id="67" x="1" y="6" w="798" h="47" s="11:12:33" ft="16" bcol="20">1</s>
+</row>
+<col type="static" x="15" y="75" w="231" h="40" s="11:12:31" gap="-1">
+<s id="1" bcol="114">2</s>
+<s id="31" bcol="118">26</s>
+<s id="2" bcol="114">3</s>
+<s id="55" bcol="118" gap="15"></s>
+<s id="48" bcol="114"></s>
+<s id="35" bcol="118">4</s>
+<s id="3" bcol="114">5</s>
+<s id="4" bcol="118">6</s>
+<s id="5" bcol="114">7</s>
+<s id="6" bcol="118">8</s>
+<s id="7" bcol="114">9</s>
+<s id="8" bcol="118">10</s>
+<s id="9" bcol="114">11</s>
+<s id="10" bcol="118">12</s>
+</col>
+
+<col type="CtrlCombobox" x="245" y="75" w="539" h="40" s="11:12:13:21:22:23" gap="-1">
+<cb id="11" ad="360" tcol="20"></cb>
+<s type="static" id="40" s="11:12:31" bcol="118"></s>
+<cb id="12" ad="120" tcol="20"><selcn>13</selcn></cb>
+<cb id="56" ad="80" tcol="10" >
+<selcn>25</selcn>
+</cb>
+</col>
+	
+<col type="CtrlCombobox" x="245" y="247" w="270" h="40" s="11:12:13:21:22:23" gap="-1">
+<s id="13" type="static" bcol="114" s="11:12:33">14</s>
+<cb id="36" ad="80" tcol="10" gap="39"></cb>
+<cb id="15" ad="160" tcol="10"></cb>
+<cb id="16" ad="80" tcol="20"><selcn>16</selcn></cb>
+<tb id="17" ad="160" tcol="10" type="ctrl_trackbar" s="11:12:13:61:62:63:67"></tb>
+<cb id="18" ad="160" tcol="20"><selcn>17</selcn></cb>
+<tb type="ctrl_trackbar" id="19" tcol="10"  h="40" s="11:12:13:61:62:63:67"></tb>
+<e type="myedit" id="20" tcol="20" s="11:12:13:54" ex="81:82:83" ad="8192"></e>
+<s type="static" id="21" bcol="118" s="11:12:31" ad="0">20</s>
+</col>
+
+<col type="CtrlCombobox" x="514" y="247" w="269" h="40" s="11:12:13:21:22:23" gap="-1">
+<s type="static" id="22" s="11:12:33" bcol="114">18</s>
+<cb id="37" ad="80" tcol="10"></cb>
+<cb id="23" x="245" w="539" ad="160" tcol="20"><selcn>15</selcn></cb>
+<cb id="24" ad="160" tcol="10"></cb>
+<cb id="25" ad="80" tcol="20"><selcn>16</selcn></cb>
+<tb id="26" type="ctrl_trackbar" s="11:12:13:61:62:63:67" ad="160" tcol="10"></tb>
+<cb id="27" ad="160" tcol="20"><selcn>19</selcn></cb>
+<tb type="ctrl_trackbar" id="28" ad="160" tcol="10" s="11:12:13:61:62:63:67"></tb>
+<e type="myedit" id="29" tcol="20" s="11:12:13:54" ex="81:82:83" ad="2048"  ></e>
+<s type="static" id="30" bcol="118" s="11:12:31" ad="0">21</s>
+</col>
+
+<row type="ctrl_button" x="180" y="651" w="140" h="44" s="12:13:42" bgw="0" tc="100" gap="10">
+<b id="38" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">22</b>
+<b id="31" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">23</b>
+<b id="32" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">24</b>
+</row>
+
+</Enccfg>

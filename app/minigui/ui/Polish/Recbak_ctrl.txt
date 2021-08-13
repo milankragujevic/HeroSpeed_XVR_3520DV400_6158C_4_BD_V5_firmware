@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=Archiwizacja zapisu
+2=K.
+3=Typ
+4=Rozpoczęcie
+5=Zakończenie
+6=Rozmiar
+7=Id
+8=Log archiwizacji
+9=Pozostało:
+10=Wymagane:
+11=Format pliku
+12=avi
+13=Odśwież
+14=Archiwizacja
+15=Wyczyść

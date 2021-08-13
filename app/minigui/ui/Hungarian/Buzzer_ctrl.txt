@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Mozgásérzékelés
+2=Videó hamisítás
+3=Videojel vesztés
+4=Riasztási bemenet
+5=Riasztási kimenet
+6=Rendszerhiba
+7=Késési idő(1~120s)
+8=5 másodperc: 10 másodperc: 30 másodperc: 1 perc: 2 perc: 5 perc: 10 perc
+9=Teszt
+10=Alkalmaz
+11=Berregő

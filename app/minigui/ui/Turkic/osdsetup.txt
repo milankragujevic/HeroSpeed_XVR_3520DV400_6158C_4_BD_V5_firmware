@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Değişkenler getiriliyor, lütfen bekleyiniz…
+2=Bu kanalın izni yok!

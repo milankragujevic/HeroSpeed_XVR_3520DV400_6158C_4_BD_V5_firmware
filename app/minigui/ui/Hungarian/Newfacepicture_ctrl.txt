@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Arclista hozzáadása
+2=Helyi Video paraméterek
+3=Képek készítése
+4=Képek bevitele
+5=Név
+6=OK
+7=Megszünteti
+8=Csatorna
+9=Arc-sablon
+10=Fotózás
+11=Kivonás
+12=Válassza az Arc lehetőséget
+13=Új
+14=Megismételni

@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Rotazione Fin
+2=Abilita
+3=Tempo (s)
+4=Finestre
+5=Predefinito
+6=Applica
+7=Cancella

@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Đang tuần tra, cấm thay đổi ...
+2=Đã được mở !
+3=Đã bị đóng!
+4=Không cho phép !

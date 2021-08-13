@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=\
+2=Kanal
+3=Kanal
+4=Başlangıç zamanı
+5=Benzerlik
+6=Oynat
+7=Yedek Resim
+8=Yedek Kayıt
+9=Yedekleme
+10=iptal
+11=Tümü
+12=Şekil
+13=Liste
+14=Tam Arama
+15=FTP Yedekleme

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Tijd Instellingen
+2=Stel de tijd van het Afknippen in:
+3=Afspeeltijd Instellingen
+4=Eindtijd
+5=Opslaan
+6=Annuleren

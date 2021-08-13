@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=A kiválasztott kép nem lehet nagyobb, mint 1M
+2=Rossz idő formátum!
+3=Egy vagy több csatornához nincs jogosultsága
+4=Nincs jogosultsága!
+5=Minden csatorna
+6=Kérjük, töltsön fel egy képet.
+7=Válasszon csatornát

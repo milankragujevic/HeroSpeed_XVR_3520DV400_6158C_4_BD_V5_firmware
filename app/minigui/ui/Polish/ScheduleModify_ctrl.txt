@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Grafik zapisu
+2=Dzień tyg.:
+3=Grafik 1
+4=Grafik 2
+5=Grafik 3
+6=Grafik 4
+7=Grafik 5
+8=Grafik 6
+9=Użyj do:
+10=Wsz.
+11=Nie.
+12=Pon.
+13=Wto.
+14=Śro.
+15=Czw.
+16=Pią.
+17=Sob.
+18=Zapisz
+19=Anuluj
+20=Harmonogram 7
+21=Harmonogram 8
+22=Nie.:Pon.:Wto.:Śro.:Czw.:Pią.:Sob.
+23=Zastosuj

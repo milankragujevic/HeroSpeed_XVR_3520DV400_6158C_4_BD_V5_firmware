@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Seçilen resim 1M'den büyük olamaz!
+2=Zaman formatı hatası!
+3=Bir veya daha fazla kanalın izni yok!
+4=İzin yok!
+5=Bütün kanallar
+6=Resim yükle
+7=Lütfen bir kanal seçin

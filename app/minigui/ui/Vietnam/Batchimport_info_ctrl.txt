@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Nhập vào loạt
+2=Tên
+3=Tình trạng
+4=Xác nhận

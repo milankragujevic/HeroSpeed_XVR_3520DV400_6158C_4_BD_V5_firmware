@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Obnovit
+2=Formátování
+3=Opravit
+4=Č.
+5=Stav
+6=Celková velikost
+7=Zbývající velikost
+8=Typ zařízení
+9=Varování: NVR se restartuje po dokončení formátování.

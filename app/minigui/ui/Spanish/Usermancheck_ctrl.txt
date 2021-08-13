@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Confirmación de Permiso
+2=Confirmado
+3=Sí
+4=Cancelar

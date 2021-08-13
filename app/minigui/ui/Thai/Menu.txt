@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=ไม่มีสิทธิ์!
+2=ย้อนหลัง.
+3=สำรองไฟล์การบันทึก.
+4=การจัดการดิสก์.
+5=ตารางการบันทึกต่างๆ
+6=Camera add,camera osd,image,motion detection,videoloss,ptz,privacy mask setup,channelname.
+7=System date/time,network,display,exception,user setup,channel config.
+8=สตรีมล็อกข้อมูลเวอร์ชันและการอัปเดตระบบเรียกคืนค่าเริ่มต้น
+9=ออกจากระบบและเปิดเครื่องใหม่.
+10=System date/time,network,display,exception,user setup,channel config,local alarm.

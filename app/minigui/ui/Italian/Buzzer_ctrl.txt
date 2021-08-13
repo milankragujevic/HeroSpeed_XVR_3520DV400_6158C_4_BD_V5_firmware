@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Ril. Movimento
+2=Manomissione video
+3=Perdita di video
+4=Ingresso allarme
+5=Uscita allarme
+6=Eccezione
+7=Ritardo(1~120s)
+8=5 secondi: 10 secondi: 30 secondi: 1 minuto: 2 minuti: 5 minuti: 10 minuti
+9=Prova connessione FTP
+10=Applica
+11=Cicalino

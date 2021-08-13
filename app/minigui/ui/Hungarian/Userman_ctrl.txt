@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Hozzáadás
+2=Módosít
+3=Törölés
+4=Élő nézet engedélyezése a záróképernyőn
+5=Sorsz.
+6=Felhasználó név
+7=Biztonság
+8=Szint
+9=Jogosultság

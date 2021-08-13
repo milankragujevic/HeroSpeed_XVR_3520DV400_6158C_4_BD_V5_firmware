@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Carichi dal database del viso
+2=Elenco database del viso
+3=Nome
+4=Ora
+5=Immagine del viso
+6=Utente
+7=Vista
+8=Capacità rimanente / totale:
+9=Conferma
+10=Cancella
+11=1

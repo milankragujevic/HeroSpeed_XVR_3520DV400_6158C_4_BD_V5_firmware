@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Conectando ...
+2=Conectado
+3=Restaurar os parâmetros padrão?
+4=O número máximo da tabela Mapeamento de portas é 16 linhas!

@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Restaurar os parâmetros padrão?
+2=Tem a certeza de sair do assistente de inicialização?
+3=O número da porta não pode ser o mesmo!
+4=O número da porta não pode ser inferior a 1025, exceto o padrão 554 e 80!
+5=Desconhecido
+6=IP da placa de rede interna e o IP da rede externa não podem estar no mesmo segmento de rede
+7=para modificar IP Intranet precisa reiniciar o dispositivo, determinar a reinicialização?
+8=Erro no formato do endereço IP!
+9=Erro de formato de máscara de rede!
+10=Erro de formato de gateway!
+11=Erro de formato DNS!
+12=Lan1 e Lan2 não podem estar no mesmo segmento de rede
+13=Modificar o modo de rede deve ser reiniciado, você quer continuar a modificá-lo?

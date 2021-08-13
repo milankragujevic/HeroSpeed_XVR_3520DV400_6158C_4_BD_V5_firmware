@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Obraz DVR
+2=Jasność
+3=Kontrast
+4=Nasycenie
+5=Odcień
+6=Domyślne
+7=Zastosuj
+8=Anuluj

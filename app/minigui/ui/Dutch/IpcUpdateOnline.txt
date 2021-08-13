@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Zoeken, wacht even!
+2=Geen upgrade pakket
+3=Only one upgrade package can be selected！
+4=Selecteer aub upgrade bestand!
+5=Upgraden?
+6=Upgraden, niet uitschakelen aub!
+7=Upgrade mislukt!
+8=Upgrade Succesvol!
+9=The ONVIF channel does not support upgrading!
+10=Kanaal
+11=update succeeded!
+12=update failed!
+13=Het RTSP-kanaal ondersteunt geen upgrade!
+14=Voer de usb-schijf in.

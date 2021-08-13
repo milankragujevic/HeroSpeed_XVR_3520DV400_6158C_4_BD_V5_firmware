@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Pbtagtip x="0" y="0" w="250" h="40">
+
+<row type="static" s="11:12:31" x="15" w="165"  y="0" h="40">
+    <b id="1" bcol="10" ft="16"></b>
+</row>
+
+<row type="ctrl_button" x="180" y="10" w="20" h="20" bgw="-1" s="12:13:41:42:411" gap="10"  >
+    <b id="2" bg="./image/Redev/r_bedit.png" bgc="./image/Redev/r_bedit.png"></b>
+    <b id="3" bg="./image/Redev/r_bdev.png" bgc="./image/Redev/r_bdev.png"></b>
+</row>
+
+</Pbtagtip>

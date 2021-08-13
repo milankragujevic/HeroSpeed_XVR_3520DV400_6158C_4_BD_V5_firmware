@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Alterar endereços IP
+2=Inicie Ip
+3=Máscara de rede
+4=Gateway
+5=Nome de usuário
+6=Senha
+7=confirme
+8=cancelar
+9=DNS
+10=Porta HTTP
+11=Porta RTSP

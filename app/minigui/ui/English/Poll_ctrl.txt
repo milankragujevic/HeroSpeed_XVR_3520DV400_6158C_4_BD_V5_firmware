@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Poll
+2=Enable
+3=Time(s)
+4=Mode
+5=Default
+6=Apply
+7=Cancel

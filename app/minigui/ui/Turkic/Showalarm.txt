@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=Hareket Sezme
+2=Video kaybı
+3=alarm giriş tetiği
+4=\
+5=\
+6=Yüz yakalama
+7=Intrusion
+8=Karşıdan karşıya geçmek
+9=Sahne Değişimi
+10=Goods Legacy
+11=Goods Take
+12=yüz karşılaştırması
+13=İnsanlar kalmak
+14=İnsanların Toplanması
+15=Ana akım videosunun kaybı
+16=Alt akım videosunun kaybı
+17=Alarm çıkışı
+18=duman
+19=Kızıl ötesi
+20=insansı
+21=Disk yok
+22=Disk hatası
+23=Ağ bağlanmamış
+24=Ip Çatışması
+25=Mac çekişmesi

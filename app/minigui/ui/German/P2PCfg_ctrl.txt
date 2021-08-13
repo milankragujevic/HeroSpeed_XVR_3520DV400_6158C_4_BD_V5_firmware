@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=Email
+2=P2P
+3=Netzwerk
+4=Bildschirm
+5=Störungsmeldung
+6=Benutzer
+7=IP / Anschluss
+8=DDNS
+9=Email
+10=P2P
+11=FTP
+12=UPnP
+13=Cloud Speicher
+14=Status
+15=P2P aktivieren
+16=Anzahl der Kanäle
+17=Aktualisieren
+18=Anwenden
+19=Abbrechen
+20=Vorschau
+21=Verschlüsselung
+22=KEINE: SSL
+23=Push-Intervall (Min.)
+24=Push Image ausschalten:2:5:10
+25=Benutzernummer

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Varsayılan kamera değişkenlerini geri yükle
+2=Depolamanın varsayılan parametrelerini yenileştir
+3=Sistemin varsayılan parametrelerini yenileştir
+4=Varsayılan bakım değişkenlerini geri yükle
+5=Fabrika ayarlarına dön
+6=Uygula

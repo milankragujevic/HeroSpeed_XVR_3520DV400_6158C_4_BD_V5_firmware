@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Atualização IPC
+2=CH
+3=Nome
+4=Tamanho
+5=Tempo
+6=Atualizar
+7=cancelar

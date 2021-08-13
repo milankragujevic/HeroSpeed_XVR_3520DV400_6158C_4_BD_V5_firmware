@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Szerkesztés
+2=Riasztási kimenet
+3=Riasztási név
+4=Késleltetés
+5=Riasztás állapota
+6=5 másodperc:10 másodperc:30 másodperc:1 perc:2 perc:5 perc:10 perc: Manuális tisztítás
+7=Élesítés ütemezése
+8=ravasz
+9=Törlés
+10=\
+11=\
+12=Másol
+13=Alkalmaz
+14=Mind
+15=Vas.
+16=Hét.
+17=Kedd
+18=Szer.
+19=Csüt.
+20=Pén.
+21=Szo.
+22=Normál
+23=Szerkesztés

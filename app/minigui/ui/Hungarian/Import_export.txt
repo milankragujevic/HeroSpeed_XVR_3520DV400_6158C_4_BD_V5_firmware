@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Az új beállítások használatához újraindítás szükséges, újraindítja most?
+2=Exportálás, várjon ...
+3=A művelet sikeresen végrehajtva!
+4=Kérjük, helyezze be az usb lemezt!
+5=Az eszközt nem lehet megnyitni.
+6=Az adatbázis sérült.
+7=Ismeretlen hiba.
+8=Nincs importfájl!
+9=Importálás a siker után újraindul

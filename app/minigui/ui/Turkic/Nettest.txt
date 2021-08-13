@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Ortalama gecikme:
+2=MS
+3=Paket kaybı oranı:
+4=Hedef adrese ulaşılamıyor!
+5=Net testi, lütfen bekleyin ...
+6=Paketi yakalarken ...
+7=Ağ yakalama paketi yedekleme başarısı!
+8=Lütfen usb diski takın.
+9=IP adresi yanlış!
+10=Lütfen ağ kablosunu takın.

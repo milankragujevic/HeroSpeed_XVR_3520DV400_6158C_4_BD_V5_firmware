@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Modyfikuj użytkownika
+2=Użytkownik
+3=Modyfikacja hasła
+4=Stare hasło
+5=Nowe hasło
+6=Ustal
+7=Poziom
+8=Administrator:Operator:Ogólne
+9=Zapisz
+10=Anuluj
+11=Zresetuj problemy bezpieczeństwa
+12=Pytanie weryfikacji 1
+13=Odpowiedź 1
+14=Pytanie weryfikacji 2
+15=Odpowiedź 2
+16=Pytanie weryfikacji 3
+17=Odpowiedź 3
+18=Wybierz numer: Jaki jest twój numer pracy?: Jaki jest dzień urodzin twojego ojca?: Jaka jest twoja ulubiona angielska piosenka?: Który dzień to urodziny twojej matki?
+19=Wybierz pytanie:Jaki był Twój nr. w szkole?:Jaka jest Twoja szczęśliwa liczba?:Twoja ulubiona angielska gwiazda?:Jaka jest Twoja data ślubu?
+20=Wybierz problem: Jaka jest twoja najpopularniejsza skrzynka pocztowa?: Jaki jest kod pocztowy dla twojego obszaru?: Jakie jest twoje imię zwierzaka ?: Jakie są twoje numery telefonów?
+21=Eksportuj klucz
+22=Odblokuj wzór
+23=Włącz odblokowywanie wzorem
+24=Modyfikuj odblokowywanie wzorem

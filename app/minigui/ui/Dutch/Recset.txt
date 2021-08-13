@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Reset naar fabrieksinstellingen ?
+2=Geen toestemming!
+3=Wilt u de boot wizard afsluiten?
+4=Nieuwe instellingen worden na het rebooten geactiveerd. Herstarten nu?
+5=Opstartwizard instelling is afgerond!
+6=Fout in tijdnotatie!
+7=Voer maximaal 6 schema's in per dag!
+8=Er zijn 1 of meerdere kanalen zonder toestemming!

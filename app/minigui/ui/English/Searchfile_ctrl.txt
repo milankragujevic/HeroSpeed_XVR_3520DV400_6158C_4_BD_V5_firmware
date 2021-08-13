@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Search File
+2=CH
+3=Event Type
+4=Start Time/End Time
+5=End Time
+6=File Type
+7=Required Capacity:
+8=Available/Total Capacity:
+9=Export
+10=Cancel
+11=Refresh
+12=View
+13=Go
+14=All
+15=Group:
+16=Channel
+17=Time
+18=FTP Export

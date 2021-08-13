@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Veuillez confirmer les paramètres de votre caméra et l'état du réseau!
+2=Restaurer les paramètres par défaut?
+3=Enregistrement des paramètres d'encodage, veuillez patienter…
+4=Lecture des paramètres, veuillez patienter…
+5=Echec d'obtention des paramètres…
+6=Le champ BitRate est compris entre 512-8192.
+7=Echec d'application des paramètres caméra.
+8=Ce canal est H265 ce périphérique ne prend pas en charge
+9=Aucune autorisation!
+10=L'appareil ne prend pas en charge H265.
+11=Main Bitrate range 64-8192.
+12=Plage de débit binaire inférieur 64-2048.

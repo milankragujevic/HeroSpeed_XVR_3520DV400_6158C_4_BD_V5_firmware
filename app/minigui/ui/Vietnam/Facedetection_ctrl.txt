@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Bắt ảnh khuôn mặt.
+2=So sánh kết quả
+3=Mode:Blacklist
+4=Mode:Whitelist
+5=Mode: Black And White List

@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Programar
+2=Grabar
+3=Capturar
+4=Dispositivo de Almacenamiento
+5=Modo de Almacenamiento
+6=Backup Automático
+7=Avanzado

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Picturebackup x="0" y="0" w="%100" h="%100" title="">
+<row>
+<s type="static" id="100" x="0" y="0" w="%100" h="2" s="11:12:33" bcol="7"></s>
+<s type="static" id="101" x="0" y="%100-3" w="%100" h="2" s="11:12:33" bcol="7"></s>
+<s type="static" id="102" x="0" y="3" w="2" h="%100-6" s="11:12:33" bcol="7"></s>
+<s type="static" id="103" x="%100-3" y="3" w="2" h="%100-6" s="11:12:33" bcol="7"></s>
+<s type="static" id="104" x="3" y="%100-5" w="%100-6" h="2" s="11:12:33" bcol="5"></s>
+<s type="static" id="105" x="3" y="3" w="2" h="%100-8" s="11:12:33" bcol="5"></s>
+<s type="static" id="106" x="%100-5" y="3" w="2" h="%100-8" s="11:12:33" bcol="5"></s>
+<s type="static" id="107" x="249" y="58" w="2" h="%100-63" s="11:12:33" bcol="5"></s>
+<s type="static" id="108" x="251" y="58" w="2" h="%100-63" s="11:12:33" bcol="9"></s>
+<s type="static" id="109" x="6" y="5" w="%100-12" h="49" s="11:12:33" ft="16" bcol="20">1</s>
+</row>
+<row x="%100-37" y="19" w="20" h="20" s="12:13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="93" bg="./image/menu/close.png" bgc="./image/menu/close_hover.png" bgw="" ft="16"></b>
+</row>
+<col type="ctrl_button" x="5" y="58" w="244" h="54" s="12:13:41:42:48" gap="0">
+<b id="144" s="12:16:48:49:41:42" bg="./image/radiobutton_bg/filebackup.png">2</b>
+<b id="162" bg="./image/radiobutton_bg/Facecmpsearch.png">82</b>
+</col>
+<row type="ctrl_button" x="265" y="55" w="130" h="50" s="12:13:48:41" gap="20">
+<b id="156" s="12:16:48:41">3</b>
+<b id="157" s="12:16:48:41:49:40">79</b>
+</row>
+
+<row type="ctrl_button" x="265" y="105" w="%100-282" h="40" s="11:12:44"  gap="2">
+<b id="17" tcol="125">5</b>
+</row>
+<row type="static" x="265" y="144" w="%100-282" h="98" s="11:12:13:31" bcol="118" gap="-1">
+<s id="94" bcol="118"></s>
+</row>
+<row type="ctrl_button" x="267" y="146" w="%10-29" h="36" s="13:44" tcol="15"  gap="0">
+<cb id="18" w="%10-30">10</cb>
+<cb id="19">14</cb>
+<cb id="20">15</cb>
+<cb id="21">17</cb>
+<cb id="22">18</cb>
+<cb id="23">19</cb>
+<cb id="24">20</cb>
+<cb id="25">21</cb>
+<cb id="26">22</cb>
+<cb id="27">23</cb>
+</row>
+<row type="ctrl_button" x="267" y="180" w="%10-29" h="36" s="13:44" tcol="15" ex="87" gap="0">
+<cb id="28" w="%10-30">25</cb>
+<cb id="29">26</cb>
+<cb id="30">27</cb>
+<cb id="31">28</cb>
+<cb id="32">29</cb>
+<cb id="33">30</cb>
+<cb id="34">31</cb>
+<cb id="35">32</cb>
+<cb id="36">33</cb>
+<cb id="37">34</cb>
+</row>
+<row type="ctrl_button" x="267" y="146" w="%10-29" h="36" s="13:44" tcol="15" ex="87" gap="0">
+<cb id="38" w="%10-30">35</cb>
+<cb id="39">36</cb>
+<cb id="40">37</cb>
+<cb id="41">38</cb>
+<cb id="42">39</cb>
+<cb id="43">40</cb>
+<cb id="44">41</cb>
+<cb id="45">42</cb>
+<cb id="46">43</cb>
+<cb id="47">44</cb>
+</row>
+<row type="ctrl_button" x="267" y="180" w="%10-29" h="36" s="13:44" tcol="15" ex="87" gap="0">
+<cb id="48" w="%10-30">45</cb>
+<cb id="49">46</cb>
+<cb id="50">47</cb>
+<cb id="51">48</cb>
+<cb id="52">49</cb>
+<cb id="53">50</cb>
+<cb id="54">51</cb>
+<cb id="55">52</cb>
+<cb id="56">53</cb>
+<cb id="57">54</cb>
+</row>
+<row type="ctrl_button" x="267" y="146" w="%10-29" h="36" s="13:44" tcol="15" ex="87" gap="0">
+<cb id="58" w="%10-30">55</cb>
+<cb id="59">56</cb>
+<cb id="60">57</cb>
+<cb id="61">58</cb>
+<cb id="62">59</cb>
+<cb id="63">60</cb>
+<cb id="64">61</cb>
+<cb id="65">62</cb>
+<cb id="66">63</cb>
+<cb id="67">64</cb>
+</row>
+<row type="ctrl_button" x="267" y="180" w="%10-29" h="36" s="13:44" tcol="15" ex="87" gap="0">
+<cb id="68" w="%10-30">65</cb>
+<cb id="69">66</cb>
+<cb id="70">67</cb>
+<cb id="71">68</cb>
+<cb id="72">69</cb>
+<cb id="73">70</cb>
+<cb id="74">71</cb>
+<cb id="75">72</cb>
+<cb id="76">73</cb>
+<cb id="77">74</cb>
+</row>
+<row type="ctrl_button" x="267" y="146" w="%10-29" h="36" s="13:44" tcol="15" ex="87" gap="0">
+<cb id="78" w="%10-30">75</cb>
+<cb id="79">76</cb>
+<cb id="80">77</cb>
+<cb id="81">78</cb>
+</row>
+
+<row type="ctrl_button"  y="215" w="25" h="25" s="12:13:42" ex="81" gap="0">
+<s id="83" type="static" x="267" w="%50-187" h="25" bcol="8" s="11:12:31"></s>
+<b id="84" bgw="25" bg="./image/PTZcontrol/arrow_left_normal.png" bgc="./image/PTZcontrol/arrow_left_hover.png" tcol="16"></b>
+<s id="85" w="40" h="25" type="static" s="11:12:33" bcol="8"></s>
+<b id="86" bgw="25" bg="./image/PTZcontrol/arrow_right_normal.png" bgc="./image/PTZcontrol/arrow_right_hover.png" tcol="16"></b>
+<s id="87" type="static" w="%50-188" h="25" bcol="8" s="11:12:31"></s>
+<s id="88" type="static" x="%50+80" y="215" h="25" bcol="8" s="11:12:31"></s>
+<s id="89" type="static" x="%50+145" y="215" h="25" bcol="8" s="11:12:31"></s>
+</row>
+
+<col type="static" x="265" y="241" w="%30-84" h="40" s="11:12:31" gap="-1">
+<s id="1" bcol="114">4</s>
+<s id="4" bcol="118">7</s>
+<s id="5" bcol="114">8</s>
+</col>
+
+<col x="%30+180" y="241" w="%70-197" h="40" gap="-1">
+<cb type="CtrlCombobox" id="6" s="11:12:13:21:22:23" ex="81" ad="120" tcol="20"><selcn>9</selcn></cb>
+<e type="CtrlDate" id="9" s="12:13:92:93" ex="83:81" tcol="10"></e>
+<e type="CtrlDate" id="10" s="12:13:92:93" ex="83:81" tcol="20"></e>
+</col>
+
+<row type="ctrl_button" x="265" y="376" w="140" h="44" s="12:13:41:42" bgw="0" tc="100" gap="10">
+<b id="91" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">13</b>
+<b id="92" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">16</b>
+</row>
+
+<row type="ctrl_button" x="5" y="%100-58" w="244" h="54" s="12:13:41:42" bgw="0" tc="2" ex="81">
+<b id="134" bg="./image/common/btnpre.png" bgc="./image/common/btnpre_hover.png" ft="16">24</b>
+</row>
+
+
+
+
+</Picturebackup>

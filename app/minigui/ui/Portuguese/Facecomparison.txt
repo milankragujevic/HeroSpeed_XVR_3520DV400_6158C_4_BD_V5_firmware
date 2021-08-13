@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Obtendo parâmetros, Por favor aguarde...
+2=Lista Negra
+3=Lista Branca
+4=Lista Negra e Lista Branca

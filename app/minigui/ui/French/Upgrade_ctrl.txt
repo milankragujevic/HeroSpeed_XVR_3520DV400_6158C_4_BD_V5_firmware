@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=N°.
+2=Nom
+3=Taille
+4=Rendez-vous amoureux
+5=Actualiser
+6=Mise à jour

@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Více nastavení
+2=Doba předběžného nahrávání
+3=Odložit čas nahrávání
+4=Nahrávání zvuku
+5=Výchozí
+6=Uložit
+7=Zrušit

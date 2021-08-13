@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Datum a čas; 1
+2=Síť; 2
+3=Pevný disk; 3
+4=Kamera; 4
+5=Platforma; 5
+6=Změna hesla; 5
+7=Přida kameru
+8=CH
+9=Editace
+10=Smaž
+11=Nast.
+12=Odkaz
+13=IP adresa
+14=Přístav
+15=Protokol
+16=Verze firmware
+17=Stav připojení
+18=Hledání
+19=Automatické přidání
+20=Ruční přidání
+21=Předchozí
+22=Následující
+23=Ukončit
+24=Název zařízení

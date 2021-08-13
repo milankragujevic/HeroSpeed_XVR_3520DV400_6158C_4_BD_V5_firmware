@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Lütfen bir dosya seçiniz.
+2=Sabit disk sürücüsünde yeterli yer yok!
+3=Arama, lütfen bekleyin ...
+4=Taşınabilir sabit disk sürücüsüne veri yazılamıyor.
+5=Yedekleme bitti
+6=Cannot read hard disk.
+7=Çok fazla dosya aramayı kes!
+8=Kayıt dosyası yok
+9=Lütfen yedekleme türü seç.
+10=Benzerlik
+11=Yedekleniyor, lütfen yedeklemeyi iptal et veya yedekleme tamamlandıktan sonra devam et.
+12=Üst
+13=Yedeklenme sırasına eklendi
+14=Yedeklenme sırasına eklenemedi
+15=Yüz özellikleri çıkartılamadı
+16=İnsan dosyaları
+17=Yüz Karşılaştırma Araması

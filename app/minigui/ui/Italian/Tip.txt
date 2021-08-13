@@ -1,0 +1,24 @@
+[wintip]
+num=22
+1=Cattura
+2=Riproduzione istantanea
+3=PTZ
+4=Zoom
+5=Audio
+6=Immagine
+7=Informazione
+8=Avvia record per tutto il giorno
+9=Passa alla schermata principale
+10=Fisheye
+11=Disabilita POS
+12=Disattiva la posizione 3D
+13=Ferma il record per tutto il giorno
+14=Passa alla schermata secondaria
+15=Abilita POS
+16=Attiva la posizione 3D
+17=Cattura fallita
+18=No Permission
+19=Avvio della registrazione non riuscito, si prega di modificare il programma di registrazione.
+20=RTSP non supporta questa funzione
+21=Cattura riuscita, controlla in Gestione file.
+22=Chiudere

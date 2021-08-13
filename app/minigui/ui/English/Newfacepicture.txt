@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Exception file or Unsupported format (Only supports jpg).
+2=The selected file cannot be larger than 1M!
+3=Failed to extract face template
+4=Shooting failed
+5=Eigenvalue or face number exceeds the upper limit
+6=Please input a name!

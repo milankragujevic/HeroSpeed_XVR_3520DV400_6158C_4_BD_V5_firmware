@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Đang nhận param, Xin chờ ...
+2=Kênh này không có sự cho phép!

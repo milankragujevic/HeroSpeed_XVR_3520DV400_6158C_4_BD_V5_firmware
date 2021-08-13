@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Otevřeno
+2=Zavřít
+3=Video stream
+4=Substream
+5=Složený proud
+6=Nahrávat
+7=Pohyb
+8=Alarm
+9=Poh. a Al
+10=Inteligentní

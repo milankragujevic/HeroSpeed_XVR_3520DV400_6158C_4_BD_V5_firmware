@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=O email
+2=P2P
+3=Rede
+4=Exibição
+5=Exceções
+6=Utilizador
+7=IP / Porta
+8=DDNS
+9=O email
+10=P2P
+11=FTP
+12=UPnP
+13=Armazenamento na núvem
+14=Status
+15=habilitar P2P
+16=Número do canal
+17=Atualizar
+18=Aplique
+19=cancelar
+20=Visualização
+21=Encriptação
+22=NONE:SSL
+23=Intervalo de notificação (min)
+24=Fechar notificação: 2: 5: 10
+25=Número do usuário

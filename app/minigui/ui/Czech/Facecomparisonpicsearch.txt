@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Vybraný obrázek nesmí být větší než 1M
+2=Chyba formátu času!
+3=Jeden nebo více kanálů nemá povolení!
+4=Bez povolení!
+5=Všechny kanály
+6=Nahrajte obrázek.
+7=Vyberte kanál

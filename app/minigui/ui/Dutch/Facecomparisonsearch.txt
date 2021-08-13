@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Fout in tijdnotatie!
+2=Er zijn een of meer kanalen die geen toestemming hebben!
+3=Geen toestemming!
+4=Alle Kanalen
+5=Please select a channel

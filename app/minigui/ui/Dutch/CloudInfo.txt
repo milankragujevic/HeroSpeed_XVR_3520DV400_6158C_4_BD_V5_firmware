@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Informatie ophalen
+2=Koppeling geslaagd!
+3=Koppeling mislukt!
+4=Wachten…
+5=Gebruik de browser om de volgende URL te openen, voltooi validatie:

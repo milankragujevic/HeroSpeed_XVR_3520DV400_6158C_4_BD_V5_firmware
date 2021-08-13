@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Date and Time;1
+2=Network;2
+3=Hard Disk;3
+4=Camera;4
+5=Plateform;5
+6=Change Password;5
+7=Add Camera
+8=CH
+9=Edit
+10=Del
+11=Conf.
+12=Link
+13=IP
+14=Port
+15=Protocol
+16=Firmware Version
+17=Connection Status
+18=Search
+19=Auto Add
+20=Manual Add
+21=Previous
+22=Next
+23=Exit
+24=Camera Name

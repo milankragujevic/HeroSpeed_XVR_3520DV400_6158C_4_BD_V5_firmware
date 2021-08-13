@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Lịch trình
+2=Ghi hình
+3=Chụp
+4=Thiết bị dự trữ
+5=cách dự trữ
+6=Tự động lập bản sao
+7=Cao cấp

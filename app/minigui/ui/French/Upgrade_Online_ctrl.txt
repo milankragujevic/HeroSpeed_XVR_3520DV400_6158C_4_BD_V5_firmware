@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Statut
+2=Mise à jour automatique
+3=Heure de mise à jour
+4=Vérifier
+5=Mise à jour
+6=Appliquer

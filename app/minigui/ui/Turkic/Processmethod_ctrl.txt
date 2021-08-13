@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=İşleme metodu
+2=Kurma zamanı
+3=İşleme metodu
+4=Ekran görüntüsü
+5=Alarm sesli uyarıcı
+6=e-posta yolla
+7=FTP'ye Yükle
+8=Kanal Kaydı
+9=Ele geçirmek
+10=Alarm Çıkışını Etkinleştir
+11=Alarm çıkışı
+12=Alarm adı
+13=Uygula
+14=iptal
+15=1
+16=2
+17=3
+18=4
+19=5
+20=6
+21=7
+22=8
+23=bağlantı
+24=Kayıt zamanı (saniye)
+25=Buzzer Time(sec)

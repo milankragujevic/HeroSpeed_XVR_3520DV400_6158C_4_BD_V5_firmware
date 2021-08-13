@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Képkeresés
+2=Csatorna
+3=Típus
+4=Idő
+5=Nézet
+6=Felhasználó
+7=Nézet
+8=Fennmaradt/Teljes kapacitás:
+9=Mentés
+10=Megszünteti
+11=Frissítés

@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Yüz yakalama
+2=Sonuç karşılaştır
+3=Mode:Blacklist
+4=Mode:Whitelist
+5=Mode: Black And White List

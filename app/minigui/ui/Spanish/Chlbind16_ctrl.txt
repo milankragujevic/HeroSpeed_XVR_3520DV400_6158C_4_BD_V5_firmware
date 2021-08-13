@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Configuración
+2=General
+3=Red
+4=Imagen
+5=Excepciones
+6=Usuario
+7=Configuracion de Canal
+8=Configuracion de Canal
+9=Canal
+10=HD
+11=IP
+12=Defecto
+13=Aplicar
+14=Cancelar
+15=Vista preliminar
+16=Alarma local
+17=El modo ligero
+18=Habilitar:deshabilitar
+19=Wifi
+20=Filtro IP

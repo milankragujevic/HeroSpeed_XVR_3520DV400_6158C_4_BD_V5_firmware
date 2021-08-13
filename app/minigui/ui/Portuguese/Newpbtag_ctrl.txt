@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Etiqueta Nova
+2=Nome
+3=Confirmado
+4=cancelar
+5=Editar Etiqueta

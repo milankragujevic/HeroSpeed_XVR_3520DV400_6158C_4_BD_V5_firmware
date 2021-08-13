@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Brak pozwolenia!
+2=Odtwarzanie
+3=Zapis kopii zapasowej plików
+4=Zarządzanie dyskiem
+5=Harmonogram zapisu i ustawienia kodowania kamery.
+6=Camera add,camera osd,image,motion detection,videoloss,ptz,privacy mask setup,channelname.
+7=Konfiguracja: data/czas, sieć, wyświetlanie, awarie, użytkownicy, konfig. kanału.
+8=Strumień, log, informacje o wersji i aktualizacja systemu, przywrócenie ustawień domyślnych.
+9=Wylogowanie z systemu i ponowne uruchomienie.
+10=Konfiguracja: data/czas, sieć, wyświetlanie, awarie, użytkownicy, konfig. kanału.

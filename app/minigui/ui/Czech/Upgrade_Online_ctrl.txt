@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Stav
+2=Automatická aktualizace
+3=Čas aktualizace
+4=Kontrola parity
+5=Aktualizace
+6=Použít

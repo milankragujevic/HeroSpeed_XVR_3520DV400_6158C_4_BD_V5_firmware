@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Nabídka
+2=Přehrávání
+3=Vývozní
+4=HDD
+5=Nahrávat
+6=Kamera
+7=Nastavení
+8=Údržba
+9=Vypnout

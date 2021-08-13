@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Erweit.Einstellungen
+2=Prerecord-Zeit (sek.)
+3=Verzögerte Aufnahmezeit
+4=Tonaufnahme
+5=Standard
+6=Speichern
+7=Abbrechen

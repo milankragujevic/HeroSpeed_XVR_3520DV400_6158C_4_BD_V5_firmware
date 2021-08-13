@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Thêm danh bạ khuôn mặt
+2=Hình ảnh nội bộ
+3=Chụp ảnh
+4=Nhập hình ảnh
+5=Tên
+6=xác nhận/ ok
+7=Hủy
+8=Kênh
+9=Mẫu khuôn mặt
+10=Quay phim
+11=Trích mẫu khuôn mặt
+12=Chọn mặt
+13=Tạo mới
+14=chụp  lại

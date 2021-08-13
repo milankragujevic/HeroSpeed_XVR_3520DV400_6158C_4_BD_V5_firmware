@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Fișier imagine
+2=Fișier video
+3=Backup în desfășurare, vă rugăm așteptați...
+4=Spațiu pe disc insuficient
+5=Salvare de rezerva reusita!
+6=Salvare de rezerva esuata!

@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Seteo de canal
+2=Habilitado
+3=Canal
+4=Protocolo
+5=Vista preliminar
+6=Nombre de Usuario
+7=Contraseña
+8=IP
+9=Dominio
+10=Puerto
+11=Principal
+12=Secundario
+13=Principal:Secundario
+14=Grabar
+15=Cancelar
+16=Añadir forma
+17=Manual: Conectar y Reproducir
+18=Manual

@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Frissítés
+2=Formáz
+3=Javítás
+4=Sorsz.
+5=Állapot
+6=Teljes kapacitás
+7=Felhasználható kapacitás
+8=Eszköz típus
+9=Figyelem: Az NVR automatikusan újraindul a formázás után!

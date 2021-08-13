@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Képváltás
+2=Engedélyez
+3=Idő (mp)
+4=Mód
+5=Alapértelmezett
+6=Alkalmaz
+7=Megszünteti

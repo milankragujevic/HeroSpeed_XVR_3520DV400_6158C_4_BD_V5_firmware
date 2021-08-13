@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Őrjárat beállítás
+2=Preset sorsz.
+3=Várakozási idő
+4=Sebesség
+5=Megerősít
+6=Megszünteti

@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=/
+2=/
+3=Errore di formato temporale!
+4=Il carico sulla rete è troppo elevato, si consiglia la rimuozione di alcuni canali.
+5=Il carico sulla rete è adesso a livelli accettabili.
+6=Nessun permesso!
+7=In fase di aggiornamento, non spegnere!
+8=Formattazione in corso, attendere prego…
+9=Polling
+10=No channels that support this feature!
+11=Riconoscimento facciale
+12=Finestre
+13=5m Riproduzione
+14=Volume
+15=Ingrandisci
+16=Immagine
+17=Info Stream
+18=Chiudere
+19=La password corrente è troppo semplice, si prega di modificare la password!
+20=Sono stati trovati nuovi dispositivi di archiviazione, formattati immediatamente come disco di registrazione?
+21=In sviluppo!
+22=Schermata manuale fallita!
+23=Ferma utilizzo disco
+24=La password corrente è troppo semplice, si prega di modificare la password!
+25=Cattura

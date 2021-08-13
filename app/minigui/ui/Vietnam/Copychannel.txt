@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Không quá 4 kênh!
+2=Không quá 8 kênh!
+3=Không cho phép!
+4=Ghi kênh

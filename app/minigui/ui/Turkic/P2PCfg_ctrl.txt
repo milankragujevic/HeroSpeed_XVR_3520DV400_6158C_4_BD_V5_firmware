@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=E-mail
+2=P2P
+3=Ağ
+4=Ekran
+5=İstisnalar
+6=Kullanıcı
+7=IP / Liman
+8=DDNS
+9=E-mail
+10=P2P
+11=FTP
+12=UPnP
+13=Bulut Depolama
+14=durum
+15=P2P'yi etkinleştir
+16=Kanal numarası
+17=Yenileme
+18=Uygula
+19=iptal
+20=Ön
+21=şifreleme
+22=YOK: SSL
+23=resim push zaman aralığı dakika
+24=resim push kapat:2:5:10
+25=Kullanıcı numarası

@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Programa de grabación
+2=Dia seleccionado:
+3=Programa 1
+4=Programa 2
+5=Programa 3
+6=Programa 4
+7=Programa 5
+8=Programa 6
+9=Usado para
+10=Todos
+11=Dom.
+12=Lun.
+13=Mar.
+14=Mie.
+15=Jue.
+16=Vie.
+17=Sab.
+18=Grabar
+19=Cancelar
+20=Horario 7
+21=Horario 8
+22=Do.: Lu.: Ma.: Mi.: Ju.: Vi.: Sá.
+23=Aplicar

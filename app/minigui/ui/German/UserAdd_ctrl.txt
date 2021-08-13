@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Neue Benutzer
+2=Benutzername
+3=Passwort
+4=Bestätigen
+5=Stufe
+6=Betreiber: Allgemein
+7=Speichern
+8=Abbrechen

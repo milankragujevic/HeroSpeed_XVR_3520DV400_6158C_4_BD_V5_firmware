@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Modificați utilizatorul
+2=Nume Utilizator
+3=Modificați parola
+4=Parola veche
+5=Parolă Nouă
+6=Confirmare
+7=Nivel
+8=Administrator: Operator: General
+9=Salvare
+10=Anulare
+11=Resetați problemele de securitate
+12=Problemă de securitate1
+13=Raspunsul 1
+14=Problemă de securitate2
+15=Raspunsul 2
+16=Problemă de securitate3
+17=Raspunsul 3
+18=Vă rugăm să selectați problema: Care este numărul dvs. de muncă?: Care este ziua de naștere a tatălui dvs?: Care este melodia dvs. preferată în limba engleză?: Care este ziua de naștere a mamei dvs?
+19=Vă rugăm să selectați problema: Care este numărul dvs. de școală?: Care sunt numerele dvs. norocoase?: Numele stelei preferate este? (Română): Ziua aniversării dvs. de nuntă este?
+20=Selectați problema: Care este cea mai populară căsuță poștală dvs?: Care este codul poștal pentru zona dvs?: Care este numele animalului dvs. de companie ?: Care sunt numerele dvs. de telefon?
+21=Tasta de export
+22=Model de Deblocare
+23=Activați Modelul de Deblocare
+24=Modificați Modelul de Deblocare

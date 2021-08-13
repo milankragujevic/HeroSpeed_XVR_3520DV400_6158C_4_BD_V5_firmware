@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Cài đặt tuần tra
+2=Kênh
+3=Điểm
+4=Tuần tra
+5=Đặt
+6=Gọi
+7=1:2:3
+8=Số.
+9=Tên
+10=Điểm
+11=Tốc độ
+12=Thời gian nghỉ
+13=Cài đặt
+14=Xóa
+15=Bắt đầu hành trình
+16=Xóa hành trình
+17=Xóa tất cả các hành trình
+18=Hủy
+19=Phóng to
+20=Focus
+21=Iris
+22=Tốc độ
+23=Bắt đầu
+24=Đóng hành trình

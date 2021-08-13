@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Upload From Face Database
+2=Face Database List
+3=Name
+4=Time
+5=Face Picture
+6=User
+7=View
+8=Remaining/Total Capacity:
+9=OK
+10=Cancel
+11=1

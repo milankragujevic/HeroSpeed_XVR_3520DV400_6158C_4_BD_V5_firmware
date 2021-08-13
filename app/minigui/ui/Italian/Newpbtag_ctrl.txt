@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Nuovo tag
+2=Nome
+3=Conferma
+4=Cancella
+5=Modifica tag

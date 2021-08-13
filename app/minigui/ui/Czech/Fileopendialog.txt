@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Soubory
+2=Složka souborů

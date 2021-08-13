@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Usuario agregado con éxito!
+2=/
+3=El usuario ya existe!
+4=Por favor ingrese nombre de usuario!
+5=Por favor ingrese la contraseña!
+6=Por favor ingrese una nueva contraseña!
+7=contraseña incorrecta
+8=Las contraseñas no coinciden
+9=Error desconocido
+10=El administrador no puede ser borrado
+11=¡El nombre de usuario no se puede llamar raíz o administrador!
+12=El nombre de usuario no puede incluir la tecla de espacio en blanco
+13=Aviso: La contraseña debe tener por lo menos 8 símbolos, los cuales incluyen como mínimo un número y una letra.
+14=Si el nombre de usuario o la longitud de la contraseña son superiores a 10, no pueden ser todos los números

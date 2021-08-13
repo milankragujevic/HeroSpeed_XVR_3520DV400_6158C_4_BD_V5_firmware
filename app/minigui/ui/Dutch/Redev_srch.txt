@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Apparaat zoeken, even geduld aub!
+2=Wilt u de boot wizard afsluiten?
+3=Deze aanpassing zal het IP adres van het apparaat wijzigen, bevestigen?
+4=Fisheye apparatuur moet apart worden gekoppeld
+5=Het apparaat is te vaak verbonden, u kunt deze niet toevoegen
+6=Voeg camera toe, een ogenblik geduld.
+7=toegevoegd
+8=Camera verwijderen, even geduld aub…

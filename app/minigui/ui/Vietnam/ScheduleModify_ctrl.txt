@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Lịch ghi
+2=Tuần hiện tại:
+3=Lịch trình 1
+4=Lịch trình 2
+5=Lịch trình 3
+6=Lịch trình 4
+7=Lịch trình 5
+8=Lịch trình 6
+9=Dùng để:
+10=Tất cả
+11=CN.
+12=Hai.
+13=Ba.
+14=Tư.
+15=Năm.
+16=Sáu.
+17=Bảy.
+18=Lưu
+19=Hủy
+20=Lịch trình 7
+21=Lịch trình 8
+22=Chủ nhật: thứ hai: thứ ba : thứ tư: thứ nam: thứ sáu
+23=Ứng dụng

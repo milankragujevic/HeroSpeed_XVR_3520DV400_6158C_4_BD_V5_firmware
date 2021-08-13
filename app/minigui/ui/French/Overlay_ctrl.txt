@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Caméra
+2=Nom du canal
+3=Heure
+4=Texte
+5=Format date
+6=Position OSD
+7=Miroir
+8=Année Mois Jour: Mois Jour Année: Jour Mois Année
+9=Haut_gauche:Bas_gauche
+10=Aucun:Horizontal:Vertical:Les deux
+11=Appliquer
+12=Copier

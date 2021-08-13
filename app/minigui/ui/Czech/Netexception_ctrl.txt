@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Detekce pohybu
+2=Ladění videa
+3=Ztráta videa
+4=Alarm vstup
+5=Alarm výstup
+6=Události
+7=Typ události
+8=Povolit
+9=Žádný disk: Chyba disku: Odpojená síť: Konflikt IP
+10=Běžný odkaz
+11=Výchozí
+12=Použít
+13=Alarm výstup
+14=Bzučák

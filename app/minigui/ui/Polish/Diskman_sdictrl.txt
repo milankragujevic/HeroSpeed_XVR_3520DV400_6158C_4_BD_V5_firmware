@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=HDD
+2=Podstawowy
+3=Informacje o HDD
+4=Nr.
+5=Stan
+6=Łączne miejsce
+7=Pozostałe miejsce
+8=Typ urządzenia
+9=Uwaga: DVR uruchomi się ponownie po sformatowaniu dysku !
+10=Odśwież
+11=Formatowanie
+12=Anuluj
+13=Podgląd

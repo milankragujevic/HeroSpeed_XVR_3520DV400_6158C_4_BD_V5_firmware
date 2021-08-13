@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=IPC Güncellemesi
+2=CH
+3=Ad
+4=boyut
+5=zaman
+6=Güncelleştirme
+7=iptal

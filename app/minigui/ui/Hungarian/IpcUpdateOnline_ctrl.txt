@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Kamera frissítése
+2=Csat
+3=Név
+4=Méret
+5=Idő
+6=Frissítés
+7=Megszünteti

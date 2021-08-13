@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Kanał
+2=Włącz
+3=Strefa prywatna 1
+4=Strefa prywatna 2
+5=Strefa prywatna 3
+6=Wyczyść wszystko
+7=Zastosuj
+8=Kopiuj

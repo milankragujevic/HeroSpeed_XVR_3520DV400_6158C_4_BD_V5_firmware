@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Detekcja ruchu
+2=Sabotaż wideo
+3=Utrata sygnału wideo
+4=Wejście alarmowe
+5=Wyjście alarmowe
+6=Awaria
+7=Czas zwłoki(1~120s)
+8=5 Sek:10 Sek:30 Sek:1 Min:2 Min:5 Min:10 Min
+9=Test
+10=Zastosuj
+11=Brzęczyk

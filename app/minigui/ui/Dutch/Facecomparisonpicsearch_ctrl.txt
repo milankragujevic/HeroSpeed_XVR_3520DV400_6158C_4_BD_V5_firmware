@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Zoek op Evenement
+2=Zoek op Afbeelding
+3=Lokale Upload
+4=Database Uploaden
+5=Kanaal
+6=Tijd
+7=Gelijkenis(0-100)
+8=Vandaag:Gisteren:Afgelopen 2 Dagen:Afgelopen 3 Dagen:Afgelopen 7 Dagen:Afgelopen 14 Dagen:Zelf Bepaalde
+9=Zoeken

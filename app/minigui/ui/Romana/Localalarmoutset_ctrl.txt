@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Editați
+2=Alarma de ieșire
+3=Nume alarma
+4=Întârziere
+5=Starea alarmelor
+6=5 secunde: 10 secunde: 30 de secunde: 1 minut: 2 minute: 5 minute: 10 minute: curățare manuală
+7=Program de armare
+8=trăgaci
+9=Stergere
+10=\
+11=\
+12=Copie
+13=Salvare
+14=Toate
+15=Soare.
+16=Mon.
+17=Tue.
+18=Miercuri
+19=Thu.
+20=Vineri
+21=Sat.
+22=Normal
+23=Editați

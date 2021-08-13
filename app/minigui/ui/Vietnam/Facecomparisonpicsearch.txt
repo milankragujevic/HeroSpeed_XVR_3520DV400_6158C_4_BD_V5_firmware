@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=tệp hình ảnh không thể nặng hơn 1M
+2=Lỗi định dạng thời gian!
+3=Có một hoặc nhiều kênh không có sự cho phép!
+4=Không cho phép!
+5=Tất cả các kênh
+6=Xin đăng lên hình ảnh
+7=Vui lòng chọn một kênh

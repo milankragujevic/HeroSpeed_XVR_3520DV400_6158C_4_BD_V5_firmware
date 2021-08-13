@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Nuova cartella
+2=Nome del file
+3=Conferma
+4=Cancella

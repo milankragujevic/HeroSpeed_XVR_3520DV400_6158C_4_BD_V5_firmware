@@ -1,0 +1,24 @@
+[wintip]
+num=22
+1=Captură
+2=Redare instantă
+3=Setare PTZ
+4=Zoom
+5=Sunet
+6=Imagine
+7=Informații
+8=Începeți înregistrarea de toată ziua
+9=Comutare la principal
+10=fisheye
+11=Dezactivare POS
+12=Oprire poziție 3D
+13=Opriți înregistrarea de toată ziua
+14=Comutare la Sub
+15=Activare POS
+16=Pornire poziție 3D
+17=Captura nu a reușit
+18=No Permission
+19=Începerea înregistrării a eșuat, vă rugăm să schimbați programul de înregistrare.
+20=RTSP nu acceptă această caracteristică
+21=Captură realizată cu succes, Vă rugăm să verificați în managerul de fișiere
+22=Închide

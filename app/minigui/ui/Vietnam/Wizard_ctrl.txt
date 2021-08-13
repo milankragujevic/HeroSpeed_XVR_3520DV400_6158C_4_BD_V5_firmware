@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Ngôn ngữ
+2=Ngôn ngữ hệ thống
+3=Ứng dụng
+4=Thoát

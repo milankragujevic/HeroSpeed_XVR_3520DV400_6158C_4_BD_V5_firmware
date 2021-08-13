@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=In Use
+2=Disk No.
+3=Normal
+4=Not connecting disk!
+5=In process of formatting, please wait...
+6=Device is in use.
+7=Unknown error
+8=Format succeeded
+9=Format failed.
+10=Please select a disk
+11=Formatting will cause loss of all data in the disk. Continue?
+12=No permission!
+13=Could not format the USB disk.
+14=Are you sure you exit the boot wizard?

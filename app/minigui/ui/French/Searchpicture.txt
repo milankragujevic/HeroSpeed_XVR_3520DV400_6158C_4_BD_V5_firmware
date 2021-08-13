@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Veuillez sélectionner un fichier.
+2=Not enough disk space.
+3=En cours de reherche, patientez...
+4=Ecriture impossible sur le disque dur mobile.
+5=Sauvegarde terminée
+6=Insérez le disque USB S.V.P.
+7=Trop de fichiers, recherche arretée
+8=Capture Manuelle
+9=Détection
+10=Alarme
+11=Mouvement ou Alarme
+12=Mouvement ou Alarme

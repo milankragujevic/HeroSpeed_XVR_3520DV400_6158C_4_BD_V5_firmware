@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Sin permiso!
+2=Reproducir.
+3=Respaldar archivo de grabación.
+4=Administración de disco duro.
+5=Programa de grabación y codificación de la cámara.
+6=Camera add,camera osd,image,motion detection,videoloss,ptz,privacy mask setup,channelname.
+7=Fecha / hora del sistema, red, pantalla, excepción, configuración del usuario, configuración del canal.
+8=Stream, log, información de la versión y actualización del sistema, restablecer el valor predeterminado.
+9=Cerras sesión y reiniciar.
+10=Fecha / hora del sistema, red, pantalla, excepción, configuración del usuario, configuración del canal, alarma local.

@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Wyszukaj plik
+2=K.
+3=Typ zdarzenia
+4=Czas Rozpoczęcia/Czas Zakończenia
+5=Zakończenie
+6=Typ pliku
+7=Wymagane miejsce:
+8=Dostępne/łączne miejsce:
+9=Eksport
+10=Anuluj
+11=Odśwież
+12=Widok
+13=Przeskocz
+14=Wsz.
+15=Grupa:
+16=Kanał
+17=Czas
+18=FTP Eksport

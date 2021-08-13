@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Esemény szerinti keresés
+2=Kép szerinti keresés
+3=Helyi feltöltés
+4=Adatbázis feltöltés
+5=Csatorna
+6=Idő
+7=Hasonlóság (0-100)
+8=Ma: Tegnap: Utolsó 2 nap: Utolsó 3 nap: Utolsó 7 nap: Utolsó 14 nap: Egyéni
+9=Keresés

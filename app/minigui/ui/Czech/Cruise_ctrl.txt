@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Nastavení Patrol
+2=Kanál
+3=Předvolby
+4=Hlídka
+5=Nast.
+6=Volání
+7=1:2:3
+8=Č.
+9=Jméno
+10=Předvolba
+11=Rychlost
+12=Čas na místě
+13=Nastavení
+14=Smaž
+15=Cesta povolena
+16=Vymazat cestu
+17=Vymazat vše
+18=Zrušit
+19=Zvětšení
+20=Ostření
+21=Závěrka
+22=Rychlost
+23=Zadejte
+24=Cesta vypnuta

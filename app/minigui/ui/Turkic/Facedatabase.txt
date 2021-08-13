@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=yüz veri tabanı seçin
+2=başardı
+3=başarmadı
+4=topluca eklendi
+5=topluca eklenemedi
+6=USB'nin disk yolu bulunmadı
+7=USB'de yüz resimleri bulunmadı
+8=Maksimum 5000 yüz resmi ekleme!
+9=yüz resimleri eklemek
+10=yüz veri tabanı bulunmadı
+11=Maksimum 16 yüz veritabanı ekleniyor!
+12=Geri kalan kapasite
+13=Toplam kapasite

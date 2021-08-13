@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=HDD
+2=Obecné
+3=Informace o HDD
+4=Č.
+5=Stav
+6=Celková velikost
+7=Zbývající velikost
+8=Typ zařízení
+9=Upozornění: Po formátování disku se DVR automaticky restartuje!
+10=Obnovit
+11=Formátování
+12=Zrušit
+13=Náhled

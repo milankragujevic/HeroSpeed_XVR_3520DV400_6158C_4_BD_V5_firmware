@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Uložit ?
+2=Vyhledávám zařízení, odhlašte se později !
+3=Nesprávná IP adresa !
+4=Nejprve vyberte zařízení !
+5=Editace
+6=Ruční přidání
+7=Uživatelské jméno nemůže být prázdné !
+8=Vyhodnocení domény selhalo !
+9=Doména formát je nesprávné.

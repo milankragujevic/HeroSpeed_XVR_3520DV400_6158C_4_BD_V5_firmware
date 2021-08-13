@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Trong quá trình khởi tạo đĩa, vui lòng đợi ...
+2=thất bại

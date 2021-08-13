@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=Phương pháp
+2=Thời gian sắp xếp
+3=Phương pháp
+4=Màn hình hiển thị
+5=Báo động Buzzer
+6=Gửi e-mail
+7=Tải lên FTP
+8=Ghi kênh
+9=Chụp
+10=Bật đầu ra báo động
+11=Đầu ra báo động
+12=Tên báo động
+13=Ứng dụng
+14=Hủy
+15=1
+16=2
+17=3
+18=4
+19=5
+20=6
+21=7
+22=8
+23=Liên kết
+24=Thời gian ghi (giây)
+25=Buzzer Time(sec)

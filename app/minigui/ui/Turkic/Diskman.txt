@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Kullanımda
+2=Sabit Disk Sürücü Numarası
+3=Normal
+4=Sabit disk sürücüsü bağlı değil!
+5=Biçimlendirme devam ediyor, lütfen bekleyiniz…
+6=Cihaz kullanımda.
+7=Bilinmeyen hata
+8=Biçimlendirme işlemi başarılı.
+9=Biçimlendirme işlemi başarısız.
+10=Lütfen sabit disk sürücüsü seçiniz
+11=Biçimlendirme, sabit disk sürücünüzdeki tüm bilgilerin silinmesine neden olacaktır. Devam etsin mi?
+12=İzin yok!
+13=USB disk sürücüsü biçimlendirilemiyor.
+14=Yeniden başlatma sihirbazından çıkmak istediğinize emin misiniz?

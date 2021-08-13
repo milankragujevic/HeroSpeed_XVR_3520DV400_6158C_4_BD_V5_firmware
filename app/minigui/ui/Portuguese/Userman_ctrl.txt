@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Adicionar
+2=Modificar
+3=Deletar
+4=Permissão de Visualização ao Vivo na Tela de Bloqueio
+5=Não.
+6=Nome do usuário
+7=Segurança
+8=Nível
+9=Autoridade

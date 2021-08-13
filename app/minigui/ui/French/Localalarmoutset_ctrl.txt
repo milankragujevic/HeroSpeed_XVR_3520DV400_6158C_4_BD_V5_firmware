@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Editer
+2=Sortie d'alarme
+3=Nom de l'alarme
+4=Retard
+5=État d'alarme
+6=5 Secondes:10 Secondes:30 Secondes:1 Minute:2 Minutes:5 Minutes:10 Minutes:Effacer manuellement
+7=Temps d'alerte
+8=Déclencher
+9=Effacer
+10=\
+11=\
+12=Copier
+13=Appliquer
+14=Tous
+15=Dim.
+16=Lun.
+17=Mar.
+18=Mer.
+19=Jeu.
+20=Ven.
+21=Sam.
+22=Ordinaire
+23=Editer

@@ -1,0 +1,19 @@
+[Ctrltxt]
+num=17
+1=Tìm kiếm
+2=Tự động thêm
+3=Thêm thủ công
+4=Cập nhật
+5=Xóa
+6=Mở H264 + / H265 +
+7=Tên thiết bị Camera
+8=Tình trạng kết nối
+9=Kênh
+10=Chỉnh sửa
+11=Xóa
+12=Cấu hình.
+13=Liên kết
+14=IP
+15=Cổng
+16=Giao thức
+17=Phiên bản phần mềm

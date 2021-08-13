@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pbcuttime x="120" y="80" w="600" h="340" title="Pbcuttime">
+<row type="static">
+<s id="38" x="0" y="0" w="600" h="2" s="11:12:33" bcol="7"></s>
+<s id="39" x="0" y="337" w="600" h="2" s="11:12:33" bcol="7"></s>
+<s id="40" x="0" y="3" w="2" h="334" s="11:12:33" bcol="7"></s>
+<s id="41" x="597" y="3" w="2" h="334" s="11:12:33" bcol="7"></s>
+<s id="42" x="3" y="335" w="594" h="2" s="11:12:33" bcol="5"></s>
+<s id="43" x="3" y="3" w="2" h="333" s="11:12:33" bcol="5"></s>
+<s id="44" x="595" y="3" w="2" h="333" s="11:12:33" bcol="5"></s>
+</row>
+
+<row type="static" x="15" y="30" w="200" h="40" s="11:12:31"  gap="-1">
+<b id="3" bcol="114">3</b>
+<b type="CtrlDate" id="5" tcol="20" w="370" h="40" s="12:13:95" ex="83:81" ></b>
+</row>
+
+
+<row type="ctrl_button" x="155" y="281" w="140" h="40" s="12:13:41:42" bgw="0" gap="10">
+<b id="7" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">5</b>
+<b id="8" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">6</b>
+</row>
+
+</Pbcuttime>

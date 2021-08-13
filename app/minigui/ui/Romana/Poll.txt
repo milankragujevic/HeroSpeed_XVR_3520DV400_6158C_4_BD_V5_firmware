@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Revenire la parametrii initiali?
+2=Timp de sosire între 5 și 255 de ore.

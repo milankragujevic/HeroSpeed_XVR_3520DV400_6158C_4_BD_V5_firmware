@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Bez povolení!
+2=Nepodařilo se zachytit snímek obrazovky
+3=Zachycení
+4=Audio
+5=Zvětšení
+6=Přidat štítek
+7=rybí oko
+8=Zavřít
+9=Zdařilo se zachycení snímku, zkontrolujte prosím na správci souborů.

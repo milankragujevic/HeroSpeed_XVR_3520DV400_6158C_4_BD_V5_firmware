@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Bearbeiten
+2=Alarmausgang
+3=Alarmname
+4=Verzögern
+5=Alarmstatus
+6=5 Sekunden: 10 Sekunden: 30 Sekunden:1 Minute:5 Minuten:10 Minuten :manuell löschen
+7=Benachrichtigungszeit
+8=Auslöser
+9=Löschen
+10=\
+11=\
+12=Kopieren
+13=Anwenden
+14=Alle
+15=So.
+16=Mo.
+17=Di.
+18=Mi.
+19=Do.
+20=Fr.
+21=Sa.
+22=Normal
+23=Bearbeiten

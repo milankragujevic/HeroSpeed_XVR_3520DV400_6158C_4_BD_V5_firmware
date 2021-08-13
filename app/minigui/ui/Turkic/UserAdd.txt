@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Kullanıcı ekleme başarılı!
+2=/
+3=Bu kullanıcı zaten var!
+4=Lütfen kullanıcı adı giriniz!
+5=Lütfen şifre giriniz!
+6=Lütfen yeni bir şifre giriniz!
+7=Şifre doğru değil!
+8=Şifreler birbirleriyle uyuşmuyor!
+9=Bilinmeyen hata!
+10=Administrator silinemez!
+11=Kullanıcı adı root veya admin olarak adlandırılamaz!
+12=Kullanıcı adı boş alan anahtarını içeremez
+13=Uyarı; Şifre en az 8 karakterli olmalı ve en az bir rakam ve harf içermelidir
+14=Kullanıcı adı veya şifre uzunluğu 10'dan daha büyükse, tüm sayılar olamaz

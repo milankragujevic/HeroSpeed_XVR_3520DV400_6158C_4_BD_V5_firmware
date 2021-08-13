@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Lecture des paramètres, veuillez patienter…
+2=Cette chaîne n'a pas de permission!
+3=Le nom du canal ne peut contenir les symboles suivants : ! % & #

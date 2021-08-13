@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Název:
+2=Velikost:
+3=Len:
+4=Čas:
+5=Export úspěšný
+6=Export selhal
+7=Úspěšně odeslali e-mail
+8=Nepodařilo se odeslat e-mail
+9=Export, čekejte prosím ...
+10=Odeslání e-mailu, prosím čekejte ...
+11=Jste si jistý, že jste skončili?
+12=Vložte USB disk.

@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Patrol Setup
+2=Channel
+3=Presets
+4=Patrol
+5=Set
+6=Call
+7=1:2:3
+8=No.
+9=Name
+10=Preset
+11=Speed
+12=Stay Time
+13=Setup
+14=Del
+15=Cruise On
+16=Del Cruise
+17=Del All Cruise
+18=Cancel
+19=Zoom
+20=Focus
+21=Iris
+22=Speed
+23=Enter
+24=Cruise Off

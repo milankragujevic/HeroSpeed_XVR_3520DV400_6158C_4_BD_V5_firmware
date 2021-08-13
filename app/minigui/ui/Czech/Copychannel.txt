@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Maximálně 4 kanály !
+2=Maximálně 8 kanálů !
+3=Bez povolení!
+4=Kanál záznamu

@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Tonalarm
+2=E-Mail senden
+3=Bildschirmanzeige
+4=Zeitformatfehler!
+5=Fügen Sie maximal 6 Zeitpläne pro Tag hinzu!

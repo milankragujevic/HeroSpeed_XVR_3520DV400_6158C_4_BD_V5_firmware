@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Felbontás
+2=Átlátszóság
+3=Idő kijelzése (OSD)
+4=Újraindítás után:
+5=1024x768:1280x720:1280x1024:1920x1080
+6=Alapértelmezett
+7=Alkalmaz
+8=Csatorna név megjelenítés

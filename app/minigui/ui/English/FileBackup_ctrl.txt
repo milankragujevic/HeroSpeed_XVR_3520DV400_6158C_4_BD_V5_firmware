@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Time
+2=Channel
+3=File Type
+4=Tag
+5=Event Type
+6=Plate No.
+7=File Status
+8=Area/Country
+9=Today:Yesterday:Last 2 Days:Last 3 Days:Last 7 Days:Last 14 Days:Custom
+10=Video:Picture
+11=All:Unlocked:Locked
+12=Fast Export
+13=Search

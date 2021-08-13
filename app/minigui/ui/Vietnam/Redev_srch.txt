@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Tìm kiếm thiết bị, vui lòng đợi!
+2=Bạn có chắc chắn thoát khỏi trình hướng dẫn khởi động?
+3=Thao tác sẽ thay đổi IP của thiết bị từ xa, xác nhận những thay đổi?
+4=là thiết bị mắt cá có yêu cầu thêm riêng
+5=Thiết bị được kết nối quá nhiều lần, bạn không thể thêm.
+6=Thêm Camera, vui lòng chờ.
+7=thêm
+8=xóa camera, vui lòng đợi ...

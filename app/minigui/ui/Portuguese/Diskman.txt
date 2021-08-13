@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Em uso
+2=Disco No.
+3=Normal
+4=Disco não esta conectado!
+5=Em processo de formatação, por favor aguarde...
+6=Dispositivo em uso.
+7=Erro desconhecido
+8=Formatação bem-sucedida
+9=Formatação falhou.
+10=Por favor selecione um disco
+11=Formatação ira causar perda de todos os dados no disco. Continuar?
+12=Sem permissão!
+13=Não foi possível formatar o disco USB.
+14=Tem a certeza de sair do assistente de inicialização?

@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=xem xét
+2=lối thiết bị
+3=Tất cả tệp (*.*): *.Jpg
+4=lên
+5=Tên
+6=Kích thước
+7=Kiểu
+8=Thời gian sửa đổi
+9=Xóa
+10=xác nhận/ ok
+11=Hủy
+12=tạo cặp mới

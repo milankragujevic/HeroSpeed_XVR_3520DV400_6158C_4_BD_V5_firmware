@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=No mobile hard disk!
+2=Disintallazione terminata con successo!
+3=Problemi durante la disintallazione!
+4=File registrazione
+5=Attendere, backup in corso!
+6=Backup terminato con successo!
+7=Backup fallito!
+8=Nessun disco su cui fare il backup!
+9=Il processo di preparazione è fallito!
+10=Errore sconosciuto!
+11=Nessun permesso!
+12=Impossibile scrivere dati sul disco rimovibile!
+13=Problemi durante la lettura dei dati!
+14=Not enough disk space.

@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Pazar
+2=Pazartesi
+3=Salı
+4=Çarşamba
+5=Perşembe
+6=Cuma
+7=Cumartesi
+8=Varsayılan değişkenleri geri yüklesin mi?
+9=saat
+10=dakika

@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Sınama yapılıyor…
+2=Sınama başarılı.
+3=Sınama başarısız.
+4=Bağlantıyı çözmek gerekiyorsa yükleme klasörünü değiştirin, daha sonra da etkin olması için bağlantıyı tekrar birleştirin.
+5=Varsayılan değişkenleri geri yüklesin mi?
+6=bağlamak
+7=salmak

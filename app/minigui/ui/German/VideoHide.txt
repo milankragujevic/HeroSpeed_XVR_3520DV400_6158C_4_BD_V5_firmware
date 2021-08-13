@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Informationsabfrage, bitte warten...
+2=Zugriff verweigert, Kanal gesperrt!

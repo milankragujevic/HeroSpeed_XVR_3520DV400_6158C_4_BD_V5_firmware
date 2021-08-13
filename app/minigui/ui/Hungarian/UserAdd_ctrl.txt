@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Felhasználó hozzáadás
+2=Felhasználó név
+3=Jelszó
+4=Megerősít
+5=Szint
+6=Operátor:Általános
+7=Mentés
+8=Megszünteti

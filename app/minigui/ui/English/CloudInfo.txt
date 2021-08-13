@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Getting infomation...
+2=Bind succeeded!
+3=Bind failure!
+4=Waiting...
+5=Please use the browser to open the following url, complete validation:

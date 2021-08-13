@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Setarea canalului
+2=Activat
+3=Canal
+4=Tip vanzare
+5=previzualizare
+6=Nume Utilizator
+7=Parola
+8=IP
+9=Domeniu
+10=Port
+11=principal
+12=Sub
+13=Principal: Sub
+14=Salvare
+15=Anulare
+16=Adaugă cale
+17=Manual: Plug and play
+18=Manual

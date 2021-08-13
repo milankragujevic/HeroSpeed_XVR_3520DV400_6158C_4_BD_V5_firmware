@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Restore the default parameters?
+2=Are you sure you exit the boot wizard?
+3=The port number can not be the same!
+4=port number cannot be less than 1025 except the default 554 and 80!
+5=Unkown
+6=Internal network card IP and external network IP can not be in the same network segment
+7=Modify the  intranet IP need to restart the device, restart confirmed?
+8=IP address format error!
+9=Network mask format error!
+10=Gateway format error!
+11=DNS format error!
+12=Lan1 and Lan2 can not be in the same network segment
+13=Modify the network mode must be restarted, you want to continue to modify it?

@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Phát hiện chuyển động
+2=Video bóp méo
+3=Mất video
+4=Đầu vào báo động
+5=Đầu ra báo động
+6=Ngoại lệ
+7=Thời gian trì hoãn(1~120s)
+8=5 giây: 10 giây:30 giây: 1 phút: 2 phút:5 phút: 10 phút
+9=Kiểm tra
+10=Ứng dụng
+11=Buzzer

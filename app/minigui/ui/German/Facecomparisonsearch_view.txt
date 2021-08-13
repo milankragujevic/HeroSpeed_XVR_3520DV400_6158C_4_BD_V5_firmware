@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Bitte wählen Sie eine Datei aus.
+2=Nicht genügend Speicherplatz.
+3=Suche läuft, bitte warten
+4=Die Daten können nicht aufgezeichnet werden.
+5=Dateisicherung abgeschlossen
+6=Stecken Sie den USB-Stick!
+7=Zu viele Dateien, suche angehalten
+8=Keine Rekorddatei!
+9=Bitte wählen Sie einen Datensicherungstyp aus!
+10=Ähnlichkeit
+11=Bei der Sicherung brechen Sie bitte die Sicherung ab oder fahren Sie fort, nachdem die Sicherung abgeschlossen ist.
+12=die Oberseite
+13=wurde der Sicherungswarteschlange hinzugefügt.
+14=Hinzufügen zur Sicherungswarteschlange fehlgeschlagen.
+15=Das Extrahieren der Gesichtsmerkmale ist fehlgeschlagen.
+16=Personendaten
+17=Gesichtsvergleich abrufen

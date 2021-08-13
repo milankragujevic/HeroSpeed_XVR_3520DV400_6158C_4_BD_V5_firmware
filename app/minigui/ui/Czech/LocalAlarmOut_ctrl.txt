@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Detekce pohybu
+2=Minipulace videa
+3=Ztráta videa
+4=Alarm vstup
+5=Alarm výstup
+6=Události
+7=Číslo výstupního alarmu
+8=Název alarmu
+9=Zpoždění
+10=Editace
+11=Bzučák

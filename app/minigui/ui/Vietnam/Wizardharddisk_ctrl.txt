@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Ngày tháng và thời gian;1
+2=Mạng lưới;2
+3=Ổ cứng;3
+4=Camera;4
+5=Sân;5
+6=Đổi mật khẩu;5
+7=Ổ cứng
+8=Số.
+9=Trạng thái
+10=Tổng dung lượng
+11=Dung lượng dư
+12=Loại thiết bị
+13=Định dạng
+14=Trước
+15=Tiếp theo
+16=Thoát

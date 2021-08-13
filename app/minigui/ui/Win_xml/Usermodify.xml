@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Usermodify x="120" y="80" w="800" h="720" title="Edit user">
+<row type="static">
+    
+    <s id="42" x="0" y="4" w="2" h="712" s="11:12:31" bcol="3"></s>
+    <s id="43" x="4" y="0" w="792" h="2" s="11:12:31" bcol="3"></s>
+    <s id="44" x="798" y="4" w="2" h="712" s="11:12:31" bcol="3"></s>
+    <s id="45" x="4" y="718" w="792" h="2" s="11:12:31" bcol="3"></s>
+
+    <s type="static" id="47" x="30" y="0" w="200" h="70" s="11:12:31" ft="18" bcol="10">1</s>
+    <s id="46" x="2" y="70" w="796" h="2" s="11:12:31" bcol="2"></s>
+</row>
+
+<row x="750" y="15" w="34" h="34" s="12:13:41:42" ex="81" gap="0">
+    <b type="ctrl_button" id="37" bg="./image/menu/close.png" bgc="./image/menu/close.png" bgw=""></b>
+</row>
+
+<col type="static" x="50" y="90" w="230" h="30" s="11:12:31" gap="10" bcol="10" ft="18">
+    <s id="1">2</s>
+    <s id="2">3</s>
+    <s id="3">4</s>
+    <s id="4">5</s>
+    <s id="5">6</s>
+    <s id="7">22</s>
+    <s id="6" gap="20">7</s>
+    <b id="21" type="ctrl_button" x="50" w="539" s="13:44">11</b>
+    <s id="22" s="11:31">12</s>
+    <s id="23" s="11:31">13</s>
+    <s id="24" s="11:31">14</s>
+    <s id="25" s="11:31">15</s>
+    <s id="26" s="11:31">16</s>
+    <s id="27" s="11:31">17</s>
+</col>
+
+<col x="290" y="90" w="380" h="30" s="11:12:31" gap="10">
+    <cb id="11" type="myedit" s="11:12:13:56:58" ex="81:82:83:84:85"></cb>
+    <b id="12" type="ctrl_button" s="12:13:44"></b>
+    <e id="13" type="myedit" s="11:12:13:55:56" ex="81:82:83:84:85"></e>
+    <e id="14" type="myedit" s="11:12:13:55:56" ex="81:82:83:84:85"></e>
+    <e id="15" type="myedit" s="11:12:13:55:56" ex="81:82:83:84:85"></e>
+    <e id="8" type="ctrl_button" s="12:13:44" w="40"></e>
+    <cb id="16" type="CtrlCombobox" s="11:12:13:14:21:22" ex="81" ad="80" gap="55">
+        <selcn>8</selcn>
+    </cb>
+    <cb id="28" type="CtrlCombobox" s="11:13:14:21:22" ex="81" ad="216">
+        <selcn>18</selcn>
+    </cb>
+    <e id="29" type="myedit" s="11:13:56" ex="81:82:83:84:85"></e>
+    <cb id="30" type="CtrlCombobox" s="11:13:14:21:22" ex="81" ad="216">
+        <selcn>19</selcn>
+    </cb>
+    <e id="31" type="myedit" s="11:13:56" ex="81:82:83:84:85"></e>
+    <cb id="32" type="CtrlCombobox" s="11:13:14:21:22" ex="81" ad="216">
+        <selcn>20</selcn>
+    </cb>
+    <e id="33" type="myedit" s="11:13:56" ex="81:82:83:84:85"></e>
+</col>
+
+<row type="ctrl_button" x="255" y="670" w="140" h="40" s="12:13:41" gap="10" ft="16">
+    <b id="34" s="13:41">21</b>
+    <b id="19">9</b>
+</row>
+
+</Usermodify>

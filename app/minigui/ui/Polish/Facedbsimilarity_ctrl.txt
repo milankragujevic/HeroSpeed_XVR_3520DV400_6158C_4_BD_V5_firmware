@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Podobieństwo
+2=Ok
+3=Anuluj
+4=Czarna lista:Biała lista
+5=Tryb

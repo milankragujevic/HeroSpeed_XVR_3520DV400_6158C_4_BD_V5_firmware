@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Ausnahmedatei oder nicht unterstütztes Format (unterstützt nur jpg).
+2=Die ausgewählte Datei darf nicht größer als 1 MB sein!
+3=Gesichtsvorlage konnte nicht extrahiert werden
+4=Aufnahme fehlgeschlagen
+5=Eigenwert oder Gesichtsnummer überschreiten die Obergrenze
+6=Bitte geben Sie einen Namen ein!

@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Auf Werkseinstellungen zurücksetzen?
+2=Polling-Zeit zwischen 5 und 255.

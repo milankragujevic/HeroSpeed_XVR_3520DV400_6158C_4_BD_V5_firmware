@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=คืนค่าเริ่มต้น?
+2=รูปแบบเวลาไม่ถูกต้อง!
+3=Maximum support for
+4=ช่อง
+5=channels

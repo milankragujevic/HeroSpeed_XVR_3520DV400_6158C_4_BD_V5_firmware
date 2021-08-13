@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=K.
+2=kb/s
+3=Rozdzielczość
+4=Proszę wprowadź poprawny numer strony

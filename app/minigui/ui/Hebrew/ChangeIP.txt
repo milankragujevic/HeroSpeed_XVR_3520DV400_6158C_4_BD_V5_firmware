@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=!האשרה ןיא
+2=הלשכנ הרדגה
+3=IPתושגנתה 
+4=IP תבותכ!תיקוח אל 
+5=!תיקוח אל הנשמ תשר תכיסמ
+6=!יקוח אל רעש
+7=Non private IPC cannot modify the DNS,HTTP and RTSP ports,confirm the changes?

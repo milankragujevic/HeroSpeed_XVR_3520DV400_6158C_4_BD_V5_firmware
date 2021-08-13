@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=System Setup
+2=General
+3=Retea
+4=Ecran
+5=Exception
+6=Utilizator
+7=Configurarea canalului
+8=Configurarea canalului
+9=CH
+10=HD
+11=IP
+12=Initial
+13=Salvare
+14=Anulare
+15=previzualizare
+16=Alarma locală
+17=Modul Lite
+18=Permite:dezactivarea
+19=Wifi
+20=Filtru IP

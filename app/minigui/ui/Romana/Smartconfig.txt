@@ -1,0 +1,18 @@
+[wintip]
+num=16
+1=Noțiuni de bază param, vă rugăm să așteptați ...
+2=Fara permisiune!
+3=Eroare regulă linie!
+4=Există o linie de trecere!
+5=Pe aceeași linie!
+6=Acest dispozitiv al canalului nu acceptă această funcție.
+7=Alarmă buzzer
+8=Buzzer time(sec)
+9=Înregistrarea canalelor
+10=Lista neagră
+11=Lista albă
+12=Lista neagră și Lista albă
+13=Maximum support for
+14=Canal
+15=channels
+16=În dezvoltare!

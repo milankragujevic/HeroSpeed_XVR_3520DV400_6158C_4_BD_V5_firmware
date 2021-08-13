@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=A mappa neve nem tartalmazhatja a következő karakterek egyikét: Space\/:*?"|'%
+2=A mappa neve nem lehet üres

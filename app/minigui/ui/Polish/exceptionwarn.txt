@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Brak dysku
+2=Błąd dysku
+3=Sieć uszkodzona
+4=Konfilkt IP
+5=Alarm lokalny

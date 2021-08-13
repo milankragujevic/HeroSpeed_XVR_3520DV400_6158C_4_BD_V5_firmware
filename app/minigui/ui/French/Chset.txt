@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Enregistrer les paramètres?
+2=Recherche des périphériques, veuillez patienter pour vous déconnecter!
+3=Adresse IP incorrecte!
+4=Séléctionner un périphérique!
+5=Editer
+6=Ajout manuel
+7=Le nom d'utilisateur ne peut être vide!
+8=Echec résolution du nom de domaine.
+9=Le nom de domaine est dans le mauvais format.

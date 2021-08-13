@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Ajouter la Liste de Visages
+2=Image locale
+3=Prendre des photos
+4=Importer Images
+5=Nom
+6=OK
+7=Annuler
+8=Caméra
+9=Modèle de visages
+10=Tournage
+11=Extraire
+12=Sélectionnez le visage
+13=Nouveau
+14=Reprendre

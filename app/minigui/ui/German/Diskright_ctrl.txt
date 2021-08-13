@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Aufnahmeplan
+2=Aufnahme
+3=Erfassen
+4=Speichergerät
+5=Speichermodus
+6=Automatisches Backup
+7=erweiterte Einstellungen

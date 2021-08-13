@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Spojuji
+2=autorizační kód
+3=Potvrdit
+4=Zrušit

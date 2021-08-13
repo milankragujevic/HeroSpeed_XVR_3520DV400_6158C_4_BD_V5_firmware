@@ -1,0 +1,24 @@
+[Ctrltxt]
+num=22
+1=Rendszerbeállítás
+2=Általános
+3=Hálózat
+4=Kijelző
+5=Rendszerhibák
+6=Felhasználó
+7=HDD hiba
+8=Hálózat hiba
+9=Esemény típus
+10=Engedélyez
+11=Küldjön e-mailt
+12=Hangjelző
+13=Nincs HDD:HDD hiba
+14=Alapértelmezett
+15=Alkalmaz
+16=Megszünteti
+17=Előnézet
+18=Csatorna beállítások
+19=Képernyő
+20=Helyi risztás
+21=Wifi
+22=IP szűrő

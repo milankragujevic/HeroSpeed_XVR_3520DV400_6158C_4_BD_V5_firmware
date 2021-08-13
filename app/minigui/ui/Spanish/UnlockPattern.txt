@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Por favor, dibuje el patrón de desbloqueo.
+2=Suelte el ratón cuando termine.
+3=Conecte por lo mínimo 4 puntos, por favor, vuelva a intentarlo.
+4=Vuelva a dibujar el patrón para confirmar.
+5=Los dos patrones no se coinciden, por favor, vuelva a confirmar.
+6=Por favor, recuerde el patrón.
+7=El patrón de desbloqueo es erróneo, hay
+8=loguear
+9=oportunidades.
+10=La contraseña o el patrón de desbloqueo ha sido introducido mal 5 veces. Por favor, vuelve a intentarlo 30 minutos después.

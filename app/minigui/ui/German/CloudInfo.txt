@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Informationen erhalten...
+2=Verbindung erfolgreich!
+3=Verbindung fehlgeschlagen
+4=Bitte warten...
+5=Bitte benutzen Sie den Browser, um die folgende URL zu öffnen, vervollständigen Sie die Validierung:

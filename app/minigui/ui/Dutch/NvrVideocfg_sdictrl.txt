@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=DVR-afbeelding
+2=Helder
+3=Contrast
+4=Verzadiging
+5=Tint
+6=Standaardinstellingen
+7=Toepassen
+8=Annuleren

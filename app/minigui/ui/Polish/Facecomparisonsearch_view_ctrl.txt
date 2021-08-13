@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=\
+2=Kanał
+3=Kanał
+4=Rozpoczęcie
+5=Podobieństwo
+6=Odtwarzaj
+7=Zapisz kopię zdjęcia
+8=Archiwum kopii zapasowych
+9=Archiwizacja
+10=Anuluj
+11=Wsz.
+12=Wykres
+13=Lista
+14=Dokładne wyszukiwanie
+15=Kopia zapasowa FTP

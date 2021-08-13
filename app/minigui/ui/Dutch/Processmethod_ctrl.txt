@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=Verwerkingsmethode
+2=Inschakeltijd
+3=Verwerkingsmethode
+4=Scherm
+5=Zoemer alarm
+6=Stuur een e-mail
+7=Uploaden naar FTP
+8=kanaal opname
+9=Gevangen nemen
+10=Schakel alarmuitgang in
+11=Alarmuitgang
+12=Naam van het alarm
+13=Toepassen
+14=Annuleren
+15=1
+16=2
+17=3
+18=4
+19=5
+20=6
+21=7
+22=8
+23=verbinding
+24=Opname tijd (sec)
+25=Buzzer Time(sec)

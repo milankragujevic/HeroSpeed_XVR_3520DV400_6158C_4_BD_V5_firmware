@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Evenement Herinnering Instellingen
+2=Alles
+3=Toepassen
+4=Annuleren

@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Selectați numărul canalului de upgrade!
+2=Upgradare esuata!
+3=Upgradare reusita!
+4=Va rugam selectati fisierul!
+5=Actualizare?
+6=Fișierul nu există!
+7=Canal
+8=actualizare a reușit!
+9=actualizare esuata!
+10=Upgradare, nu inchideti!

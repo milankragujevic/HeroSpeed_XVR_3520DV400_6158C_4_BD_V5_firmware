@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Apparaat naam
+2=Modelnummer
+3=Apparaatversie
+4=Systeem versie
+5=Datum
+6=Totaal aantal kanalen
+7=Totaal aantal POE-kanalen
+8=Sluiten
+9=P2P
+10=GUI versie
+11=WEB versie

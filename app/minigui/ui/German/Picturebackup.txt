@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Not enough disk space.
+2=Dateisicherung, bitte warten
+3=Dateisicherung abgeschlossen
+4=Die Daten können nicht aufgezeichnet werden.
+5=Bitte wählen Sie eine Datei aus.
+6=Die Abfragezeit soll nicht mehr als 30 Minuten sein.
+7=This time no files.
+8=Zeitformatfehler!
+9=Im Prozess, bitte warten ...
+10=Es gibt einen oder mehrere Sender, die keine Erlaubnis haben!
+11=Zugriff verweigert, Kanal gesperrt!
+12=Bitte wählen Sie einen Kanal
+13=Stecken Sie den USB-Stick!

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Wiedergabe
+2=Dokumentenverwaltung
+3=Systemeinstellungen
+4=Anmeldung
+5=Herunterfahren
+6=Abmelden

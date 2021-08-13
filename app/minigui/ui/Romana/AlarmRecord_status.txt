@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Deschis
+2=Închide
+3=N.O
+4=N.C

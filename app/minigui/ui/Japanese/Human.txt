@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=基本設定値に戻しますか?
+2=時間形式が間違いました!
+3=Maximum support for
+4=チャネル
+5=channels

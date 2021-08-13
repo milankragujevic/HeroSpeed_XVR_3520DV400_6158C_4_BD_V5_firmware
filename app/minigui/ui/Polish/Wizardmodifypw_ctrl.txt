@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=23
+1=Data i Czas;1
+2=Sieć;2
+3=Dysk Twardy;3
+4=Kamera;4
+5=Platforma;5
+6=Zmień Hasło;5
+7=Zmień hasło
+8=Modyfikuj Hasło Admina
+9=Stare hasło
+10=Nowe hasło
+11=Ustal
+12=Zresetuj problemy bezpieczeństwa
+13=Pytanie weryfikacji 1
+14=Odpowiedź 1
+15=Pytanie weryfikacji 2
+16=Odpowiedź 2
+17=Pytanie weryfikacji 3
+18=Odpowiedź 3
+
+19=Wybierz numer: Jaki jest twój numer pracy?: Jaki jest dzień urodzin twojego ojca ?: Jaka jest twoja ulubiona angielska piosenka?: Który dzień to urodziny twojej matki?
+20=Wybierz pytanie:Jaki był Twój nr. w szkole?:Jaka jest Twoja szczęśliwa liczba?:Twoja ulubiona angielska gwiazda?:Jaka jest Twoja data ślubu?
+21=Wybierz problem: Jaka jest twoja najpopularniejsza skrzynka pocztowa ?: Jaki jest kod pocztowy dla twojego obszaru?: Jakie jest twoje imię zwierzaka ?: Jakie są twoje numery telefonów?
+22=Poprzedni
+23=Zakończ

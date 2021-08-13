@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=When you select 4 HD channel,you just be able to select 0 IP channel?
+2=チャネル設定が変更されました。再起動しますか？
+3=When you select 8 HD channel,you just be able to select 1 IP channel?
+4=修正事項を適用するためにはシステムの再起動が必要です。再起動しますか？

@@ -1,0 +1,19 @@
+[Ctrltxt]
+num=17
+1=Recherche
+2=Ajout automatique
+3=Ajout manuel
+4=Mise à jour
+5=Supprimer
+6=Ouvert H264 + / H265 +
+7=Nom de la caméra
+8=Statut de connexion
+9=CAM
+10=Editer
+11=Supprimer
+12=Config.
+13=Lien
+14=IP
+15=Port
+16=Protocole
+17=Version Firmware

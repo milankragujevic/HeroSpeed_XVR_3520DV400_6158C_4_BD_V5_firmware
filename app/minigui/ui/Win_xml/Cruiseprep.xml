@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cruiseprep x="50" y="150" w="480" h="200" title="Preset">
+<row>
+<lv type="listview_ex" id="1" x="10" y="40" w="460" h="150" s="11:12:13:14:203:205" itemcnt="6" itemh="18">
+<item w="50">No.</item>
+<item w="130">Name</item>
+<item w="60">Set</item>
+<item w="60">Call</item>
+<item w="60">Del</item>
+<item w="100">Set or no?</item>
+</lv>
+</row>
+</Cruiseprep>

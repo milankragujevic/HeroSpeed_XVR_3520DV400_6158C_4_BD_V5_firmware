@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Cruise Einst.
+2=Presets Nr.
+3=Verweilzeit
+4=Geschwindigkeit
+5=Bestätigen
+6=Abbrechen

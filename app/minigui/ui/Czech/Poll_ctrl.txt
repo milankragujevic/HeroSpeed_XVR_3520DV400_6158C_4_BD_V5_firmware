@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Hlasování
+2=Povolit
+3=Čas(s)
+4=Režim
+5=Výchozí
+6=Použít
+7=Zrušit

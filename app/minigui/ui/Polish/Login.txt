@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Nazwa użytkownika nie istnieje!
+2=Hasło jest nieprawidłowe, pozostało
+3=Inicjowanie, czekaj.
+4=Na pewno wyjść z kreatora konfiguracji?
+5=szans.
+6=Hasło lub wzór odblokowujący został wprowadzony niepoprawnie 5 razy. Proszę spróbuj ponownie po 30 minutach.
+7=Hasło zostało wprowadzone niepoprawnie 5 razy. Proszę spróbuj ponownie po 30 minutach.

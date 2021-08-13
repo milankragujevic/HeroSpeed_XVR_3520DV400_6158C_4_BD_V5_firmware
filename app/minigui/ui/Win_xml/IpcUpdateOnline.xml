@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ipcupdate x="120" y="80" w="800" h="640" title="IPC Update">
+<row type="static">
+<s id="200" x="0" y="4" w="2" h="632" s="11:12:31" bcol="3"></s>
+<s id="201" x="4" y="0" w="792" h="2" s="11:12:31" bcol="3"></s>
+<s id="202" x="798" y="4" w="2" h="632" s="11:12:31" bcol="3"></s>
+<s id="203" x="4" y="638" w="792" h="2" s="11:12:31" bcol="3"></s>
+<s id="204" x="30" y="0" w="200" h="70" s="11:12:31" ft="18" bcol="10">1</s>
+</row>
+<row x="750" y="15" w="34" h="34" s="12:13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="36" bg="./image/menu/close.png" bgc="./image/menu/close.png" bgw=""></b>
+</row>
+<row>
+<list type="listview_ex" id="2" x="50" y="110" w="700" h="448" s="11:12:13:14:15:203:204" itemcnt="4" itemh="56">
+<item w="80" cbox="1" all="1" line="0"></item>
+<item w="430" align="left">3</item>
+<item w="130" align="left">4</item>
+<item w="140" align="left" >5</item>
+</list>
+</row>
+
+<row type="ctrl_button" x="330" y="581" w="140" h="40" s="12:13:41" ft="16" gap="10">
+<b id="3">6</b>
+</row>
+
+</Ipcupdate>

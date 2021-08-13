@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=Metodo di elaborazione
+2=Tempo d'armamento
+3=Metodo di elaborazione
+4=Schermo
+5=Allarme Acustico
+6=Invia una email
+7=Carica su FTP
+8=Registrazione del canale
+9=Cattura
+10=Abilita uscita allarme
+11=Uscita allarme
+12=Nome allarme
+13=Applica
+14=Cancella
+15=1
+16=2
+17=3
+18=4
+19=5
+20=6
+21=7
+22=8
+23=collegamento
+24=Durata Registrazion (sec)
+25=Buzzer Time(sec)

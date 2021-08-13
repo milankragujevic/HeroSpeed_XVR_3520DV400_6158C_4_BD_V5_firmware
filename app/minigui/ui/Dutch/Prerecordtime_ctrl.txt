@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=More Settings
+2=Prerecord Time(s)
+3=Post-Record(s)
+4=Record Audio
+5=Standaardinstellingen
+6=Opslaan
+7=Annuleren

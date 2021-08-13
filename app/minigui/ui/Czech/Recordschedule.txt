@@ -1,0 +1,13 @@
+[wintip]
+num=11
+1=Bez povolení!
+2=Obnovit výchozí nastavení ?
+3=Chyba formátu času!
+4=Neděle
+5=Pondělí
+6=Úterý
+7=Středa
+8=Čtvrtek
+9=Pátek
+10=Sobota
+11=Interval se nesmí křížit nebo být součástí

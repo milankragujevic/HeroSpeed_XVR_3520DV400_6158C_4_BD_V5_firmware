@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Fara permisiune!
+2=Config Failed
+3=Conflictul Ip
+4=Adresă IP nevalidă!
+5=Mască de subrețea nevalidă!
+6=Gateway nevalid!
+7=IPC-urile private private nu pot modifica porturile DNS,HTTP și RTSP, confirmă modificările?

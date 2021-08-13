@@ -1,0 +1,24 @@
+[wintip]
+num=22
+1=Erfassen
+2=Sofortige Wiedergabe
+3=PTZ
+4=Zoom
+5=Audio
+6=Bild
+7=Informationen
+8=Starten Sie die Ganztagesaufzeichnung
+9=Wechseln Sie zum Startbildschirm
+10=Panorama
+11=POS deaktivieren
+12=3D Position ausschalten
+13=Stoppen Sie die ganztägige Aufzeichnung
+14=Wechseln Sie in den Subscreen
+15=POS aktivieren
+16=3D-Position einschalten
+17=Erfassung fehlgeschlagen
+18=No Permission
+19=Aufnahme konnte nicht gestartet werden. Bitte ändern Sie den Aufnahmezeitplan.
+20=RTSP unterstützt diese Funktion nicht
+21=Erfolgreich erfasst, bitte in der Dateiverwaltung überprüfen.
+22=Schließen

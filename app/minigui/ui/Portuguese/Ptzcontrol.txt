@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Cruising,forbid modify...
+2=Foi aberto !
+3=Foi fechado !
+4=Sem permissão!

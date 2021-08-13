@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Upgradare, nu inchideti!
+2=Upgradare esuata!
+3=Upgradare reusita!
+4=Va rugam selectati fisierul!
+5=Actualizare?
+6=Niciun pachet de upgrade
+7=Găsiți noua versiune, Descărcați fișierul online?
+8=Rețeaua nu este stabilă, descărcarea a eșuat ...
+9=Descărcarea...
+10=Eroare de excepție
+11=Descărcați succesul, faceți upgrade online?
+12=Fișierul nu există!

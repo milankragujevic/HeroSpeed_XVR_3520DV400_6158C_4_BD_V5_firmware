@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Informație alarmă
+2=Excepție
+3=Eveniment normal
+4=Eveniment inteligent
+5=Setare
+6=Oră pentru alarmă
+7=Alarmă/Excepție
+8=Redare
+9=Informații (Nr. canal, Nr. intrare alarmă, HDD, Adresă IP etc.)

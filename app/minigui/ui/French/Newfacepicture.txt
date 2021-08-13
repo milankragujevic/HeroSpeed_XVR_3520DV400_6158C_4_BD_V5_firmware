@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Fichier invalide ou Format non supporté (Compatible seulement avec le format JPG)
+2=La taille du fichier ne peut pas être supérieur à 1M!
+3=L'extraction du modèle de visages a échoué
+4=Le tir a échoué
+5=La valeur propre ou le nombre de faces dépasse la limite supérieure
+6=Entrez un nom!

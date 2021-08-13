@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Testeando
+2=Prueba exitoso.
+3=Prueba fallado.
+4=Cambiar la carpeta de subida debe desvincular y volver a unir para tener efecto.
+5=Restaurar parametros por defecto?
+6=Enlazar
+7=Desatar

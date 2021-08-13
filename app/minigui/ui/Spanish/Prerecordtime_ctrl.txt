@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Más ajustes
+2=Tiempo (s) pregrabado
+3=Posponer la Grabación de Video
+4=Grabar audio
+5=Defecto
+6=Grabar
+7=Cancelar

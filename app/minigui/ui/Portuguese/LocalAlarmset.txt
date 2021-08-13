@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Alarme do zumbido
+2=Enviar email
+3=Exibição de tela
+4=Erro no formato de hora!
+5=Adicione um máximo de 6 agendas por dia!

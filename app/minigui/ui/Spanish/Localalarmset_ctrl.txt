@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Editar
+2=Entrada de alarma
+3=Nombre de la alarma
+4=Habilitado
+5=Tipo
+6=N.O:N.C
+7=Horario de Alarma
+8=Articulación
+9=Vinculación Normal
+10=Canal de grabación
+11=Activar Output de Alarma
+12=copiar
+13=Aplicar
+14=Todos
+15=Dom.
+16=Lun.
+17=Mar.
+18=Mie.
+19=Jue.
+20=Vie.
+21=Sab.
+22=Normal
+23=Editar
+24=Monitoreo de pantalla completa

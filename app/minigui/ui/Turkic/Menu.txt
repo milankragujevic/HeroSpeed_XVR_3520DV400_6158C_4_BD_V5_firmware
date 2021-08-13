@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=İzin yok!
+2=Kayıttan yürütme.
+3=Kayıt dosyası yedeği.
+4=Sabit disk sürücüsü yönetimi.
+5=Kayıt zaman planı ve kamera şifreleme ayarı.
+6=Camera add,camera osd,image,motion detection,videoloss,ptz,privacy mask setup,channelname.
+7=System date/time,network,display,exception,user setup,channel config.
+8=Akış, günlük, sürüm bilgisi ve sistem güncellemesi, varsayılanı geri yükle.
+9=Sistemden çıkış ve yeniden başlatma.
+10=System date/time,network,display,exception,user setup,channel config,local alarm.

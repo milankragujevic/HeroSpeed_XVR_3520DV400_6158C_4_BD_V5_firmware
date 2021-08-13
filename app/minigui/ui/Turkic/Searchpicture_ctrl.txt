@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=resim arama
+2=Kanal
+3=Tür
+4=zaman
+5=görünüm
+6=Kullanıcı
+7=görünüm
+8=kalan/toplam kapasite
+9=Yedekleme
+10=iptal
+11=Yenileme

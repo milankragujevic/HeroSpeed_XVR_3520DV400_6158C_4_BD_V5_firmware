@@ -1,0 +1,23 @@
+[wintip]
+num=21
+1=Felhasználó módosítás sikeres!
+2=Az adminisztrátor jogosultsága nem módosítható!
+3=A Felhasználó már létezik!
+4=Adja meg a felhasználó nevet!
+5=Adja meg a jeszót!
+6=Írja be az új jelszót!
+7=Hibás jelszó!
+8=A jelszó nem egyezik
+9=Nem változtathatja saját felhasználói jogosultságait!
+10=Ismeretlen hiba.
+11=Felhasználói név nem lehet root vagy admin!
+12=Felhasználói név nem tartalmazhat szóközt
+13=Ön nem tagja a csoportnak, nincs engedélye ennek a műveletnek a végrehajtására.
+14=Felhasználó szint hiba!
+15=Figyelem: A jelszó nem lehet rövidebb, mint 8 bájt, és legalább egy számjegyet és egy betűt kell tartalmazzon!
+16=Ha a felhasználói név vagy a jelszó hossza nagyobb, mint 10, akkor nem lehet minden szám
+17=Kérjük, fejezze be!
+18=Export sikeres!
+19=Kérem csatlakoztassa az USB eszközt.
+20=Az export sikertelen!
+21=Biztos kilép a segédből?

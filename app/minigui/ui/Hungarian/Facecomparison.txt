@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Paraméterek lekérése, kérem várjon…
+2=Feketelista
+3=Fehérlista
+4=Feketelista és Fehérlista

@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Nastavení
+2=Obecné
+3=Síť
+4=Zobrazení
+5=Vyjímky
+6=Uživatel
+7=Nastavení kanálu
+8=Místní alarm
+9=IP / Port
+10=DDNS
+11=E-mail
+12=P2P
+13=FTP
+14=UPnP
+15=PPPOE
+16=Nastavení Cloud
+17=Telnet
+18=Povolit
+19=Použít
+20=Zrušit
+21=Náhled
+22=Wifi
+23=Filtr IP

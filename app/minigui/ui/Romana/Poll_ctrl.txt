@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Sondaj
+2=Activat
+3=Timp (s)
+4=mod
+5=Initial
+6=Salvare
+7=Anulare

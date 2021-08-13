@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Configurazione
+2=Generale
+3=Rete
+4=Display
+5=Eccezione
+6=Utente
+7=Configurazione Canale
+8=Configurazione Canale
+9=CH
+10=HD
+11=IP
+12=Predefinito
+13=Applica
+14=Cancella
+15=Preview
+16=Allarme locale
+17=Modalità Lite
+18=Attiva: Disattiva
+19=Wifi
+20=Filtro IP

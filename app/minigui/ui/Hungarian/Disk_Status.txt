@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Használatban
+2=Lemez száma
+3=Normál

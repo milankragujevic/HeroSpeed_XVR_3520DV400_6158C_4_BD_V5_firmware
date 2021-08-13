@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Toevoegen
+2=Ip adres
+3=Apparaat MAC
+4=Toepassen
+5=Annuleren

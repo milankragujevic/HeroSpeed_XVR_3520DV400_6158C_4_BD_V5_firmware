@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Podstawowy
+2=Sieć
+3=TCP/IP
+4=Ustawienia
+5=Użytkownik
+6=Filter adresów internetowych
+7=Wakacje
+8=POS
+9=Zdarzenie
+10=Normalne wydarzenie
+11=Inteligentne wydarzenie
+12=Konfiguracja obrazu
+13=Wyświetlanie
+14=Widok
+15=Kanał-Zero
+16=Zaawansowane
+17=Zapis w chmurze
+18=Zwykły
+19=Konfiguracja kanału
+20=Podgląd Wylogowania

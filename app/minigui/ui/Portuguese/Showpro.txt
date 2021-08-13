@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Em processo de inicialização do disco, aguarde ...
+2=falha

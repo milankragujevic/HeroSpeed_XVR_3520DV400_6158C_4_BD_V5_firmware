@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Sin permiso!
+2=Captura fallida
+3=Capturar
+4=Audio
+5=Acercamiento
+6=Agregar Etiqueta
+7=FISHEYE
+8=Cerrar
+9=Captura Hecha, Guardada en Geestión de Archivos

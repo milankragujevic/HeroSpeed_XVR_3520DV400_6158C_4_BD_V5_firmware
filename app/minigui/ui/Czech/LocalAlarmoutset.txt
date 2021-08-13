@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Chyba formátu času!
+2=Povolit
+3=Zavřít
+4=Nejvýše je možno použít 6 kalendářů pro jeden den !

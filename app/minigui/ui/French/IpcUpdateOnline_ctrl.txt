@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Mise à jour de la CIB
+2=CAM
+3=Nom
+4=Taille
+5=Heure
+6=Mise à jour
+7=Annuler

@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=The Brightness Value is too high, maximum brightness value is
+2=The Contrast Value is too high, maximum Contrast value is
+3=The Saturation Value is too high, maximum Saturation value is
+4=The Sharpness Value is too high, maximum Sharpness value is
+5=Getting param,Please wait...
+6=This channel has no permission !
+7=Failed to get parameter
+8=RTSP does not support this feature

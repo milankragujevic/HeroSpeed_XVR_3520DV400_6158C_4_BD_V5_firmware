@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Il nome della directory non può contenere uno dei seguenti caratteri: spazio \ /: *? "| '%
+2=Il nome della directory non può essere vuoto

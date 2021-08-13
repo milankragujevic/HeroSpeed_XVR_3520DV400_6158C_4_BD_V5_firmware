@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Conferma per salvare i parametri?
+2=Il dispositivo sta cercando dei dispositivi, uscire tra qualche istante!
+3=L’indirizzo IP non è corretto!
+4=Seleziona un dispositivo!
+5=Cambia
+6=Agg. Manuale
+7=Il nome utente non può essere vuoto!
+8=Errore nella risoluzione dei nomi di dominio.
+9=Il formato del dominio non è corretto.

@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Zoek bestand
+2=Channel
+3=Gebeurtenis type
+4=Begin Tijd/Eind Tijd
+5=Eindtijd
+6=Bestandstype
+7=Benodigde capaciteit:
+8=Beschikbare / totale capaciteit:
+9=Exporteren
+10=Annuleren
+11=Ververs
+12=Bekijk
+13=Ga naar
+14=Alles
+15=Groep:
+16=Kanaal
+17=Tijd
+18=FTP Exporteren

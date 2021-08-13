@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Aucun disque
+2=Erreur de disque
+3=Réseau non disponible
+4=Conflit d'IP
+5=Alarme locale

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=In Uso
+2=HDD N.
+3=Normale
+4=HDD non è connesso correttamente!
+5=Formattazione in corso, attendere prego…
+6=Dispositivo in uso.
+7=Errore ignoto
+8=Il processo di Formattazione è terminato correttamente.
+9=Il processo di Formattazione non è riuscito.
+10=Selezionare un HDD
+11=La formattazione cancellerà irrimediabilmente tutti i dati presenti nell’HDD. Continuare?
+12=Nessun permesso!
+13=Impossibile formattare il disco USB.
+14=Sei sicuro di voler uscire dalla configurazione assistita?

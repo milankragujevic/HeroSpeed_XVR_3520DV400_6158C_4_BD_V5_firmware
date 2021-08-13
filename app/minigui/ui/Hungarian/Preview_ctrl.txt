@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Csatorna
+2=Cél
+3=Arcfelismerés
+4=Intelligens esemény
+5=Test észlelése
+6=Autódetektálás

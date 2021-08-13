@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Typ
+2=Startzeit
+3=Endzeit
+4=Alle Protokolle: Systemverwaltung: Benutzerverwaltung: Parameterkonfiguration: Dateioperationen: Statusaufforderung: Alarm Ereignis
+5=Abfrage
+6=Nr.
+7=Zeit
+8=Ereignis
+9=Benutzer
+10=Export
+11=Alles exportieren
+12=Löschen

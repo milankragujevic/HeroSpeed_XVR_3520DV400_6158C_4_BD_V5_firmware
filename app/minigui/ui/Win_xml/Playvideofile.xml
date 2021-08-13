@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Playvideo x="250" y="136" w="800" h="640" title="Playvideo">
+<row type="static">
+<s id="200" x="0" y="4" w="2" h="632" s="11:12:31" bcol="3"></s>
+<s id="201" x="4" y="0" w="792" h="2" s="11:12:31" bcol="3"></s>
+<s id="202" x="798" y="4" w="2" h="632" s="11:12:31" bcol="3"></s>
+<s id="203" x="4" y="638" w="792" h="2" s="11:12:31" bcol="3"></s>
+<s id="5" x="30" y="10" w="400" h="50" s="11:12:31" ft="18" bcol="10"></s>
+<s id="205" x="2" y="70" w="796" h="2" s="11:12:31" bcol="2"></s>
+</row>
+<row x="750" y="15" w="34" h="34" s="12:13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="36" bg="./image/menu/close.png" bgc="./image/menu/close.png" bgw=""></b>
+</row>
+
+<row>
+<tb id="6" type="ctrl_trackbar" x="20" y="556" w="760" h="40" s="11:12:13:62:63:74"></tb>
+</row>
+<row type="ctrl_button" x="249" y="596" w="34" h="34" s="12:13:41:42" bgw="0" gap="100">
+<b id="1" bg="./image/pb/r_play_frame_1.png"></b>
+<b id="2" bg="./image/pb/r_pause.png"></b>
+<b id="3" x="383" bg="./image/pb/r_play_next.png"></b>
+<b id="4" bg="./image/pb/r_play_frame_2.png"></b>
+<s type="static" id="7" x="640" w="150" s="11:12:34" bcol="10" ft="16"></s>
+</row>
+
+</Playvideo>

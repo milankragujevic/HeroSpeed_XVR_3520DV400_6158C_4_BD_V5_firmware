@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=IP címváltoztatás
+2=Kezdő IP cím
+3=Alhálózati maszk
+4=Átjáró
+5=Felh.név
+6=Jelszó
+7=Megerősít
+8=Megszünteti
+9=DNS
+10=HTTP port
+11=RTSP port

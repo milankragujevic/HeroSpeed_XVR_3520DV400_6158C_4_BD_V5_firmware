@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Ververs
+2=Formatteren
+3=Reparatie
+4=Nummer
+5=Status
+6=Totale capaciteit
+7=Resterende capaciteit
+8=Apparaat type
+9=Waarschuwing:NVR start opnieuw op na het formatteren!

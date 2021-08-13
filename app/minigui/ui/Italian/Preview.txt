@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Somiglianza
+2=Età
+3=Sesso
+4=Occhiali
+5=Cappello
+6=SI
+7=NO
+8=Lungo
+9=Breve
+10=Maschile
+11=Femminile
+12=Nome
+13=Modalità:Lista nera
+14=Modalità:Lista bianca
+15=Modalità:Lista nera e lista bianca
+16=Barba
+17=Canale

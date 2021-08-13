@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Întârziere rețea, Test de pierdere pachet
+2=Selectarea NIC
+3=Adresa de destinație
+4=Test

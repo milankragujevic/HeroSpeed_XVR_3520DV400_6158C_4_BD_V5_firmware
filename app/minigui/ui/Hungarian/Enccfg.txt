@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Erősítse meg a csatorna paramétereket és a hálózati állapotát!
+2=Visszaállítja az alapértelmezett paramétereket?
+3=Kódolási paraméterek mentése, kérem várjon…
+4=Paraméterek lekérése, kérem várjon…
+5=Paraméter lekérés sikertelen…
+6=A BitRate csak 512-8192 között lehet
+7=Kamera paraméterek beállítása sikertelen.
+8=Ez a csatorna H265ös kódolású a kamera nem támogatja ezt a beállítást.
+9=Nincs jogosultsága!
+10=Az eszköz nem támogatja a H265-öt.
+11=Main Bitrate range 64-8192.
+12=Sub Bitráta tartomány 64-2048.

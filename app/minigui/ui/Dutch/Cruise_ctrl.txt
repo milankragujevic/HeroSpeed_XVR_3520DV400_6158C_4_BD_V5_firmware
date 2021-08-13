@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Instellingen om rond te kijken
+2=Kanaal
+3=Voorinstellingen
+4=Rondkijken
+5=Stel in
+6=Oproepen
+7=1:2:3
+8=Nummer
+9=Naam
+10=Voorinstellingen
+11=Snelheid
+12=Wachttijd
+13=Instelling
+14=Verwijder
+15=Cruise aan
+16=Verwijder Cruise
+17=Verwijder alle Cruise
+18=Annuleren
+19=Zoom
+20=Ostrość
+21=Przysłona
+22=Snelheid
+23=invoeren
+24=Cruise uit

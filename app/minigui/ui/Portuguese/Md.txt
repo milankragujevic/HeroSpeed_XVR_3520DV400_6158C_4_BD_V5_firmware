@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Restaurar os parâmetros padrão?
+2=O intervalo de tempo de gravação é 30-255.
+3=Este canal não tem permissão!
+4=Erro no formato de hora!
+5=Alarme do zumbido
+6=Enviar email
+7=Gravar canal
+8=Monitoramento em tela cheia
+9=Adicione um máximo de 6 agendas por dia!

@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Mise à jour en cours, ne pas éteindre l'appareil evoya!
+2=Echec de mise à jour!
+3=Mise à jour réussie!
+4=Sélectionnez un fichier de mise à jour!
+5=Mettre à jour?
+6=Aucun paquet de mise à niveau
+7=Trouver une nouvelle version, Télécharger le fichier en ligne?
+8=Réseau non stable, échec de téléchargement…
+9=Téléchargement…
+10=Erreur
+11=Téléchargement réussi, mise à niveau en ligne?
+12=Le fichier n'existe pas!

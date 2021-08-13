@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Thời gian
+2=Kênh
+3=Loại tệp
+4=Nhãn
+5=Loại sự kiện
+6=Biển số xe
+7=Trạng thái số liệu
+8=Khu vực/nhà nước
+9=Hôm nay:Hôm qua:Hai hôm qua:Ba hôm qua:Bẩy hôm qua:14 hôm qua
+10=Video:Picture
+11=Tất cả: mở khoá: khoá
+12=Xuất nhanh
+13=Tìm kiếm

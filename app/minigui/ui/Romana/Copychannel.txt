@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Nu mai mult de 4 canale!
+2=Nu mai mult de 8 canale!
+3=Fara permisiune!
+4=Înregistrarea canalelor

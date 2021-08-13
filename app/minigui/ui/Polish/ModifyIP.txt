@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Brak pozwolenia!
+2=Konfiguracja nie powiodła się
+3=Konfilkt IP
+4=Błędny adres IP!
+5=Nieprawidłowa maska podsieci!
+6=Nieprawidłowa brama!

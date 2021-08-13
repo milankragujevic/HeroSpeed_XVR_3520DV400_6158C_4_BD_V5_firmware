@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Gestione database del viso
+2=Conteggio delle persone
+3=Mappa di calore
+4=Ricerca di confronto viso

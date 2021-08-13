@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=4
+1=Face Database
+2=People Count
+3=Heat Map
+4=Face Comparison Search
+

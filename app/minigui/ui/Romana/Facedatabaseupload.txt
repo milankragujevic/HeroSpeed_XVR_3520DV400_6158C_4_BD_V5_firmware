@@ -1,0 +1,3 @@
+[wintip]
+num=1
+1=Vă rugăm selectați o Fotografie a feței

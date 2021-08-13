@@ -1,0 +1,19 @@
+[Ctrltxt]
+num=17
+1=Cautare
+2=Adaugă automat
+3=Manuală Adăugați
+4=Actualizați
+5=Stergere
+6=Deschideți H264 + / H265 +
+7=Nume cameră
+8=Starea conexiunii
+9=CH
+10=Editați
+11=Stergere
+12=Conf.
+13=Legătură
+14=IP
+15=Port
+16=Tip vanzare
+17=Versiunea softului

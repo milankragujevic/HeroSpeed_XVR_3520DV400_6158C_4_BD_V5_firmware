@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Độ trễ mạng, kiểm tra mất gói
+2=Lựa chọn NIC
+3=Địa chỉ đích
+4=Kiểm tra

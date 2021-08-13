@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Nummer des Alarmeingangs
+2=Alarmname
+3=Alarmtyp
+4=Alarmstatus
+5=Aufnahmekanal auslösen
+6=Schließen

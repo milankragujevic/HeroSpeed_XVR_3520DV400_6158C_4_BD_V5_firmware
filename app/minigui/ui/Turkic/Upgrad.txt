@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Yükseltme, kapatmayın!
+2=Yükseltme başarısız!
+3=Yükseltme başarılı!
+4=Lütfen yükseltme dosyasını seçin!
+5=Yükselt?
+6=Yükseltme paketi yok
+7=Yeni sürümü bul, çevrimiçi dosyayı indir?
+8=Ağ istikrarlı değil, indirme başarısız…
+9=İndiriliyor…
+10=İstisnai Hata
+11=İndirme başarılı, çevrimiçi yeni sürüme geçiriliyor mu?
+12=Dosya mevcut değil!

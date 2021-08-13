@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Channel
+2=Channel Name
+3=Time
+4=Text
+5=Date Format
+6=OSD Position
+7=Mirror
+8=Year Month Day:Month Day Year:Day Month Year
+9=Top_Left:Bottom_Left
+10=Off:Horizontal:Vertical:Both
+11=Apply
+12=Copy

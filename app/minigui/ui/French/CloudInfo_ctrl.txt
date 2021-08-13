@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Liaison
+2=Code d'autorisation
+3=Confirmer
+4=Annuler

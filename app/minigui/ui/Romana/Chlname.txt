@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Revenire la parametrii initiali?
+2=Numele canalului nu este acceptat;
+3=Există unul sau mai multe canale fără permisiune!

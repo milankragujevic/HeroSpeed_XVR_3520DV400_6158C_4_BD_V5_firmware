@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Playback
+2=Document Management
+3=System Setup
+4=Login
+5=Shutdown
+6=Logout

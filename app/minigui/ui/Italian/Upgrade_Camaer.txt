@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Seleziona il numero di canale di aggiornamento!
+2=Errore durante la procedura di upgrade!
+3=La procedura di upgrade si è conclusa con successo!
+4=Selezionare il file per l’aggiornamento!
+5=Aggiorna?
+6=Il file non esiste!
+7=Canale
+8=Aggiornamento completato!
+9=Aggiornamento fallito!
+10=In fase di aggiornamento, non spegnere!

@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Informations d'alarme
+2=Exception
+3=Événement normal
+4=Événement intelligent
+5=Assigner
+6=Temps d'alarme
+7=Alarme / Exception
+8=Lire
+9=Informations (numéro de canal, numéro d’alarme, disque dur, adresse IP, etc.)

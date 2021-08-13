@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=HDD aan het initialiseren, even geduld aub…
+2=mislukt

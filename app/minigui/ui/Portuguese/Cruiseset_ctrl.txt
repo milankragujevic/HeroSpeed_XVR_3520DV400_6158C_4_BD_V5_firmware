@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Configuração do Curise
+2=Preset No.
+3=Permanecer tempo
+4=Rapidez
+5=confirme
+6=cancelar

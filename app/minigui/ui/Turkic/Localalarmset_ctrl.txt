@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Düzenle
+2=Alarm girişi
+3=Alarm adı
+4=Etkinleştir
+5=Tür
+6=N.O:N.C
+7=Kurma planı
+8=Eklem eylemi
+9=Normal link
+10=Kanal Kaydı
+11=tetikleme alarm çıkışı
+12=Kopyala
+13=Uygula
+14=Tümü
+15=Pazar
+16=Pazartesi
+17=Salı
+18=Çarşamba
+19=Perşembe
+20=Cuma
+21=Cumartesi
+22=Normal
+23=Düzenle
+24=Tam Ekran İzleme

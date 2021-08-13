@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Č.
+2=Stav
+3=Celková velikost
+4=Zbývající velikost
+5=Typ zařízení
+6=Celková kapacita:
+7=Zbývající kapacita:
+8=Zavřít

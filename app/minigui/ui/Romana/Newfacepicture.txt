@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Fișier exceptat sau format Neacceptat (Acceptă numai jpg)
+2=Fișierul selectat nu poate fi mai mare de 1M
+3=Extragerea șablonului facial nu a reușit
+4=Transmisiune eșuată
+5=Valoarea caracteristică sau fețele depășesc limita superioară
+6=Vă rugăm introduceți numele

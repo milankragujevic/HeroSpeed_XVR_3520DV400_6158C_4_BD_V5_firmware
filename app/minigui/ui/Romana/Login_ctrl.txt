@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Logare utilizator
+2=admin
+3=Logare
+4=Închide
+5=Parola uitata
+6=Logare automata

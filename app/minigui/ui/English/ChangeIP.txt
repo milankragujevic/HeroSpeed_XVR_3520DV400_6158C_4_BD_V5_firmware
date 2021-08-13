@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=No permission!
+2=Config Failed
+3=Ip Conflict
+4=Invalid IP address!
+5=Invalid subnet mask!
+6=Invalid gateway!
+7=Non private IPC cannot modify the DNS,HTTP and RTSP ports,confirm the changes?

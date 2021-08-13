@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Alarm Informatie
+2=Uitzondering
+3=Normaal Evenement
+4=Slim Evenement
+5=Stel in
+6=Tijd om alarm te slaan
+7=Alarm/Abnormaal
+8=Afspelen
+9=Informatie (Kanaal Nr., Alarm Input Nr., Harde Schijf, IP Adres, enz.)

@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Camera
+2=PoE
+3=OSD
+4=Hình ảnh
+5=PTZ
+6=Mặt nạ bảo mật
+7=Thông số mã hóa
+8=Luồng ghi
+9=Luồng phụ
+10=Tên kênh
+11=Mặt nạ bảo mật nội bộ
+12=Thiết lập PTZ

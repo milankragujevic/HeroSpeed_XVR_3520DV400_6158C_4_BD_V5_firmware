@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=İzin yok!
+2=Bu kullanıcı silinsin mi?
+3=Administrator silinemez!
+4=En fazla 256 kullanıcı eklenebilir!
+5=Bir kullanıcısı olan gurup silinemez!
+6=Mevcut kullanıcı silinemez!
+7=En fazla 20 gurup eklenebilir!
+8=Admin gurubu silinemez!
+9=Bir kullanıcı seç lütfen
+10=Gurubun bir üyesi değilsiniz, bu işlemi yapmaya izniniz yok!
+11=Zayıf
+12=Orta
+13=Güçlü
+14=yönetici
+15=İşletmen
+16=Genel
+17=Parola

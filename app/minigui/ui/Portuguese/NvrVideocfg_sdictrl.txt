@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Imagem DVR
+2=Brilho
+3=Contraste
+4=Saturação
+5=Tonalidade
+6=Padrão
+7=Aplique
+8=cancelar

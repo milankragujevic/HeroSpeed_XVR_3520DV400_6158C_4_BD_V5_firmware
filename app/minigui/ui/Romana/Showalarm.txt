@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=Detectarea miscarii
+2=Pierderea calității video
+3=Declanșator intrare alarmă
+4=\
+5=\
+6=Față (Capturare față)
+7=Pătrundere
+8=Crossover
+9=Schimbarea scenei
+10=Bunuri de patrimoniu
+11=Bunuri luate
+12=Comparare față
+13=Oamenii stau
+14=Colectarea de persoane
+15=Pierdere video flux principal
+16=Pierdere video flux secundar
+17=Alarmă declanșată
+18=Fum
+19=Infraroșu
+20=Humanoide
+21=Nici un disc
+22=Eroare de disc
+23=Rețea deconectată
+24=Conflictul Ip
+25=Conflict MAC

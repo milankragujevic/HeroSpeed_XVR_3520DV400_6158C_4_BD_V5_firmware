@@ -1,0 +1,23 @@
+[wintip]
+num=21
+1=Modificați utilizatorul cu succes!
+2=Privilegiul administratorului nu poate fi modificat!
+3=Utilizatorul există deja!
+4=Introduceți numele de utilizator!
+5=Introduceți parola!
+6=Introduceți parola nouă!
+7=Parola este incorecta!
+8=Necorespunderea parolei!
+9=Nu se pot schimba permisiunile lor de utilizator!
+10=Eroare Necunoscuta!
+11=Numele de utilizator nu poate fi numit root sau admin!
+12=Numele de utilizator nu poate include cheia spațiului gol
+13=Nu sunteți membru al grupului, nu aveți permisiunea de a efectua această operațiune.
+14=Eroare la nivel de utilizator!
+15=Atenție: Parola Nu Trebuie Să Fie Mai Mică De 8 Octeți Și Să Conțină Cel Puțin O Cifră Și O Literă!
+16=Dacă numele de utilizator sau lungimea parolei este mai mare de 10, nu pot fi toate numerele
+17=Completați!
+18=Exportați cu succes!
+19=Introduceți discul USB.
+20=Exportul a eșuat!
+21=Ești sigur că ieși din expertul de pornire?

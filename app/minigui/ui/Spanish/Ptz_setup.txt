@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Patrullaje
+2=Patrullaje necesita dos programaciones por lo menos!.
+3=Restaurar parametros por defecto?
+4=Este canal no tiene permiso.
+5=Haciendo tour, prohibido modificar!

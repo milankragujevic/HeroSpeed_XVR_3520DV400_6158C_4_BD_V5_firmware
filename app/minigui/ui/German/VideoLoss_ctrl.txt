@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Bewegungsmelder
+2=Video Temperieren
+3=Videoverlust
+4=Alarmeingang
+5=Alarmausgang
+6=Störungsmeldung
+7=Kanal
+8=Aktivieren
+9=Benachrichtigungszeit
+10=Verknüpfung
+11=Normale Verknüpfung
+12=Standard
+13=Kopieren
+14=Anwenden
+15=Alarmausgang
+16=Summer

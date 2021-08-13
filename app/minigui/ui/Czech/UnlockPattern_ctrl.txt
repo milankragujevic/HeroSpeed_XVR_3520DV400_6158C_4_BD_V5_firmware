@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Nastavit vzor odemknutí
+2=admin
+3=Zapomenout si vzor odemknutí
+4=Přepnout uživatele

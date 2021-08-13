@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Gezichtsbibliotheek Toevoegen
+2=Naam
+3=Type Lijst
+4=Zwarte lijst: Whitelist
+5=Gelijkenis
+6=Opslaan
+7=Annuleren

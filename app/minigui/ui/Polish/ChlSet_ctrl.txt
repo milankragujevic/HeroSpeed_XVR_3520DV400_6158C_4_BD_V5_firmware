@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Ustawienia kanału
+2=Włącz
+3=Kanał
+4=Protokół
+5=Podgląd
+6=Użytkownik
+7=Hasło
+8=IP
+9=domena
+10=Port
+11=Główny
+12=Podrzędny
+13=Główny strumień:Drugi strumień
+14=Zapisz
+15=Anuluj
+16=Dodaj drogę
+17=Podręcznik: Plug and play
+18=Podręcznik

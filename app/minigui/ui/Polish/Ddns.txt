@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Przywrócić parametry domyślne?
+2=Format domeny jest nieprawidłowy.

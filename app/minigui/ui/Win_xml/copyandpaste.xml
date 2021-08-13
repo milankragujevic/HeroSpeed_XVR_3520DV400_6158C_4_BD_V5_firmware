@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CopyAndPaste x="0" y="0" w="160" h="40" title="CopyAndPaste">
+<row type="static">
+    
+    <s id="10" x="0" y="0" w="160" h="2" s="11:12:33" bcol="7"></s>
+    <s id="11" x="0" y="38" w="160" h="2" s="11:12:33" bcol="7"></s>
+    <s id="12" x="0" y="2" w="2" h="36" s="11:12:33" bcol="7"></s>
+    <s id="13" x="158" y="2" w="2" h="36" s="11:12:33" bcol="7"></s>
+    <s id="14" x="79" y="2" w="2" h="36" s="11:12:33" bcol="5"></s>
+    <s id="15" x="80" y="2" w="2" h="36" s="11:12:33" bcol="9"></s>
+</row>
+<row type="ctrl_button" x="2" y="2" w="77" h="36" s="12:13:41" gap="2">
+    <b id="1" ft="16">1</b>
+    <b id="2" ft="16">2</b>
+</row>
+</CopyAndPaste>

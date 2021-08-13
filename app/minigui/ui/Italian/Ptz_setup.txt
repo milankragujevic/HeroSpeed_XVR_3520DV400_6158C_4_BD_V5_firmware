@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Patrol
+2=Il Patrol necessita di almeno 2 preset!
+3=Ripristina la configurazione iniziale?
+4=Questo canale non ha le autorizzazioni!
+5=Crusing, ignorare modifiche….

@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=Záloha videa
+2=CH
+3=Typ
+4=Začátek
+5=Konec
+6=Velikost
+7=ID
+8=Záloha událostí
+9=Zbývá:
+10=Požadováno:
+11=Formát souboru
+12=avi
+13=Obnovit
+14=Záloha
+15=Smazat

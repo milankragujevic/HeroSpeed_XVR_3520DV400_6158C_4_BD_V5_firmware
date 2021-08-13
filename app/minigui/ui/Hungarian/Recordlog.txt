@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Kép fájl
+2=Videó fájl
+3=Biztonsági mentés, kérem, várjon…
+4=Kevés a lemezterület!
+5=Sikeres mentés!
+6=Sikertelen mentés!

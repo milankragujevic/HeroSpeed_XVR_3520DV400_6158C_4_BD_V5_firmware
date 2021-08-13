@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Numara
+2=Durum
+3=Toplam kapasite
+4=Geri kalan kapasite
+5=Cihaz türü
+6=Toplam kapasite
+7=Kalan kapasite
+8=Kapat

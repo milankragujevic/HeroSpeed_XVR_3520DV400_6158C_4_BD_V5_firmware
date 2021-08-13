@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Resolution
+2=UI Transparency
+3=Show OSD Time
+4=Show After Boot
+5=1024x768:1280x720:1280x1024:1920x1080
+6=Default
+7=Apply
+8=Show Channel Name

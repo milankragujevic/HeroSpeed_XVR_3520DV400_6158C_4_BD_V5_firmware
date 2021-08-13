@@ -1,0 +1,19 @@
+[Ctrltxt]
+num=17
+1=Arama
+2=Otomatik ekleme
+3=El İle Ekleme
+4=Güncelleştirme
+5=Sil
+6=H264 + / H265 +'yı aç
+7=Kamera adı
+8=Bağlantı durumu
+9=CH
+10=Düzenle
+11=Sil
+12=Kurulum
+13=bağlantı
+14=IP
+15=Liman
+16=İletişim Kuralı
+17=Ürün bilgisi sürümü

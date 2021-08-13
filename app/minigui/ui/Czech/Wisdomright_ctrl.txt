@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Databáze tváří
+2=Počet lidí
+3=Tepelná mapa
+4=Vyhledávání porovnání tváří

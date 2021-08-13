@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<Upgrade x="%15" y="%10" w="%100-%15" h="%100-%10" title="Device Upgrade">
+
+<row type="ctrl_button" x="%3" y="30" w="150" h="40" s="12:13:41:42" tc="2" gap="10" ft="16">
+    <b id="2" bg="./image/radiobutton_bg/refresh_bt.png" bgc="./image/radiobutton_bg/refresh_bt_hover.png">5</b>
+    <b id="3" bg="./image/radiobutton_bg/upgrade_bt.png" bgc="./image/radiobutton_bg/upgrade_bt_hover.png">6</b>
+</row>
+
+
+<row>
+    <srchlist type="listview_ex" id="1" x="%3" y="90" w="%79" h="504" s="12:13:15" itemcnt="4" itemh="56">
+        <item w="%10" align="l">1</item>
+        <item w="%44-10" align="l">2</item>
+        <item w="%10" align="l">3</item>
+        <item w="%15" align="l">4</item>
+    </srchlist>
+</row>
+
+
+</Upgrade>

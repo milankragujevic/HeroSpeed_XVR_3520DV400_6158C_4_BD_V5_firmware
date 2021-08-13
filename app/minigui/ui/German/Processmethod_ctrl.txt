@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=Verarbeitungsmethode
+2=Aktivierungszeit
+3=Verarbeitungsmethode
+4=Bildschirmanzeige
+5=Tonalarm
+6=E-Mail senden
+7=Auf FTP hochladen
+8=Kanalaufnahme
+9=Erfassen
+10=Aktivieren Sie den Alarmausgang
+11=Alarmausgang
+12=Alarmname
+13=Anwenden
+14=Abbrechen
+15=1
+16=2
+17=3
+18=4
+19=5
+20=6
+21=7
+22=8
+23=Verknüpfung
+24=Aufnahmezeit(Sek)
+25=Buzzer Time(sec)

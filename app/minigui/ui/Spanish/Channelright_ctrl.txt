@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Camara
+2=POE
+3=Configuración de OSD
+4=Imagen
+5=PTZ
+6=Máscara de privacidad
+7=Codificar parámetros
+8=Grabar secuencia
+9=Sub corriente
+10=Nombre del canal
+11=Mascara de Privacidad Local
+12=Configuración de PTZ

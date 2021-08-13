@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Instellingen ophalen, even geduld aub…
+2=Dit kanaal heeft geen toestemming!

@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Manual Screenshot
+2=/
+3=/
+4=/
+5=/
+6=キャンセル
+7=解像度
+8=チャネル

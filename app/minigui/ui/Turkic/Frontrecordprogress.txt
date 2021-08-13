@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Görüntü dosyası
+2=Video dosyası
+3=Yedekleme, lütfen bekleyin ...
+4=Sabit Disk Sürücüsünde Yetersiz Alan
+5=Yedekleme başarılı!
+6=Yedekleme başarısız!

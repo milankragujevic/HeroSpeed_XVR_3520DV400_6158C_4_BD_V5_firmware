@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Obnovit výchozí nastavení ?
+2=Doba dotazování mezi 5 a 255.

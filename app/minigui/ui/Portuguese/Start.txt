@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Visualização
+2=Reprodução
+3=Gerenciamento de arquivos
+4=Análise Inteligente
+5=Canal
+6=Armazenamento
+7=Sistema
+8=Manutenção
+9=Aplicação Empresarial
+10=Download
+11=Bell
+12=Alarme
+13=Cópia de segurança
+14=Desligar

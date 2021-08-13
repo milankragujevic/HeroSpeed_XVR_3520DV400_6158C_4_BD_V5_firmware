@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menu x="360" y="160" w="722" h="452" title="MainMenu">
+
+<row>
+<s type="static" id="90" x="0" y="0" w="722" h="2" s="11:12:33" bcol="7"></s>
+<s type="static" id="91" x="0" y="449" w="722" h="2" s="11:12:33" bcol="7"></s>
+<s type="static" id="92" x="0" y="3" w="2" h="446" s="11:12:33" bcol="7"></s>
+<s type="static" id="93" x="719" y="3" w="2" h="446" s="11:12:33" bcol="7"></s>
+<s type="static" id="27" x="3" y="447" w="716" h="2" s="11:12:33" bcol="5"></s>
+<s type="static" id="28" x="3" y="3" w="2" h="444" s="11:12:33" bcol="5"></s>
+<s type="static" id="29" x="717" y="3" w="2" h="444" s="11:12:33" bcol="5"></s>
+<s type="static" id="94" x="5" y="406" w="712" h="1" s="11:12:33" bcol="5"></s>
+<s type="static" id="20" x="6" y="7" w="714" h="39" s="11:12:33" ft="16" bcol="20">1</s>
+</row>
+<row x="685" y="17" w="20" h="20" s="12:13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="10" bg="./image/menu/close.png" bgc="./image/menu/close_hover.png" bgw="" ft="16"></b>
+</row>
+
+<row x="5" y="50" w="178" h="178" s="12:13:41:42" ex="81" bgw="128" gap="0">
+<b type="ctrl_button" id="1" bg="./image/menu/playback.png" ft="16" tc="4">2</b>
+<b type="ctrl_button" id="2" bg="./image/menu/filebackup.png" ft="16" tc="4">3</b>
+<b type="ctrl_button" id="3" bg="./image/menu/disk.png" ft="16" tc="4">4</b>
+<b type="ctrl_button" id="4" bg="./image/menu/recordset.png" ft="16" tc="4">5</b>
+</row>
+<row x="5" y="228" w="178" h="178" s="12:13:41:42" ex="81" bgw="128" gap="0">
+<b type="ctrl_button" id="5" bg="./image/menu/channel.png" ft="16" tc="4">6</b>
+<b type="ctrl_button" id="6" bg="./image/menu/system.png" ft="16" tc="4">7</b>
+<b type="ctrl_button" id="7" bg="./image/menu/sysprotect.png" ft="16" tc="4">8</b>
+<b type="ctrl_button" id="8" bg="./image/menu/shutdown.png" ft="16" tc="4">9</b>
+</row>
+
+</Menu>

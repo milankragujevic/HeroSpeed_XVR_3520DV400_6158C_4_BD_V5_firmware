@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Visszaállítja az alapértelmezett paramétereket?
+2=Lekérdezési idő 5 és 255 között.

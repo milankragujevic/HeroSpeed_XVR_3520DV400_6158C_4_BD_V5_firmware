@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Añadir
+2=Modificar
+3=Borrar
+4=Permiso de Vista a Tiempo Real en Pantalla Bloqueada
+5=No.
+6=Nombre de Usuario
+7=Seguridad
+8=Nivel
+9=Autoridad

@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Tipo di restrizione
+2=Modalità di restrizione
+3=Abilita
+4=Elenco nero: elenco consentito
+5=Indirizzo IP: indirizzo MAC
+6=Aggiungi
+7=Cambia
+8=Cancellare
+9=Applica
+10=Elenco di restrizione
+11=Indirizzo IP
+12=MAC dispositivo
+13=Cancella tutto

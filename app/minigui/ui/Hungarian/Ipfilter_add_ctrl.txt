@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Hozzáadás
+2=IP Cím
+3=MAC cím
+4=Alkalmaz
+5=Megszünteti

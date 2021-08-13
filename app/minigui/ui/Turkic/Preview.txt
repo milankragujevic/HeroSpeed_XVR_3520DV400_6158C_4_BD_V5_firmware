@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Benzerlik
+2=Yaş
+3=Cinsiyet
+4=Gözlük
+5=Şapka
+6=EVET
+7=HAYIR
+8=Uzun
+9=Kısa
+10=erkek
+11=kadın
+12=Ad
+13=Mod: Kara liste
+14=Mod: Beyaz liste
+15=Mod: Kara liste ve Beyaz liste
+16=Sakal
+17=Kanal

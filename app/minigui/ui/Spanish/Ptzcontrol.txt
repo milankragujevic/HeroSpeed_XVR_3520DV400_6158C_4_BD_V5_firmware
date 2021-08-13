@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Haciendo tour, prohibido modificar!
+2=Abierto
+3=Cerrado
+4=Sin permiso!

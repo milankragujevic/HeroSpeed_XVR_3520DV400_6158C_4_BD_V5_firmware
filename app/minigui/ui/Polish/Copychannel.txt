@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Nie więcej niż 4 kanały!
+2=Nie więcej niż 8 kanałów!
+3=Brak pozwolenia!
+4=nagrywanie kanału

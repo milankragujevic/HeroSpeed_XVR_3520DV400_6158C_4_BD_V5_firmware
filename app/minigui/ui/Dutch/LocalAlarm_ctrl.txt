@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Bewegings detectie
+2=Video Bewerking
+3=Video verlies
+4=Alarmingang
+5=Alarmuitgang
+6=Uitzondering
+7=Alarm Invoering Nr.
+8=Naam van het alarm
+9=Type alarm
+10=Activeer
+11=Bewerk
+12=Zoemer

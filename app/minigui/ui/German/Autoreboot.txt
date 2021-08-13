@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=So.
+2=Mo.
+3=Di.
+4=Mi.
+5=Do.
+6=Fr.
+7=Sa.
+8=Auf Werkseinstellungen zurücksetzen?
+9=Std.
+10=Min.

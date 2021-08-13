@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Thông tin cảnh báo
+2=Ngoại lệ
+3=Sự kiện bình thường
+4=Sự kiện thông minh
+5=Đặt
+6=Thời gian cảnh báo
+7=Cảnh báo/thất thường
+8=Phát
+9=Thông tin( số đường qua lại, số nhập cảnh báo, ổ cứng, địa chỉ IP vân vân)

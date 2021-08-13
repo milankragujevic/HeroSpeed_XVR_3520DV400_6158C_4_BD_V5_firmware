@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Kézi képernyőmentés
+2=/
+3=/
+4=/
+5=/
+6=Megszünteti
+7=Felbontás
+8=Csatorna

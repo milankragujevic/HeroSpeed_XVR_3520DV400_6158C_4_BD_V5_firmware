@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Restore Camera Default Param
+2=Restore Storage Default Param
+3=Restore System Default Param
+4=Restore Maintenance Default Param 
+5=Restore Factory Settings
+6=Apply 

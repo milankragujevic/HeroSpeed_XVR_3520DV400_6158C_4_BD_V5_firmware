@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Náhled
+2=Přehrávání
+3=Správa souborů
+4=Inteligentní analýza
+5=Kanál
+6=Úložný prostor
+7=Systém
+8=Údržba
+9=Komerční aplikace
+10=Stáhnout
+11=Bell
+12=Alarm
+13=Záloha
+14=Vypnout napájení

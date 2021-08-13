@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=PTZ
+2=Kanał
+3=Sterowanie PTZ
+4=Preset | Trasa
+5=Powiększenie
+6=Ostrość
+7=Przysłona
+8=Szybkość
+9=Ustawienie wstępne
+10=Wywołaj
+11=Włącz trasę
+12=Wyłącz trasę
+13=Patrol
+14=1:2:3
+15=Patrol

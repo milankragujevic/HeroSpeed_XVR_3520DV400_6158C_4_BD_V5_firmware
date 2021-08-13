@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Không cho phép!
+2=Cấu hình Không thành công
+3=Xung đột IP
+4=Địa chỉ IP không hợp lệ!
+5=Subnet mark không hợp lệ!
+6=Cổng không hợp lệ!
+7=IPC không riêng tư có thể sửa đổi các cổng DNS, HTTP và RTSP, xác nhận các thay đổi?

@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Ricerca per evento
+2=Ricerca per immagine
+3=Canale
+4=Ora
+5=Tipo
+6=Oggi: Ieri: Ultimi 2 giorni: Ultimi 3 giorni: Ultimi 7 giorni: Ultimi 14 giorni: Personalizzato
+7=Lista nera: lista bianca: lista nera e lista bianca
+8=Ricerca

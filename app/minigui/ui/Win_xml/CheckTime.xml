@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CheckTime x="250" y="137" w="650" h="490" title="CheckTime">
+
+<row type="static">
+    
+    <s id="80" x="0" y="4" w="2" h="482" s="11:12:31" bcol="3"></s>
+    <s id="81" x="4" y="0" w="642" h="2" s="11:12:31" bcol="3"></s>
+    <s id="82" x="648" y="4" w="2" h="482" s="11:12:31" bcol="3"></s>
+    <s id="83" x="4" y="488" w="642" h="2" s="11:12:31" bcol="3"></s>
+    
+    <s id="84" x="30" y="4" w="200" h="64" s="11:12:31" ft="18" bcol="10">1</s>
+    <s id="85" x="2" y="70" w="646" h="2" s="11:12:31" bcol="2"></s>
+</row>
+<row x="600" y="15" w="34" h="34" s="12:13:41:42" ex="81" gap="0">
+    <b type="ctrl_button" id="74" bg="./image/menu/close.png" bgc="./image/menu/close.png" bgw=""></b>
+</row>
+
+<row type="static" x="25" y="372" w="230" h="40" s="11:12:13" gap="10">
+    <s id="72"  s="11:12:13:31" bcol="10" ft="18">69</s>
+    <cb id="73" type="myedit" w="350" ad="255" s="11:12:13:54" ex="81:82:83" tcol="10"></cb>
+</row>
+
+<row type="ctrl_button" x="25" y="75" w="120" h="38" s="12:13:44">
+    <b id="1">2</b>
+</row>
+
+
+<row type="ctrl_button" x="25" y="115" w="50" h="38" s="13:44" gap="5">
+    <cb id="2">3</cb>
+    <cb id="3">4</cb>
+    <cb id="4">5</cb>
+    <cb id="5">6</cb>
+    <cb id="6">7</cb>
+    <cb id="7">8</cb>
+    <cb id="8">9</cb>
+    <cb id="9">10</cb>
+    <cb id="10">11</cb>
+    <cb id="11">12</cb>
+    <cb id="12">13</cb>
+</row>
+
+
+<row type="ctrl_button" x="25" y="154" w="50" h="38" s="13:44" gap="5">
+    <cb id="13">14</cb>
+    <cb id="14">15</cb>
+    <cb id="15">16</cb>
+    <cb id="16">17</cb>
+    <cb id="17">18</cb>
+    <cb id="18">19</cb>
+    <cb id="19">20</cb>
+    <cb id="20">21</cb>
+    <cb id="21">22</cb>
+    <cb id="22">23</cb>
+    <cb id="23">24</cb>
+</row>
+
+<row type="ctrl_button" x="25" y="194" w="50" h="38" s="13:44" gap="5">
+    <cb id="24">25</cb>
+    <cb id="25">26</cb>
+    <cb id="26">27</cb>
+    <cb id="27">28</cb>
+    <cb id="28">29</cb>
+    <cb id="29">30</cb>
+    <cb id="30">31</cb>
+    <cb id="31">32</cb>
+    <cb id="32">33</cb>
+    <cb id="33">34</cb>
+    <cb id="34">35</cb>
+</row>
+
+<row type="ctrl_button" x="25" y="234" w="50" h="38" s="13:44" gap="5">
+    <cb id="35">36</cb>
+    <cb id="36">37</cb>
+    <cb id="37">38</cb>
+    <cb id="38">39</cb>
+    <cb id="39">40</cb>
+    <cb id="40">41</cb>
+    <cb id="41">42</cb>
+    <cb id="42">43</cb>
+    <cb id="43">44</cb>
+    <cb id="44">45</cb>
+    <cb id="45">46</cb>
+</row>
+
+<row type="ctrl_button" x="25" y="274" w="50" h="38" s="13:44" gap="5">
+    <cb id="46">47</cb>
+    <cb id="47">48</cb>
+    <cb id="48">49</cb>
+    <cb id="49">50</cb>
+    <cb id="50">51</cb>
+    <cb id="51">52</cb>
+    <cb id="52">53</cb>
+    <cb id="53">54</cb>
+    <cb id="54">55</cb>
+    <cb id="55">56</cb>
+    <cb id="56">57</cb>
+</row>
+<row type="ctrl_button" x="25" y="314" w="50" h="38" s="13:44" gap="5">
+    <cb id="57">58</cb>
+    <cb id="58">59</cb>
+    <cb id="59">60</cb>
+    <cb id="60">61</cb>
+    <cb id="61">62</cb>
+    <cb id="62">63</cb>
+    <cb id="63">64</cb>
+    <cb id="64">65</cb>
+    <cb id="65">66</cb>
+</row>
+
+<row type="ctrl_button" x="180" y="440" w="140" h="40" s="12:13:41" gap="10" ft="16">
+    <b id="70">67</b>
+    <b id="71">68</b>
+</row>
+</CheckTime>

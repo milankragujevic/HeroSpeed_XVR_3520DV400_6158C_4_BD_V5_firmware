@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Sem disco
+2=Erro de disco
+3=Rede quebrada
+4=Conflito de IP
+5=Alarme local

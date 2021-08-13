@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Bevestig uw instellingen en netwerkstatus
+2=Reset naar fabrieksinstellingen ?
+3=Opslaan encryptie instellingen, even geduld aub…
+4=Instellingen ophalen, even geduld aub…
+5=Ophalen instellingen mislukt…
+6=De reikwijdte van de bitrate is 512-8192
+7=Camera instellingen toepassen mislukt.
+8=Dit kanaal is H265 dat apparaat niet ondersteunt
+9=Geen toestemming!
+10=Apparaat ondersteunt H265 niet.
+11=Main Bitrate range 64-8192.
+12=Subbitsnelheidbereik 64-2048.

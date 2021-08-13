@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Deschis
+2=Închide
+3=Flux video
+4=Sub-flux
+5=Flux compozit
+6=Înregistrare
+7=Mişcare
+8=Alarma
+9=M și A
+10=Inteligent

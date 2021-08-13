@@ -1,0 +1,18 @@
+[wintip]
+num=16
+1=Đang nhận param, Xin chờ ...
+2=Không cho phép!
+3=Lỗi quy tắc dòng!
+4=Có một đường chéo!
+5=Trên cùng một dòng!
+6=Thiêt bị kênh này không hỗ trợ chức năng đó.
+7=Báo động Buzzer
+8=Gửi email
+9=Ghi kênh
+10=Danh sách đen
+11=Danh sách trắng
+12=Danh sách đen và trắng
+13=Maximum support for
+14=Kênh
+15=channels
+16=Trong giai đoạn phát triển!

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Poll x="250" y="137" w="800" h="640" title="Poll">
+<row type="static">
+<s id="32" x="0" y="0" w="800" h="2" s="11:12:33" bcol="7"></s>
+<s id="33" x="0" y="637" w="800" h="2" s="11:12:33" bcol="7"></s>
+<s id="34" x="0" y="3" w="2" h="634" s="11:12:33" bcol="7"></s>
+<s id="35" x="797" y="3" w="2" h="634" s="11:12:33" bcol="7"></s>
+<s id="36" x="3" y="635" w="794" h="2" s="11:12:33" bcol="5"></s>
+<s id="37" x="3" y="3" w="2" h="633" s="11:12:33" bcol="5"></s>
+<s id="38" x="795" y="3" w="2" h="633" s="11:12:33" bcol="5"></s>
+<s id="39" x="1" y="6" w="798" h="47" s="11:12:33" ft="16" bcol="20">1</s>
+</row>
+
+
+<col type="static" x="540" y="265" w="240" h="40" s="11:12:33" gap="-1">
+<chl id="5" bcol="110">9</chl>
+</col>
+<row type="ctrl_button" x="255" y="581" w="140" h="44" s="12:13:41:42" bgw="0" tc="100" gap="10">
+<b id="8" x="15" y="125" h="35" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">4</b>
+<b id="9" x="15" y="205" h="35" s="13:41:42" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">10</b>
+<b id="11" x="15" y="205" h="35" s="13:41:42" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">14</b>
+<b id="10" x="170" y="205" h="35" s="13:41:42" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">11</b>
+<b id="20" x="255" y="581" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">6</b>
+<b id="21" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">7</b>
+</row>
+
+
+</Poll>

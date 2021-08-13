@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Przywrócić parametry domyślne?
+2=Numer portu musi być z zakresu pomiędzy 1 i 65535!
+3=Test FTP. Czekaj
+4=Dane FTP nie mogą być dostarczone!
+5=Test FTP pomyślny.
+6=Błąd formatu czasu!
+7=Nazwa pliku nie może zawierać następujących symboli:                \ / : * ? " < > |
+8=Nazwa użytkownika lub hasło nie może zawierać następujących symboli:! % I #
+9=Błąd formatu serwera FTP!

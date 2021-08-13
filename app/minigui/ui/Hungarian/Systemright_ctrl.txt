@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Általános
+2=Hálózat
+3=TCP/IP
+4=Beállítás
+5=Felhasználó
+6=Cím szűrő
+7=Ünnep
+8=POS
+9=Esemény
+10=Normál esemény
+11=Intelligens esemény
+12=Élő nézet
+13=Kijelző
+14=Nézet
+15=Nullás csatorna
+16=Haladó
+17=Felhő tárhely
+18=Normál
+19=Csatorna beállítások
+20=Kijelentkezés előnézet

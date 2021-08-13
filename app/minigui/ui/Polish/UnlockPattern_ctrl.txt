@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Ustaw wzrór oblokowujący
+2=admin
+3=Zapomnij wzór oblokowujący
+4=Zmień użytkownika

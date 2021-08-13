@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Hinzuf.
+2=Ändern
+3=Löschen
+4=Sperren Sie die Livebild-Berechtigungen auf dem Bildschirm
+5=Nr.
+6=Benutzername
+7=Sicherheit
+8=Stufe
+9=Berechtigung

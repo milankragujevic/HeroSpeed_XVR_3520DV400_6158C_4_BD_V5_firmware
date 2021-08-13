@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Więcej ustawień
+2=Czas przed-zapisu (s)
+3=Czas nagrywania po opóźnieniu
+4=Zapis dźwięku
+5=Domyślne
+6=Zapisz
+7=Anuluj

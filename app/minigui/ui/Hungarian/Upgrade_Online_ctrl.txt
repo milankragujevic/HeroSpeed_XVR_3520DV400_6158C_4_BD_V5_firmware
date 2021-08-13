@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Állapot
+2=Auto. Frissítés
+3=Frissítési idő
+4=Ellenőrzés
+5=Frissítés
+6=Alkalmaz

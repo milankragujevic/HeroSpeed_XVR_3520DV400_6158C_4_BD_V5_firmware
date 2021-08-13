@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=CAM
+2=Kb/S
+3=Résolution
+4=Veuillez entrer un numéro de page valide

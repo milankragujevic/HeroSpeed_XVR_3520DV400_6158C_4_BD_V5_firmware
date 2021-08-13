@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=!האשרה ןיא
+2=העמשה
+3=יוביג ץבוק איש
+4=קסידה לוהינ
+5=.רידגהל דדוקל המלצמה תאו םינמזה חול תטלקה
+6=Camera add,camera osd,image,motion detection,videoloss,ptz,privacy mask setup,channelname.
+7=System date/time,network,display,exception,user setup,channel config.
+8=.לדחמה תרירב תא רזחשל ,תכרעמה ןוכדעו הסריגה יטרפ ,ןמוי ,םרז
+9=שדחמ לוחתאו האיצי
+10=System date/time,network,display,exception,user setup,channel config,local alarm.

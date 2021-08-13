@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Suche nach Ereignis
+2=Suche nach Bild
+3=Lokaler hochladen
+4=Datenbank hochladen
+5=Kanal
+6=Zeit
+7=Ähnlichkeit (0-100)
+8=Heute: Gestern: Vergangene 2 Tage: Vergangene 3 Tage: Letzte 7 Tage: Letzte 14 Tage: Benutzerdefiniert
+9=Suche

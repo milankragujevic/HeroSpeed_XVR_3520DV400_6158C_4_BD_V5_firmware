@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Not enough disk space.
+2=Sauvegarde en cours, veuillez patienter.
+3=Sauvegarde terminée
+4=Ecriture impossible sur le disque dur mobile.
+5=Veuillez sélectionner un fichier.
+6=Le temps de sauvegarde rapide ne doit pas dépasser 30 minutes.
+7=This time no files.
+8=Erreur de format d'heure!
+9=Sauvegarde en cours, veuillez patienter.
+10=Il y a un ou plusieurs canaux sans permission!
+11=Pas de permission pour cette caméra!
+12=Sélectionnez une chaine S.V.P.
+13=Insérez le disque USB S.V.P.

@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Spojuji…
+2=Spojeno
+3=Obnovit výchozí nastavení ?
+4=Maximální počet port mappingu je 16 !

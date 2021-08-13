@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=čas
+2=Kanál
+3=Typ souboru
+4=Štítek
+5=Typ události
+6=SPZ
+7=Stav souboru
+8=Region/Stát
+9=Dnes: Včera: Poslední 2 dny: Poslední 3 dny: Posledních 7 dní: Posledních 14 dní: Vlastní
+10=Video:Picture
+11=Vše: Odemknout: Zamknout
+12=Rychlý export
+13=Hledání

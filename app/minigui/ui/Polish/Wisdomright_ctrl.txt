@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Baza danych twarz
+2=Naliczanie ludzi
+3=Mapa cieplna
+4=Wyszukiwanie z porównywaniem twarzy

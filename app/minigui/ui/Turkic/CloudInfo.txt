@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Bilgiyi getiriyor…
+2=Bağlantı başarılı!
+3=Bağlantı başarısız!
+4=Bekliyor…
+5=Lütfen aşağıdaki URL'yi açmak için tarayıcıyı kullanın, doğrulama işlemini tamamlayın:

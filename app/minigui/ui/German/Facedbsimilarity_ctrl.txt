@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Ähnlichkeit
+2=OK
+3=Abbrechen
+4=schwarze Liste:weiße Liste
+5=Ansicht

@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Seleccione un archivo.
+2=No hay suficiente espacio en el disco.
+3=Buscando, por favor espere ...
+4=No se pueden escribir datos en el disco duro móvil.
+5=Copia de seguridad terminada
+6=por favor inserte el disco usb
+7=Demasiados archivos, ¡deja de buscar!
+8=No hay archivo de grabaciones
+9=Por favor, elija el tipo de la copia de seguridad
+10=Semejanza
+11=En proceso de backup, cancele el proceso o continue cuando termine
+12=La parte superior
+13=ha sido añadido a la cola de backup
+14=No ha podido añadir a la cola de backup.
+15=No ha podido extraer las características de rostro.
+16=Archivos de Personas
+17=Búsqueda de comparación de rostros

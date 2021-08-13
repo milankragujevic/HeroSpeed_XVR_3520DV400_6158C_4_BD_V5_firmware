@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=PTZ
+2=Canal
+3=Control de PTZ
+4=Control principal
+5=Acercamiento
+6=Focos
+7=Iris
+8=Velocidad
+9=Programar
+10=Llamado
+11=Crucero
+12=Pagar el tour
+13=Patrullaje
+14=1:2:3
+15=Crucero

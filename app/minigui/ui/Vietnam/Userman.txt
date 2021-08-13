@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Không cho phép!
+2=Xóa người dùng này?
+3=Quản trị viên không thể bị xóa!
+4=Thêm nhiều nhất 256 người dùng!
+5=Nhóm có người dùng không thể bị xóa!
+6=Không thể xóa người dùng hiện tại!
+7=Thêm nhiều nhất 20 nhóm!
+8=Không thể xóa nhóm quản trị！
+9=Xin lửa chọn một người sử dụng
+10=Bạn không phải là thành viên của nhóm, không được phép thực hiện thao tác này.
+11=Yếu
+12=Trung bình
+13=Mạnh mẽ
+14=Người quản lý
+15=Nhà điều hành
+16=Tổng hợp
+17=Mật khẩu

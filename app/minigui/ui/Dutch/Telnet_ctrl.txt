@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Configuratie
+2=algemeen
+3=Netwerk
+4=tonen
+5=Uitzonderingen
+6=Gebruiker
+7=Kanaal configureren
+8=Lokaal alarm
+9=IP/Poort
+10=DDNS
+11=Email
+12=P2P
+13=FTP
+14=UPnP
+15=PPPoE
+16=Cloud opslag
+17=Telnet
+18=Activeer
+19=Toepassen
+20=Annuleren
+21=weergave vooraf
+22=wifi
+23=IP Filter

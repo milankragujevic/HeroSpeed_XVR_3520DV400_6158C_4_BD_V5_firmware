@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Revenire la parametrii initiali?
+2=Ești sigur că ieși din expertul de pornire?
+3=Numărul portului nu poate fi același!
+4=numărul portului nu poate fi mai mic decât 1025, cu excepția valorilor implicite 554 și 80!
+5=unkown
+6=IP-ul placii interne de rețea și IP-ul extern nu pot fi în același segment de rețea
+7=Pentru a modifica adresa IP din intranet trebuie să reporniți dispozitivul, doriți repornirea?
+8=Adresa de eroare a adresei IP!
+9=Eroare format masca de rețea!
+10=Eroare de format gateway!
+11=Format eroare DNS!
+12=Lan1 și Lan2 nu pot fi în același segment de rețea
+13=Modificați modul de rețea trebuie să fie repornit, doriți să continuați să îl modificați?

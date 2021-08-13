@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Varsayılan değişkenleri geri yüklesin mi?
+2=Alan biçimi yanlış.

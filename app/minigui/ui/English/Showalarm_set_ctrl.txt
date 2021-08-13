@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Event Hint Settings
+2=All
+3=Apply
+4=Cancel

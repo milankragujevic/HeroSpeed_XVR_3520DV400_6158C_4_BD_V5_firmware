@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Тества се...
+2=Успешен тест.
+3=Неуспешен тест.
+4=Change Upload folder need to unbind and then rebind to take effect.
+5=Да възстановя ли оригиналните параметри?
+6=Вържи
+7=Разврържи

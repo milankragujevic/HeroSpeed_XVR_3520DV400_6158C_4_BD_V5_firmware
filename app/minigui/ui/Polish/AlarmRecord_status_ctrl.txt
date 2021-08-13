@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Numer wejścia alarmu
+2=Nazwa alarmu
+3=Typ alarmu
+4=Status alarmu
+5=Aktywacja kanału nagrywania
+6=Zamknij

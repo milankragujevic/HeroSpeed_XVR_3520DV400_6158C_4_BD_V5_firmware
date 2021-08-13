@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Přidat seznam tváří
+2=Místní nastavení videa
+3=Pořídit fotku
+4=Dovážet fotku
+5=Jméno
+6=Potvrzení
+7=Zrušit
+8=Kanál
+9=Šablona tváře
+10=Natáčení
+11=Vytáhnout šablonu tváře
+12=Vyberte Tvář
+13=Vytvořit nové
+14=Znovu natočit

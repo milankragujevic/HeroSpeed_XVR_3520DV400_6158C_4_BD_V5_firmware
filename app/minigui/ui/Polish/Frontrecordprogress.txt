@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Pliki zdjęciowe
+2=Plik wideo
+3=Zapisywanie kopii, proszę czekaj...
+4=Niewystarczające miejsce na dysku
+5=Zarchiwizowano!
+6=Archiwizacja nieudana!

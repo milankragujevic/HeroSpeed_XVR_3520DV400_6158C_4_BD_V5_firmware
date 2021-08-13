@@ -1,0 +1,21 @@
+[wintip]
+num=19
+1=Porcurando dispositivo!
+2=Tem a certeza de sair do assistente de inicialização?
+3=Operação irá mudar o IP do dispositivo remoto, confirmar as alterações?
+4=Equipamentos fisheye precisam ser adicionados separadamente
+5=O dispositivo está conectado, você não pode adicionar.
+6=Sem permissão!
+7=Excluindo a câmera, aguarde ...
+8=Selecione o canal
+9=O canal de conectar e reproduzir não pode ser excluído.
+10=Conectado
+11=Erro desconhecido
+12=Erro de conexão da rede
+13=Erro de porta ou servidor
+14=Erro de nome de usuário ou senha
+15=O acesso ao fluxo falhou
+16=CH
+17=Bandwidth idle:
+18=Apenas um único cartão pode adicionar automaticamente!
+19=Se deseja abrir todos os canais H264 + ou H265 +?

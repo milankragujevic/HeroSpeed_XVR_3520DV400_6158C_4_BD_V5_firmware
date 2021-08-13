@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Sabit Disk Sürücüsü
+2=Genel
+3=Sabit Disk Sürücüsü Bilgisi
+4=Numara
+5=Durum
+6=Toplam kapasite
+7=Geri kalan kapasite
+8=Cihaz türü
+9=Warning:DVR will reboot automatically after disk formatting !
+10=Yenileme
+11=Biçimlendirme
+12=iptal
+13=Ön

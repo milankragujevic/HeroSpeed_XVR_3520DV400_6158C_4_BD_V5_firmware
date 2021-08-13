@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=General
+2=Retea
+3=TCP/IP
+4=Setare
+5=Utilizator
+6=Filtru adresă
+7=Sărbătoare
+8=POS
+9=Eveniment
+10=Eveniment normal
+11=Eveniment inteligent
+12=Vizualizare în direct
+13=Ecran
+14=Vizualizare
+15=Canal-zero
+16=Avansat
+17=Stocare in cloud
+18=Normal
+19=Configurarea canalului
+20=Previzualizare de logout

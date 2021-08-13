@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Esemény tippek beállításai
+2=Mind
+3=Alkalmaz
+4=Megszünteti

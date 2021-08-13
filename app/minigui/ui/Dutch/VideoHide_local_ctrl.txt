@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Kanaal
+2=Activeer
+3=Wis zone 1
+4=Wis zone 2
+5=Wis zone 3
+6=Alles wissen
+7=Toepassen
+8=Kopieer

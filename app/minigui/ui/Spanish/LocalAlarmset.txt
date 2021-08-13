@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Alarma del zumbador
+2=Enviar correo electrónico
+3=Visualización de la pantalla
+4=Error de formato de tiempo!
+5=Agregar un máximo de 6 programas por día!

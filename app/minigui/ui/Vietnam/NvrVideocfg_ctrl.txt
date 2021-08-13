@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Hình ảnh
+2=Sáng
+3=Tương phản
+4=Bão hòa
+5=Hue
+6=Mặc định
+7=Ứng dụng
+8=Hủy

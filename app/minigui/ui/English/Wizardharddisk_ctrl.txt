@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Date and Time;1
+2=Network;2
+3=Hard Disk;3
+4=Camera;4
+5=Plateform;5
+6=Change Password;5
+7=Hard Disk
+8=No.
+9=State
+10=Total Capacity
+11=Residual Capacity
+12=Device Type
+13=Format
+14=Previous
+15=Next
+16=Exit

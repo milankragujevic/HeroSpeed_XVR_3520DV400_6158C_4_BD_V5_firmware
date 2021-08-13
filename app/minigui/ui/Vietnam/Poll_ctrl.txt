@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Tuần tra
+2=Bật
+3=Thời gian(s)
+4=Chế độ
+5=Mặc định
+6=Ứng dụng
+7=Hủy

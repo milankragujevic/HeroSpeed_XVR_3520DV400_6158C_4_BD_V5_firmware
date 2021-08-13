@@ -1,0 +1,5 @@
+[Ctrltxt]
+num=3
+1=Đăng xuất
+2=Khởi động lại
+3=Tắt nguồn

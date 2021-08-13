@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Sınır tipi
+2=Sınır modu
+3=Etkinleştir
+4=Kara liste: ak liste
+5=IP adresi: mac adresi
+6=Ekle
+7=Düzenle
+8=Sil
+9=Uygula
+10=Sınır listesi
+11=IP adresi
+12=MAC cihazı
+13=Hepsini sil

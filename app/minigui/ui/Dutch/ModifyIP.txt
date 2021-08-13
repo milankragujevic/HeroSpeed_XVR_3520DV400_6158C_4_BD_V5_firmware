@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Geen toestemming!
+2=Config mislukt
+3=Ip Conflict
+4=Ongeldig IP adres
+5=Ongeldige subnet mask
+6=Ongeldige gateway

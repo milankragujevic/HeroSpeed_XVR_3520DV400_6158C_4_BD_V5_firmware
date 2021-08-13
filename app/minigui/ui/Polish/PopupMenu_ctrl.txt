@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Odtwarzanie
+2=Zarządzanie dokumentami
+3=Ustawienia systemu
+4=Logowanie
+5=Zamknięcie
+6=Wyloguj

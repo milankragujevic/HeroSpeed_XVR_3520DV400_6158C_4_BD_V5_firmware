@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Nieuwe instellingen worden na het rebooten geactiveerd. Herstarten nu?
+2=Kanaal
+3=Reset naar fabrieksinstellingen ?
+4=1 scherm
+5=4 scherm
+6=8 Scherm
+7=9 Scherm
+8=16 Scherm
+9=25 Scherm
+10=36 Scherm
+11=64 Scherm
+12=32 schermen
+13=Het apparaat ondersteunt deze resolutie niet!

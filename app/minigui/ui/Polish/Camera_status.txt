@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Wspiera
+2=Nie Wspiera
+3=Połączony
+4=Rozłączone

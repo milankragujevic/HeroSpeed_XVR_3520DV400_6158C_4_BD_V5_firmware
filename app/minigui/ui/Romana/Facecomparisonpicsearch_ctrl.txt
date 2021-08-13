@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Căutare După Eveniment
+2=Căutare După Imagine
+3=Încărcare Locală
+4=Încărcare în baza de date
+5=Canal
+6=Timp
+7=Asemănare(0-100)
+8=Astăzi: Ieri: Ultimele 2 zile: Ultimele 3 zile: Ultimele 7 zile: Ultimele 14 zile: Personalizare
+9=Cautare

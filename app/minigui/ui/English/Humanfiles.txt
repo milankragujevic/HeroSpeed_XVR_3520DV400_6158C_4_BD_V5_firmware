@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=All Channels
+2=Time format error!
+3=There are one or more channel have no permission!
+4=No permission!
+5=Please select a channel

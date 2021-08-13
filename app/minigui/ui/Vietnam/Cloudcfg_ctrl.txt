@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Bật
+2=Dropbox
+3=Google
+4=Tải lên thư mục
+5=Tên đăng nhập
+6=Dung lượng
+7=Đã sử dụng
+8=Kiểm tra
+9=Mặc định
+10=Ứng dụng
+11=Google
+12=IPEYE
+13=Liên kết

@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=TCP/IP
+2=DDNS
+3=NTP
+4=FTP
+5=UPNP
+6=Activare NTP
+7=Server NTP
+8=Personalizat
+9=Portul NTP
+10=Interval (min)
+11=Initial
+12=Salvare
+13=PPPOE
+14=(30-1440)

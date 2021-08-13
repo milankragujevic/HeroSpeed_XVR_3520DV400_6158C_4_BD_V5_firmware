@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Informazioni sull'allarme
+2=Eccezione
+3=Evento normale
+4=Evento intelligente
+5=Salva
+6=Tempo di allarme
+7=Allarme / Eccezione
+8=Riproduci
+9=Informazioni (N. canale, N. ingresso allarme, HDD, Indirizzo IP, ecc.)

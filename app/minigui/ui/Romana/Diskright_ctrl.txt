@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Programa
+2=Înregistrare
+3=Captură
+4=Dispozitiv de stocare
+5=Mod de stocare
+6=Backup automat
+7=Avansat

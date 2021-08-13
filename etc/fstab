@@ -1,0 +1,6 @@
+proc		/proc		proc	defaults	0	0
+sysfs		/sys		sysfs	defaults	0	0
+#tmpfs		/dev		tmpfs	defaults	0	0
+tmpfs		/dev		tmpfs	size=42M	0	0
+tmpfs		/tmp		tmpfs	size=30M	0	0
+tmpfs		/var		tmpfs	size=1M	0	0

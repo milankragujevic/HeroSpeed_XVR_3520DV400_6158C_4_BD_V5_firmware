@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Kullanıcıda Değişiklik Yapma
+2=Kullanıcı Adı
+3=Şifreyi değiştir
+4=Eski şifre
+5=Yeni şifre
+6=Onaylamak
+7=Düzey
+8=Administrator:İşletmen:Genel
+9=Kaydet
+10=iptal
+11=Güvenlik sorunlarını sıfırla
+12=Güvenlik sorunu1
+13=Cevap1
+14=Güvenlik sorunu2
+15=Cevap2
+16=Güvenlik sorunu3
+17=Cevap3
+18=Lütfen sorun seçin: İş numaranız nedir?: Babanızın doğum günü hangi gün ?: En sevdiğiniz İngiliz şarkısı nedir?: Annenizin doğum günü hangi gün?
+19=Lütfen sorun seçin: Okul numaranız nedir?: Şanslı sayınız nedir?: Favori yıldızınızın adı? (İngilizce): Evlilik yıldönümünüzün günü nedir?
+20=Lütfen sorun seçin: En popüler posta kutunuz nedir?: Alanınızın posta kodu nedir?: Evcil hayvanınızın adı nedir ?: Telefon numaralarınız nedir?
+21=Dışa aktarma anahtarı
+22=Grafik kilidi açma
+23=kilit açma desenini etkinleştir
+24=kilit açma desenini değiştir

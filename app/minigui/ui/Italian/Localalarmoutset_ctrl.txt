@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Cambia
+2=Uscita allarme
+3=Nome allarme
+4=Ritardo
+5=Stato allarme
+6=5 secondi: 10 secondi: 30 secondi: 1 minuto: 2 minuti: 5 minuti: 10 minuti: rimozione manuale
+7=Programma di inserimento
+8=Grilletto
+9=Svuota
+10=\
+11=\
+12=Copia
+13=Applica
+14=Tutti
+15=Dom.
+16=Lun.
+17=Mar.
+18=Mer.
+19=Gio.
+20=Ven.
+21=Sab.
+22=Normale
+23=Cambia

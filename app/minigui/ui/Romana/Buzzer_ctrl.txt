@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Detectarea miscarii
+2=Manipulare video
+3=Pierderea calității video
+4=Intrare alarmă
+5=Alarma de ieșire
+6=Excepție
+7=Timp de intarziere(1~120s)
+8=5 Sec:10 Sec:30 Sec:1 Min:2 Min:5 Min:10 Min
+9=Test
+10=Salvare
+11=Alarmă sonoră

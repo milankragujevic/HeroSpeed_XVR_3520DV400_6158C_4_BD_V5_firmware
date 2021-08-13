@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Kênh
+2=Kb/S
+3=Độ phân giải
+4=Xin nhập số trang có hiệu lực

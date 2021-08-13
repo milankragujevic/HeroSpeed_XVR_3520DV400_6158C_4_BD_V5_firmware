@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Nhật ký sao lưu
+2=ID
+3=Nhật ký
+4=Hủy
+5=xác nhận/ ok

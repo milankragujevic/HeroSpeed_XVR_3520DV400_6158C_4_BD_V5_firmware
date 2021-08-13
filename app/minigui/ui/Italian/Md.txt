@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Ripristina la configurazione iniziale?
+2=Il range del tempo di registrazione è 30-255
+3=Questo canale non ha permesso!
+4=Errore di formato temporale!
+5=Allarme Acustico
+6=Invia e-mail
+7=Registrazione del canale
+8=Monitoraggio a schermo intero
+9=E’ possibile aggiungere un massimo di 6 schedulazioni a giorno!

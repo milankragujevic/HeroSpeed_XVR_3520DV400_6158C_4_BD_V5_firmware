@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Camera
+2=POE
+3=OSD
+4=Afbeelding
+5=PTZ
+6=Privacy masker
+7=Codeer parameters
+8=Record Stream
+9=Substream
+10=kanaal naam
+11=Lokaal privacymasker
+12=PTZ instelling

@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Datum en Tijd;1
+2=Netwerk;2
+3=Harde Schijf;3
+4=Camera;4
+5=Platform;5
+6=Verander Wachtwoord;5
+7=Harde Schijf
+8=Nummer
+9=Status
+10=Totale capaciteit
+11=Resterende capaciteit
+12=Apparaat type
+13=Formatteren
+14=Vorige
+15=Volgende
+16=Uitgang

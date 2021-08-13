@@ -1,0 +1,12 @@
+[Ctrltxt]
+num=10
+1=Seleccionar modo
+2=Modo
+3=Todos
+4=AUTO
+5=AHD
+6=CVI
+7=TVI
+8=CVBS
+9=Aplicar
+10=Cancelar

@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Administrarea Bazei de Date Faciale
+2=Numărare persoane
+3=Hartă căldură
+4=Căutați Compararea Facială

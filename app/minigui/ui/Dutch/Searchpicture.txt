@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Selecteer een bestand
+2=Niet genoeg schijfruimte.
+3=Bezig met zoeken, een ogenblik geduld ...
+4=Kan de bestanden niet naar een mobiele harde schijf schrijven
+5=Backup voltooid
+6=Voer aub de usb-stick in
+7=Te veel bestanden, stop met zoeken!
+8=Handmatige Opname
+9=Beweging
+10=Alarm
+11=Beweging en Alarm
+12=Beweging en Alarm

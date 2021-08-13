@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Feltöltés az arcadatbázisból
+2=Arcadatbázis lista
+3=Név
+4=Idő
+5=Arckép
+6=Felhasználó
+7=Nézet
+8=Fennmaradt/Teljes kapacitás:
+9=OK
+10=Megszünteti
+11=1

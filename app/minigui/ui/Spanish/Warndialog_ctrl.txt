@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Propina
+2=Confirmado
+3=Cancelar
+4=Modificar
+5=Modificar más tarde

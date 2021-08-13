@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Událost zařízení
+2=Žádný disk
+3=Chyba disku
+4=Chyba síťě
+5=Ip konflikt
+6=Místní alarmy
+7=Ztráta videa
+8=Inteligentní alarm

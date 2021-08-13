@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=CH
+2=Nome Canale
+3=Stato
+4=Ril. Movimento
+5=Perdita di video

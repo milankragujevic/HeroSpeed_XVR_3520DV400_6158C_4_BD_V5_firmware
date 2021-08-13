@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Information port
+2=Nom serveur
+3=Protocole
+4=Port interne
+5=Port externe
+6=TCP, UDP
+7=Sauvegarder
+8=Annuler

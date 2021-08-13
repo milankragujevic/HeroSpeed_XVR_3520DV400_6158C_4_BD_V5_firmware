@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Presetare
+2=Presetarea este setata la cel putin 2 pentru a incepe patrularea!
+3=Revenire la parametrii initiali?
+4=Acest canal nu are permisiune!
+5=Croaziere, modificați ...

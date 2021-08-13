@@ -1,0 +1,4 @@
+[Ctrltxt]
+num=2
+1=NIC
+2=Zavřít

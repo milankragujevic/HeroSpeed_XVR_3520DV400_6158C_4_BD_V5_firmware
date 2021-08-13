@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Nessun permesso!
+2=Cancellare questo utente?
+3=L’amministratore non può essere cancellato!
+4=Massimo 256 utenti!
+5=Nel gruppo è ancora presente un utente e pertanto non può essere rimosso.
+6=Non è possibile cancellare l'utente corrente!
+7=Massimo 20 gruppi!
+8=Il gruppo admin non può essere cancellato!
+9=Si prega di selezionare un utente
+10=L'utente in uso non è membro di tale gruppo e pertanto non ha le autorizzazioni necessarie.
+11=Debole
+12=Medio
+13=Forte
+14=Amministratore
+15=Operatore
+16=Generale
+17=Password

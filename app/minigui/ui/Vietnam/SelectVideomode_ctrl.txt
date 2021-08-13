@@ -1,0 +1,12 @@
+[Ctrltxt]
+num=10
+1=Chọn chế độ
+2=Chế độ
+3=Tất cả
+4=TỰ ĐỘNG
+5=AHD
+6=CVI
+7=TVI
+8=CVBS
+9=Ứng dụng
+10=Hủy

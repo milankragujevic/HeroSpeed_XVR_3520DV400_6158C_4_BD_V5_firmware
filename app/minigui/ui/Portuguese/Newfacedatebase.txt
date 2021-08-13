@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=O nome da biblioteca recém-adicionada não pode estar vazio
+2=O número de bibliotecas de face atingiu o limite superior
+3=O banco de dados de rosto já existe

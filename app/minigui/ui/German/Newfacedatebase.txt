@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Der Name der neu hinzugef¨¹gten Bibliothek darf nicht leer sein
+2=Die Anzahl der Gesichtsbibliotheken hat die Obergrenze erreicht
+3=Die Gesichtsdatenbank existiert bereits

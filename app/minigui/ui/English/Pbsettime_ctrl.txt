@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Time Settings
+2=Please Set The Clip Time:
+3=Set Playback Time
+4=End Time
+5=Save
+6=Cancel

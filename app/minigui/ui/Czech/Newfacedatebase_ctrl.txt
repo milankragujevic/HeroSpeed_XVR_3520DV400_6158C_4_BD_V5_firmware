@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Přidat databázi tváří
+2=Jméno
+3=Druh seznamu
+4=Černá listina: Bílá listina
+5=Podobnost
+6=Uložit
+7=Zrušit

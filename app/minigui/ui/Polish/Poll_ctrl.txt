@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Karuzela
+2=Włącz
+3=Czas (sek)
+4=Tryb
+5=Domyślne
+6=Zastosuj
+7=Anuluj

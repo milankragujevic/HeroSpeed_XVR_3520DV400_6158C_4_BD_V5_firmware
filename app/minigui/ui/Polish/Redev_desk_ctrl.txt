@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Data i Czas;1
+2=Sieć;2
+3=Dysk Twardy;3
+4=Kamera;4
+5=Platforma;5
+6=Zmień Hasło;5
+7=Dodaj kamerę
+8=K.
+9=Edytuj
+10=Usuń
+11=Konf.
+12=Link
+13=IP
+14=Port
+15=Protokół
+16=Wersja Firmware
+17=Status połączenia
+18=Szukaj
+19=Dodaj auto.
+20=Dodaj ręcznie
+21=Poprzedni
+22=Następny
+23=Wyjdź
+24=Nazwa kamery

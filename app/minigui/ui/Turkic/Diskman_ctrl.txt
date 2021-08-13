@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Yenileme
+2=Biçimlendirme
+3=Onarım
+4=Numara
+5=Durum
+6=Toplam kapasite
+7=Geri kalan kapasite
+8=Cihaz türü
+9=Uyarı:Sabit disk sürücüsünün biçimlendirilmesinden sonra NVR otomatik olarak yeniden başlatılacaktır!

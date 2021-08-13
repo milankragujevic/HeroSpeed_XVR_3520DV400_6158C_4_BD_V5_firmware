@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Zapisać parametry?
+2=Wyszukiwanie urządzeń, proszę wylogować się później!
+3=Niepoprawny adres IP!
+4=Proszę wybrać urządzenie!
+5=Edytuj
+6=Dodaj ręcznie
+7=Nazwa użytkownika nie może być pusta!
+8=Błąd rozdzielczości nazwy domenowej.
+9=Format domeny jest nieprawidłowy.

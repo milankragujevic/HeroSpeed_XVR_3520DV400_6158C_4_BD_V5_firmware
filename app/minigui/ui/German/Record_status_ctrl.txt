@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=CH
+2=Aufnahmestatus
+3=Streamtyp
+4=Bitrate (Mbps)
+5=Aufnahmetyp
+6=Nr.
+7=Schließen

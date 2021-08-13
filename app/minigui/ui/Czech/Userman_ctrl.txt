@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Přidat
+2=Modifikovat
+3=Smazat
+4=Povolení živého zobrazení na zamknuté obrazovce
+5=Č.
+6=Uživatelské jméno
+7=Zabezpečení
+8=Úroveň
+9=Práva

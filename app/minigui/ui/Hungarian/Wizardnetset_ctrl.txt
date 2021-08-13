@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Dátum és idő;1
+2=Hálózat;2
+3=Merevlemez;3
+4=Kamera;4
+5=Platform;5
+6=Jelszó megváltoztatása;5
+7=Hálózat beállítása
+8=DHCP engedély.
+9=IP Cím
+10=Alhálózati maszk
+11=Átjáró
+12=Elsődleges DNS
+13=Másodlagos DNS
+14=Előző
+15=Következő
+16=Kilépés

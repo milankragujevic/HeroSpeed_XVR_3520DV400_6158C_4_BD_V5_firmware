@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=\
+2=Canal
+3=Canal
+4=Timp pornire
+5=Similitudine
+6=Redare
+7=Imagine de Rezervă
+8=Înregistrare a Copiei de Rezervă
+9=Salvare de rezerva
+10=Anulare
+11=Toate
+12=Figură
+13=Listă
+14=Căutare exactă
+15=FTP Backup

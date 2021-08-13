@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Aggiungi database del viso
+2=Nome
+3=Tipo di lista
+4=Lista nera: lista bianca
+5=Somiglianza
+6=Salva
+7=Cancella

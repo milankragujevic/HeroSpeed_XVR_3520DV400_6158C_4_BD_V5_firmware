@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=kilit açma desenini ayarla
+2=yönetim
+3=Kilit açma düzenini unuttum.
+4=kullanıcı değiştir

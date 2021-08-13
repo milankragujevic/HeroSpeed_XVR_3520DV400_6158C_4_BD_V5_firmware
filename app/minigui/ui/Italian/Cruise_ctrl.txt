@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Conf. Patrol
+2=Canale
+3=Preset
+4=Patrol
+5=Salva
+6=Richiama
+7=1:2:3
+8=No.
+9=Nome
+10=Preset
+11=Velocità
+12=Sosta
+13=Conf.
+14=Canc.
+15=Cruise ON
+16=Cancell. Cruise
+17=Cancell. Tutte le Cruise
+18=Cancella
+19=Zoom
+20=Focus
+21=Iris
+22=Velocità
+23=Enter
+24=Cruise OFF

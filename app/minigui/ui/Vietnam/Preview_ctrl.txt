@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Kênh
+2=Mục tiêu
+3=Phát hiện khuôn mặt
+4=Sự kiện thông minh
+5=Kiểm tra thân thể
+6=Kiểm tra toa xe

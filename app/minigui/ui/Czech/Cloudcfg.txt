@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Testuji…
+2=Test ok.
+3=Chyba testu.
+4=Změna složky vyžaduje změnu nastavení složky.
+5=Obnovit výchozí nastavení ?
+6=Svázat
+7=Odpojte

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<MaintainSiderbar x="0" y="%10" w="%15" h="%100-%10">
+
+<col type="ctrl_trackbar" x="%15-10" y="10" w="11" h="%90-10" s="11:13:16:61:62:63:68" ex="87" gap="-1">
+    <tb id="99" tcol="20"></tb>
+</col>
+
+
+<col type="ctrl_button" x="0" y="10" w="%15" h="40" s="12:13:16:41:42:48" gap="10" tc="1" >
+    <b id="211" type="static" x="%3-30" w="%15-30" h="30" s="12:13:31" bcol="30" ft="14" gap="0">3</b>
+    <b id="212" s="12:16:48:49:41:42" bg="./image/radiobutton_bg/deviceinfo.png" bgc="./image/radiobutton_bg/deviceinfo_hover.png">4</b>
+    <b id="213" bg="./image/radiobutton_bg/camera.png" bgc="./image/radiobutton_bg/camera_hover.png">5</b>
+    <b id="214" bg="./image/radiobutton_bg/record.png" bgc="./image/radiobutton_bg/record_hover.png">6</b>
+    <b id="215" bg="./image/radiobutton_bg/alarm_record.png" bgc="./image/radiobutton_bg/alarm_record_hover.png">7</b>
+    <b id="216" bg="./image/radiobutton_bg/netinfo.png" bgc="./image/radiobutton_bg/netinfo_hover.png">8</b>
+    <b id="217" bg="./image/radiobutton_bg/diskman.png" bgc="./image/radiobutton_bg/diskman_hover.png">9</b>
+    <b id="218" bg="./image/radiobutton_bg/log.png" bgc="./image/radiobutton_bg/log_hover.png">10</b>
+    <b id="219" bg="./image/radiobutton_bg/export.png" bgc="./image/radiobutton_bg/export_hover.png" gap="26">2</b>
+    <b id="220" type="static" x="%3-30" w="%15-30" h="30" s="12:13:31" bcol="30" ft="14" gap="0">11</b>
+    <b id="221" bg="./image/radiobutton_bg/upgrade.png" bgc="./image/radiobutton_bg/upgrade_hover.png">12</b>
+    <b id="222" bg="./image/radiobutton_bg/ftp.png" bgc="./image/radiobutton_bg/ftp_hover.png">13</b>
+    <b id="223" bg="./image/radiobutton_bg/onlineupdate.png" bgc="./image/radiobutton_bg/onlineupdate_hover.png" gap="26">14</b>
+    <b id="224" bg="./image/radiobutton_bg/default.png" bgc="./image/radiobutton_bg/default_hover.png" gap="26">1</b>
+    <b id="225" type="static" x="%3-30" w="%15-30" h="30" s="12:13:31" bcol="30" ft="14" gap="0">15</b>
+    <b id="226" bg="./image/radiobutton_bg/traffic.png" bgc="./image/radiobutton_bg/traffic_hover.png">16</b>
+    <b id="227" bg="./image/radiobutton_bg/netdetection.png" bgc="./image/radiobutton_bg/netdetection_hover.png">17</b>
+    <b id="228" bg="./image/radiobutton_bg/netstatistics.png" bgc="./image/radiobutton_bg/netstatistics_hover.png" gap="26">18</b>
+    <b id="229" bg="./image/radiobutton_bg/autoreboot.png" bgc="./image/radiobutton_bg/autoreboot_hover.png" gap="26">30</b>
+    <b id="230" type="static" x="%3-30" w="%15-30" h="30" s="12:13:31" bcol="30" ft="14" gap="0">19</b>
+    <b id="231" bg="./image/radiobutton_bg/netreport.png" bgc="./image/radiobutton_bg/netreport_hover.png">20</b>
+    <b id="232" bg="./image/radiobutton_bg/backtrack.png" bgc="./image/radiobutton_bg/backtrack_hover.png">21</b>
+    <b id="233" bg="./image/radiobutton_bg/hddcopy.png" bgc="./image/radiobutton_bg/hddcopy_hover.png">22</b>
+    <b id="234" bg="./image/radiobutton_bg/statusdetect.png" bgc="./image/radiobutton_bg/statusdetect_hover.png" gap="26">23</b>
+    <b id="235" type="static" x="%3-30" w="%15-30" h="30" s="12:13:31" bcol="30" ft="14" gap="0">24</b>
+    <b id="238" bg="./image/radiobutton_bg/streamencry.png" bgc="./image/radiobutton_bg/streamencry_hover.png">26</b>
+</col>
+
+</MaintainSiderbar>

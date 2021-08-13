@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Pobieranie parametrów, czekaj.
+2=Ten kanał nie ma uprawnień!

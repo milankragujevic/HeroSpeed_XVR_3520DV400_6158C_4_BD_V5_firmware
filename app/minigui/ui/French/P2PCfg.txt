@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Restaurer les paramètres par défaut?
+2=En ligne
+3=Hors ligne
+4=Changer le type de cryptage, svp veuillez desactiver le P2P d'abord

@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=İzin yok!
+2=yakalama başarısız oldu
+3=Ele geçirmek
+4=Ses
+5=Yakınlaştır
+6=Etiket ekle
+7=Balık gözü
+8=Kapat
+9=Başarıyı Yakalayın, Lütfen Dosya Yönetimini Kontrol Edin.

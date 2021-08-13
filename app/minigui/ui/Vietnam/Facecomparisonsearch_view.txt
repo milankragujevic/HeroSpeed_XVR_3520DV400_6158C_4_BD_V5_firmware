@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Vui lòng chọn một tệp.
+2=Không đủ không gian ổ cứng
+3=Tìm kiếm, vui lòng đợi ...
+4=Không thể di chuyển dữ liệu vào ổ cứng di động.
+5=Sao lưu đã hoàn tất
+6=Vui lòng lắp đĩa usb!
+7=Quá nhiều tập tin, ngừng tìm kiếm!
+8=không tìm thấy tệp vedio
+9=Xin chọn loại hình dự phòng.
+10=Tương tự
+11=đang dụ phòng, xin huỷ dự phòng hoặc tiếp tục bước này sau khi hoàn thành việc dự phòng.
+12=Phía trên
+13=Đã add vào sao lưu xếp hàng
+14=Add vào sao lưu xếp hàng thất bại
+15=Trích xuất các đặc trưng trên khuôn mặt thất bại
+16=Tài liệu con người
+17=tìm kiếm sự so sánh khuôn mặt

@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Bewegungsmelder
+2=Video Temperieren
+3=Videoverlust
+4=Alarmeingang
+5=Alarmausgang
+6=Störungsmeldung
+7=Fehlermeldung
+8=Aktivieren
+9=Keine Festplatte: Festplattenfehler: Getrenntes Netzwerk: IP-Konflikt
+10=Normale Verknüpfung
+11=Standard
+12=Anwenden
+13=Alarmausgang
+14=Summer

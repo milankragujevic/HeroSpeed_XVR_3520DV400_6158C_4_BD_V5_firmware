@@ -1,0 +1,24 @@
+[Ctrltxt]
+num=22
+1=Cấu hình
+2=Tổng hợp
+3=Mạng lưới
+4=Hiển thị
+5=Ngoại lệ
+6=Người dùng
+7=Ổ cứng ngoại lệ
+8=Ngoại lệ mạng
+9=Loại sự kiện
+10=Bật
+11=Gửi e-mail
+12=Báo động Buzzer
+13=Không có ổ cứng : Ổ cứng lỗi.
+14=Mặc định
+15=Ứng dụng
+16=Hủy
+17=Xem trước
+18=Cấu hình kênh
+19=Màn hình hiển thị
+20=Báo động Riêng tư
+21=Wifi
+22=Lọc bỏ IP

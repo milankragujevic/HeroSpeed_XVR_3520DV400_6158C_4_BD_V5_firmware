@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Yapılandırma
+2=Genel
+3=Ağ
+4=Ekran
+5=İstisnalar
+6=Kullanıcı
+7=Kanal Yapılandırma
+8=Kanal Yapılandırma
+9=CH
+10=HD
+11=IP
+12=Varsayılan
+13=Uygula
+14=iptal
+15=Ön
+16=Yerel alarm
+17=Lite modu
+18=Aktifleştirmek:kapatmak
+19=Wifi
+20=IP süzülmesi

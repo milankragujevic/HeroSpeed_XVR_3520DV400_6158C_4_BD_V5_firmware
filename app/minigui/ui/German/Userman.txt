@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Keine Erlaubnis!
+2=Benutzer löschen?
+3=Administrator-Konto kann nicht gelöscht werden!
+4=Max. 256 Benutzer
+5=Die Gruppe hat einen Benutzer daher kann nicht gelöscht werden!
+6=Der angemeldete Benutzer kann nicht gelöscht werden!
+7=Max. 20 Gruppen
+8=Die Admin-Gruppe kann nicht gelöscht werden!
+9=Bitte wählen Sie einen Benutzer aus
+10=Sie sind kein Mitglied der Gruppe, keine Berechtigung, diesen Vorgang durchzuführen.
+11=Schwach
+12=Mittel
+13=Stark
+14=Administrator
+15=Operator
+16=Allgemein
+17=Passwort

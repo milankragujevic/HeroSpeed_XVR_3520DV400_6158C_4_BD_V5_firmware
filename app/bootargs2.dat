@@ -1,0 +1,1 @@
+mem=140M console=ttyAMA0,115200 initrd=0x82250000,0xBE0000 root=/dev/ram0 init=/linuxrc mtdparts=hi_sfc:320K(boot),2368K(kernel),12160K(rootfs),128K(logo),1344K(data),64K(bootargs)

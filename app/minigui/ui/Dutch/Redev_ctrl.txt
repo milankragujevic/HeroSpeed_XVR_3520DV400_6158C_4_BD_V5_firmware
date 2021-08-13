@@ -1,0 +1,19 @@
+[Ctrltxt]
+num=17
+1=Zoeken
+2=Automatisch toevoegen
+3=Handmatig toevoegen
+4=bijwerken
+5=Verwijder
+6=Open H264 + / H265 +
+7=Camera Naam
+8=Verbindingsstatus
+9=Channel
+10=Bewerk
+11=Verwijder
+12=Configureer
+13=Link
+14=IP
+15=Poort
+16=Protocol
+17=Firmware versie

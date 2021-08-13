@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Menü
+2=Kayıttan oynatma
+3=İhracat
+4=Sabit Disk Sürücüsü
+5=Kayıt
+6=Kamera
+7=Yapılandırma
+8=Bakım
+9=Cihazı kapat

@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Gelijkenis
+2=Leeftijd
+3=Geslacht
+4=Bril
+5=Hoed
+6=Ja
+7=Nee
+8=Lang
+9=Kort
+10=Man
+11=Vrouw
+12=Naam
+13=Mode: Zwarte lijst
+14=Mode: Positieve lijst
+15=Mode: Zwarte lijst en Positieve lijst
+16=Baard
+17=Kanaal

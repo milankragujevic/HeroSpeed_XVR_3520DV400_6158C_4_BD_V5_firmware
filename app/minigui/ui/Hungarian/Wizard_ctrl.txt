@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Nyelv
+2=Rendszernyelv
+3=Alkalmaz
+4=Kilépés

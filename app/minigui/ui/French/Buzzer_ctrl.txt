@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Détection de mouvement
+2=Falsification vidéo
+3=Perte de vidéo
+4=Entrée d'alarme
+5=Sortie d'alarme
+6=Exception
+7=Temporisation(1~120s)
+8=5 Secondes : 10 Secondes : 30 Secondes : 1 Minute : 2 Minutes :
+9=Tester
+10=Appliquer
+11=Avertisseur sonore

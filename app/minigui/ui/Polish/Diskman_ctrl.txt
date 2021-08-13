@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Odśwież
+2=Formatowanie
+3=Naprawa
+4=Nr.
+5=Stan
+6=Łączne miejsce
+7=Pozostałe miejsce
+8=Typ urządzenia
+9=Uwaga: NVR uruchomi się ponownie po sformatowaniu dysku !

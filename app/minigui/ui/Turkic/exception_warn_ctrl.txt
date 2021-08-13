@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Cihaz Etkinliği
+2=Disk yok
+3=Disk hatası
+4=Ağ kırık
+5=Ip Çatışması
+6=Yerel alarmlar
+7=Video kaybı
+8=Akıllı alarm

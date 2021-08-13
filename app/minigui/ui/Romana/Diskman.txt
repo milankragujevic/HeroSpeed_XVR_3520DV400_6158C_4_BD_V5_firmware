@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=In utilizare
+2=Numar Disk
+3=Normal
+4=Nu se conecteaza disk-ul!
+5=In proces de formatare, va rugam asteptati…
+6=Dispozitiv in folosire.
+7=Eroare Necunoscuta
+8=Formatare reusita
+9=Formatare esuata.
+10=Va rog selectati un disk
+11=Formatarea va sterge total hard diskul. Continuati?
+12=Fara permisiune!
+13=Formatul discului USB nu a putut fi formatat.
+14=Ești sigur că ieși din expertul de pornire?

@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=CH
+2=Record Status
+3=Stream Type
+4=Bitrate(Mbps)
+5=Record Type
+6=Disk No.
+7=Close

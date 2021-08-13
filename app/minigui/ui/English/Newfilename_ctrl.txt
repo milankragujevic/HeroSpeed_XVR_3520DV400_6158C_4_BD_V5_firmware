@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=New Folder
+2=File Name
+3=OK
+4=Cancel

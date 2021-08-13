@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Attendere, ripristino dei paramtri di default in corso…
+2=Ripristina la configurazione iniziale
+3=Le nuove impostazioni saranno attivate dopo il riavvio. Ora riavvia?
+4=Ripristina la configurazione iniziale?

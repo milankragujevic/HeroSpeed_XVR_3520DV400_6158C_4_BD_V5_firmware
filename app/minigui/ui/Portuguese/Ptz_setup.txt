@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Patrulha
+2=Patrulha precisa de dois predefinidos, pelo menos!
+3=Restaurar os parâmetros padrão?
+4=Este canal não tem permissão!
+5=Cruising,forbid modify...

@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Ricerca file
+2=CH
+3=Tipo di Evento
+4=Ora di inizio / Ora di fine
+5=Fine
+6=Tipo di file
+7=Spazio richiesto:
+8=Disponibile/Spazio totale:
+9=Esportazione
+10=Cancella
+11=Aggiorna
+12=Vista
+13=Salto
+14=Tutti
+15=Gruppo:
+16=Canale
+17=Ora
+18=FTP Esportare

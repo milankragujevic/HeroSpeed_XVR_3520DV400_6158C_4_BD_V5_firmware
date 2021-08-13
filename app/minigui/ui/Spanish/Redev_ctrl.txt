@@ -1,0 +1,19 @@
+[Ctrltxt]
+num=17
+1=Buscar
+2=Agregar automaticamente
+3=Agregar Manualmente
+4=Actualizar
+5=Borrar
+6=Abrir H264 + / H265 +
+7=Nombre de Cámara
+8=Estado de conexión
+9=Canal
+10=Editar
+11=Eliminar
+12=Conf.
+13=Enlazar
+14=IP
+15=Puerto
+16=Protocolo
+17=Versión de firmware

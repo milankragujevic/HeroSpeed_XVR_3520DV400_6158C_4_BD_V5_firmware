@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Are you sure you want to modify the configuration?
+2=seconds will be automatically restored.

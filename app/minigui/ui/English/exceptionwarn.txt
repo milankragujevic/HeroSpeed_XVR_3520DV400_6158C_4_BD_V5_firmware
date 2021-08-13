@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=No Disk
+2=Disk Error
+3=Network Broken
+4=Ip Conflict
+5=Local Alarm

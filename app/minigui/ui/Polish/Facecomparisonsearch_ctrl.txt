@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Szukaj po zdarzeniach
+2=Szukaj po zdjęciach
+3=Kanał
+4=Czas
+5=Typ
+6=Dzisiaj:Wczoraj:Ostatnie 2 Dni:Ostatnie 3 Dni:Ostatnie 7 Dni:Ostatnie 14 Dni:Niestandardowy
+7=Czarna lista:Biała lista:Czarna lista i biała lista
+8=Szukaj

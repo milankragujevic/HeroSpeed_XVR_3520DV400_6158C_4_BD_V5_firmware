@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Paraméterek lekérése, kérem várjon…
+2=Ehhez a csatornához  nincs engedélye!
+3=A csatorna neve nem tartalmazhatja a következő szimbólumokat:! % & #

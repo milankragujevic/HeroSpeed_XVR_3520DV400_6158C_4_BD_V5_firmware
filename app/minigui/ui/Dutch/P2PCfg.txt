@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Reset naar fabrieksinstellingen ?
+2=Online
+3=offline
+4=Verander Encryptie type en schakel P2P uit

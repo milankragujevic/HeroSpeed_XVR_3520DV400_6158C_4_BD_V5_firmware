@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Bekijk
+2=Apparaatpad
+3=Alle Bestanden (*.*): *.Jpg
+4=Omhoog
+5=Naam
+6=Grootte
+7=Type
+8=Wijzig Tijd
+9=Verwijder
+10=OK
+11=Annuleren
+12=Nieuwe Map

@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=增加用戶
+2=修改
+3=刪除
+4=Live View Permission on Lock Screen
+5=序號
+6=用戶名
+7=安全性
+8=等級
+9=許可權

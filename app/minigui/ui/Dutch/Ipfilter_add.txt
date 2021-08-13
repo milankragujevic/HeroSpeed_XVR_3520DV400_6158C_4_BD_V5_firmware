@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Het aantal lijsten heeft de bovengrens bereikt
+2=Voer het IP-adres in
+3=Voer het Mac-adres in
+4=Het formaat van het Mac-adres is onjuist.
+5=Het adres bestaat al!

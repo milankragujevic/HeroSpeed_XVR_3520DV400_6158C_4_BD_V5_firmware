@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Activat
+2=dropbox
+3=Google
+4=Încărcați dosarul
+5=Nume Utilizator
+6=Capacitate
+7=Folosit
+8=Test
+9=Initial
+10=Salvare
+11=Google
+12=IPEYE
+13=Lega

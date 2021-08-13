@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Datum en Tijd;1
+2=Netwerk;2
+3=Harde Schijf;3
+4=Camera;4
+5=Platform;5
+6=Verander Wachtwoord;5
+7=Datum en Tijd Instellen
+8=Tijdszone
+9=Datumweergave
+10=Datum/Tijd
+11=Jaar Maand Dag:Maand Dag Jaar:Dag Maand Jaar
+12=Volgende
+13=Uitgang
+14=Gids Inschakelen

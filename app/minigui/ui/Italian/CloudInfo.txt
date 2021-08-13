@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Acquisizione informazioni in corso…
+2=Binding riuscito!
+3=Binding non riuscito!
+4=In attesa…
+5=Copiare questo URL nel browser per completare il processo di validazione.

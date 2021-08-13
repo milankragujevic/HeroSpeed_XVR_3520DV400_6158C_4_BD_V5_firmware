@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Revenire la parametrii initiali?
+2=Intervalul înregistrării este 30-255.
+3=Acest canal nu are permisiune!
+4=Eroare de format de timp!
+5=Alarmă buzzer
+6=Buzzer time(sec)
+7=Înregistrarea canalelor
+8=Monitorizare pe ecran complet
+9=Adăugați un maxim de 6 programe pe zi!

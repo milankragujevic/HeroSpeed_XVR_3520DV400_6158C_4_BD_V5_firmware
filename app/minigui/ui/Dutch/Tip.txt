@@ -1,0 +1,24 @@
+[wintip]
+num=22
+1=Gevangen nemen
+2=Directe Weergave
+3=PTZ
+4=Zoom
+5=Audio
+6=Afbeelding
+7=Informatie
+8=Start de hele dag record
+9=Overschakelen naar Hoofdpagina
+10=vissenoog
+11=POS Uitschakelen
+12=3D Positie Uitschakelen
+13=Stop de hele dag record
+14=Overschakelen naar Subpagina
+15=POS Inschakelen
+16=3D Positie Inschakelen
+17=Opname mislukt
+18=No Permission
+19=Start de opname mislukt, verander alstublieft opname schema.
+20=RTSP ondersteunt deze functie niet
+21=Succesvol vastgelegd, Controleer het in Bestand Beheer.
+22=Sluiten

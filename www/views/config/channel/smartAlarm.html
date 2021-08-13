@@ -1,0 +1,159 @@
+<div class="options-block dot-template J-dot-template">
+    {{= dotRender("tagHeadModel", [{name: lang.smartalarm, attr: "class='current'"}]) }}
+    <div class="tag-block ">
+        <div class="form-item">
+            <span class="width200" style="height: 25px">
+                <label>lang="channel"</label>
+            </span>
+            <span>
+                <select id="getsmartalarmdetchan" class="medium-select" matchval="getsmartalarmdetchan">
+                </select>
+            </span>
+        </div>
+        <div class="form-item" style="height: 25px">
+            <span class="width200">
+                <input type="checkbox" id="getsmartalarmdeten" matchval="getsmartalarmdeten" />
+                <label lang="exceptionenable"></label>
+            </span>
+        </div>
+        <div class="form-item" style="height: 25px">
+            <span class="width200">
+                <input type="checkbox" id="getsmartalarmeventdisplay" matchval="getsmartalarmeventdisplay" />
+                <label lang="screendisplay"></label>
+            </span>
+        </div>
+        <div class="form-item lshide" style="height: 25px">
+            <span class="width200">
+                <input type="checkbox" id="chkVolEnable" matchval="getalarmkitsaudioenable" />
+                <label lang="saEnableAudio"></label>
+            </span>
+        </div>
+        <div class="form-item lshide" style="height: 25px; width: 460px;">
+            <span class="width200">
+                <label lang="saOutVol"></label>&nbsp;&nbsp;
+            </span>
+            <span>
+                <input type="text" id="iptVol" class="lshsinput" maxlength="3" min="0" max="100" def="0" matchval="getalarmkitsoutputvolume" />
+            </span>
+        </div>
+        <div class="form-item padding-top5 timeRange lshide">
+            <div id="sliderOutVol"></div>
+        </div>
+        <div class="form-item" style="height: 25px">
+            <span class="width200">
+                <input type="checkbox" id="getsmartalarmdetbeepen" matchval="getsmartalarmdetbeepen" />
+                <label lang="buzzeron"></label>
+            </span>
+        </div>
+        <div class="form-item" style="height: 25px">
+            <span class="width200"><input type="checkbox" id="getsmartalarmdetsmtpen" matchval="getsmartalarmdetsmtpen" />
+                <label lang="sendemail1"></label>
+            </span>
+        </div>
+        <div class='form-item' style="height: 25px">
+            <span class="width200">
+                <input type="checkbox" id="getsmartalarmdetrecorden" matchval="getsmartalarmdetrecorden" />
+                <label lang="recchannel"></label>
+            </span>
+        </div>
+        <div class="form-item" style="height: 25px">
+            <span class="width200">
+                <label lang="rectime"></label>
+            </span>
+            <span>
+                <input type="text" id="getsmartalarmdetrecordtime" class="lshsinput" maxlength="3" min="30" max="255" def="60"
+                    matchval="getsmartalarmdetrecordtime" />
+            </span>
+        </div>
+        <div id="smartalarmscheddate">
+            <div class="form-item" style="height: 25px;margin: 5px 20px;">
+                <span class="width200">
+                    <label lang="recweek"></label>
+                </span>
+                <span>
+                    <select id="getsmartalarmscheddate" matchval="getsmartalarmscheddate" class="medium-select">
+                        <option value="0" lang="stweek7"></option>
+                        <option value="1" lang="stweek1"></option>
+                        <option value="2" lang="stweek2"></option>
+                        <option value="3" lang="stweek3"></option>
+                        <option value="4" lang="stweek4"></option>
+                        <option value="5" lang="stweek5"></option>
+                        <option value="6" lang="stweek6"></option>
+                        <option value="7" lang="ftpallweek"></option>
+                    </select>
+                </span>
+            </div>
+            <div class="form-item padding-top5 timeRangeTxt" style="height: 25px">
+                <span class="width200">
+                    <label langs="recschedule">
+                        <input id="getsmartalarmschedtype1" class="chkSchedule" matchval="getsmartalarmschedtype1" type="checkbox" />
+                    </label>
+                    <label>1</label>
+                </span>
+                <span class="width50">
+                    <input class="time-input" id="getsmartalarmschedisstarthour1" matchval="getsmartalarmschedisstarthour1" size="2" maxlength="2"
+                        type="text" />
+                </span>
+                <span>
+                    <label>：</label>
+                </span>
+                <span class="width50">
+                    <input class="time-input" id="getsmartalarmschedisstartmin1" matchval="getsmartalarmschedisstartmin1" size="2" maxlength="2" type="text" />
+                </span>
+                <span class="width20">
+                    <label style="margin-left: 3px"> ~ </label>
+                </span>
+                <span class="width50">
+                    <input class="time-input" id="getsmartalarmschedisstophour1" matchval="getsmartalarmschedisstophour1" size="2" maxlength="2" type="text" />
+                </span>
+                <span>
+                    <label>：</label>
+                </span>
+                <span class="width50">
+                    <input class="time-input" id="getsmartalarmschedisstoptmin1" matchval="getsmartalarmschedisstoptmin1" size="2" maxlength="2" type="text" />
+                </span>
+            </div>
+            <div class="form-item padding-top5 timeRange">
+                <div id="timeRange1"></div>
+            </div>
+            <div class="form-item padding-top5 timeRangeTxt" style="height: 25px">
+                <span class="width200">
+                    <label langs="recschedule">
+                        <input id="getsmartalarmschedtype2" class="chkSchedule" matchval="getsmartalarmschedtype2" type="checkbox" />
+                    </label>
+                    <label>2</label>
+                </span>
+                <span class="width50">
+                    <input class="time-input" id="getsmartalarmschedisstarthour2" matchval="getsmartalarmschedisstarthour2" size="2" maxlength="2"
+                        type="text" />
+                </span>
+                <span>
+                    <label>：</label>
+                </span>
+                <span class="width50">
+                    <input class="time-input" id="getsmartalarmschedisstartmin2" matchval="getsmartalarmschedisstartmin2" size="2" maxlength="2" type="text" />
+                </span>
+                <span class="width20">
+                    <label style="margin-left: 3px"> ~ </label>
+                </span>
+                <span class="width50">
+                    <input class="time-input" id="getsmartalarmschedisstophour2" matchval="getsmartalarmschedisstophour2" size="2" maxlength="2" type="text" />
+                </span>
+                <span>
+                    <label>：</label>
+                </span>
+                <span class="width50">
+                    <input class="time-input" id="getsmartalarmschedisstoptmin2" matchval="getsmartalarmschedisstoptmin2" size="2" maxlength="2" type="text" />
+                </span>
+            </div>
+        </div>
+        <div class="form-item padding-top5 timeRange">
+            <div id="timeRange2"></div>
+        </div>
+        <div class="form-item" style="height: 25px">
+            <span style="margin-top: 24px;">
+                <input id="smartalarm_save" class="btn web-btn" lang="save" type="button" value="" onclick="saveAll();" />
+            </span>
+        </div>
+    </div>
+</div>

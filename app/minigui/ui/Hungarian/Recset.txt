@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Visszaállítja az alapértelmezett paramétereket?
+2=Nincs jogosultsága!
+3=Biztos kilép a segédből?
+4=Az új beállítások használatához újraindítás szükséges, újraindítja most?
+5=Indítás Varázsló beállítása kész!
+6=Rossz idő formátum!
+7=Maximum 6 ütemezés adható hozzá egy napra!
+8=1 vagy több csatorna nincs engedélyezve!

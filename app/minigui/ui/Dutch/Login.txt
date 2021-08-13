@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Gebruikersnaam bestaat niet!
+2=Het wachtwoord is niet correct, er zijn
+3=Initialiseren, even geduld aub…
+4=Wilt u de boot wizard afsluiten?
+5=kansen.
+6=Het wachtwoord of ontgrendeling patroon is 5 keer verkeerd ingevoerd. Probeer het na 30 minuten opnieuw.
+7=Het wachtwoord is 5 keer verkeerd ingevoerd. Probeer het na 30 minuten opnieuw.

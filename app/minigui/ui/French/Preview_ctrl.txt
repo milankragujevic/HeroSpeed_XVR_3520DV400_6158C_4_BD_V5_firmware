@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Caméra
+2=Cible
+3=Détection facial
+4=Événement intelligent
+5=Détection de corps
+6=Détection de voiture

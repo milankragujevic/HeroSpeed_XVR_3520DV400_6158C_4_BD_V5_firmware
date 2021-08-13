@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Opslag log
+2=ID
+3=Log
+4=Annuleren
+5=OK
+6=Type
+7=Voortgang van de back-up

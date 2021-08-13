@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Définissez le motif de déverrouillage.
+2=admin
+3=Oublier le motif de déverrouillage.
+4=Changer d'utilisateur

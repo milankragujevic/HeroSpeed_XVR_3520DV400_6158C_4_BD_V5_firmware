@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Powiązanie
+2=Kod autoryzacji
+3=Ustal
+4=Anuluj

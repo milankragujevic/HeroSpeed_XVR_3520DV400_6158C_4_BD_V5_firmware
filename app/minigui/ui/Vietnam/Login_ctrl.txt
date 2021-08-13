@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Đăng nhập người dùng
+2=quản trị viên
+3=Đăng nhập
+4=Tắt
+5=Quên mật khẩu
+6=Tự động đăng nhập

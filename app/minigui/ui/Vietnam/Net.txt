@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Khôi phục các tham số mặc định?
+2=Bạn có chắc chắn thoát khỏi trình hướng dẫn khởi động?
+3=Số cổng không thể giống nhau!
+4=số cổng không thể nhỏ hơn 1025 ngoại trừ 554 và 80 mặc định!
+5=Không biết
+6=IP card mạng nội bộ và IP mạng bên ngoài không thể nằm trong cùng một phân đoạn mạng
+7=Sửa đổi IP mạng nội bộ cần khởi động lại thiết bị, xác nhận khởi động lại?
+8=Lỗi định dạng địa chỉ IP!
+9=Lỗi định dạng mặt nạ mạng!
+10=Lỗi định dạng cổng!
+11=Lỗi định dạng DNS!
+12=Lan1 and Lan2 can not be in the same network segment
+13=Modify the network mode must be restarted, you want to continue to modify it?

@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Délai moyen:
+2=ms
+3=Taux de paquet perdu:
+4=L'adresse de destinataire inaccessible!
+5=Test en cours, patientez...
+6=Etre capturé le paquet...
+7=Le réseau a capturé le paquet pour sauvegarger.
+8=Veuillez insérer un disque USB.
+9=L'adresse IP n'est pas correcte!
+10=Veuillez insérer le câble réseau.

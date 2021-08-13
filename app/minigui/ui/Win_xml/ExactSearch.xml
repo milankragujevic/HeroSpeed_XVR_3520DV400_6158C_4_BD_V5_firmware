@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Poll x="0" y="0" w="800" h="640" title="Copy">
+<row type="static">
+<s id="200" x="0" y="4" w="2" h="632" s="11:12:31" bcol="3"></s>
+<s id="201" x="4" y="0" w="792" h="2" s="11:12:31" bcol="3"></s>
+<s id="202" x="798" y="4" w="2" h="632" s="11:12:31" bcol="3"></s>
+<s id="203" x="4" y="638" w="792" h="2" s="11:12:31" bcol="3"></s>
+<s id="204" x="30" y="0" w="200" h="70" s="11:12:31" ft="18" bcol="10">1</s>
+</row>
+
+<col type="static" x="30" y="90" w="350" h="40" s="11:12:31" gap="0">
+<s id="80" bcol="10">69</s>
+<s id="81" bcol="10">70</s>
+</col>
+<col x="280" y="90" w="417" h="30" gap="10">
+<e type="CtrlDate" id="82" s="12:13:92:93" ex="83:81" tcol="20"></e>
+<e type="CtrlDate" id="83" s="12:13:92:93" ex="83:81" tcol="10"></e>
+</col>
+<row type="ctrl_button" x="30" y="170" w="767" h="37" s="12:13:44"  gap="0">
+<b id="1">2</b>
+</row>
+
+<row type="ctrl_button" x="30" y="210" w="68" h="40" s="13:44"   gap="0">
+<cb id="2">3</cb>
+<cb id="3">4</cb>
+<cb id="4">5</cb>
+<cb id="5">6</cb>
+<cb id="6">7</cb>
+<cb id="7">8</cb>
+<cb id="8">9</cb>
+<cb id="9">10</cb>
+<cb id="10">11</cb>
+<cb id="11">12</cb>
+<cb id="12">13</cb>
+</row>
+
+<row type="ctrl_button" x="30" y="250" w="68" h="40" s="13:44"   gap="0">
+<cb id="13">14</cb>
+<cb id="14">15</cb>
+<cb id="15">16</cb>
+<cb id="16">17</cb>
+<cb id="17">18</cb>
+<cb id="18">19</cb>
+<cb id="19">20</cb>
+<cb id="20">21</cb>
+<cb id="21">22</cb>
+<cb id="22">23</cb>
+<cb id="23">24</cb>
+</row>
+<row type="ctrl_button" x="30" y="290" w="68" h="40" s="13:44"  gap="0">
+<cb id="24">25</cb>
+<cb id="25">26</cb>
+<cb id="26">27</cb>
+<cb id="27">30</cb>
+<cb id="28">31</cb>
+<cb id="29">32</cb>
+<cb id="30">33</cb>
+<cb id="31">34</cb>
+<cb id="32">35</cb>
+<cb id="33">36</cb>
+<cb id="34">37</cb>
+</row>
+<row type="ctrl_button" x="30" y="330" w="68" h="40" s="13:44"  gap="0">
+<cb id="35">38</cb>
+<cb id="36">39</cb>
+<cb id="37">40</cb>
+<cb id="38">41</cb>
+<cb id="39">42</cb>
+<cb id="40">43</cb>
+<cb id="41">44</cb>
+<cb id="42">45</cb>
+<cb id="43">46</cb>
+<cb id="44">47</cb>
+<cb id="45">48</cb>
+</row>
+
+<row type="ctrl_button" x="30" y="370" w="68" h="40" s="13:44"  gap="0">
+<cb id="46">49</cb>
+<cb id="47">50</cb>
+<cb id="48">51</cb>
+<cb id="49">52</cb>
+<cb id="50">53</cb>
+<cb id="51">54</cb>
+<cb id="52">55</cb>
+<cb id="53">56</cb>
+<cb id="54">57</cb>
+<cb id="55">58</cb>
+<cb id="56">59</cb>
+</row>
+
+<row type="ctrl_button" x="30" y="410" w="68" h="37" s="13:44"   gap="0">
+<cb id="57">60</cb>
+<cb id="58">61</cb>
+<cb id="59">62</cb>
+<cb id="60">63</cb>
+<cb id="61">64</cb>
+<cb id="62">65</cb>
+<cb id="63">66</cb>
+<cb id="64">67</cb>
+<cb id="65">68</cb>
+</row>
+
+<row type="ctrl_button" x="255" y="550" w="140" h="44" s="12:13:41" bgw="0" tc="100" gap="10">
+<b id="66"  ft="16">28</b>
+<b id="67"  ft="16">29</b>
+</row>
+
+</Poll>

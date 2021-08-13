@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Aggiornamento IPC
+2=CH
+3=Nome
+4=Dimensioni
+5=Ora
+6=Aggiornamento
+7=Cancella

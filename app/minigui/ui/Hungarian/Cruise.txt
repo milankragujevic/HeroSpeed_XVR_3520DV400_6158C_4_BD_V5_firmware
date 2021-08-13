@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Túra
+2=Az Túrához legalább 2 pozíció szükséges!
+3=Visszaállítja az alapértelmezett paramétereket?
+4=Ez a csatorna nincs engedélyezve
+5=Őrjárat, módosítás…

@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Device Event
+2=No Disk
+3=Disk Error
+4=Network Broken
+5=Ip Conflict
+6=Local alarms
+7=Video Loss
+8=Intelligent alarm

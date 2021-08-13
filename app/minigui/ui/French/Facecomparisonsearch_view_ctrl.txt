@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=\
+2=Caméra
+3=Caméra
+4=Heure début
+5=Similitude
+6=Lire
+7=Image de Sauvegarde
+8=Enregistrement de Sauvegarde
+9=Sauvegarde
+10=Annuler
+11=Tous
+12=Figure
+13=Liste
+14=Recherche exacte
+15=Sauvegarde FTP

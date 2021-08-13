@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Save parameters?
+2=Searching devices, please logout later!
+3=Ip address is incorrect!
+4=Please select a device!
+5=Edit
+6=Manual Add
+7=User name can not be empty!
+8=Domain name resolution fail.
+9=The domain format is incorrect.

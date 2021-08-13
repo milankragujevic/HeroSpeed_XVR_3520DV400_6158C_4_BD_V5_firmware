@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Zoek op Evenement
+2=Zoek op Afbeelding
+3=Kanaal
+4=Tijd
+5=Type
+6=Vandaag:Gisteren:Afgelopen 2 Dagen:Afgelopen 3 Dagen:Afgelopen 7 Dagen:Afgelopen 14 Dagen:Zelf Bepaalde
+7=Zwarte lijst: Positieve lijst: Zwarte lijst en Positieve lijst
+8=Zoeken

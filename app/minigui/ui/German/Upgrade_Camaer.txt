@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Bitte wählen Sie eine Upgrade-Kanalnummer!
+2=Upgrade fehlgeschlagen!
+3=Upgrade erfolgreich!
+4=Bitte wählen Sie eine Upgrade-Datei!
+5=Aktualisierung?
+6=Datei existiert nicht!
+7=Kanal
+8=Update erfolgreich
+9=Update fehlgeschlagen
+10=Aktualisieren, nicht ausschalten!

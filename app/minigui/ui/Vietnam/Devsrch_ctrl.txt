@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Tìm kiếm thiết bị
+2=IP
+3=Cổng
+4=Giao thức
+5=Phiên bản phần mềm
+6=Bộ lọc
+7=Onvif: Nhiều phân khúc : Riêng tư: Onvif và Riêng tư
+8=Tìm kiếm
+9=Thêm
+10=Manual Add
+11=Hủy
+12=Thêm/ Xóa bỏ

@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Ripristina la configurazione iniziale?
+2=in linea
+3=disconnesso
+4=Disattivare P2P prima di cambiare Codifica

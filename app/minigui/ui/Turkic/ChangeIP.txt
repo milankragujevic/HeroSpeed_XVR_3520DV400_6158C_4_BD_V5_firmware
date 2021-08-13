@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=İzin yok!
+2=Yapılandırma Başarısız
+3=Ip Çatışması
+4=Geçersiz IP adresi!
+5=Geçersiz alt ağ maskesi!
+6=Geçersiz ağ geçidi!
+7=Özel olmayan IPC, DNS,HTTP ve RTSP bağlantı noktalarını değiştiremez, değişiklikleri onaylar mı?

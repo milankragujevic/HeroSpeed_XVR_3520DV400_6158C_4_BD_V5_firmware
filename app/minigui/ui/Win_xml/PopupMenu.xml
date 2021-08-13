@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PopupMenu itmnum="5">
+    <item id="2" type="3" sub="0" bg="./image/Pre/boot_file.png">2</item>
+    <item id="3" type="3" sub="0" bg="./image/Pre/boot_system.png">3</item>
+    <item id="4" type="3" sub="0" bg="./image/Pre/boot_login.png">4</item>
+    <item id="6" type="3" sub="0" bg="./image/Pre/boot_logout.png">6</item>
+    <item id="5" type="3" sub="0" bg="./image/menu/shutdown.png">5</item>
+</PopupMenu>

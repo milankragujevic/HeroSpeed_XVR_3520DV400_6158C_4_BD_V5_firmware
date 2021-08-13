@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Edit
+2=Alarm Input
+3=Alarm Name
+4=Enable
+5=Type
+6=N.O:N.C
+7=Arming Schedule
+8=Linkage Action
+9=Normal Linkage
+10=Channel Recording
+11=Trigger Alarm Output
+12=Copy
+13=Apply
+14=All
+15=Sun.
+16=Mon.
+17=Tue.
+18=Wed.
+19=Thu.
+20=Fri.
+21=Sat.
+22=Normal
+23=Edit
+24=Full Screen Monitoring

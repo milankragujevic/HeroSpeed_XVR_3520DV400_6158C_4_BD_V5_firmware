@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Setare tur
+2=Nume presatat.
+3=Stai Ora
+4=Viteza
+5=Confirmare
+6=Anulare

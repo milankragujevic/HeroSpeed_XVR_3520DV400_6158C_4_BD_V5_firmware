@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Restaurar parametros por defecto?
+2=En línea
+3=Desconectado
+4=Cambiar el tipo de encriptacion, Apagar antes el P2P

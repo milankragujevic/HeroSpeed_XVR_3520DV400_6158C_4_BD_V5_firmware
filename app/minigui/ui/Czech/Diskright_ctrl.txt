@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Plánování
+2=Nahrávat
+3=Zachycení
+4=Úložné zařízení
+5=Paměťový režim
+6=Automatické zálohování
+7=Pokročilé

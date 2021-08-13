@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=algemeen
+2=Netwerk
+3=TCP/IP
+4=Instelling
+5=Gebruiker
+6=Adres Filter
+7=Vakantie
+8=POS
+9=Evenement
+10=Normaal Evenement
+11=Slim Evenement
+12=Live Bekijken
+13=tonen
+14=Bekijk
+15=Kanaal-Zero
+16=Gevorderd
+17=Cloud opslag
+18=Normaal
+19=Kanaal configureren
+20=Uitloggen Voorvertoning

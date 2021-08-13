@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Benutzer ändern
+2=Benutzername
+3=Passwort ändern
+4=Altes Passwort
+5=Neues Kennwort
+6=Bestätigen
+7=Stufe
+8=Administrator:Operator:General
+9=Speichern
+10=Abbrechen
+11=Setzen Sie Sicherheitsprobleme zurück
+12=Sicherheitsfrage1
+13=Antwort1
+14=Sicherheitsfrage2
+15=Antwort2
+16=Sicherheitsfrage3
+17=Antwort3
+18=Bitte wählen Sie aus: Was ist Ihre Jobnummer?: Welcher Tag ist der Geburtstag Ihres Vaters?: Was ist Ihr liebstes englisches Lied?: Welcher Tag ist der Geburtstag Ihrer Mutter?
+19=Bitte wählen Sie aus: Was ist Ihre Schulnummer ?: Was sind Ihre Glückszahlen ?: Der Name Ihres Lieblingsstars ist? (Englisch): Der Tag Ihrer Hochzeit ist?
+20=Bitte wählen Sie aus: Was ist Ihre beliebteste Mailbox ?: Wie lautet die Postleitzahl für Ihre Region?: Wie lautet Ihr Haustier ?: Wie lauten Ihre Telefonnummern?
+21=Schlüssel exportieren
+22=Muster entsperren
+23=Aktivieren Sie das Entsperrungsmuster
+24=ändern Sie das Entsperrungsmuster

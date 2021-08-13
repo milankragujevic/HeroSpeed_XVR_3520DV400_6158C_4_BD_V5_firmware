@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Varsayılan değişkenleri geri yüklesin mi?
+2=Yeniden başlatma sihirbazından çıkmak istediğinize emin misiniz?
+3=Port numaraları aynı olamaz!
+4=port numarası, varsayılan 554 ve 80 hariç 1025'den az olamaz!
+5=Bilinmeyen
+6=Dahili ağ kartı IP ve harici ağ IP aynı ağ segmentinde olamaz
+7=Cihazı yeniden başlatmak için intranet IP'nin gereksinimlerini değiştirin, yeniden başlatmayı belirleyin.
+8=IP adresi format hatası!
+9=Ağ maskesi format hatası!
+10=Ağ geçidi format hatası!
+11=DNS format hatası!
+12=Lan1 ve Lan2 aynı ağ segmentinde olamaz
+13=Ağ modunun yeniden başlatılması gerekiyor, yeniden başlatılmaya devam etmek istiyor musunuz?

@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Bibliotheek Naam
+2=Aantal
+3=\
+4=Verwijder
+5=Nieuw
+6=Gezichtsbibliotheek Details
+7=Naam
+8=Aantal
+9=Verwijder
+10=Gezicht Template
+11=Toevoegen
+12=Groep importeren
+13=Functienummer

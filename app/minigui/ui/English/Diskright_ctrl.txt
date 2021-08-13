@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Schedule
+2=Record
+3=Capture
+4=Storage Device
+5=Storage Mode
+6=Auto Backup
+7=Advanced

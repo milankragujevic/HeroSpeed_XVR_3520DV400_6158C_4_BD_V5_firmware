@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Aufnahme-Einstellungen
+2=Kanal
+3=Alle
+4=Betätigen
+5=Aufnahme
+6=Bewegung
+7=Alle
+8=So.
+9=Mo.
+10=Di.
+11=Mi.
+12=Do.
+13=Fr.
+14=Sa.
+15=Standard
+16=Kopieren
+17=Anwenden
+18=Abbrechen
+19=Erweit.Einstellungen
+20=Intelligent
+21=Alarm
+22=M | A
+23=M & A
+24=Keine

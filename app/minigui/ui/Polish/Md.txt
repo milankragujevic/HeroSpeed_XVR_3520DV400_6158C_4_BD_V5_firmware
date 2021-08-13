@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Przywrócić parametry domyślne?
+2=Zakres czasu zapisu to 30-255.
+3=Ten kanał nie ma pozwolenia!
+4=Błąd formatu czasu!
+5=Alarm dźwiękowy
+6=Wyślij e-mail
+7=nagrywanie kanału
+8=Monitorowanie na pełnym ekranie
+9=Dodaj maksymalnie 6 grafików na dzień !

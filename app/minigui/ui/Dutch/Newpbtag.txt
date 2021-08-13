@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=De naam van de directory kan de volgende tekens niet bevatten: Spatie\/:*?"|'%.
+2=De naam van de Directory mag niet leeg zijn.

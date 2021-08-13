@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Adaugare
+2=Adresa IP
+3=Device MAC
+4=Salvare
+5=Anulare

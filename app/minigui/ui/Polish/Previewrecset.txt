@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Przywrócić parametry domyślne?
+2=Brak pozwolenia!
+3=Na pewno wyjść z kreatora konfiguracji?
+4=Nowe ustawienia zostaną aktywowane po ponownym uruchomieniu systemu. Uruchom ponownie teraz?
+5=Ustawienia kreatora konfiguracji są kompletne!
+6=Błąd formatu czasu!
+7=Dodaj maksymalnie 6 grafików na dzień !

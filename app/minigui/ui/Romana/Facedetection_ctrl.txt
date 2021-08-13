@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Capturare facială
+2=Compară rezultat
+3=Mode:Blacklist
+4=Mode:Whitelist
+5=Mode: Black And White List

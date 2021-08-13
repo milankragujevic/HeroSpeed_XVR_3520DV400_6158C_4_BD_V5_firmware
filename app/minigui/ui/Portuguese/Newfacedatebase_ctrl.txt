@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Adicionar o banco de dados de rosto
+2=Nome
+3=Tipo de lista
+4=Lista Negra: Lista Branca
+5=Similaridade
+6=Salve
+7=cancelar

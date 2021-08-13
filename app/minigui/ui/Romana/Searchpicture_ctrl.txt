@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Căutarea Imaginilor
+2=Canal
+3=Tip
+4=Timp
+5=Vizualizare
+6=Utilizator
+7=Vizualizare
+8=Capacitate Rămasă / Totală:
+9=Salvare de rezerva
+10=Anulare
+11=Reimprospatare

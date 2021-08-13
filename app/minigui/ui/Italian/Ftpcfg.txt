@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Ripristina la configurazione iniziale?
+2=La porta deve essere compresa nell’intervallo 1-65535!
+3=Attendere, il dispositivo sta testando la connessione col server FTP….
+4=La connessione col server FTP NON è riuscita!
+5=Test FTP terminato con successo!
+6=Errore di formato temporale!
+7=Il nome del file non deve contenere i seguenti caratteri:   \ / : * ? " < > |
+8=Il nome utente o la password non possono contenere i seguenti simboli:! % E #
+9=Errore nel formato del server FTP!

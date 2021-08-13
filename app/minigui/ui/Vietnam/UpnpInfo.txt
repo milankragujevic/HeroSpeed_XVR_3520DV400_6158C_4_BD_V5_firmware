@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Không được để trống tên máy chủ.
+2=Cổng nội bộ và Cổng ngoài không thể bằng không.
+3=Internal Port hoặc External Port không giống nhau.

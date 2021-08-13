@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Wybierz numer kanału aktualizacji!
+2=Aktualizacja nieudana!
+3=Zaktualizowano!
+4=Proszę wybrać plik aktualizacji!
+5=Aktualizować?
+6=Plik nie istnieje!
+7=Kanał
+8=aktualizacja powiodła się!
+9=aktualizacja nie powiodła się!
+10=Aktualizacja, nie wyłączać zasilania!

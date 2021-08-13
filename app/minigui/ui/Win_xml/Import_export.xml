@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<import_export x="%15" y="%10" w="%100-%15" h="%100-%10">
+
+<col type="ctrl_button" x="%3" y="100" w="200" h="40" s="12:13:41" ft="16" gap="40">
+    <b id="1">1</b>
+    <b id="2">2</b>
+</col>
+
+</import_export>

@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Taal
+2=Systeem Taal
+3=Toepassen
+4=Uitgang

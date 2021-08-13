@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=\
+2=Canal
+3=Canal
+4=Hora de Inicio
+5=Semejanza
+6=Jugar
+7=Hacer copias de seguridad de imágenes
+8=Hacer copias de seguridad de vídeos
+9=Respaldo
+10=Cancelar
+11=Todos
+12=Gráfico y tabla
+13=Lista
+14=Búsqueda exacta
+15=Copia de seguridad de FTP

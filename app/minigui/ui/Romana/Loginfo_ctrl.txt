@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Tip
+2=Timp pornire
+3=Timp Oprire
+4=Toate jurnalele: Gestionarea sistemului: Gestionarea utilizatorilor: Configurarea parametrilor: Operații de fișiere: Prompt de stare: Eveniment de alarmă
+5=Interogare
+6=Nr.
+7=Timp
+8=Eveniment
+9=Utilizator
+10=Export
+11=Exportați toate
+12=Stergere

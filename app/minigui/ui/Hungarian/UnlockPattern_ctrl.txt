@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Feloldási minta beállítása
+2=admin
+3=Feloldási minta elfelejtése
+4=Felhasználó váltás

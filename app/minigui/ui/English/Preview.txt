@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Similarity
+2=Age
+3=Gender
+4=Glasses
+5=Hat
+6=Yes
+7=No
+8=Long
+9=Short
+10=Male
+11=Female
+12=Name
+13=Mode: Blacklist
+14=Mode: Whitelist
+15=Mode: Blacklist And Whitelist
+16=Beard
+17=Channel

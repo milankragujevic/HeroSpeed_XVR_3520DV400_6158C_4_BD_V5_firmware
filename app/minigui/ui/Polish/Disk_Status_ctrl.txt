@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Nr.
+2=Stan
+3=Łączne miejsce
+4=Pozostałe miejsce
+5=Typ urządzenia
+6=Całkowita pojemność
+7=Pozostała pojemność
+8=Zamknij

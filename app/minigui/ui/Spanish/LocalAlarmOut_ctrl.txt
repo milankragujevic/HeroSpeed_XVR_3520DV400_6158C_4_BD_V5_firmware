@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Detección de Movimiento
+2=Manipulación de Vídeo
+3=Vídeo perdido
+4=Entrada de alarma
+5=Salida de alarma
+6=Excepción
+7=Nº de Salida de Alarma
+8=Nombre de la alarma
+9=Demora
+10=Editar
+11=Zumbador

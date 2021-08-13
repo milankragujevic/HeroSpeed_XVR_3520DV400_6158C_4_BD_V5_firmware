@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Toevoegen
+2=Wijzigen
+3=Verwijder
+4=Live Bekijk Toestemming op Vergrendeld Scherm
+5=Nummer
+6=Gebruikersnaam
+7=Bezpieczeństwo
+8=Niveau
+9=Rechten

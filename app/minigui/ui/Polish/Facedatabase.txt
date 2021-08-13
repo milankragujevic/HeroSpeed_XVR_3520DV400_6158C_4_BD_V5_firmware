@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Proszę wybierz bazę twarzy
+2=Udane:
+3=Nieudane:
+4=Partia dodana z sukcesem!
+5=Dodawanie partii nieudane!
+6=Ścieżka dysku USB nie istnieje
+7=Śieżka dysku USB bez mapy twarzy
+8=Dodanie maks. 5000 twarzy!
+9=Dodawanie zdjęcia twarzy
+10=Baza twarzy nie istnieje
+11=Dodanie bazy danych maks. 16 twarzy!
+12=Pozostałe miejsce
+13=Łączne miejsce

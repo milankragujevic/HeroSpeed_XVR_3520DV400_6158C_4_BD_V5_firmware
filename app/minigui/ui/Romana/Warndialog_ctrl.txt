@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=sfaturi
+2=Confirmare
+3=Anulare
+4=Modifica
+5=Modificați mai târziu

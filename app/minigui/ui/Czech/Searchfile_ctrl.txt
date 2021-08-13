@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Vyhledávací soubor
+2=CH
+3=Typ události
+4=Čas zahájení/Čas ukončení
+5=Konec
+6=Typ souboru
+7=Požadovaná kapacita:
+8=Dostupné / Celková kapacita:
+9=Vývozní
+10=Zrušit
+11=Obnovit
+12=Zobrazit
+13=Přejít
+14=Vše
+15=Skupina:
+16=Kanál
+17=čas
+18=FTP Vývozní

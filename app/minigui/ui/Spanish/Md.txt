@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Restaurar parametros por defecto?
+2=El rango de Tiempo de Grabación es 30-255.
+3=¡Este canal no tiene permiso!
+4=Error de formato de tiempo!
+5=Alarma del zumbador
+6=Enviar correo electrónico
+7=grabacion de canal
+8=Monitoreo de pantalla completa
+9=Agregar un máximo de 6 programas por día!

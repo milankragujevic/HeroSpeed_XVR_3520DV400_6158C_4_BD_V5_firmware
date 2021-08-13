@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Arcadatbázis hozzáadása
+2=Név
+3=Lista típus
+4=Feketelista: Fehérlista
+5=Hasonlóság
+6=Mentés
+7=Megszünteti

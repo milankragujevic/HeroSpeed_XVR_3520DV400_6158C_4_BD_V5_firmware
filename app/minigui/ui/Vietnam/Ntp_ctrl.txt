@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=TCP/IP
+2=DDNS
+3=NTP
+4=FTP
+5=UPNP
+6=Kích hoạt NTP
+7=Máy chủ NTP
+8=Tùy chỉnh
+9=Cổng NTP
+10=Khoảng (Min)
+11=Mặc định
+12=Ứng dụng
+13=PPPOE
+14=(30-1440)

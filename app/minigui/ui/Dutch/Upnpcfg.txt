@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Verbinden…
+2=Normal
+3=Reset naar fabrieksinstellingen ?
+4=De limiet voor port mappen is 16 regels!

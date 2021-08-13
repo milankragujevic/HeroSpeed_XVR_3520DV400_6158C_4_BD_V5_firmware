@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Editați
+2=Intrare alarmă
+3=Nume alarma
+4=Activat
+5=Tip
+6=N.O:N.C
+7=Program de armare
+8=Acțiune de asociere
+9=Corelare normală
+10=Înregistrarea canalelor
+11=Ieșire declanșator alarmă
+12=Copie
+13=Salvare
+14=Toate
+15=Soare.
+16=Mon.
+17=Tue.
+18=Miercuri
+19=Thu.
+20=Vineri
+21=Sat.
+22=Normal
+23=Editați
+24=Monitorizare pe ecran complet

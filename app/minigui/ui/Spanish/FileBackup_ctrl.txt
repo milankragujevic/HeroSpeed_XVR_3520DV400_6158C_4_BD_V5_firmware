@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Hora
+2=Canal
+3=Tipo de archivo
+4=Etiqueta
+5=Tipo de evento
+6=Núm. de Matrícula
+7=Estadp de Archivo
+8=Área / País
+9=Hoy: Ayer: Los Pasados 2 Días: Los Pasados 3 Días: Los Pasados 7 Días: Los Pasados 14 Días: Personalizar
+10=Video:Picture
+11=Todo: Desbloquear: Bloquear
+12=Exportación rápida
+13=Buscar

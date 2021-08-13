@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Tình trạng
+2=Cập nhật tự động
+3=Cập nhật thời gian
+4=Kiểm tra
+5=Nâng cấp
+6=Ứng dụng

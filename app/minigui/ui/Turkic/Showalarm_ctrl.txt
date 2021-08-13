@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Alarm bilgileri
+2=İstisna
+3=Normal olay
+4=akıllı faaliyet
+5=Ayarlama
+6=Alarm saati
+7=alarm/ istisna
+8=Oynat
+9=Bilgi (kanal numarası, alarm giriş numarası, sabit disk vb.)

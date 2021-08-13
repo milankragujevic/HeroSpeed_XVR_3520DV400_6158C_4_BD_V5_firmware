@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Povolit
+2=Dropbox
+3=Google
+4=Složka pro uložení
+5=Uživatelské jméno
+6=Velikost
+7=Využito
+8=Test
+9=Výchozí
+10=Použít
+11=Google
+12=IPEYE
+13=Svázat

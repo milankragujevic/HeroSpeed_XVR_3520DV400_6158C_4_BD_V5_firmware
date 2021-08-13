@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=Feldolgozási módszer
+2=Élesítési idő
+3=Feldolgozási módszer
+4=Képernyő
+5=Hangjelző
+6=Küldjön e-mailt
+7=FTP feltöltése
+8=Csatornafelvétel
+9=Elfog
+10=Riasztási kimenet engedélyezése
+11=Riasztási kimenet
+12=Riasztási név
+13=Alkalmaz
+14=Megszünteti
+15=1
+16=2
+17=3
+18=4
+19=5
+20=6
+21=7
+22=8
+23=kapcsolat
+24=Felvételi idő (mp)
+25=Hang idő (mp)

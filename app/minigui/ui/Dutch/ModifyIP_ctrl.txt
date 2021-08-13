@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=IP aanpassen
+2=Ip adres
+3=netmask
+4=poort
+5=Gebruikersnaam
+6=Wachtwoord
+7=Bevestig
+8=Annuleren
+9=DNS
+10=HTTP poort
+11=RTSP poort

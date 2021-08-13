@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Kérem válasszon file-t.
+2=Not enough disk space.
+3=Keresés, várjon ...
+4=Nem lehet adatot írni a lemezre.
+5=Archiválás kész!
+6=Kérjük, helyezze be az usb lemezt!
+7=Túl sok fájl, állítsa le a keresést!
+8=Manuális rögzítés
+9=Mozgás
+10=Riasztás
+11=Mozgás vagy riasztás
+12=Mozgás és riasztás

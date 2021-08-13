@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Fara permisiune!
+2=Config Failed
+3=Conflictul Ip
+4=Adresă IP nevalidă!
+5=Mască de subrețea nevalidă!
+6=Gateway nevalid!

@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Dodaj bazę danych twarz
+2=Nazwa
+3=Typ listy
+4=Czarna lista:Biała lista
+5=Podobieństwo
+6=Zapisz
+7=Anuluj

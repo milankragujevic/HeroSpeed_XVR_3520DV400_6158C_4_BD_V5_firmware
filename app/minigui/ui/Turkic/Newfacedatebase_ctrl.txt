@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Yüz veritabanı ekle
+2=Ad
+3=Liste tipi
+4=Kara liste: beyaz liste
+5=Benzerlik
+6=Kaydet
+7=iptal

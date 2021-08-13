@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<DiskStatus x="%23+36" y="%100-700" w="800" h="640" title="Disk">
+<row>
+    <disklist type="listview_ex" id="1" x="30" y="30" w="740" h="448" s="11:12:13:14:15:203:204" itemcnt="5" itemh="56">
+        <item w="100" align="l">1</item>
+        <item w="150" align="l">2</item>
+        <item w="170" align="l">3</item>
+        <item w="170" align="l">4</item>
+        <item w="140" align="l">5</item>
+    </disklist>
+</row>
+
+<col type="static" x="30" y="488" w="180" h="40" s="11:12:31" bcol="10" ft="18" gap="0">
+    <s id="2">6</s>
+    <s id="3">7</s>
+</col>
+
+<col type="static" x="220" y="488" w="200" h="40" s="11:12:31" bcol="10" ft="18" gap="0">
+    <s id="4"></s>
+    <s id="5"></s>
+</col>
+
+<row type="ctrl_button" x="330" y="590" w="140" h="40" s="12:13:41" ft="16" gap="10">
+    <b id="6">8</b>
+</row>
+
+</DiskStatus>

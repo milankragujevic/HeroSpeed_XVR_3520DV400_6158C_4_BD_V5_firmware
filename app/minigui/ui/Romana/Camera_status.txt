@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Suport
+2=Nu este acceptat
+3=legat
+4=Deconectat

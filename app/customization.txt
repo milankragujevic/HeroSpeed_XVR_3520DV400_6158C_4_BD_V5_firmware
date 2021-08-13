@@ -1,0 +1,99 @@
+﻿versione=,							//版本号
+
+versiondrvname=Digital Video Recorder,  //version DRVICE NAME
+devicetype=,
+
+P2pCfgTbl
+androidappurl=http://www.bitdog.com/home/account/q-rcode,		//app安卓二维码地址
+iosappurl=https://itunes.apple.com/app/id1419463554,	                                        //ios二维码地址
+p2pen=1,								//P2p使能0关闭，1开启
+
+IMGAttrCfg
+brightness=128,			//图像颜色
+contrast=128,
+saturability=128,
+sharpness=128,
+
+smtpCfg
+smtpsubject=XVR ALERT, 		//邮件主题
+
+CommCfg 
+language=2,			//语言
+VideoMode=0,			//视频制式0:pal 1:ntsc
+standbyTime=10,			//待机时间
+dvrname=XVR,			//设备名
+bootguide=1,			//使能开机向导，0关闭，1开启
+
+NTPCfg				//ntp
+ntpenable=0,			//ntp使能，0关闭1开启
+ntpserver=time.nist.gov,	//ntp server
+interval=720,			//时间间隔interval
+ntppot=123,			//端口
+timezone=14,			//时区	
+dateformat=0,			//日期格式0：年月日  1：月日年 2：日月年
+timeformat=0,			//时间格式 0:24小时制  1:12小时制
+dateseparator=0,		//时间标点 0:"."  1:"-" 2:"/"
+
+NetCfg
+DHCPenable=0,			//dhcp使能 0关闭 1开启
+IpAddr=192.168.1.88,		//ip地址
+mask=255.255.255.0,		//子网掩码
+gateway=192.168.1.1,		//网关
+DNS1=202.96.134.133,		//主ddns
+DNS2=8.8.8.8,			//次ddns
+	
+AutoMaticCfg			//自动维护
+AutoMaticType=2,		//0：从不  1：每天 2：每周 3：每月
+AutoMaticDay=3,			//几号
+AutoMaticWeek=3,		//星期几
+AutoMatichour=3,		//几点
+AutoMaticTypeMin=3,		//几分
+
+AutoPollCfg			//自动轮巡航
+AutoPollEnable=0,		//自动轮巡使能
+AutoPollMode=0,			//0:1画面 1:4画面 2:9画面
+AutoPollTime=5,			//时间5-255
+
+DisplayCfg
+resolution=2, 			//此分辨率以20DV200/V300 为准， 21A 31A在此基础加1
+transparent=5,			//透明度
+visibletime=1,			//显示时间
+visiblechnname=1,		//显示通道名
+initmode=255,			
+displayenable=0,
+
+DisplayOutImgAttrCfg
+DisOutbrightness=50,		//色彩校正设置
+DisOutcontrast=50,
+DisOutsaturation=50,
+DisOuthue=50,
+
+UserCfg
+username=admin,			//用户名
+password=12345,  		//用户密码
+systemsetdatabit=4294967295,
+
+
+/************************** undefined list
+playbackdatabit0=4294967295,
+playbackdatabit1=4294967295,
+livepreviewdatabit0=4294967295,
+livepreviewdatabit1=4294967295,
+userid=default_id,
+userremarks=admin,
+belongtogroup=admin,
+groupremarks=admin_group,
+
+GroupCfg
+groupid=default_id,
+groupname=admin,
+groupremarks=admin_group,
+groupsystemsetdatabit=4294967295,
+groupplaybackdatabit0=4294967295,
+groupplaybackdatabit1=4294967295,
+grouplivepreviewdatabit0=4294967295,
+grouplivepreviewdatabit1=4294967295,
+
+ChannelNameGfg
+AllChNmaeStyle=channel,
+**************************************/

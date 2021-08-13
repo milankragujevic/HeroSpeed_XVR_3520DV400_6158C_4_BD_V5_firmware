@@ -1,0 +1,13 @@
+[wintip]
+num=11
+1=İzin yok!
+2=Varsayılan değişkenleri geri yüklesin mi?
+3=Zaman formatı hatası!
+4=Pazar
+5=Pazartesi
+6=Salı
+7=Çarşamba
+8=Perşembe
+9=Cuma
+10=Cumartesi
+11=Zaman periyodları geçilemez veya dahil edilemez!

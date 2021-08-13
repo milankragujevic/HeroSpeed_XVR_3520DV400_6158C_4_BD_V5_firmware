@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Motion Detection
+2=Video Tempering
+3=Video Loss
+4=Alarm Input
+5=Alarm Output
+6=Exception
+7=Event Type
+8=Enable
+9=No Disk:Disk Error:Broken Network:IP Conflict
+10=Normal Linkage
+11=Default
+12=Apply
+13=Alarm Output
+14=Buzzer

@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Ustawienia wskazówek wydarzenia
+2=Wsz.
+3=Zastosuj
+4=Anuluj

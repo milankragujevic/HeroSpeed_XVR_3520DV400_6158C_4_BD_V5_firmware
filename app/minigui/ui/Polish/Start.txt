@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Podgląd
+2=Odtwarzanie
+3=Zarządzanie plikami
+4=Inteligentna Analiza
+5=Kanał
+6=Magazyn
+7=System
+8=Konserwacja
+9=Aplikacja Biznesowa
+10=Pobierz
+11=Bell
+12=Alarm
+13=Archiwizacja
+14=Odłączenie od zasilania

@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Habilitado
+2=Dropbox
+3=Google
+4=Carpeta de Subida
+5=Nombre de Usuario
+6=Capacidad
+7=Usado
+8=Prueba
+9=Defecto
+10=Aplicar
+11=Google
+12=IPEYE
+13=Enlazar

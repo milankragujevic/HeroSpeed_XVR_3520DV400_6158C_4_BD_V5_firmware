@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Kanal
+2=Ziel
+3=Gesichtserkennung
+4=Smart Ereignis
+5=Körpererkennung
+6=Autoerkennung

@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Keresésfájl
+2=Csat
+3=Esemény típus
+4=Kezdési és befejezési idő
+5=Vége
+6=File típus
+7=Szükséges tárhely:
+8=Szabad/Teljes tárhely:
+9=Export
+10=Megszünteti
+11=Frissítés
+12=Nézet
+13=Megy
+14=Mind
+15=Csoport:
+16=Csatorna
+17=Idő
+18=FTP Exportálás

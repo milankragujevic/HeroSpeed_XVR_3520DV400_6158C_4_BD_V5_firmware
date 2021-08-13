@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Name des Alarmausgangs
+2=Alarmstatus
+3=Auslöser
+4=Löschen
+5=Schließen

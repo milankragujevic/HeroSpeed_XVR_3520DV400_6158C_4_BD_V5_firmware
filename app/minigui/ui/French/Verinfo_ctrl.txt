@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Nom périphérique
+2=Modèle N°
+3=Version de l'appareil
+4=Version
+5=Rendez-vous amoureux
+6=Nombre total de canaux
+7=Nombre total de canaux POE
+8=Fermer
+9=P2P
+10=Version GUI
+11=Version WEB

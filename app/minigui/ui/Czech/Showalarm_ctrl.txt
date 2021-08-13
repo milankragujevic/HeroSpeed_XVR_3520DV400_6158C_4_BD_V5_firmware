@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Informace alarmu
+2=Události
+3=Obyčejná událost
+4=Chytrá (Smart) událost
+5=Nast.
+6=Čas alarmu
+7=Alarm/Abnormální situace
+8=Přehrát
+9=Informace (číslo kanálu, číslo vstupního alarmu, pevný disk, adresa IP atd.)

@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Canal
+2=Habilitar
+3=Limpar Zona 1
+4=Limpar Zona 2
+5=Limpar Zona 3
+6=Limpar tudo
+7=Aplique
+8=Copiar

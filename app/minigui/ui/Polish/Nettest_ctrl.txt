@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Opóźnienie sieci, test utraty pakietów
+2=Wybór NIC
+3=Adres docelowy
+4=Test

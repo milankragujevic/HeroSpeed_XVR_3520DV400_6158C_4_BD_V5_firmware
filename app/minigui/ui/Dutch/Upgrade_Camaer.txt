@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Selecteer upgrade kanaal nr.!
+2=Upgrade mislukt!
+3=Upgrade Succesvol!
+4=Selecteer aub upgrade bestand!
+5=Upgraden?
+6=Bestand bestaat niet!
+7=Kanaal
+8=update succeeded!
+9=update failed!
+10=Upgraden, niet uitschakelen aub!

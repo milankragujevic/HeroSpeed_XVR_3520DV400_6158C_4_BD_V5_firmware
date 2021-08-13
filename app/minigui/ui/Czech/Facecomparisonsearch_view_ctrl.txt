@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=\
+2=Kanál
+3=Kanál
+4=Začátek
+5=Podobnost
+6=Přehrát
+7=Záloha obrazů
+8=Záloha videa
+9=Záloha
+10=Zrušit
+11=Vše
+12=Graf
+13=Seznam
+14=Přesné vyhledávání
+15=Zálohování FTP

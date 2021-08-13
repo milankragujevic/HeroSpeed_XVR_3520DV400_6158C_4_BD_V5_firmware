@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Gelijkenis
+2=Leeftijd
+3=Seks
+4=Bril
+5=Hoed
+6=Lijsttype:
+7=Tijd:
+8=Positieve lijst
+9=Zwarte lijst
+10=Geen
+11=Man
+12=Vrouw
+13=Toon alleen gezichten
+14=Toon alleen menselijke figuren

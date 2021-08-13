@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Kanalumschaltung
+2=Aktivieren
+3=Zeit(sek.)
+4=Ansicht
+5=Standard
+6=Anwenden
+7=Abbrechen

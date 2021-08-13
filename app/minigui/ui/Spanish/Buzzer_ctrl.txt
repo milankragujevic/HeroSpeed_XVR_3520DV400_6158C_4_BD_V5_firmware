@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Detección de Movimiento
+2=Manipulación de Vídeo
+3=Vídeo perdido
+4=Entrada de alarma
+5=Salida de alarma
+6=Excepción
+7=Tiempo de retardo(1~120s)
+8=5 Sec:10 Sec:30 Sec:1 Min:2 Min:5 Min:10 Min
+9=Prueba
+10=Aplicar
+11=Zumbador

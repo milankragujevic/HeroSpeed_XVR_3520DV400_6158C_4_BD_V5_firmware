@@ -1,0 +1,7 @@
+[wintip]
+num=4
+1=Unterstützt
+2=Wird nicht unterstützt
+3=Verbunden
+4=Trennen
+

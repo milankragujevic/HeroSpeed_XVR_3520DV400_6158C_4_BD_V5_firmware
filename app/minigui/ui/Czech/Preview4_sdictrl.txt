@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Nabídka
+2=1-Okno
+3=Kanál1
+4=Kanál2
+5=Kanál3
+6=Kanál4
+7=4-Okna
+8=Hlasování
+9=Nastavení nahrávání
+10=Přida kameru
+11=Přehrávání
+12=PTZ
+13=DVR Image
+14=Zvolte režim
+15=Manuální snímání obrazovky
+16=Porovnání tváří

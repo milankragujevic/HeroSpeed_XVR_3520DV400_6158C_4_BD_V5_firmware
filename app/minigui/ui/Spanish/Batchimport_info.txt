@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Éxito
+2=Fallido

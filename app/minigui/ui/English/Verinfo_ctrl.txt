@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Device Name
+2=Model No
+3=Device Version
+4=System Version
+5=Date
+6=Total Number Of Channels
+7=Total Number Of POE Channels
+8=Close
+9=P2P
+10=GUI Version
+11=WEB Version

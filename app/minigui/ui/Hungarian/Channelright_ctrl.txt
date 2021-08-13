@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Csatorna
+2=POE
+3=OSD
+4=Kép
+5=PTZ
+6=Adatvédelmi maszk
+7=Kódolás paraméterek
+8=Record Stream
+9=Sub stream
+10=Csatorna Név
+11=Helyi Privát maszk
+12=PTZ beállítás

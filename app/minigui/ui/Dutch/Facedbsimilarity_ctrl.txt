@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Gelijkenis
+2=OK
+3=Annuleren
+4=Zwarte lijst: Whitelist
+5=Functie

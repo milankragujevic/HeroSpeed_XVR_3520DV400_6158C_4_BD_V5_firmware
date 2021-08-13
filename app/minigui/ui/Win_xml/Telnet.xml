@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Telnet x="0" y="0" w="%100" h="%100" title="Telnet">
+
+<row>
+<s type="static" id="40" x="0" y="0" w="%100" h="2" s="11:12:33" bcol="7"></s>
+<s type="static" id="41" x="0" y="%100-3" w="%100" h="2" s="11:12:33" bcol="7"></s>
+<s type="static" id="42" x="0" y="3" w="2" h="%100-6" s="11:12:33" bcol="7"></s>
+<s type="static" id="43" x="%100-3" y="3" w="2" h="%100-6" s="11:12:33" bcol="7"></s>
+<s type="static" id="45" x="3" y="%100-5" w="%100-6" h="2" s="11:12:33" bcol="5"></s>
+<s type="static" id="46" x="3" y="3" w="2" h="%100-8" s="11:12:33" bcol="5"></s>
+<s type="static" id="47" x="%100-5" y="3" w="2" h="%100-8" s="11:12:33" bcol="5"></s>
+<s type="static" id="52" x="249" y="58" w="2" h="%100-63" s="11:12:33" bcol="5"></s>
+<s type="static" id="53" x="251" y="58" w="2" h="%100-63" s="11:12:33" bcol="9"></s>
+<s type="static" id="54" x="6" y="5" w="%100-12" h="49" s="11:12:33" ft="16" bcol="20">1</s>
+</row>
+<row x="%100-37" y="19" w="20" h="20" s="12:13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="55" bg="./image/menu/close.png" bgc="./image/menu/close_hover.png" bgw="" ft="16"></b>
+</row>
+<col type="ctrl_button" x="5" y="58" w="244" h="54" s="12:13:41:42:48" gap="0">
+<b id="114" bg="./image/radiobutton_bg/general.png">2</b>
+<b id="108" s="12:16:48:49:41:42" bg="./image/radiobutton_bg/network.png">3</b>
+<b id="115" bg="./image/radiobutton_bg/display.png">4</b>
+<b id="126" bg="./image/radiobutton_bg/exception.png">5</b>
+<b id="116" bg="./image/radiobutton_bg/user.png">6</b>
+<b id="123" bg="./image/radiobutton_bg/chlband.png">7</b>
+<b id="131" bg="./image/radiobutton_bg/alarm.png">8</b>
+<b id="138" s="13:41:42:48" bg="./image/radiobutton_bg/wifi.png">22</b>
+</col>
+		
+<row type="ctrl_button" x="265" y="55" w="70" h="50" s="12:13:41:48" gap="10">
+<b id="108">9</b>
+<b id="109">10</b>
+<b id="110">11</b>
+<b id="111">12</b>
+<b id="122">13</b>
+<b id="128">14</b>
+<b id="130" w="110" gap="10">16</b>
+<b id="135" s="12:16:48:49:41">17</b>
+<b id="136">23</b>
+</row>
+<row>
+<s type="static" id="1" x="265" y="105" w="%30-84" h="40" s="11:12:31" bcol="114" gap="-1">18</s>
+<b type="ctrl_button" id="2" x="%30+180" y="105" w="%70-196" h="40" s="12:13:44" tcol="125"></b>
+</row>
+<row type="ctrl_button" x="265" y="160" w="140" h="44" s="12:13:41:42" bgw="0" tc="100" gap="10">
+<b id="3" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">19</b>
+<b id="4" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">20</b>
+</row>
+<row type="ctrl_button" x="5" y="%100-58" w="244" h="54" s="12:13:41:42" bgw="0" tc="2" ex="81">
+<b id="134" bg="./image/common/btnpre.png" bgc="./image/common/btnpre_hover.png" ft="16">21</b>
+</row>
+
+</Telnet>

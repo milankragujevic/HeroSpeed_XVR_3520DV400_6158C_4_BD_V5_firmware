@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=No mobile hard disk!
+2=Dezinstalare reusita!
+3=Dezinstalare esuata!
+4=Fisier inregistrare
+5=In proces de salvare de rezerva, Va rugam asteptati…
+6=Salvare de rezerva reusita!
+7=Salvare de rezerva esuata!
+8=Nu exista disk pentru salvarea de rezerva
+9=Montare esuata!
+10=Eroare Necunoscuta!
+11=Fara permisiune!
+12=Nu se pot lega date pe hard disk mobil!
+13=Citirea datelor înregistrate a eșuat!
+14=Not enough disk space.

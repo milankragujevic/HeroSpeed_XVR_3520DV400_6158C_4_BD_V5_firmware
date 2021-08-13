@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Brak pozwolenia!
+2=Pobranie zdjęcia nieudane
+3=Zrzut
+4=Audio
+5=Powiększenie
+6=Dodaj Tag
+7=Rybie oko
+8=Zamknij
+9=Obraz pobrany, proszę sprawdź w folderze zarządzania plikami

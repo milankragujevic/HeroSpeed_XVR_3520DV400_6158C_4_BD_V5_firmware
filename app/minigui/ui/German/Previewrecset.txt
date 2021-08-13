@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Auf Werkseinstellungen zurücksetzen?
+2=Keine Erlaubnis!
+3=Sind Sie sicher, dass Sie den DVS-Assistenten beenden möchten?
+4=Neue Einstellungen werden nach dem Neustart aktiviert. Jetzt neu starten?
+5=DVS Boot Assistent Setup ist abgeschlossen!
+6=Zeitformatfehler!
+7=Fügen Sie maximal 6 Zeitpläne pro Tag hinzu!

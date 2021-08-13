@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=TCP/IP
+2=DDNS
+3=NTP
+4=FTP
+5=UPNP
+6=Habilitar NTP
+7=Servidor NTP
+8=Personalizado
+9=Puerto NTP
+10=Intervalo (Minutos)
+11=Defecto
+12=Aplicar
+13=PPPOE
+14=(30-1440)

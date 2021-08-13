@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Warndialog x="250" y="137" w="400" h="240" title="Warning">
+<row type="static">
+    
+    <s id="11" x="0" y="4" w="2" h="232" s="11:12:31" bcol="3"></s>
+    <s id="12" x="4" y="0" w="392" h="2" s="11:12:31" bcol="3"></s>
+    <s id="13" x="398" y="4" w="2" h="232" s="11:12:31" bcol="3"></s>
+    <s id="14" x="4" y="238" w="392" h="2" s="11:12:31" bcol="3"></s>
+    <s id="17" x="0" y="0" w="400" h="60" s="11:12:33" ft="16" bcol="10">1</s>
+    <s id="16" x="0" y="60" w="400" h="2" s="11:12:31" bcol="2"></s>
+</row>
+	
+<row type="ctrl_button" x="98" y="185" w="100" h="40" s="13:41" gap="10" ft="16">
+    <ok id="1">2</ok>
+    <cancel id="2">3</cancel>
+</row>
+<row type="ctrl_button" x="78" y="185" w="120" h="40" s="13:41" gap="10" ft="16">
+    <ok id="3">4</ok>
+    <cancel id="4">5</cancel>
+</row>
+</Warndialog>

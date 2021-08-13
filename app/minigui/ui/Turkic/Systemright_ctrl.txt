@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Genel
+2=Ağ
+3=TCP/IP
+4=ayarlama
+5=Kullanıcı
+6=Adres filtresi
+7=tatil
+8=POS
+9=Olay
+10=Normal olay
+11=akıllı faaliyet
+12=Live View
+13=Ekran
+14=görünüm
+15=Kanal sınıf
+16=İleri
+17=Bulut Depolama
+18=Normal
+19=Kanal Yapılandırma
+20=Çıkış Önizlemesi

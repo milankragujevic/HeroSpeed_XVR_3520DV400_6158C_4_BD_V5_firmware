@@ -1,0 +1,19 @@
+[Ctrltxt]
+num=17
+1=Suche
+2=Automatisch
+3=Manuell hinzuf.
+4=Update
+5=Löschen
+6=Öffnen Sie H264 + / H265 +
+7=Gerätsname
+8=Verbindungsstatus
+9=CH
+10=Bearbeiten
+11=Löschen
+12=Konf.
+13=Verknüpfung
+14=IP
+15=Anschluss
+16=Protokoll
+17=Firmware Version

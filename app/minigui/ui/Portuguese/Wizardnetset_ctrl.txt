@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Data e Hora; 1
+2=Rede; 2
+3=Disco Rígido; 3
+4=Câmera; 4
+5=Plataforma; 5
+6=Alterar Senha; 5
+7=Configuração de Rede
+8=Habilitar DHCP
+9=Endereço IP
+10=Máscara de rede
+11=Gateway
+12=DNS primário
+13=DNS secundário
+14=Anterior
+15=Próximo
+16=Sair

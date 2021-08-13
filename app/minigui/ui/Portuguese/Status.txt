@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=/
+2=/
+3=Erro no formato de hora!
+4=A carga da rede é muito grande, por favor, exclua gradualmente o canal
+5=A carga da rede voltou ao normal
+6=Sem permissão!
+7=Atenção atualizando, não desligue!
+8=Em processo de formatação, por favor aguarde...
+9=Pesquisando ...
+10=No channels that support this feature!
+11=Detecção de rosto
+12=Modo
+13=5 minutos de reprodução
+14=Volume
+15=Ampliação
+16=Imagem
+17=Informação do Stream
+18=Fechar
+19=A senha atual é muito simples, por favor modifique a senha!
+20=Novos dispositivos de armazenamento foram encontrados, formatados como disco de gravação imediatamente?
+21=Em desenvolvimento!
+22=Manual screenshot failed!
+23=Parada de disco usada
+24=A senha atual é muito simples, por favor modifique a senha!
+25=Captura

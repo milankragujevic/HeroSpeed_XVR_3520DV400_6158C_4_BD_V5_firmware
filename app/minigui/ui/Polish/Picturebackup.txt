@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Not enough disk space.
+2=Tworzenie kopii zapasowej, czekaj.
+3=Archiwizacja zakończona
+4=Nie można zapisać danych na dysku przenośnym.
+5=Proszę wybrać plik.
+6=Czas szybkiej kopii nie może przekroczyć 30 minut.
+7=This time no files.
+8=Błąd formatu czasu!
+9=Trwa archiwizacja, czekaj.
+10=Jest jeden lub więcej kanałów bez pozwolenia!
+11=Ten kanał nie ma uprawnień!
+12=Proszę wybrać kanał
+13=Proszę włożyć dysk USB!

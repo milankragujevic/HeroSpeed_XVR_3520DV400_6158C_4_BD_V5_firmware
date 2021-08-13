@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Auf Werkseinstellungen zurücksetzen?
+2=Der Bereich ist zwischen 30-255
+3=Dieser Kanal hat keine Erlaubnis!
+4=Zeitformatfehler!
+5=Tonalarm
+6=E-Mail senden
+7=Kanalaufnahme
+8=Vollbildüberwachung
+9=Fügen Sie maximal 6 Zeitpläne pro Tag hinzu!

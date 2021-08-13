@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=CH
+2=Stare înregistrată
+3=Encode mode
+4=Bitrate (Mbps)
+5=Înregistrați Export
+6=Numar Disk
+7=Închide

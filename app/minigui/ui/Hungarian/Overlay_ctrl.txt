@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Csatorna
+2=Csatorna Név
+3=Idő
+4=Szöveg
+5=Dátum formátum
+6=OSD pozíció
+7=Tükrözés
+8=ÉÉ HH NN:HH NN ÉÉ:NN HH ÉÉ
+9=Bal_fent:Bal_közép
+10=KI:Vízszintes:Függőleges:Mindegyik
+11=Alkalmaz
+12=Másol

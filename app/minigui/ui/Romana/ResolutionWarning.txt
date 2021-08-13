@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Indiferent dacă doriți să modificați configurația?
+2=Se va restabili automat după câteva secunde

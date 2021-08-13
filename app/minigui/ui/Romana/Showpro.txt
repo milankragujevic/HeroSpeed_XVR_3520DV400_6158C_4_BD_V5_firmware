@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=In proces de initializare disk, Va rugam asteptati…
+2=Nu a reușit

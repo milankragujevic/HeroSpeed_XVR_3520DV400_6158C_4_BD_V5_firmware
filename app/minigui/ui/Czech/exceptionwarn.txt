@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Žádný disk
+2=Chyba disku
+3=Chyba síťě
+4=Ip konflikt
+5=Místní alarm

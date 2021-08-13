@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Phát hiện chuyển động
+2=Điều chỉnh âm thanh video
+3=Mất video
+4=Đầu vào báo động
+5=Đầu ra báo động
+6=Ngoại lệ
+7=Kênh
+8=Bật
+9=Thời gian  vũ trang
+10=Hạnh động lên kết
+11=Liên kết bình thường
+12=Mặc định
+13=Sao chép
+14=Ứng dụng
+15=Đầu ra báo động
+16=Buzzer

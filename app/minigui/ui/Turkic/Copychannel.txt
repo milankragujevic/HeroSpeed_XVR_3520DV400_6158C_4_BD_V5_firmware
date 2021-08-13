@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=4 kanaldan daha çok değil!
+2=8 kanaldan daha çok değil!
+3=İzin yok!
+4=Kanal Kaydı

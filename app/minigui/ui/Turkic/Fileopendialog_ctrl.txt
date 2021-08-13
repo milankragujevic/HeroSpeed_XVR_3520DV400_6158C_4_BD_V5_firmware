@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=görünüm
+2=Cihaz yolu
+3=Tüm dosyalar (*. *): * .Jpg
+4=Yukarı
+5=Ad
+6=boyut
+7=Tür
+8=Değişiklik zamanı
+9=Sil
+10=Tamam
+11=iptal
+12=Yeni klasör

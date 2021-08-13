@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Reset naar fabrieksinstellingen ?
+2=Zakres czasu zapisu to 30-255.
+3=Dit kanaal heeft geen toestemming!
+4=Fout in tijdnotatie!
+5=Zoemer alarm
+6=Stuur een e-mail
+7=kanaal opname
+8=Monitoring op volledig scherm
+9=Voer maximaal 6 schema's in per dag!

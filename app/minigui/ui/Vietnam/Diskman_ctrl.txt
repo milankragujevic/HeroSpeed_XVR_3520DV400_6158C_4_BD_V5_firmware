@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Làm mới
+2=Định dạng
+3=Sửa chữa
+4=Số.
+5=Trạng thái
+6=Tổng dung lượng
+7=Dung lượng dư
+8=Loại thiết bị
+9=Cảnh báo: NVR sẽ tự động khởi động lại sau khi định dạng đĩa!

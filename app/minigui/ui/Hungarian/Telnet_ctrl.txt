@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Rendszerbeállítás
+2=Általános
+3=Hálózat
+4=Kijelző
+5=Rendszerhibák
+6=Felhasználó
+7=Csatorna beállítások
+8=Helyi risztás
+9=IP/Port
+10=DDNS
+11=E-mail
+12=P2P
+13=FTP
+14=UPnP
+15=PPPOE
+16=Felhő tárhely
+17=Telnet
+18=Engedélyez
+19=Alkalmaz
+20=Megszünteti
+21=Előnézet
+22=Wifi
+23=IP szűrő

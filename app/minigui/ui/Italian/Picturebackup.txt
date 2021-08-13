@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Not enough disk space.
+2=Attendere (backup in corso)
+3=Backup terminato con successo!
+4=Impossibile scrivere dati sul disco rimovibile!
+5=Selezionare un file.
+6=Il tempo di Fast Backup non deve eccedere i 30 minuti.
+7=This time no files.
+8=Errore di formato temporale!
+9=Attendere, processo in corso….
+10=Ci sono uno o più canali senza autorizzazione!
+11=Questo canale non ha le autorizzazioni!
+12=Seleziona un canale
+13=Inserire un disco USB

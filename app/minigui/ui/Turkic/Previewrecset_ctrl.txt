@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Kayıt Kurulumu
+2=Kanal
+3=Tümü
+4=İşletme
+5=Kayıt
+6=Hareket
+7=Tümü
+8=Pazar
+9=Pazartesi
+10=Salı
+11=Çarşamba
+12=Perşembe
+13=Cuma
+14=Cumartesi
+15=Varsayılan
+16=Kopyala
+17=Uygula
+18=iptal
+19=Daha fazla ayar
+20=Akıllı
+21=Alarm
+22=M | A
+23=M & A
+24=Yok

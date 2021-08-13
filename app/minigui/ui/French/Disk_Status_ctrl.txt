@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=N°.
+2=Etat
+3=Capacité totale
+4=Capacité restante
+5=Type périphérique
+6=Capacité totale:
+7=Capacité restante:
+8=Fermer

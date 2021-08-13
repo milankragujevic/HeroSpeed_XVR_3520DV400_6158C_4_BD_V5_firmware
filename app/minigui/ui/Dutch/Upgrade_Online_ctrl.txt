@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=staat
+2=Automatisch updaten
+3=Update tijd
+4=Controleer
+5=Upgraden
+6=Toepassen

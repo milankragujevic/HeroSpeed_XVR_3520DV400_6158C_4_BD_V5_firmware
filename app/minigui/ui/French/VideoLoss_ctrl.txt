@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Détection de mouvement
+2=Accordement de la vidéo
+3=Perte de vidéo
+4=Entrée d'alarme
+5=Sortie d'alarme
+6=Exception
+7=Caméra
+8=Activer
+9=Temps d'alerte
+10=Action de liaison
+11=Liaison normale
+12=Par défaut
+13=Copier
+14=Appliquer
+15=Sortie d'alarme
+16=Avertisseur sonore

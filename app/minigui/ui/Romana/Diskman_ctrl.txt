@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Reimprospatare
+2=Formatare
+3=Reparare
+4=Nr.
+5=Stare
+6=Capacitate totală
+7=Capacitatea reziduală
+8=Tip de dispozitiv
+9=Atenție: NVR se va reporni automat după formatarea discului!

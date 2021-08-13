@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Informace o portu
+2=Jméno serveru
+3=Protokol
+4=Interní port
+5=Externí port
+6=TCP,UDP
+7=Uložit
+8=Zrušit

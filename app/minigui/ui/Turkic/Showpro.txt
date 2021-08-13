@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Sabit disk sürücüsünün tanımlanması devam ediyor, lütfen bekleyiniz…
+2=başarısız oldu

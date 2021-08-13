@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Stato
+2=Auto Update
+3=Update (ORA)
+4=Check
+5=Aggiorna
+6=Applica

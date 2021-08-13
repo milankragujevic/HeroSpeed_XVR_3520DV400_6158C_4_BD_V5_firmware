@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Aggiungi
+2=Modificare
+3=Cancellare
+4=Blocca le autorizzazioni di visualizzazione live sullo schermo
+5=No.
+6=Nome Utente
+7=Sicurezza
+8=Livello
+9=Authority

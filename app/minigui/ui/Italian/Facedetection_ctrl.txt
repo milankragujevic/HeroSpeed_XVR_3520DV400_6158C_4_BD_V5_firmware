@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Cattura facciale
+2=Risultato di confronto
+3=Mode:Blacklist
+4=Mode:Whitelist
+5=Mode: Black And White List

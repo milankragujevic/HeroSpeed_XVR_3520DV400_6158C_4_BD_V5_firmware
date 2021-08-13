@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Google
+2=IPEYE
+3=\
+4=\
+5=\
+6=\
+7=\
+8=\
+9=\
+10=\
+11=\
+12=Kênh
+13=Khách hàng IPEYE
+14=Bật
+15=Hủy
+16=Ứng dụng
+17=Xem trước
+18=Sao chép
+19=IPEYE
+20=IPEYE chỉ hỗ trợ mã hóa H264

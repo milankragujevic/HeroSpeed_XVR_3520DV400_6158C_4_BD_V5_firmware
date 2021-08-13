@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Restaurer les paramètres par défaut?
+2=Le port doit être compris entre 1 et 65535!
+3=Test FTP, veuillez patienter…
+4=Le FTP ne peut-être joint!
+5=Test FTP réussi.
+6=Erreur de format d'heure!
+7=Le nom du fichier ne doit pas contenir de symboles:                \ / : * ? " < > |
+8=Le nom d'utilisateur ou le mot de passe ne peut contenir les symboles suivants : ! % & #
+9=Erreur de format de serveur FTP!

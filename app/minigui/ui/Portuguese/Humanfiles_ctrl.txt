@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=\
+2=\
+3=\
+4=Tempo
+5=Canal
+6=Tipo de arquivo
+7=Hoje: Ontem: Últimos 2 dias: Últimos 3 dias: Últimos 7 dias: Últimos 14 dias: Personalizado
+8=Vídeo&Imagem
+9=Condições Vazias
+10=Pesquisar
+11=Salve

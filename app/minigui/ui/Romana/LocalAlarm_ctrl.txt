@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Detectarea miscarii
+2=Temperare video
+3=Pierderea calității video
+4=Intrare alarmă
+5=Alarma de ieșire
+6=Excepție
+7=Nr. intrare alarmă
+8=Nume alarma
+9=Alarm Type
+10=Activat
+11=Editați
+12=Alarmă sonoră

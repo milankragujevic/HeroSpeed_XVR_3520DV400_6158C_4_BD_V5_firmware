@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Hangjelző
+2=E-mail küldés
+3=Képernyő
+4=Rossz idő formátum!
+5=Maximum 6 ütemezés adható hozzá egy napra!

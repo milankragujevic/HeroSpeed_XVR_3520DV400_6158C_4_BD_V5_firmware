@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Korlátozás típusa
+2=Korlátozás módja
+3=Engedélyez
+4=Fekete lista: Engedélyezett lista
+5=IP cím: MAC cím
+6=Hozzáadás
+7=Szerkesztés
+8=Törölés
+9=Alkalmaz
+10=Korlátozások listája
+11=IP Cím
+12=MAC cím
+13=Mindet törölni

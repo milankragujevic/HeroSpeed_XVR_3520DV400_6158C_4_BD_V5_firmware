@@ -1,0 +1,13 @@
+[wintip]
+num=11
+1=Fara permisiune!
+2=Revenire la parametrii initiali?
+3=Eroare de format de timp!
+4=Duminica
+5=Luni
+6=Marti
+7=Miercuri
+8=Joi
+9=Vineri
+10=Sambata
+11=Perioadele de timp nu pot fi incrucisate sau incluse!

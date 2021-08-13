@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=PTZ Patrol
+2=Patrouille braucht mindestens zwei Presets!
+3=Auf Werkseinstellungen zurücksetzen?
+4=Zugriff verweigert, Kanal gesperrt!
+5=Cruising, verbieten modifizieren ...

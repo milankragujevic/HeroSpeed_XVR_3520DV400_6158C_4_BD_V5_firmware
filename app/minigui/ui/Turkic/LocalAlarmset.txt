@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Alarm sesli uyarıcı
+2=E-mail gönder
+3=Ekran görüntüsü
+4=Zaman formatı hatası!
+5=Bir gün için en fazla 6 zaman planı ekleyin!

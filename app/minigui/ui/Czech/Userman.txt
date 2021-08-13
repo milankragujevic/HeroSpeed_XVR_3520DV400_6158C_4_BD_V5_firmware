@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Bez povolení!
+2=Smazat uživatele ?
+3=Uživatel administrator nemůže být smazát !
+4=Maximání počet uživatelů je 256 !
+5=Skupina obsahuje uživatele a proto nemůže být smazána !
+6=Nemůžete smazat aktuálně přihlášeného uživatele !
+7=Maximání počet skupin je 20 !
+8=Skupina administrator nemůže být smazána !
+9=Vyberte uživatele
+10=Nejste členem skupiny, nemáte oprávnění pro tuto operaci !
+11=Slabý
+12=Střední
+13=Silný
+14=Správce
+15=Operátor
+16=Obecné
+17=Heslo

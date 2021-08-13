@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Plus de configurations
+2=Temps pré-enregistré
+3=Post-enregistrement (s)
+4=Enregistrement d'audio
+5=Par défaut
+6=Sauvegarder
+7=Annuler

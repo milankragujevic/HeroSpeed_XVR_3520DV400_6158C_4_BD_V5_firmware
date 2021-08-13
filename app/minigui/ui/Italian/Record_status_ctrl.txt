@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=CH
+2=Stato registrazione
+3=Tipo di flusso
+4=Bitrate (Mbps)
+5=Tipo di registrazione
+6=HDD N.
+7=Chiudere

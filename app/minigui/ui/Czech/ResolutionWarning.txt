@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Zkontrolujte, zda upravíte rozlišení?
+2=Po ... sekundách se automaticky obnoví

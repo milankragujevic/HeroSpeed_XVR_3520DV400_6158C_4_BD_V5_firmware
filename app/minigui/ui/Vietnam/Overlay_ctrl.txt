@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Kênh
+2=Tên kênh
+3=Thời gian
+4=Văn bản
+5=Định dạng thời gian
+6=Vị trí OSD
+7=Gương
+8=Năm Tháng Ngày: Tháng Ngày Năm: Ngày Tháng Năm
+9=Trên_trái: Dưới_trái
+10=Tắt: Ngang: Dọc: Cả hai
+11=Ứng dụng
+12=Sao chép

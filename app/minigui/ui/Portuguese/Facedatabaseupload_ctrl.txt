@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Upload do Banco de Dados de Rosto
+2=Lista do Banco de Dados de Rosto
+3=Nome
+4=Tempo
+5=Imagem de Rosto
+6=Utilizador
+7=Visualizar
+8=Capacidade restante/ total:
+9=Confirmado
+10=cancelar
+11=1

@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=CAM
+2=État de l'enregistrement
+3=Type de flux
+4=Bitrate (Mbps)
+5=Type d'enregistrement
+6=Disque N°.
+7=Fermer

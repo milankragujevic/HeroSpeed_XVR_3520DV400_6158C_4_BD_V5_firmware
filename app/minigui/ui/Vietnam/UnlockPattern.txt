@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Xin tạo mẫu vẽ mở khoá.
+2=Xin thả con chuột sau khi hoàn thành.
+3=Ít nhất phải kết nối 4 điên, xin thử lại lần nữa.
+4=Xin vẽ lại mẫu vẽ mở khoá và xác nhận.
+5=2 mẫu  vẽ mở khoá không nhất chí, xin xác nhận lại.
+6=Xin ghi nhớ mẫu  vẽ ở khoá của bạn.
+7=Cách mở khoá sai, có
+8=Đăng nhập
+9=Cơ hội
+10=Nhập mật khẩu hoặc cách mở khoá sai 5 lần. Xin thử lại sau 30 phút.

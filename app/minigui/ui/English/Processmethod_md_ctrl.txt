@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=Processing Method
+2=Arming Time
+3=Processing Method
+4=Screen Display
+5=Buzzer Alarm
+6=Send E-Mail
+7=Upload To FTP
+8=Channel Recording
+9=Capture
+10=Enable Alarm Output
+11=Alarm Output
+12=Alarm Name
+13=Apply
+14=Cancel
+15=1
+16=2
+17=3
+18=4
+19=5
+20=6
+21=7
+22=8
+23=Linkage
+24=Record Time(sec)
+25=Buzzer Time(sec)

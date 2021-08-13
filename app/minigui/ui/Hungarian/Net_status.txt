@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=IP Cím
+2=Alhálózati maszk
+3=Átjáró
+4=Elsődleges DNS
+5=Másodlagos DNS
+6=MAC cím
+7=DHCP engedély.
+8=PPPoE cím
+9=PPPoE alhálózati maszk
+10=PPPoE alapértelmezett átjáró
+11=\
+12=\
+13=Engedélyez
+14=letiltása

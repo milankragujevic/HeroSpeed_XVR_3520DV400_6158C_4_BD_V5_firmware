@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Înregistrați setarea
+2=Canal
+3=Toate
+4=A functiona
+5=Înregistrare
+6=Mişcare
+7=Toate
+8=Soare.
+9=Mon.
+10=Tue.
+11=Miercuri
+12=Thu.
+13=Vineri
+14=Sat.
+15=Initial
+16=Copie
+17=Salvare
+18=Anulare
+19=Mai multe setari
+20=Inteligent
+21=Alarma
+22=M | A
+23=M & A
+24=Nici unul

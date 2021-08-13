@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=tệp hình ảnh khác thường hoặc không hỗ trợ dạnh thức (chỉ hỗi trợ dạnh thức jps.)
+2=Tệp được chọn không thể nặng hơn 1M
+3=Trích mẫu khuôn mặt thất bại
+4=Bắn thất bại
+5=Giá trị đặt trưng hoặc số lượng khuôn mặt vượt qua giới hạn trên
+6=Xin nhập tên.

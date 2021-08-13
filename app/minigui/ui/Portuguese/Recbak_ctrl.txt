@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=Backup de registro
+2=CH
+3=Tipo
+4=Hora de início
+5=Fim do tempo
+6=Tamanho
+7=ID
+8=Backup Log
+9=Remanescente:
+10=Requeridos:
+11=Formato do arquivo
+12=avi
+13=Atualizar
+14=Cópia de segurança
+15=Limpar

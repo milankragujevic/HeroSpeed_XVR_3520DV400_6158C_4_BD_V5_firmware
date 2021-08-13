@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Schedulazione
+2=Registra
+3=Cattura
+4=Dispositivo di archiviazione
+5=Modalità di archiviazione
+6=Backup automatico
+7=avanzato

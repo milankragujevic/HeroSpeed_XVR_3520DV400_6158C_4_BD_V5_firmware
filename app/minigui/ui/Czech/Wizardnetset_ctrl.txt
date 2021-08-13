@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Datum a čas;1
+2=Síť;2
+3=Pevný disk;3
+4=Kamera;4
+5=Platforma;5
+6=Změna hesla;5
+7=Nastavení sítě
+8=Povolit DHCP
+9=IP adresa
+10=Síťová maska
+11=Brána
+12=Primární DNS
+13=Sekundární DNS
+14=Předchozí
+15=Následující
+16=Ukončit

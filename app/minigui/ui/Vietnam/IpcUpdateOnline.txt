@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Tìm kiếm, giữ!
+2=Không có gói nâng cấp
+3=Chỉ có thể nâng cấp một gói nâng cấp!
+4=Hãy chọn tệp nâng cấp!
+5=Nâng cấp?
+6=Nâng cấp, không tắt!
+7=Nâng cấp không thành công!
+8=Nâng cấp thành công!
+9=Kênh ONVIF không hỗ trợ nâng cấp!
+10=Kênh
+11=cập nhật đã thành công!
+12=cập nhật không thành công!
+13=Kênh RTSP không hỗ trợ nâng cấp!
+14=Xin vui lòng chèn usb.

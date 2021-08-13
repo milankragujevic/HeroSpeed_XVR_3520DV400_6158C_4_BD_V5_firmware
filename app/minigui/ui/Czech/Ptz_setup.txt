@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Hlídka
+2=Funkce Patrol vyžaduje alespoň 2 předvolby !
+3=Obnovit výchozí nastavení ?
+4=Nemáte oprávnění k tomuto kanálu !
+5=Provádí se cesta, není možnost nastavení…

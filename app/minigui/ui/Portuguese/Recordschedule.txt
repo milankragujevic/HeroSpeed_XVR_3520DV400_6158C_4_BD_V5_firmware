@@ -1,0 +1,13 @@
+[wintip]
+num=11
+1=Sem permissão!
+2=Restaurar os parâmetros padrão?
+3=Erro no formato de hora!
+4=Dom
+5=Seg
+6=Ter
+7=Qua
+8=Qui
+9=sex
+10=Sab
+11=Periodo de tempo não pode ser cruzado ou incluso!

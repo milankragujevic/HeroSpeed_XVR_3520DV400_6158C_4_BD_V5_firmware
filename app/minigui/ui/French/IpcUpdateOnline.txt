@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Recherche, attends!
+2=Aucun paquet de mise à niveau
+3=Il n'y a qu'un package upgrade peut être sélectionné!
+4=Sélectionnez un fichier de mise à jour!
+5=Mettre à jour?
+6=Mise à jour en cours, ne pas éteindre l'appareil evoya!
+7=Echec de mise à jour!
+8=Mise à jour réussie!
+9=La chaine ONVIF ne support pas upgrading!
+10=Caméra
+11=Mise à jour réussie !
+12=Mise à jour échouée
+13=Le canal RTSP ne prend pas en charge la mise à niveau !
+14=Veuillez insérer un disque USB.

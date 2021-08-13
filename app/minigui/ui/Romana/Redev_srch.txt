@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Cautare dispozitiv, asteptati!
+2=Ești sigur că ieși din expertul de pornire?
+3=Operația va schimba adresa IP a dispozitivului la distanță, va confirma modificările?
+4=is the fisheye equipment that require added separately.
+5=Dispozitivul este conectat de prea multe ori, nu puteți adăuga.
+6=Adăugați camera, așteptați.
+7=adăugat
+8=Ștergerea camerei, vă rugăm să așteptați ...

@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Please confirm your channel parameters and network state!
+2=Restore the default parameters?
+3=Saving enc para, Please wait...
+4=Getting param,Please wait...
+5=Get param failed...
+6=The range of BitRate is 512-8192.
+7=Set camera parameters failed.
+8=The channel is H265 and the device does not support
+9=No permission!
+10=Device does not support H265.
+11=Main Bitrate range 64-8192.
+12=Sub Bitrate range 64-2048.

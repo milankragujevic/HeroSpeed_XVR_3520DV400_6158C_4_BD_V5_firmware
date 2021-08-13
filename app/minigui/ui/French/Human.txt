@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Restaurer les paramètres par défaut?
+2=Erreur de format d'heure!
+3=Maximum support for
+4=Caméra
+5=channels

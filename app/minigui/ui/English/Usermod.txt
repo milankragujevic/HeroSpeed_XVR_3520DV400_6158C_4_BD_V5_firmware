@@ -1,0 +1,23 @@
+[wintip]
+num=21
+1=Successfully Modified
+2=Privilege of administrator can't be modified!
+3=The user already exists!
+4=Please input user name!
+5=Please input password!
+6=Please input new password!
+7=Password is incorrect!
+8=Password mismatch!
+9=User permissions can not be modified
+10=Unknown error!
+11=User name cannot be called root or admin!
+12=User name cannot include the blank space key
+13=You are not a member of the group, no permission to perform this operation.
+14=The user level error!
+15=The password must not be less than 8 bytes and contain at least one digit and letter!
+16=If the user name or password length is geater than 10,it can not be all numbers
+17=Please complete!
+18=Export successful!
+19=Please insert the usb disk.
+20=Export failed!
+21=Are you sure you exit the boot wizard?

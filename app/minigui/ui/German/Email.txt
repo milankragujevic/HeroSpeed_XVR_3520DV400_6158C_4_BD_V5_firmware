@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Auf Werkseinstellungen zurücksetzen?
+2=Die Portnummer muss zwischen 1 und 65535 liegen!
+3=Email testen, bitte warten ...
+4=Email kann nicht zugestellt werden!
+5=Erfolgreich. Bitte prüfen Sie Ihr E-Mail-Postfach
+6=Das E-Mail-Adressformat ist falsch.
+7=Falsches SMTP-Serverformat
+8=Zeitformatfehler!
+9=Benutzerdefinierte

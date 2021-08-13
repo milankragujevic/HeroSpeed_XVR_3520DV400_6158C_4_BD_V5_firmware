@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Nr.
+2=Stare
+3=Capacitate totală
+4=Capacitatea reziduală
+5=Tip de dispozitiv
+6=Capacitate totală:
+7=Capacitate rămasă:
+8=Închide

@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Enlazando
+2=Codigo de Autorización
+3=Confirmado
+4=Cancelar

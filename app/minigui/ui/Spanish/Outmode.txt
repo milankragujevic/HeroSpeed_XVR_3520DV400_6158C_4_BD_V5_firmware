@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=La nueva configuración se activará después de reiniciar. ¿Reiniciar ahora?
+2=Canal
+3=Restaurar parametros por defecto?
+4=1 Pantalla
+5=4 pantalla
+6=Pantalla 8
+7=Pantalla 9
+8=16 pantalla
+9=25 pantalla
+10=36 pantalla
+11=64 pantalla
+12=32 pantallas
+13=El dispositivo no admite esta resolución!

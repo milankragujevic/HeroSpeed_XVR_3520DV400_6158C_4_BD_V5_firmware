@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Restore the default parameters?
+2=Online
+3=Offline
+4=Switch the encryption type, please turn off P2P first.

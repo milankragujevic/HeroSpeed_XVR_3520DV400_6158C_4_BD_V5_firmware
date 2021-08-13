@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Chấp nhận
+2=Không chấp nhận
+3=Đã kết nối
+4=Ngắt kết nối

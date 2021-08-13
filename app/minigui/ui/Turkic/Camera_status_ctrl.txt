@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=CH
+2=Kanal ismi
+3=durum
+4=Hareket Sezme
+5=Video kaybı

@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Lecture des paramètres, veuillez patienter…
+2=Cette chaîne n'a pas de permission!

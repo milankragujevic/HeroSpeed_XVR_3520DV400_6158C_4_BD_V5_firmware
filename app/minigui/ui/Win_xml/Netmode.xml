@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menu x="360" y="160" w="526" h="420" title="Network Mode">
+
+<row x="35" y="105" w="180" h="200" s="12:13:41:42" ex="81" bgw="160" gap="85">
+<b type="ctrl_button" id="1" bg="./image/netmode/manual.png" ft="20">Manual add</b>
+<b type="ctrl_button" id="2" bg="./image/netmode/auto.png" ft="20">Auto add</b>
+</row>
+
+</Menu>

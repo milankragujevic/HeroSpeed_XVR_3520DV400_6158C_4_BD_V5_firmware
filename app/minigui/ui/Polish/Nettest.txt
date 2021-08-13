@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Średnie opóźnienie:
+2=ms
+3=Wskaźnik utraty pakietów:
+4=Adres docelowy nieosiągalny!
+5=Testowanie sieci, proszę czekać ...
+6=Pakiet został przechwycony...
+7=Pomyślne utworzenie kopii zapasowej pakietu sieciowego!
+8=Proszę włożyć dysk USB.
+9=Adres IP jest nieprawidłowy!
+10=Włóż kabel sieciowy.

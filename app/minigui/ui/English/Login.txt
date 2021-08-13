@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=User name doesn't exist!
+2=Password is incorrect,there are
+3=Initializing, Please wait...
+4=Are you sure you exit the boot wizard?
+5=chances.
+6=The password or unlock pattern has been entered incorrectly 5 times. Please try again after 30 minutes.
+7=The password has been entered incorrectly 5 times. Please try again after 30 minutes.

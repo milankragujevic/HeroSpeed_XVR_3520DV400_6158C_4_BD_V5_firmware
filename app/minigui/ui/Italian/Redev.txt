@@ -1,0 +1,21 @@
+[wintip]
+num=19
+1=Sto cercando dispositivi, attendere!
+2=Sei sicuro di voler uscire dalla configurazione assistita?
+3=Questa scelta può cambiare l’IP dei dispositivi remoti, conferma?
+4=La camera FishEye va aggiunta separatamente
+5=Il dispositivo è stato già associato diverse volte, non è possibile aggiungerlo.
+6=Nessun permesso!
+7=Sto rimuovendo una camera, attendere.
+8=Selezionare canale
+9=Il canale Plug and Play non può essere cancellato.
+10=Connesso
+11=Errore ignoto
+12=Errore di connessione rete
+13=Errore porta o server
+14=Errore nome utente o password
+15=Accesso al flusso fallito
+16=CH
+17=Bandwidth disponibile:
+18=Solo una singola carta può aggiungere automaticamente!
+19=Vuoi aprire tutti i canali H264 + o H265 +?

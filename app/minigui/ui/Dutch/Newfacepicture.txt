@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Bestand fout of niet-ondersteund Bestandsformaat (ondersteunt alleen jpg).
+2=Het geselecteerde bestand mag niet groter zijn dan 1M!
+3=Het uittreksel van Gezicht Template Mislukt
+4=Schieten mislukt
+5=Kenmerken waarde of aantal gezichten overschrijdt de bovengrens
+6=Gelieve een naam in te voeren!

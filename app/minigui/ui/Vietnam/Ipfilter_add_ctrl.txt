@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Thêm
+2=Địa chỉ IP
+3=địa chỉ MAC
+4=Ứng dụng
+5=Hủy

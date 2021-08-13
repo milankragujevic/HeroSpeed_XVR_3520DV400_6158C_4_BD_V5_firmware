@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Tip de restricție
+2=Mod de restricție
+3=Activat
+4=Listă neagră:Listă permisă
+5=Adresă IP: Adresă MAC
+6=Adaugare
+7=Editați
+8=Stergere
+9=Salvare
+10=Listă de restricționare
+11=Adresa IP
+12=Device MAC
+13=Ștergere totală

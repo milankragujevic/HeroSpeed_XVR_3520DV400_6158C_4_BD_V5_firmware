@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Datum a čas;1
+2=Síť;2
+3=Pevný disk;3
+4=Kamera;4
+5=Platforma;5
+6=Změna hesla;5
+7=Nastavení data/času
+8=Časová zóna
+9=Formát času
+10=Datum/čas
+11=Rok měsíc den:Měsíc den rok: Den měsíc rok
+12=Následující
+13=Ukončit
+14=Povolit průvodce

@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Počet seznamů dosáhl horní hranici
+2=Zadejte adresu IP
+3=Zadejte adresu Mac
+4=Formát adresy Mac je nesprávný.
+5=Adresa již existuje!

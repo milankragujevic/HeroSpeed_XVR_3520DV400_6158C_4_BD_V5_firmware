@@ -1,0 +1,24 @@
+[Ctrltxt]
+num=22
+1=Configuração
+2=Geral
+3=Rede
+4=Exibição
+5=Exceções
+6=Utilizador
+7=Exceção de disco
+8=Exceção de rede
+9=Tipo de evento
+10=Habilitar
+11=Enviar e-mail
+12=Alarme do zumbido
+13=Nenhum disco: Erro de disco
+14=Padrão
+15=Aplique
+16=cancelar
+17=Visualização
+18=Configuração do canal
+19=Exibição de tela
+20=Alarme local
+21=WI-FI
+22=Filtro de IP

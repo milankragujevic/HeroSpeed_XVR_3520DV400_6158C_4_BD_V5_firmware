@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Vyberte číslo kanálu upgradu!
+2=Akutalizace selhala !
+3=Aktualizace dokončena !
+4=Vyberte soubor pro aktualizaci !
+5=Aktualizovat ?
+6=Soubor neexistuje!
+7=Kanál
+8=aktualizace úspěšná!
+9=aktualizace selhala!
+10=Probíhá aktualizace, nevypínejte zařízení !

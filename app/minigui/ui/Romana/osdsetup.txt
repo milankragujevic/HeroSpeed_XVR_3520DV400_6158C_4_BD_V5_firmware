@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Noțiuni de bază param, vă rugăm să așteptați ...
+2=Acest canal nu are permisiune!

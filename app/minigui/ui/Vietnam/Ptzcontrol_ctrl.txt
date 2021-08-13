@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=PTZ
+2=Kênh
+3=Điều khiển PTZ
+4=Điều khiển thông thường
+5=Phóng to
+6=Focus
+7=Iris
+8=Tốc độ
+9=Điểm
+10=Gọi
+11=Tuần tra ON
+12=Tuần tra OFF
+13=Tuần tra
+14=1:2:3
+15=Đặt tuần tra

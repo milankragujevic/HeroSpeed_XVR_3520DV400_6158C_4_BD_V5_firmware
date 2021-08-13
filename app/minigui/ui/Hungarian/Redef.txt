@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Alapértelmezett paraméterek visszaállítása, kérem várjon...
+2=Gyári beáll.
+3=Az új beállítások használatához újraindítás szükséges, újraindítja most?
+4=Visszaállítja az alapértelmezett paramétereket?

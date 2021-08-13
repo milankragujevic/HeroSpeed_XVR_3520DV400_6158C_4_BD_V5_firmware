@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Časovač nahávání
+2=Aktuální nastavení týdne:
+3=Časování 1
+4=Časování 2
+5=Časování 3
+6=Časování 4
+7=Časování 5
+8=Časování 6
+9=Použít v:
+10=Vše
+11=Ne
+12=Po
+13=Út
+14=St
+15=Čt
+16=Pá
+17=So
+18=Uložit
+19=Zrušit
+20=Plán 7
+21=Rozvrh 8
+22=Neděle: Pondělí: Úterý: Středa: Čtvrtek: Pátek: Sobota
+23=Použít

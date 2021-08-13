@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Reset naar fabrieksinstellingen ?
+2=Wilt u de boot wizard afsluiten?
+3=Het poortnummer kan niet hetzelfde zijn!
+4=Poort nummer kan niet kleiner zijn dan 1025 behalve de standaard 554 en 80!
+5=Onbekend
+6=Interne netwerkkaart IP en externe netwerk-IP mogen zich niet in hetzelfde netwerksegment bevinden
+7=Wijzig het IP-adres van het intranet om het apparaat opnieuw op te starten en het opnieuw opstarten te bepalen?
+8=IP-adres formaat fout!
+9=Fout in netwerkmaskerformaat!
+10=Fout in Gateway-indeling!
+11=Fout in DNS-indeling!
+12=Lan1 en Lan2 kunnen zich niet in hetzelfde netwerksegment bevinden
+13=Wijzig de netwerkmodus moet opnieuw worden gestart, wilt u doorgaan met het wijzigen?

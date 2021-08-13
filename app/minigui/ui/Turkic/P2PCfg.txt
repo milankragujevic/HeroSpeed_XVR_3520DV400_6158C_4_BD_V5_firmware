@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Varsayılan değişkenleri geri yüklesin mi?
+2=İnternet üzerinden
+3=Çevrimdışı
+4=Şifreleme türünü değiştirin, lütfen önce P2P'yi kapatın.

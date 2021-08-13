@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Réglages de Clip
+2=Veuillez Régler le Temps de Clip.
+3=Heure début
+4=Heure fin
+5=Sauvegarder
+6=Annuler

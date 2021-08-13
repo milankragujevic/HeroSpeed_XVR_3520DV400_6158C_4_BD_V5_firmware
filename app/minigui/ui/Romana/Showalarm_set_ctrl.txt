@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Setări indiciu eveniment
+2=Toate
+3=Salvare
+4=Anulare

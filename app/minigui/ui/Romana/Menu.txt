@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Fara permisiune!
+2=Redare.
+3=Înregistrați copia de siguranță a fișiere
+4=Manager de discuri.
+5=Înregistrează programul și setul de codare a camerei.
+6=Camera add,camera osd,image,motion detection,videoloss,ptz,privacy mask setup,channelname.
+7=Date / ora sistemului, rețea, afișare, excepție, configurare utilizator, configurare canal.
+8=Stream, jurnal, informații versiune și actualizare sistem, restabiliți implicit.
+9=Deconectați sistemul și reporniți-l.
+10=Data / ora sistemului, rețea, afișare, excepție, configurare utilizator, configurare canal, alarmă locală.

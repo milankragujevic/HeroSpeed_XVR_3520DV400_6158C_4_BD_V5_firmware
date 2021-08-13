@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Il numero di elenchi ha raggiunto il limite superiore
+2=Inserisci l'indirizzo IP
+3=Inserisci l'indirizzo Mac
+4=Il formato dell'indirizzo MAC non è corretto.
+5=L'indirizzo esiste già!

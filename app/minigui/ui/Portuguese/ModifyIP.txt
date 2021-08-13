@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Sem permissão!
+2=Falha na configuração
+3=Conflito de IP
+4=Endereço IP inválido!
+5=Máscara de sub-rede inválida!
+6=Gateway inválido!

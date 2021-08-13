@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Arama, bekle!
+2=Yükseltme paketi yok
+3=Sadece bir yükseltme paketi seçilebilir
+4=Lütfen yükseltme dosyasını seçin!
+5=Yükselt?
+6=Yükseltme, kapatmayın!
+7=Yükseltme başarısız!
+8=Yükseltme başarılı!
+9=ONVIF kanalı yükseltmeyi desteklemiyor!
+10=Kanal
+11=güncelleme başarılı!
+12=Güncelleme başarısız oldu!
+13=RTSP kanalı yükseltmeyi desteklemiyor!
+14=Lütfen usb diski takın.

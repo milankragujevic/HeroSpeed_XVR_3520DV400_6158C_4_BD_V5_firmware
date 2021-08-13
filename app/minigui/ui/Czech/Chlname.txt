@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Obnovit výchozí nastavení ?
+2=Název kanálu není podporován;
+3=Na některý kanál neámte oprávnění !

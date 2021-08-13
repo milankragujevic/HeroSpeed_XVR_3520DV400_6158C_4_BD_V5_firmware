@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Ripristina la configurazione iniziale?
+2=Nessun permesso!
+3=Schermo
+4=Invia e-mail
+5=Allarme Acustico

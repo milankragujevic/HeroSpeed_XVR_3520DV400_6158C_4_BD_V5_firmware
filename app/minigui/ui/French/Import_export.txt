@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Les nouveaux paramètres seront activés après le redémarrage. Redémarrez maintenant?
+2=En train d'exporter, patientez S.V.P.
+3=Réussi!
+4=Insérez le disque USB S.V.P.
+5=Impossible d'ouvrir la base de données.
+6=La base de données est endommagée.
+7=Erreur inconnue.
+8=Pas de fichiers d'importation!
+9=En train d'importer, redémarrez après avoir réussi

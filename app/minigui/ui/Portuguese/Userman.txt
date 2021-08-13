@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Sem permissão!
+2=Excluir este usuário?
+3=Administrador não pode ser excluído!
+4=Numero máximo de usuários é 256!
+5=O grupo tem um usuário, não pode ser excluído!
+6=Não é possível excluir o usuário atual!
+7=Numero máximo de grupos é 20!
+8=O grupo admin não pode ser excluído
+9=Por favor selecione um usuário
+10=Você não é um membro do grupo, não há permissão para executar esta operação.
+11=Fraco
+12=Médio
+13=Forte
+14=Administrador
+15=Operador
+16=Geral
+17=Senha

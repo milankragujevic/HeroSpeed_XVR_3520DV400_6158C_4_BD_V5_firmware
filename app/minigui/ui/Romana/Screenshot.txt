@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Nume:
+2=Mărime:
+3=Lungime:
+4=Timp:
+5=Exportul a reușit
+6=Exportul a eșuat
+7=Email expediat cu succes
+8=Eroare expediere email
+9=In curs de exprotare, vă rugăm să așteptați ...
+10=Mail in curs de trimitere, vă rugăm să așteptați ...
+11=Are you sure exit?
+12=Introduceți discul USB.

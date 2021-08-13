@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Informationsabfrage, bitte warten...
+2=Dieser Kanal hat keine Erlaubnis!
+3=Der Kanalname darf folgende Symbole nicht enthalten:! % & #

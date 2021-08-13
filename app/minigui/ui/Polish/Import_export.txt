@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Nowe ustawienia zostaną aktywowane po ponownym uruchomieniu systemu. Uruchom ponownie teraz?
+2=Eksportowanie,proszę czekać...
+3=Pomyślnie!
+4=Proszę włożyć dysk USB!
+5=Niemożliwe otwarcie bazy danych.
+6=Baza danych została uszkodzona.
+7=Nieznany błąd.
+8=Brak plików importu!
+9=Importowanie,po zakończeniu nastąpi ponowne uruchomienie

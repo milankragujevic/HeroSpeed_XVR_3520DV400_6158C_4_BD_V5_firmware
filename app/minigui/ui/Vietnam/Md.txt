@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Khôi phục các tham số mặc định?
+2=Phạm vi của thời gian ghi là 30-255.
+3=Kênh này không có sự cho phép!
+4=Lỗi định dạng thời gian!
+5=Báo động Buzzer
+6=Gửi email
+7=Ghi kênh
+8=Giám sát toàn màn hình
+9=Thêm tối đa 6 lịch trình mỗi ngày!

@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Podporovat
+2=Nepodporovat
+3=Připojeno
+4=Odpojit

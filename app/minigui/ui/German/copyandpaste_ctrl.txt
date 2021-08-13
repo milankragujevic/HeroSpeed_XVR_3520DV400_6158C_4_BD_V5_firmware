@@ -1,0 +1,4 @@
+[Ctrltxt]
+num=2
+1=Kopieren
+2=Einfügen

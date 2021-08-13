@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ptz_setup x="%15" y="%10" w="%100-%15" h="%100-%10" title="Ptz_setup">
+
+<row x="%3" y="30" h="40" gap="10">
+<chl type="static" id="9" w="%14" s="11:12:31" bcol="10" ft="18">13</chl>
+<cb type="CtrlCombobox" id="28" w="%19" s="11:12:13:14:21:22:23" ad="176"></cb>
+</row>
+<row type="static" x="%3" y="80" w="%79" h="2" s="11:12:31" bcol="1" gap="10">
+<s id="1"></s>
+</row>
+
+<col type="static" x="%32+30" y="100" w="120" h="40" s="11:12:31" gap="10" bcol="10" ft="18">
+<s id="10">11</s>
+<s id="7">12</s>
+</col>
+<col type="CtrlCombobox" x="%32+160" y="100" w="%19" h="40" s="11:12:13:14:21:22:23" ad="176" gap="10">
+<cb id="29"></cb>
+<cb id="8" ad="136">
+<selcn>15</selcn>
+</cb>
+</col>
+
+
+<row type="ctrl_button" x="%51+190" y="100" w="140" h="40" s="12:13:41" gap="20" ft="16">
+<b id="30">9</b>
+<b id="31">10</b>	
+</row>
+
+
+
+<row>
+<lv type="listview_ex" id="3" x="%32+30" y="240" w="%50-30" h="336" s="11:12:13:14:15:203:204" itemcnt="7" itemh="56">
+<item w="%5+5" align="l">16</item>
+<item w="%11-40" align="l">17</item>
+<item w="%10-30" align="l">18</item>
+<item w="%10-38" align="l">19</item>
+<item w="%10-18" align="l" line="0">20</item>
+<item w="%8-38">21</item>
+<item w="%8-34">22</item>
+</lv>
+</row>
+
+<row type="ctrl_button" x="%17-153" y="%32+150" w="40" h="40" s="12:13:42:411" gap="2">
+<b id="14" bg="./image/PTZcontrol/arrow_left_up_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_left_up_hover.png"></b>
+<b id="15" bg="./image/PTZcontrol/arrow_up_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_up_hover.png"></b>
+<b id="16" bg="./image/PTZcontrol/arrow_right_up_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_right_up_hover.png"></b>
+</row>
+
+<row type="ctrl_button" x="%17-153" y="%32+192" w="40" h="40" s="12:13:42:411" gap="2">
+<b id="17" bg="./image/PTZcontrol/arrow_left_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_left_hover.png"></b>
+<s id="22" type="static" s="11:36" bg="./image/PTZcontrol/ptz_kong.png"></s>
+<b id="23" x="%17-111" s="13:42:411" bg="./image/PTZcontrol/ptz_enter.png" bgw="0" bgc="./image/PTZcontrol/ptz_enter_hover.png"></b>
+<b id="18" bg="./image/PTZcontrol/arrow_right_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_right_hover.png"></b>
+</row>
+
+<row type="ctrl_button" x="%17-153" y="%32+234" w="40" h="40" s="12:13:42:411" gap="2">
+<b id="19" bg="./image/PTZcontrol/arrow_down_left_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_down_left_hover.png"></b>
+<b id="20" bg="./image/PTZcontrol/arrow_down_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_down_hover.png"></b>
+<b id="21" bg="./image/PTZcontrol/arrow_down_right_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_down_right_hover.png"></b>
+</row>
+
+<col type="ctrl_button" x="%17-20" w="40" h="40" s="12:13:42:411" bgw="0" gap="2">
+<b id="58" y="%32+150" bg="./image/PTZcontrol/add_lt.png" bgc="./image/PTZcontrol/add_lt_hover.png"></b>
+<b id="59" bg="./image/PTZcontrol/add_l.png" bgc="./image/PTZcontrol/add_l_hover.png"></b>
+<b id="60" bg="./image/PTZcontrol/add_lb.png" bgc="./image/PTZcontrol/add_lb_hover.png"></b>
+</col>
+
+<col type="static" x="%17+22" w="80" h="40" s="11:12:36" bg="./image/PTZcontrol/ptz_kong.png" gap="2">
+<s id="61" y="%32+150">28</s>
+<s id="62">29</s>
+<s id="63">30</s>
+</col>
+
+<col type="ctrl_button" x="%17+104" w="40" h="40" s="12:13:42:411" bgw="0" gap="2">
+<b id="64" y="%32+150" bg="./image/PTZcontrol/reduce_rt.png" bgc="./image/PTZcontrol/reduce_rt_hover.png"></b>
+<b id="65" bg="./image/PTZcontrol/reduce_r.png" bgc="./image/PTZcontrol/reduce_r_hover.png"></b>
+<b id="66" bg="./image/PTZcontrol/reduce_rb.png" bgc="./image/PTZcontrol/reduce_rb_hover.png"></b>
+</col>
+
+<row x="%17-182" y="%32+342" w="100" h="40" gap="0">
+<s type="static" id="2" s="11:12:31" bcol="10" ft="18">14</s>
+<tb type="ctrl_trackbar" id="32" w="264" s="11:12:13:61:62:63"></tb>
+</row>
+
+
+<row type="ctrl_button" x="%32+30" y="586" w="140" h="40" s="12:13:41" gap="10" ft="16">
+<b id="6">23</b>
+<b id="12" x="%32+30">31</b>
+<b id="69">24</b>
+<b id="70">25</b>
+</row>
+
+</Ptz_setup>

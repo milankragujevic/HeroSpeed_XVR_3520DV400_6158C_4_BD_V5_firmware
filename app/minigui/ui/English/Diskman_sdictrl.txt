@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=HDD
+2=General
+3=HDD Information
+4=No.
+5=State
+6=Total Capacity
+7=Residual Capacity
+8=Device Type
+9=Warning:DVR will reboot automatically after disk formatting !
+10=Refresh
+11=Format
+12=Cancel
+13=Preview

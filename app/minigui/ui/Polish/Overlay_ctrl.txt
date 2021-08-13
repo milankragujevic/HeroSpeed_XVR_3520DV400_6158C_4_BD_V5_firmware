@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Kanał
+2=Nazwa kanału
+3=Czas
+4=Tekst
+5=Format Daty
+6=Pozycja OSD
+7=Lustro
+8=Rok Miesiąc Dzień:Miesiąc Dzień Rok:Dzień Miesiąc Rok
+9=Góra_lewo:Dół_lewo
+10=Wył.:Poziom:Pion:Poziom i Pion
+11=Zastosuj
+12=Kopiuj

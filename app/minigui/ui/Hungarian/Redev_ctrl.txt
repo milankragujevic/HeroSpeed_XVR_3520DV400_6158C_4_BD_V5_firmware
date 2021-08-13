@@ -1,0 +1,19 @@
+[Ctrltxt]
+num=17
+1=Keresés
+2=Auto. Hozzáadás
+3=Kézi hozzáadás
+4=Frissítés
+5=Törölés
+6=Nyissa meg a H264 + / H265 + -t
+7=Kamera neve
+8=Kapcsolat állapota
+9=Csat
+10=Szerkesztés
+11=Töröl
+12=Beállítás
+13=Link
+14=IP Cím
+15=Port
+16=Protocol
+17=Firmware verzió

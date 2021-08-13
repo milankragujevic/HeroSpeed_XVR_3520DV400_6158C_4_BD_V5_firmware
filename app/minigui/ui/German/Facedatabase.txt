@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Bitte wählen Sie die Gesichtsdatenbank
+2=Erfolgt:
+3=Gescheitert:
+4=Batch erfolgreich hinzugefügt!
+5=Batch hinzufügen fehlgeschlagen!
+6=USB-Pfad existiert nicht
+7=USB-Laufwerksverzeichnis ohne Face Map
+8=Hinzufügen von maximal 5000 Gesichtsbildern!
+9=Gesichtsbild hinzufügen
+10=Die Gesichtsdatenbank existiert nicht
+11=Hinzufügen von maximal 16 Gesichtsdatenbanken!
+12=Restkapazität
+13=Gesamt

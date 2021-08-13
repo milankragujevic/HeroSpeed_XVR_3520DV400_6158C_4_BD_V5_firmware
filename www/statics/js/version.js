@@ -1,0 +1,1 @@
+var versionconfig={web_version:"21.1.22.210628",plugin_version:"21.2.12.0",ocx_version:"21.1.19.3",mac_plugin_version:"9.1.16.4",type:"XVR_DE_PLUGIN",time:1624840796,version:"V21.2.12.210628_R22"};

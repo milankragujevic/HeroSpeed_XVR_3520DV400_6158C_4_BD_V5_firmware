@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Ustawienia kamery / kanału
+2=Przywróć domyślne parametry pamięci
+3=Przywróć domyślne parametry systemu
+4=Ustawiawienia konserwacji
+5=Przywrócenie ustawień fabrycznych
+6=Zastosuj

@@ -1,0 +1,5 @@
+[Ctrltxt]
+num=3
+1=Taille restante / MB
+2=Temps restant / Minute
+3=Progrès de la sauvegarde

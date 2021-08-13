@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Buzzer Alarm
+2=E-mail Notification
+3=Screen Display
+4=Time format error!
+5=Add a maximum of 6 schedule a day !

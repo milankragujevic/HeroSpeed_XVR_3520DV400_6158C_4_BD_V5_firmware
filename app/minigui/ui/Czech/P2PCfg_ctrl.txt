@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=E-mail
+2=P2P
+3=Síť
+4=Zobrazení
+5=Vyjímky
+6=Uživatel
+7=IP / Port
+8=DDNS
+9=E-mail
+10=P2P
+11=FTP
+12=UPnP
+13=Nastavení Cloud
+14=Stav
+15=Povolit P2P
+16=Číslo kanálu
+17=Obnovit
+18=Použít
+19=Zrušit
+20=Náhled
+21=Šifrování
+22=NONE: SSL
+23=Časový interval vysílání (minuty)
+24=Zavřít vysílání obrázků : 2: 5: 10
+25=Uživatelské číslo

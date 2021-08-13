@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Riasztási bemenet száma
+2=Riasztási név
+3=Alarm Type
+4=Riasztás állapota
+5=Vezérelt felvevő csatorna
+6=Bezárás

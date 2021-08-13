@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Thêm
+2=Chỉnh sửa
+3=Xóa
+4=Quyền hạn lấy cảnh trên mạn hình khoá
+5=Số.
+6=Tên người dùng
+7=Bảo mật
+8=Cấp độ
+9=Quyền

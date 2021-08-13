@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Bez povolení!
+2=Přehrát.
+3=Záloha videa.
+4=Nastavení HDD.
+5=Seznam záznamů a nastavení kódování kamer
+6=Camera add,camera osd,image,motion detection,videoloss,ptz,privacy mask setup,channelname.
+7=Datum / čas systému, síť, zobrazení, výjimka, nastavení uživatele, konfigurace kanálu.
+8=Protokol, protokol, informace o verzi a systémová aktualizace obnoví výchozí nastavení.
+9=Odhlášení a restart.
+10=Datum / čas systému, síť, zobrazení, výjimka, nastavení uživatele, konfigurace kanálu, místní alarm.

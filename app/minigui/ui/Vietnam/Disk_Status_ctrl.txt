@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Số.
+2=Trạng thái
+3=Tổng dung lượng
+4=Dung lượng dư
+5=Loại thiết bị
+6=Tổng dung lượng
+7=Dung lượng còn lại
+8=Tắt

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Numara
+2=Ad
+3=boyut
+4=tarih
+5=Yenileme
+6=Yükseltme

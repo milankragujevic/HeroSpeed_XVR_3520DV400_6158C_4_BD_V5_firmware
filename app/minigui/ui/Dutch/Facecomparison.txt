@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Instellingen ophalen, even geduld aub…
+2=Zwarte lijst
+3=Positieve lijst
+4=Zwarte lijst en Positieve lijst

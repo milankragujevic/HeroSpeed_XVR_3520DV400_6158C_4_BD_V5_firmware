@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Vyhledáním zařízení, čekejte…
+2=Chcete opravdu opustit průvodce ?
+3=Opravdu chcete změnit IP adresu vzdáleného zařízení ?
+4=zařízení je FishEyE které je nutno konfigurovat samostatně
+5=Zařízení je již přidáno v maximálním počtu.
+6=Přidat fotoaparát, počkejte prosím.
+7=přidal
+8=Odstraňuji kameru, čekejte…

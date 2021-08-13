@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Bilddatei
+2=Videodatei
+3=Backup bearbeiten, bitte warten.
+4=Nicht genügend Speicherplatz
+5=Sicherung wurde erfolgreich ausgeführt
+6=Sicherung wurde nicht erfolgreich ausgeführt

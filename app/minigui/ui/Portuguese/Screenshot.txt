@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Nome:
+2=Tamanho:
+3=Len:
+4=Tempo:
+5=Exportar com sucesso
+6=Exportação falhou
+7=E-mail enviado com sucesso
+8=Falha ao enviar e-mail
+9=Exportando, por favor aguarde ...
+10=Enviando e-mail, por favor aguarde ...
+11=Você tem certeza de sair?
+12=Por favor insira o disco usb.

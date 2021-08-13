@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Czas
+2=Kanał
+3=Typ pliku
+4=Etykiety
+5=Typ zdarzenia
+6=Nr rejestracyjny
+7=Status pliku
+8=Obszar/Kraj
+9=Dzisiaj:Wczoraj:Ostatnie 2 Dni:Ostatnie 3 Dni:Ostatnie 7 Dni:Ostatnie 14 Dni:Niestandardowy
+10=Video:Picture
+11=Wszystko:Odblokowane:Zablokowane
+12=Szybki eksport
+13=Szukaj

@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=Kayıt yedekleme
+2=CH
+3=Tür
+4=Başlangıç zamanı
+5=Bitiş zamanı
+6=boyut
+7=kimlik
+8=Sistem Günlüğü Yedekleme
+9=Arta kalan:
+10=Gerekli olan:
+11=Dosya formatı
+12=avi
+13=Yenileme
+14=Yedekleme
+15=Açık

@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Detekcja ruchu
+2=Wzmacnianie Wideo
+3=Utrata sygnału wideo
+4=Wejście alarmowe
+5=Wyjście alarmowe
+6=Awaria
+7=Kanał
+8=Włącz
+9=Czas alarmu
+10=Akcja połączona
+11=Normalne Połączenie
+12=Domyślne
+13=Kopiuj
+14=Zastosuj
+15=Wyjście alarmowe
+16=Brzęczyk

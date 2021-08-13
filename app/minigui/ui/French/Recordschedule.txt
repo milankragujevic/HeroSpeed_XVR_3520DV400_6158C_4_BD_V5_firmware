@@ -1,0 +1,13 @@
+[wintip]
+num=11
+1=Aucune autorisation!
+2=Restaurer les paramètres par défaut?
+3=Erreur de format d'heure!
+4=Dimanche
+5=Lundi
+6=Mardi
+7=Mercredi
+8=Jeudi
+9=Vendredi
+10=Samedi
+11=Les périodes ne peuvent ni se croiser ni être incluses!

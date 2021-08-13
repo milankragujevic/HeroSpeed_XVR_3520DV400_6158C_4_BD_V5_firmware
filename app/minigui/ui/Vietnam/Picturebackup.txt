@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Không đủ dung lượng đĩa.
+2=Lưu trữ tệp, vui lòng đợi.
+3=Sao lưu đã hoàn tất
+4=Không thể di chuyển dữ liệu vào ổ cứng di động.
+5=Vui lòng chọn một tệp.
+6=Thời gian sao lưu nhanh không được vượt quá 30 phút.
+7=Lần này không có tập tin.
+8=Lỗi định dạng thời gian!
+9=Đang trong quá trình hỗ trợ, vui lòng đợi ...
+10=Có một hoặc nhiều kênh không có sự cho phép!
+11=Kênh này không có sự cho phép!
+12=Vui lòng chọn một kênh
+13=Vui lòng lắp đĩa usb!

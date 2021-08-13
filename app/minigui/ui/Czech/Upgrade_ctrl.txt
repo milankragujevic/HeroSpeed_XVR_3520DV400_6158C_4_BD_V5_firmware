@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Č.
+2=Jméno
+3=Velikost
+4=datum
+5=Obnovit
+6=Aktualizace

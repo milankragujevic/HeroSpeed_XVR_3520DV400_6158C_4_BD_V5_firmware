@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Căutați, țineți-vă!
+2=Niciun pachet de upgrade
+3=Poate fi selectat un singur pachet de upgrade!
+4=Va rugam selectati fisierul!
+5=Actualizare?
+6=Upgradare, nu inchideti!
+7=Upgradare esuata!
+8=Upgradare reusita!
+9=Canalul ONVIF nu acceptă actualizarea!
+10=Canal
+11=actualizare a reușit!
+12=actualizare esuata!
+13=Canalul RTSP nu acceptă actualizarea!
+14=Introduceți discul USB.

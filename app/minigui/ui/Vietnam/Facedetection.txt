@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Tương tự
+2=tuổi
+3=Sex
+4=kính
+5=mũ/nón
+6=Loại danh sách:
+7=Time:
+8=Danh sách trắng
+9=Danh sách đen
+10=không ai
+11=Đàn ông
+12=Đàn bà
+13=Show only faces
+14=Show only human figures

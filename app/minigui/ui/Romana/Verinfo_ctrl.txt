@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Tip Dispozitiv
+2=Model numar
+3=Dispozitiv versiune
+4=Versiunea sistemului
+5=Data
+6=Numărul total de canale
+7=Numărul total de canale POE
+8=Închide
+9=P2P
+10=GUI Versiune
+11=WEB Versiune

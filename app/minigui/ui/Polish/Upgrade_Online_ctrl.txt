@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Status
+2=Automatyczna aktualizacja
+3=Czas aktualizacji
+4=Sprawdź
+5=Aktualizuj
+6=Zastosuj

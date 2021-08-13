@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Desteklemek
+2=Desteklememek
+3=bağlı
+4=Bağlantısız

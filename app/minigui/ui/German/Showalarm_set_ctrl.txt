@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Einstellungen für Ereignishinweise
+2=Alle
+3=Anwenden
+4=Abbrechen

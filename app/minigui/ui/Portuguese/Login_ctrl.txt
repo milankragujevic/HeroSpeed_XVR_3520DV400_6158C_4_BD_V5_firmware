@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Login do usuário
+2=admin
+3=Entrar
+4=Fechar
+5=Esqueceu a senha
+6=Login automático

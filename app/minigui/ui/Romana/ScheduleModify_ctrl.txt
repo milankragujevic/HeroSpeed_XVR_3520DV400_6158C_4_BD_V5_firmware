@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Program de înregistrare
+2=Setarea săptămânii curente:
+3=Orar 1
+4=Orar 2
+5=Orar 3
+6=Orar 4
+7=Orar 5
+8=Orar 6
+9=Utilizați pentru:
+10=Toate
+11=Soare.
+12=Mon.
+13=Tue.
+14=Miercuri
+15=Thu.
+16=Vineri
+17=Sat.
+18=Salvare
+19=Anulare
+20=Planul 7
+21=Planul 8
+22=Dum.:Lun.:Mar.:Mie.:Joi.:Vin.:Sâm.
+23=Salvare

@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Vă rugăm, desenați un model de deblocare.
+2=Eliberați mouse-ul după finalizare.
+3=Conectați cel puțin 4 puncte, vă rugăm, încercați din nou.
+4=Vă rugăm sa desenați din nou modelul pentru a confirma.
+5=Modelul desenat de două ori este diferit, vă rugăm să confirmați din nou.
+6=Vă rugăm, rețineți modelul introdus de dvs.
+7=Modelul de deblocare este greșit, există
+8=Logare
+9=șanse.
+10=Parola sau modelul de deblocare a fost introdus incorect de 5 ori. Vă rugăm să încercați din nou peste 30 de minute.

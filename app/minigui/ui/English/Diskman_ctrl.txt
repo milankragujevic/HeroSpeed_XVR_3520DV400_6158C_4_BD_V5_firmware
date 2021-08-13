@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Refresh
+2=Format
+3=Repair
+4=No.
+5=State
+6=Total Capacity
+7=Residual Capacity
+8=Device Type
+9=Warning:NVR Will Reboot Automatically After Disk Formatting !

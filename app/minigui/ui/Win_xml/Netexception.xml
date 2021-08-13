@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Exception x="%15" y="%10" w="%100-%15" h="%100-%10" title="Network Exception">
+
+<row type="ctrl_button" x="%2" y="30" w="%10+20" h="40" s="12:13:41:48" gap="0">
+<b id="151">1</b>
+<b id="152">2</b>
+<b id="153">3</b>
+<b id="154">4</b>
+<b id="155">5</b>
+<b id="1" s="12:48:49:41:40">6</b>
+<b id="157">14</b>
+</row>
+<row type="static" x="%2" y="69" w="%81+18" h="2" s="11:12:31" bcol="1" gap="10">
+<s id="2"></s>
+</row>
+<col type="static" x="%2" y="100" w="%14" h="40" s="11:12:31" bcol="10" ft="18" gap="10">
+<s id="3">7</s>
+<s id="4">8</s>
+</col>
+
+<col x="%17+10" y="100" w="%19" h="40" gap="10">
+<cb type="CtrlCombobox" id="21" s="11:12:13:14:21:22:23" ad="176">
+<selcn>9</selcn>
+</cb>
+<b type="ctrl_button" id="22" s="12:13:44"></b>
+</col>
+<row type="listview_ex" x="%2" y="270" w="250" h="336" s="11:12:13:14:203:204:205" itemcnt="1" itemh="56" gap="0">
+<list id="23">
+<item w="250" cbox="1" all="1" align="l">10</item>
+</list>
+<list id="26" s="11:13:14:203:204:205">
+<item w="250" cbox="1" all="1" align="l">13</item>
+</list>
+</row>
+
+
+<row type="ctrl_button" x="%82-290" y="%75+54" w="140" h="40" s="12:13:41" gap="10" ft="16">
+<b id="24">11</b>
+<b id="25">12</b>
+</row>
+
+
+</Exception>

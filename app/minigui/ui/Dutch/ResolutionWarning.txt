@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Weet u zeker dat u de resolutie wilt wijzigen?
+2=seconden en daarna wordt het automatisch hersteld.

@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Kullanıcı girişi
+2=yönetim
+3=Oturum aç
+4=Kapat
+5=Şifreyi unut
+6=Otomatik giriş

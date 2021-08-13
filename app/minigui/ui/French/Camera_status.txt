@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Support
+2=Pas de Support
+3=Connecté
+4=Déconnecté

@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Konfiguration
+2=Allgemein
+3=Netzwerk
+4=Bildschirm
+5=Störungsmeldung
+6=Benutzer
+7=Kanal Konfiguration
+8=Lokaler Alarm
+9=IP / Anschluss
+10=DDNS
+11=Email
+12=P2P
+13=FTP
+14=UPnP
+15=PPPoE
+16=Cloud Speicher
+17=Telnet
+18=Aktivieren
+19=Anwenden
+20=Abbrechen
+21=Vorschau
+22=WLAN
+23=IP Filter

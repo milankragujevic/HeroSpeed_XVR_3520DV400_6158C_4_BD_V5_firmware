@@ -1,0 +1,25 @@
+[Ctrltxt]
+num=23
+1=Rögzítés ütemezés
+2=Aktuális beállítás heti:
+3=Ütemezés 1
+4=Ütemezés 2
+5=Ütemezés 3
+6=Ütemezés 4
+7=Ütemezés 5
+8=Ütemezés 6
+9=Használva:
+10=Mind
+11=Vas.
+12=Hét.
+13=Kedd
+14=Szer.
+15=Csüt.
+16=Pén.
+17=Szo.
+18=Mentés
+19=Megszünteti
+20=7. ütemterv
+21=8. ütemterv
+22=Vasárnap: Hétfő: Kedd: Szerda: Csütörtök: Péntek: Szombat.
+23=Alkalmaz

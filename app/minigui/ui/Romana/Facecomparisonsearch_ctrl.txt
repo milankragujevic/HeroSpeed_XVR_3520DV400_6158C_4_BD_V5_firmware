@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Căutare După Eveniment
+2=Căutare După Imagine
+3=Canal
+4=Timp
+5=Tip
+6=Astăzi: Ieri: Ultimele 2 zile: Ultimele 3 zile: Ultimele 7 zile: Ultimele 14 zile: Personalizare
+7=Lista neagră: Lista albă: Lista neagră și Lista albă
+8=Cautare

@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Nici un disc
+2=Eroare de disc
+3=Rețea ruptă
+4=Conflictul Ip
+5=Alarma locală

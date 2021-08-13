@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Visszaállítja az alapértelmezett paramétereket?
+2=Rossz idő formátum!
+3=Maximum support for
+4=Csatorna
+5=channels

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Selectchl x="450" y="230" w="380" h="260" title="Record Channel Selection(Max 4CH)">
+
+<sall type="ctrl_button" id="4017" x="40" y="200" w="80" h="28" s="12:13:41">Select All</sall>
+<sall type="ctrl_button" id="4018" x="140" y="200" w="80" h="28" s="12:13:41">Cancel Select All:Cancel Select All:Cancel Select All</sall>
+<sall type="ctrl_button" id="4019" x="100" y="200" w="80" h="28" s="12:13:41">Return:Anuluj:Potvrdit</sall>
+<sall type="ctrl_button" id="4020" x="190" y="200" w="80" h="28" s="12:13:41">Cancel:Anuluj:Odchod</sall>
+
+<chl1 type="ctrl_button" id="4001" x="30" y="50" w="22" h="22" s="12:13:44:46">1</chl1>
+<chl2 type="ctrl_button" id="4002" x="70" y="50" w="22" h="22" s="12:13:44:46">2</chl2>
+<chl3 type="ctrl_button" id="4003" x="110" y="50" w="22" h="22" s="12:13:44:46">3</chl3>
+<chl4 type="ctrl_button" id="4004" x="150" y="50" w="22" h="22" s="12:13:44:46">4</chl4>
+<chl5 type="ctrl_button" id="4005" x="190" y="50" w="22" h="22" s="12:13:44:46">5</chl5>
+<chl6 type="ctrl_button" id="4006" x="230" y="50" w="22" h="22" s="12:13:44:46">6</chl6>
+<chl7 type="ctrl_button" id="4007" x="270" y="50" w="22" h="22" s="12:13:44:46">7</chl7>
+<chl8 type="ctrl_button" id="4008" x="310" y="50" w="22" h="22" s="12:13:44:46">8</chl8>
+<chl9 type="ctrl_button" id="4009" x="30" y="90" w="22" h="22" s="12:13:44:46">9</chl9>
+<chl10 type="ctrl_button" id="4010" x="70" y="90" w="22" h="22" s="12:13:44:46">10</chl10>
+<chl11 type="ctrl_button" id="4011" x="110" y="90" w="22" h="22" s="12:13:44:46">11</chl11>
+<chl12 type="ctrl_button" id="4012" x="150" y="90" w="22" h="22" s="12:13:44:46">12</chl12>
+<chl13 type="ctrl_button" id="4013" x="190" y="90" w="22" h="22" s="12:13:44:46">13</chl13>
+<chl14 type="ctrl_button" id="4014" x="230" y="90" w="22" h="22" s="12:13:44:46">14</chl14>
+<chl15 type="ctrl_button" id="4015" x="270" y="90" w="22" h="22" s="12:13:44:46">15</chl15>
+<chl16 type="ctrl_button" id="4016" x="310" y="90" w="22" h="22" s="12:13:44:46">16</chl16>
+</Selectchl>

@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Adatbázis-név
+2=Szám
+3=\
+4=Törölés
+5=Új
+6=Arcadatbázis részletek
+7=Név
+8=Szám
+9=Törölés
+10=Arc-sablon
+11=Hozzáadás
+12=Batch Import
+13=Funkció száma

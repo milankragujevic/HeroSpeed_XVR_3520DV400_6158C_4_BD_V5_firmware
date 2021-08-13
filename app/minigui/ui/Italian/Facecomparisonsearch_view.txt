@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Selezionare un file.
+2=Spazio insufficiente
+3=Ricerca, attendere…
+4=Impossibile scrivere dati sul disco rimovibile!
+5=Backup terminato con successo!
+6=Inserire un disco USB
+7=Troppi file, ferma ricerca!
+8=Nessun video trovato!
+9=Si prega di selezionare un tipo di backup!
+10=Somiglianza
+11=Nel backup, si prega di annullare il backup o continuare dopo il completamento del backup.
+12=La cima
+13=è stato aggiunto alla coda di backup.
+14=Aggiunta alla coda di backup non riuscita.
+15=Impossibile estrarre le caratteristiche del viso.
+16=File umani
+17=Ricerca di confronto viso

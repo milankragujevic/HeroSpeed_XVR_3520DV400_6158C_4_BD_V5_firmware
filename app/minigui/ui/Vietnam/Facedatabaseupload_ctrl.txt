@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=tải lên từ thư viện khuôn mặt
+2=danh mục thư viện khuôn mặt
+3=Tên
+4=Thời gian
+5=hình  ảnh khuôn mặt
+6=Người dùng
+7=xem xét
+8=Còn lại/ tổng dung lượng
+9=xác nhận/ ok
+10=Hủy
+11=1

@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Backup Log
+2=ID
+3=Registro
+4=cancelar
+5=Confirmado

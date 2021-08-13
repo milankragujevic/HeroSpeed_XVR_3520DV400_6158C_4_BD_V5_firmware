@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Obrigatório
+2=Código de autorização
+3=confirme
+4=cancelar

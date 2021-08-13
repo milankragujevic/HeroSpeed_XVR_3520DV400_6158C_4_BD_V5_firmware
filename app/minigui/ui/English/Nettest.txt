@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Average Delay:
+2=ms
+3=Packet Loss Rate:
+4=Destination address unreachable!
+5=Testing net, please wait...
+6=Being caught the package...
+7=Network capture packet backup success!
+8=Please insert the usb disk.
+9=IP address is wrong!
+10=Please insert the network cable.

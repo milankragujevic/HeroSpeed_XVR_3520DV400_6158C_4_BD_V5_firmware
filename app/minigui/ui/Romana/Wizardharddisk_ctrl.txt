@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Dată și oră;1
+2=Rețea;2
+3=Hard-disk;3
+4=Cameră;4
+5=Platformă;5
+6=Schimbare parolă;5
+7=Hard-disc
+8=Nr.
+9=Stare
+10=Capacitate totală
+11=Capacitatea reziduală
+12=Tip de dispozitiv
+13=Formatare
+14=Anterior
+15=Următor
+16=Ieșire

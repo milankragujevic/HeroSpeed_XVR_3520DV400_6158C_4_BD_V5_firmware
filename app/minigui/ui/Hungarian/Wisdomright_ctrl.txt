@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Arcadatbázis kezelés
+2=Létszám
+3=Hőtérkép
+4=Arc összehasonlítás keresés

@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Auf Werkseinstellungen zurücksetzen?
+2=Bildschirmanzeige
+3=E-Mail senden
+4=Tonalarm

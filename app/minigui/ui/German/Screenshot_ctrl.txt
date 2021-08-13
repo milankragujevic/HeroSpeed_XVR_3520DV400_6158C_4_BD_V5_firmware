@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Handbuch Screenshot
+2=/
+3=/
+4=/
+5=/
+6=Abbrechen
+7=Auflösung
+8=Kanal

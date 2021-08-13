@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Tất cả các kênh
+2=Lỗi định dạng thời gian!
+3=Có một hoặc nhiều kênh không có sự cho phép!
+4=Không cho phép!
+5=Vui lòng chọn một kênh

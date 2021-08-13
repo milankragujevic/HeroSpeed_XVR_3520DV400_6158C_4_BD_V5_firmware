@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Nowy Tag
+2=Nazwa
+3=Ok
+4=Anuluj
+5=Edytuj Tag

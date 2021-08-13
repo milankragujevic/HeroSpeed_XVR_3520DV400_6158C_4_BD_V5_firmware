@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Restaurar parametros por defecto?
+2=Sin permiso!
+3=esta seguro que quiere salir del asistente de buteo
+4=La nueva configuración se activará después de reiniciar. ¿Reiniciar ahora?
+5=Asistente de configuración completado!
+6=Error de formato de tiempo!
+7=Agregar un máximo de 6 programas por día!

@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Configurações de Dica de Evento
+2=Todos
+3=Aplique
+4=cancelar

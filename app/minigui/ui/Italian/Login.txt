@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Il nome utente inserito non esiste!
+2=La password non è corretta, ci sono
+3=Attendere, il dispositivo è in fase di inizializzazione!
+4=Sei sicuro di voler uscire dalla configurazione assistita?
+5=possibilità.
+6=La password o il metodo di sblocco sono stati inseriti in modo errato 5 volte. Riprova dopo 30 minuti.
+7=La password è stata inserita in modo errato 5 volte. Riprova dopo 30 minuti.

@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Obnova parametrů, čekejte…
+2=Výchozí nastavení
+3=Nová nastavení budou aktivována po restartu. Restartujte nyní?
+4=Obnovit výchozí nastavení ?

@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=No.
+2=State
+3=Total Capacity
+4=Residual Capacity
+5=Device Type
+6=Total Capacity:
+7=Remain Capacity:
+8=Close

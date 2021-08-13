@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Visszaállítja az alapértelmezett paramétereket?
+2=Képernyő
+3=E-mail küldés
+4=Hangjelző

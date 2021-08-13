@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Nastavení cesty
+2=Předvolba č.
+3=Čas na místě
+4=Rychlost
+5=Potvrdit
+6=Zrušit

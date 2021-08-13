@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Engedélyez
+2=Dropbox
+3=Google
+4=Feltölt. mappa
+5=Felh.név
+6=Kapacitás
+7=Foglalt
+8=Teszt
+9=Alapértelmezett
+10=Alkalmaz
+11=Google
+12=IPEYE
+13=Kapcsolódva

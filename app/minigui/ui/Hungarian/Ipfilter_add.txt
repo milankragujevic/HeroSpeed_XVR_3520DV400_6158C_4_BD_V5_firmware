@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=A listák száma elérte a felső határt
+2=Kérjük, vigye be az IP címet
+3=Kérjük, vigye be a MAC címet
+4=Helytelen MAC cím formátum
+5=A cím már létezik!

@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Tìm kiếm tập tin
+2=Kênh
+3=Loại sự kiện
+4=Thời gian bắt đầu/thời gian kết thúc
+5=Thời gian kết thúc
+6=Loại tệp
+7=Dung lượng yêu cầu:
+8=Có / Tổng công suất:
+9=Xuất ra
+10=Hủy
+11=Làm mới
+12=xem xét
+13=Đổi
+14=Tất cả
+15=Nhóm
+16=Kênh
+17=Thời gian
+18=FTP Xuất ra

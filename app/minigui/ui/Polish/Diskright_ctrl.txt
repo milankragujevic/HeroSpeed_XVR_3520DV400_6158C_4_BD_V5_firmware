@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Grafik
+2=Zapis
+3=Zrzut
+4=Urządzenie Magazynujące
+5=Tryb magazynowania
+6=Auto zapis kopii
+7=Zaawansowane

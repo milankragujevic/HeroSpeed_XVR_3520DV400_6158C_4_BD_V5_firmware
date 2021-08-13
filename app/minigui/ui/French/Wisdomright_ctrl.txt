@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Base de Données de Visages
+2=Nombre de personnes
+3=Carte de chaleur
+4=Recherche de Comparaison de Visages

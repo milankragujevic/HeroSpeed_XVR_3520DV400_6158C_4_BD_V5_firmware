@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Stel het ontgrendelingspatroon in.
+2=Administrator
+3=Vergeet het ontgrendelingspatroon
+4=Verander Gebruiker

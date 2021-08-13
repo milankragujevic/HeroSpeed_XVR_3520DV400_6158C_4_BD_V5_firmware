@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Atenção atualizando, não desligue!
+2=A atualização falhou!
+3=A atualização foi bem-sucedida!
+4=Selecione o arquivo de atualização!
+5=Atualizar?
+6=Nenhum pacote de atualização
+7=Encontre uma nova versão, baixe o arquivo online?
+8=A rede não está estável, o download falhou ...
+9=Carregando ...
+10=Erro de exceção
+11=Download seja bem sucedido, atualize online?
+12=O arquivo não existe!

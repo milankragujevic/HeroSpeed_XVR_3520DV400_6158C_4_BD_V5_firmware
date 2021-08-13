@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Date and Time;1
+2=Network;2
+3=Hard Disk;3
+4=Camera;4
+5=Plateform;5
+6=Change Password;5
+7=Date and Time Setup
+8=Time Zone
+9=Date Format
+10=Date/Time
+11=Year Month Day:Month Day Year:Day Month Year
+12=Next
+13=Exit
+14=Enable Wizard

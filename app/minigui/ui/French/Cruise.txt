@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Patrouille
+2=Patrouille nécessite au moins 2 séléctions !
+3=Restaurer les paramètres par défaut?
+4=Pas de permission pour cette caméra!
+5=Croisement, modification interdite…

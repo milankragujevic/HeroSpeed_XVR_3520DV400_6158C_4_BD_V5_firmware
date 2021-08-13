@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Podobnost
+2=Věk
+3=Pohlaví
+4=Brýle
+5=Čepice
+6=Ano
+7=Ne
+8=Dlouhé
+9=Krátké
+10=Muž
+11=Žena
+12=Jméno
+13=Režim:Černá listina
+14=Režim:Bílá listina
+15=Režim:Listina černá a bílá
+16=Vousy
+17=Kanál

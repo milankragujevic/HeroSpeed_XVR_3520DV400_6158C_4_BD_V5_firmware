@@ -1,0 +1,23 @@
+[wintip]
+num=21
+1=Modificar el usuario con éxito!
+2=Privilegios de administrador no pueden ser borrados
+3=El usuario ya existe!
+4=Por favor ingrese nombre de usuario!
+5=Por favor ingrese la contraseña!
+6=Por favor ingrese una nueva contraseña!
+7=contraseña incorrecta
+8=Las contraseñas no coinciden
+9=Imposible cambiar permisos de usuario!
+10=Error desconocido
+11=¡El nombre de usuario no se puede llamar raíz o administrador!
+12=El nombre de usuario no puede incluir la tecla de espacio en blanco
+13=Usted no pertenece a este grupo, no tiene permisos para esta operación
+14=Error de nivel de usuario
+15=Aviso: La contraseña debe tener por lo menos 8 símbolos, los cuales incluyen como mínimo un número y una letra.
+16=Si el nombre de usuario o la longitud de la contraseña son superiores a 10, no pueden ser todos los números
+17=Complemente, por favor.
+18=¡Exportación exitosa!
+19=Por favor inserte el disco usb.
+20=¡Exportación fallida!
+21=esta seguro que quiere salir del asistente de buteo

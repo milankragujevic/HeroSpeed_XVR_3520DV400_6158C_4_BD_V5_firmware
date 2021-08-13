@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=XVR Bild
+2=Helligkeit
+3=Kontrast
+4=Sättigung
+5=Farbton
+6=Standard
+7=Anwenden
+8=Abbrechen

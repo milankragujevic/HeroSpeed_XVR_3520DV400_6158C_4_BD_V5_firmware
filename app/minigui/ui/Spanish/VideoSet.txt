@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=The Bright es demasiado grande, Bright Max es
+2=El valor del contraste es muy grande, el máximo es
+3=El valor de saturación es muy grande, el máximo es
+4=El valor de nitidez es muy grande, el máximo es
+5=Obtención de parámetros, Espere ...
+6=¡Este canal no tiene permiso!
+7=Error al obtener los parámetros
+8=RTSP no soporta esta característica

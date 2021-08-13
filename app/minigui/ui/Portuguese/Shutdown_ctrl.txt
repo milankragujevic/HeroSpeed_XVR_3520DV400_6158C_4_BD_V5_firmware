@@ -1,0 +1,5 @@
+[Ctrltxt]
+num=3
+1=Sair
+2=Reinicie
+3=Desligar

@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Menú
+2=1-Vent
+3=Ch1
+4=Ch2
+5=Ch3
+6=Ch4
+7=4-Vent
+8=Monitoreo
+9=Condifuración de grabación
+10=Agregar cámara
+11=Reproducir
+12=PTZ
+13=Imagen de DVR
+14=Seleccionar modo
+15=Captura de pantalla manual
+16=Comparación de rostros

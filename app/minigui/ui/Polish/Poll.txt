@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Przywrócić parametry domyślne?
+2=Czas odpytywania jest pomiędzy 5 i 255.

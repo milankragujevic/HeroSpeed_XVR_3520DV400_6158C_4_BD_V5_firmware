@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=Bewegings detectie
+2=Video verlies
+3=Alarm Input Aansteken
+4=\
+5=\
+6=Gezicht (Gezicht Vangen)
+7=Inbraak
+8=crossover
+9=Scène veranderen
+10=Goederen Nalatenschap
+11=Goederen Nemen
+12=Gezicht Vergelijken
+13=Wandering
+14=Personeelsbijeenkomst
+15=Video verlies van de hoofdstroom
+16=Video verlies van de deelstroom
+17=Alarm uit
+18=Rook
+19=Infrarood
+20=Humanoïde
+21=Geen schijf
+22=Schijffout
+23=Net Losgekoppeld
+24=Ip Conflict
+25=MAC Conflict

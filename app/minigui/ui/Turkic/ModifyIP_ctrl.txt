@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=IP değişikliği
+2=IP adresi
+3=Ağ Maskesi
+4=geçit
+5=Kullanıcı adı
+6=Parola
+7=Onaylamak
+8=iptal
+9=DNS
+10=HTTP Bağlantı Noktası
+11=RTSP Limanı

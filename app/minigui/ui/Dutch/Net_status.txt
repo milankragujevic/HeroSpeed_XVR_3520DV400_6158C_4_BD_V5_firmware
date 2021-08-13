@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Ip adres
+2=Netwerk masker
+3=poort
+4=Primaire DNS
+5=Secondaire DNS
+6=Apparaat MAC
+7=Activeer DHCP
+8=PPPoE Adres
+9=PPPoE Subnet Masker
+10=PPPoE Standaard Gateway
+11=\
+12=\
+13=Activeer
+14=onbruikbaar maken

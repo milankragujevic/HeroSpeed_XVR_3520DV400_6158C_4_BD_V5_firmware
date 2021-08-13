@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Bewerk
+2=Alarmingang
+3=Naam van het alarm
+4=Activeer
+5=Type
+6=N.O:N.C
+7=Bewapen Plan
+8=Verbinding Actie
+9=Normale Koppeling
+10=kanaal opname
+11=Alarm Uitvoering Aansteken
+12=Kopieer
+13=Toepassen
+14=Alles
+15=Zon
+16=Maa
+17=Din
+18=Woe
+19=Don
+20=Vrij
+21=Zat
+22=Normaal
+23=Bewerk
+24=Monitoring op volledig scherm

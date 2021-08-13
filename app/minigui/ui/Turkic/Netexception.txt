@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Varsayılan değişkenleri geri yüklesin mi?
+2=Ekran görüntüsü
+3=E-mail gönder
+4=Alarm sesli uyarıcı

@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Imaginea selectată nu poate fi mai mare de 1M
+2=Eroare de format de timp!
+3=Există unul sau mai multe canale fără permisiune!
+4=Fara permisiune!
+5=Toate canalele
+6=Vă rugăm să încărcați o imagine.
+7=Selectați un canal

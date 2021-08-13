@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Khôi phục các tham số mặc định?
+2=Số cổng phải từ 1 đến 65535!
+3=Kiểm tra FTP, xin vui lòng chờ...
+4=Không thể gửi FTP được!
+5=Kiểm tra thành công FTP.
+6=Lỗi định dạng thời gian!
+7=Tên tệp không thể chứa các ký hiệu sau: \ /: *? "<> |
+8=Tên người dùng hoặc Mật khẩu không thể chứa các ký hiệu sau :! % & #
+9=Lỗi định dạng máy chủ FTP!

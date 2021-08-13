@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=/
+2=/
+3=Lỗi định dạng thời gian!
+4=Tải mạng quá lớn, hãy dần dần xóa kênh
+5=Tải trọng mạng trở lại bình thường
+6=Không cho phép!
+7=Nâng cấp, không tắt!
+8=Đang xử lý định dạng, vui lòng đợi ...
+9=Tuần tra …
+10=Không có kênh nào hỗ trợ tính năng này!
+11=Phát hiện khuôn mặt
+12=Chế độ
+13=Phát lại 5m
+14=Âm lượng
+15=Phóng to
+16=Hình ảnh
+17=Luồng thông tin
+18=Tắt
+19=Mật khẩu hiện thời là quá đơn giản, hãy thay đổi mật khẩu!
+20=Đã tìm thấy thiết bị lưu trữ mới, định dạng ngay?
+21=Trong giai đoạn phát triển!
+22=Manual screenshot failed!
+23=Ổ đĩa bị cấm
+24=Mật khẩu hiện thời là quá đơn giản, hãy thay đổi mật khẩu!
+25=Chụp

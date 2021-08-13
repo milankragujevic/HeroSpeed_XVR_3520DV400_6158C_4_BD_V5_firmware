@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Similaridade
+2=Idade
+3=Sexo
+4=Óculos
+5=Chapéu
+6=SIM
+7=NÃO
+8=Comprimento
+9=Curto
+10=Masculino
+11=Fêmea
+12=Nome
+13=Modo: Lista Negra
+14=Modo: Lista Branca
+15=Modo: Lista Negra e Lista Branca
+16=Barba
+17=Canal

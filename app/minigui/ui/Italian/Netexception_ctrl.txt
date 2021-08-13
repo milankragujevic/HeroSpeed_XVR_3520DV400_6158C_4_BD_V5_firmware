@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Ril. Movimento
+2=Sintonizzazione video
+3=Perdita di video
+4=Ingresso allarme
+5=Uscita allarme
+6=Eccezione
+7=Tipo di Evento
+8=Abilita
+9=Nessun disco: Errore disco: Rete interrotta: Conflitto IP
+10=Collegamento normale
+11=Predefinito
+12=Applica
+13=Uscita allarme
+14=Cicalino

@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Gezicht vastleggen
+2=Vergelijk Resultaat
+3=Mode: Blacklist
+4=Mode: Whitelist
+5=Modus: zwart-wit lijst

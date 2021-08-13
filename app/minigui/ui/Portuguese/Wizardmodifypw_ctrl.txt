@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=23
+1=Data e Hora; 1
+2=Rede; 2
+3=Disco Rígido; 3
+4=Câmera; 4
+5=Plataforma; 5
+6=Alterar Senha; 5
+7=Mudar Senha
+8=Modificar Senha de Administrador
+9=Senha Antiga
+10=Nova senha
+11=confirme
+12=Redefinir problemas de segurança
+13=Problema de segurança1
+14=Resposta 1
+15=Problema de segurança2
+16=Resposta2
+17=Problema de segurança3
+18=Resposta3
+
+19=Por favor, selecione o problema: Qual é o seu número de trabalho ?: Em que dia é o aniversário do seu pai ?: Qual é a sua música favorita em inglês ?: Em que dia é o aniversário da sua mãe?
+20=Por favor, selecione o problema: Qual é o seu número de escola?: Qual é o seu número da sorte ?: O nome da sua estrela favorita é (Inglês): O dia do seu aniversário de casamento é?
+21=Por favor,Selecione o problema: Qual é a sua caixa de correio mais popular ?: Qual é o código postal da sua região ?: Qual é o nome do seu animal de estimação ?: Qual é o seu número de telefone?
+22=Anterior
+23=Terminar

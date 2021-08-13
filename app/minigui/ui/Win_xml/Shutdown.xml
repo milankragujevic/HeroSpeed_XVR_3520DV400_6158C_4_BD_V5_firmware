@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Shutdown x="448" y="256" w="450" h="300" title="ShutDown">
+<row type="static">
+    
+    <s id="200" x="0" y="4" w="2" h="292" s="11:12:31" bcol="3"></s>
+    <s id="201" x="4" y="0" w="442" h="2" s="11:12:31" bcol="3"></s>
+    <s id="202" x="448" y="4" w="2" h="292" s="11:12:31" bcol="3"></s>
+    <s id="203" x="4" y="298" w="442" h="2" s="11:12:31" bcol="3"></s>
+    <s id="204" x="30" y="0" w="200" h="70" s="11:12:31" ft="18" bcol="10">1</s>
+</row>
+
+<row x="400" y="15" w="34" h="34" s="12:13:41:42" ex="81" gap="0">
+    <b type="ctrl_button" id="36" bg="./image/menu/close.png" bgc="./image/menu/close.png" bgw=""></b>
+</row>
+<row x="38" y="95" w="106" h="106" s="12:13:41:42" ex="81"  gap="26">
+    <b type="ctrl_button" id="2" bg="./image/shutdown/logout.png"  bgc="./image/shutdown/logout_hover.png" ft="16"></b>
+    <b type="ctrl_button" id="3" bg="./image/shutdown/reboot.png"  bgc="./image/shutdown/reboot_hover.png" ft="16"></b>
+    <b type="ctrl_button" id="4" bg="./image/shutdown/shutdown.png" bgc="./image/shutdown/shutdown_hover.png" ft="16"></b>
+</row>
+
+<row x="38" y="226" w="106" h="40" s="11:12:13:33"   gap="26" bcol="10">
+    <b type="static" id="5" ft="18">1</b>
+    <b type="static" id="6"  ft="18">2</b>
+    <b type="static" id="7" ft="18">3</b>
+</row>
+
+</Shutdown>

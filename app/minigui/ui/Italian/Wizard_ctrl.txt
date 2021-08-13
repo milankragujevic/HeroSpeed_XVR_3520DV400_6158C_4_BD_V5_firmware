@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Lingua
+2=Lingua del sistema
+3=Applica
+4=Uscita

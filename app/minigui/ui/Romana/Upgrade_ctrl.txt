@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Nr.
+2=Nume
+3=Marime
+4=Data
+5=Reimprospatare
+6=Actualizare

@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Hoofdmenu
+2=Terugspelen
+3=Exporteren
+4=HDD
+5=Opnemen
+6=Camera
+7=Configuratie
+8=Onderhoud
+9=Afsluiten

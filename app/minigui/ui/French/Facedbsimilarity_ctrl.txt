@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Similitude
+2=OK
+3=Annuler
+4=Liste Noire:Liste Blanche
+5=Mode

@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Obnovit výchozí nastavení ?
+2=Rozsah času nahrávky je 30-255.
+3=Tento kanál nemá žádné oprávnění!
+4=Chyba formátu času!
+5=Zvuková výstraha
+6=Odeslat e-mail
+7=Kanál záznamu
+8=Monitorování na celou obrazovku
+9=Nejvýše je možno použít 6 kalendářů pro jeden den !

@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Keine Erlaubnis!
+2=Erfassung fehlgeschlagen
+3=Erfassen
+4=Audio
+5=Zoom
+6=Tag hinzufügen
+7=Panorama
+8=Schließen
+9=Erfolgreich erfasst, bitte in der Dateiverwaltung überprüfen.

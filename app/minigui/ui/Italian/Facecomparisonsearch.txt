@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Errore di formato temporale!
+2=Ci sono uno o più canali senza autorizzazione!
+3=Nessun permesso!
+4=Tutti i canali
+5=Seleziona un canale

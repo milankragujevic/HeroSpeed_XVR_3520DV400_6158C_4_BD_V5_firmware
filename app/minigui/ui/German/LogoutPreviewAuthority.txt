@@ -1,0 +1,3 @@
+[wintip]
+num=1
+1=Keine Erlaubnis!

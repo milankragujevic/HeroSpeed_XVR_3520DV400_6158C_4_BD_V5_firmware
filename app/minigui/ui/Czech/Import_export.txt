@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Nová nastavení budou aktivována po restartu. Restartujte nyní?
+2=Export, čekejte prosím ...
+3=V pořádku !
+4=Vložte USB disk!
+5=Chyba při načítání databáze.
+6=Databáze je poškozena.
+7=Neznámá chyba
+8=Žádné importované soubory!
+9=Import, po dokončení se restartuje

@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Phát hiện chuyển động
+2=Điều chỉnh âm thanh video
+3=Mất video
+4=Đầu vào báo động
+5=Đầu ra báo động
+6=Ngoại lệ
+7=Đầu vào số báo động
+8=Tên báo động
+9=Alarm Type
+10=Bật
+11=Chỉnh sửa
+12=Buzzer

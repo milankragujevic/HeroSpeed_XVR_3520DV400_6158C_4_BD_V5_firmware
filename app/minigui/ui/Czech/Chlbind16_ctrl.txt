@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Nastavení
+2=Obecné
+3=Síť
+4=Zobrazení
+5=Vyjímky
+6=Uživatel
+7=Nastavení kanálu
+8=Nastavení kanálu
+9=CH
+10=HD
+11=IP adresa
+12=Výchozí
+13=Použít
+14=Zrušit
+15=Náhled
+16=Místní alarm
+17=Lite režim
+18=Povolit:zakázat
+19=Wifi
+20=Filtr IP

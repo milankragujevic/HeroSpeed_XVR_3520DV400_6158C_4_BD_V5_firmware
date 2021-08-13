@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Upgrading, do not power off!
+2=Upgrade failed!
+3=Upgrade succeeded!
+4=Please select upgrade file!
+5=Upgrade?
+6=No upgrade package
+7=Find new version,Download file online?
+8=Network is not stable,download failed...
+9=Downloading...
+10=Exception Error
+11=Download succeed,upgrade online?
+12=File is not exist!

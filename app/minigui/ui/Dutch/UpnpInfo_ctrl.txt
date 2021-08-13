@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Poort informatie
+2=Server naam
+3=Protocol
+4=Interne poort
+5=Externe poort
+6=TCP,UDP
+7=Opslaan
+8=Annuleren

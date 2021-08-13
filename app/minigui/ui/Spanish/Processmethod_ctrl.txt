@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=Método de procesamiento
+2=Tiempo de armado
+3=Método de procesamiento
+4=Visualización de la pantalla
+5=Alarma del zumbador
+6=Enviar correo electrónico
+7=Subir a FTP
+8=grabacion de canal
+9=Capturar
+10=Habilitar salida de alarma
+11=Salida de alarma
+12=Nombre de la alarma
+13=Aplicar
+14=Cancelar
+15=1
+16=2
+17=3
+18=4
+19=5
+20=6
+21=7
+22=8
+23=enlace
+24=Tiempo de grabación (seg)
+25=Buzzer Time(sec)

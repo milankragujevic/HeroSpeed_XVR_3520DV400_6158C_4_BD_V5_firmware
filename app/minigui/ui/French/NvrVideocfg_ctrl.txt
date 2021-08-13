@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=XVR Image
+2=Luminosité
+3=Contraste
+4=Saturation
+5=Couleur
+6=Par défaut
+7=Appliquer
+8=Annuler

@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=Numele bibliotecii nou adăugate nu poate fi goală
+2=Numărul bibliotecilor de fețe a atins limita superioară
+3=Baza de date a feței există deja

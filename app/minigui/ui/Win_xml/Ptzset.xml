@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Ptzcontrol x="10" y="510" w="320" h="256" title="PTZ">
+
+
+<row x="30" y="200" w="130" h="25" s="12:13:41" gap="10">
+<b type="ctrl_button" id="1">Enter</b>
+<b type="ctrl_button" id="33">Switch page</b>
+</row>
+
+<row type="ctrl_button" w="24" h="24" s="13:42">
+<b id="9" x="95" y="38" s="12:13:42" bg="./image/PTZcontrol/arrow_up_normal.png" bgw="24" bgc="./image/PTZcontrol/arrow_up_hover.png"></b>
+</row>
+
+<row type="ctrl_button" y="93" w="24" h="24" s="12:13:42">
+<b id="11" x="42"  bg="./image/PTZcontrol/arrow_left_normal.png" bgw="24" bgc="./image/PTZcontrol/arrow_left_hover.png"></b>
+<b id="13" x="150" bg="./image/PTZcontrol/arrow_right_normal.png" bgw="24" bgc="./image/PTZcontrol/arrow_right_hover.png"></b>
+</row>
+
+<row type="ctrl_button"  w="24" h="24" s="13:42">
+<b id="15" x="95" y="143" s="12:13:42" bg="./image/PTZcontrol/arrow_down_normal.png" bgw="24" bgc="./image/PTZcontrol/arrow_down_hover.png"></b>
+</row>
+
+<row type="static" s="11:12:36">
+<b id="30" x="76" y="66" s="11:12:36" w="66" h="66" bg="./image/PTZcontrol/circle_inner.png" bgw="66"></b>
+<b id="27" x="86" type="ctrl_button" s="13:42" y="96" w="24" h="24" bg="./image/PTZcontrol/ptz_settings_normal.png" bgw="24" bgc="./image/PTZcontrol/ptz_settings_hover.png"></b>
+<b id="31" x="33" y="24" s="11:12:36" w="150" h="150" bg="./image/PTZcontrol/circle_outter.png" bgw="150"></b>
+</row>
+
+<col type="ctrl_button" x="222" w="30" h="30" s="12:13:42">
+<b id="17" y="48" bg="./image/PTZcontrol/zoom_in_normal.png" bgw="30" bgc="./image/PTZcontrol/zoom_in_hover.png"></b>
+<b id="18" y="96" bg="./image/PTZcontrol/focus_close_normal.png" bgw="30" bgc="./image/PTZcontrol/focus_close_hover.png"></b>
+<b id="19" y="138" bg="./image/PTZcontrol/iris_open_normal.png" bgw="30" bgc="./image/PTZcontrol/iris_open_hover.png"></b>
+</col>
+
+
+<col type="ctrl_button" x="269" y="80" w="30" h="30" s="12:13:42">
+<b id="23"  y="48" bg="./image/PTZcontrol/zoom_out_normal.png" bgw="30" bgc="./image/PTZcontrol/zoom_out_hover.png"></b>
+<b id="24"  y="96" bg="./image/PTZcontrol/focus_far_normal.png" bgw="30" bgc="./image/PTZcontrol/focus_far_hover.png"></b>
+<b id="25"  y="138" bg="./image/PTZcontrol/iris_close_normal.png" bgw="30" bgc="./image/PTZcontrol/iris_close_hover.png"></b>
+</col>
+
+
+</Ptzcontrol>

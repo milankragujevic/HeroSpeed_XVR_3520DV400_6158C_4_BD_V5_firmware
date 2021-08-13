@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Средняя задержка
+2=ms
+3=Packet loss rate:
+4=Адрес назначения недоступен!
+5=Тестирование, пожалуйста, подождите...
+6=Being caught the package...
+7=Network capture packet backup success!
+8=Вставьте USB-диск.
+9=IP-адрес неверен!
+10=Вставьте сетевой кабель.

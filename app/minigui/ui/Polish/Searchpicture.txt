@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Proszę wybrać plik.
+2=Not enough disk space.
+3=Wyszukiwanie, proszę czekać ...
+4=Nie można zapisać danych na dysku przenośnym.
+5=Archiwizacja zakończona
+6=Proszę włożyć dysk USB!
+7=Za dużo plików, przerwij wyszukiwanie!
+8=Ręczne pobranie zdjęcia
+9=Ruch
+10=Alarm
+11=Ruch lub alarm
+12=Ruch i Alarm

@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Selectați un fișier.
+2=Spatiu pe disc insuficient.
+3=Căutând, așteptați ...
+4=Nu pot fi transmise date pe hard disk mobil.
+5=Backupul a fost terminat
+6=Introduceți discul USB!
+7=Prea multe fișiere, încetați să căutați!
+8=Nu a fost găsit niciun videoclip
+9=Selectați un tip de rezervă!
+10=Similitudine
+11=Faceți o copie de rezervă, vă rugăm să anulați copia de rezervă sau să continuați după finalizarea copiei de rezervă
+12=Partea superioară
+13=a fost adăugată la coada copiei de rezervă.
+14=Adăugarea la coada copiei de rezervă nu a reușit.
+15=Extragerea trăsăturilor feței nu a reușit.
+16=Fișiere cu oameni
+17=Căutați Compararea Facială

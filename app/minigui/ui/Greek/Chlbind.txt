@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=When you select 4 HD channel,you just be able to select 0 IP channel?
+2=Οι ρυθμίσεις καναλιού άλλαξαν, παρακαλώ κάντε επανεκκίνηση!
+3=When you select 8 HD channel,you just be able to select 1 IP channel?
+4=Οι νέες ρυθμίσεις θα ενεργοποιηθούν μετά την επανεκκίνηση. Επανεκκινήστε τώρα;

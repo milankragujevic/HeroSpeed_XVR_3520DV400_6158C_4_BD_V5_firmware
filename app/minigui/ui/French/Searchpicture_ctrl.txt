@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Recherche d'Image
+2=Caméra
+3=Type
+4=Heure
+5=Consulter
+6=Utilisateur
+7=Consulter
+8=Capacité Restant/Totale
+9=Sauvegarde
+10=Annuler
+11=Actualiser

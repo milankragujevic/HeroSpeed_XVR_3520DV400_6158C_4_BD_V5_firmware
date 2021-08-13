@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Thiết lập kênh
+2=Bật
+3=Kênh
+4=Giao thức
+5=Xem trước
+6=Tên người dùng
+7=Mật khẩu
+8=IP
+9=Tên miền
+10=Cổng
+11=Chính
+12=Phụ
+13=Chính:Phụ
+14=Lưu
+15=Hủy
+16=Thêm phương thức
+17=Hướng dẫn sử dụng: Plug and play
+18=Hướng dẫn sử dụng

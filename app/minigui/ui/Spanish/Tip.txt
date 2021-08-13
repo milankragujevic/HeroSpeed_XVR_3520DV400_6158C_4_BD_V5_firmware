@@ -1,0 +1,24 @@
+[wintip]
+num=22
+1=Capturar
+2=Reproducción Instante
+3=PTZ
+4=Acercamiento
+5=Audio
+6=Imagen
+7=Información
+8=Iniciar registro de todo el día
+9=Cambiar a Main Screen
+10=FISHEYE
+11=Deshabilitar POS
+12=Apaga Posición 3D
+13=Detener registro de todo el día
+14=Cambiar a Sub Screen
+15=Habilitar POS
+16=Habilita Posición 3D
+17=Captura fallida
+18=No Permission
+19=No ha podido iniciar la grabación, modifica el programa de grabación por favor.
+20=RTSP no soporta esta característica
+21=Captura Hecha, Guardada en Geestión de Archivos
+22=Cerrar

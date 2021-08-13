@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Picture Search
+2=Channel
+3=Type
+4=Time
+5=View
+6=User
+7=View
+8=Remaining/Total Capacity:
+9=Backup
+10=Cancel
+11=Refresh

@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Támogatás
+2=Nem támogat
+3=összefüggő
+4=Szétkapcsolt

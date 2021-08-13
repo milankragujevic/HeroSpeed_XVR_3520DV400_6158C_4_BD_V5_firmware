@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Zoek Foto
+2=Kanaal
+3=Type
+4=Tijd
+5=Bekijk
+6=Gebruiker
+7=Bekijk
+8=Resterende/Totale Capaciteit:
+9=backup
+10=Annuleren
+11=Ververs

@@ -1,0 +1,24 @@
+[Ctrltxt]
+num=22
+1=Configurazione
+2=Generale
+3=Rete
+4=Display
+5=Eccezione
+6=Utente
+7=Errore sull’HDD
+8=Problematica sulla Rete
+9=Tipo di Evento
+10=Abilita
+11=Invia una email
+12=Allarme Acustico
+13=Nessun Disco:Errore Disco
+14=Predefinito
+15=Applica
+16=Cancella
+17=Preview
+18=Configurazione Canale
+19=Schermo
+20=Allarme locale
+21=Wifi
+22=Filtro IP

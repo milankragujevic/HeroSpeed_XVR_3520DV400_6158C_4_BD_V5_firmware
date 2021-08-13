@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Restaurar parametros por defecto?
+2=El número de puerto debe estar entre 1 y 65535!
+3=testando ftp, espere por favor…
+4=el ftp no pudo ser enviado
+5=test ftp exitoso
+6=Error de formato de tiempo!
+7=el archivo  no puede contener estos simbolos \ / : * ? " < > |
+8=El nombre de usuario o la contraseña no pueden contener los siguientes símbolos:! % & #
+9=¡Error de formato del servidor FTP!

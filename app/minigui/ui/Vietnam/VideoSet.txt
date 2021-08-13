@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Độ sáng quá lớn, độ sáng tối đa là
+2=Độ tương phản quá lớn, độ tương phản Max là
+3=Độ bão hòa quá lớn, độ bão hòa Max là
+4=Độ sắc nét quá lớn, Độ sắc nét Max là
+5=Đang nhận param, Xin chờ ...
+6=Kênh này không có sự cho phép!
+7=Không thể lấy thông số
+8=RTSP không hỗ trợ tính năng này

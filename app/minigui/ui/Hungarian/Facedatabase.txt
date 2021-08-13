@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Kérjük, válassza ki az arc adatbázist
+2=Sikeres:
+3=Sikertelen:
+4=A kötegelt hozzáadás sikeres!
+5=A kötegelt hozzáadás sikertelen!
+6=Az USB lemez elérési útja nem létezik
+7=Nem található arckép az USB-lemezen
+8=Maximum 5000 kép hozzáadása!
+9=Arckép hozzáadása
+10=Az arc adatbázis nem létezik.
+11=Maximum 16 arc adatbázis hozzáadása!
+12=Felhasználható kapacitás
+13=Teljes kapacitás

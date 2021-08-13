@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=Sao lưu bản ghi
+2=Kênh
+3=Kiểu
+4=Thời gian bắt đầu
+5=Thời gian kết thúc
+6=Kích thước
+7=ID
+8=Nhật ký sao lưu
+9=Còn lại:
+10=Cần thiết:
+11=Định dạng tệp
+12=avi
+13=Làm mới
+14=Sao lưu
+15=Xóa

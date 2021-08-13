@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Confermi che vuoi modificare la risoluzione?
+2=Dopo...secondi verranno ripristinati automaticamente

@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Benutzername existiert nicht!
+2=Passwort ist falsch. Es gibt
+3=Initialisierung, bitte warten …
+4=Sind Sie sicher, dass Sie den DVS-Assistenten beenden möchten?
+5=Möglichkeiten.
+6=Das Passwort oder Entsperrmuster wurde 5 Mal falsch eingegeben. Bitte versuchen Sie es nach 30 Minuten erneut.
+7=Das Passwort wurde 5 Mal falsch eingegeben. Bitte versuchen Sie es nach 30 Minuten erneut.

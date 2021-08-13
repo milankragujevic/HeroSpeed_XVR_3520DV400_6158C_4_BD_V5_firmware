@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Eszköz esemény
+2=Nincs Lemez
+3=Merevlemez hiba
+4=Hálózat megszakadt
+5=IP cím ütközés
+6=Helyi riasztások
+7=Videojel vesztés
+8=Inteligens Riasztás

@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Všechny kanály
+2=Chyba formátu času!
+3=Jeden nebo více kanálů nemá povolení!
+4=Bez povolení!
+5=Vyberte kanál

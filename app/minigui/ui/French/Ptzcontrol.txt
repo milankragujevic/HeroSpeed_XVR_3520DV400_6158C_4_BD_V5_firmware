@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Croisement, modification interdite…
+2=A été ouvert !
+3=A été fermé !
+4=Aucune autorisation !

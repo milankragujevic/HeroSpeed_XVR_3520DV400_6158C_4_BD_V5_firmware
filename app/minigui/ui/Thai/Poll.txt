@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=คืนค่าเริ่มต้น?
+2=Polling time in between 5 and 255.

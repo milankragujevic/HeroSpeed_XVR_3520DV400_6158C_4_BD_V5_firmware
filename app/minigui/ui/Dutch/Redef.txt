@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Fabrieksinstelling ophalen, even geduld aub…
+2=Fabrieksinstellingen terugzetten
+3=Nieuwe instellingen worden na het rebooten geactiveerd. Herstarten nu?
+4=Reset naar fabrieksinstellingen ?

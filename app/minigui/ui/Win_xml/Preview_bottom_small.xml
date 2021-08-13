@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PreviewBottom x="0" y="%100-60" w="%100" h="60">
+
+<row type="ctrl_button" x="20" y="16" w="28" h="28" s="13:41:42" bgw="-1" tc="1000">
+    <b id="1" y="15" w="26" h="26" bg="./image/Pre/pre_boot.png"></b>
+    <b id="2" x="%8" gap="%1" bg="./image/Pre/pre_playback.png"></b>
+    <b id="3" bg="./image/Pre/pre_alarm.png" gap="%6-54"></b>
+    <s type="static" id="51" y="19" w="2" h="22" s="11:12:31" bcol="1"></s>
+    <b id="4" x="%21-36" gap="%1" bg="./image/Pre/pre_recstatus.png"></b>
+    <b id="5" gap="%1" bg="./image/Pre/pre_alarmstatus.png"></b>
+    <b id="6" gap="%1" bg="./image/Pre/pre_diskstatus.png"></b>
+    <b id="7" gap="%1" bg="./image/Pre/pre_netstatus.png"></b>
+    <b id="8" gap="%1+18" bg="./image/Pre/pre_sysinfo.png"></b>
+    <s type="static" id="52" y="19" w="2" h="22" s="11:31" bcol="1" gap="%1+18"></s>
+
+    <b id="10" gap="%1" bg="./image/Pre/pre_cruise.png"></b>
+    <b id="11" s="13:42:44" gap="%1" bg="./image/Pre/pre_osdoff.png" bgc="./image/Pre/pre_osdon.png"></b>
+    <b id="12" s="13:42:44"  gap="%1" bg="./image/Pre/pre_record24.png" bgc="./image/Pre/pre_nrecord24.png" ></b>
+</row>
+
+<row type="ctrl_button" x="%67-68" y="16" w="28" h="28" s="12:13:41:42" bgw="-1" gap="%1">
+    <b id="20" y="20" w="12" h="20" gap="0" bg="./image/Pre/prepage.png" bgc="./image/Pre/prepage_hover.png"></b>
+    <b type="static" id="21" w="50" gap="0" s="11:12:33" bcol="20" ft="18"></b>
+    <b id="22" y="20" w="12" h="20" bg="./image/Pre/nextpage.png" bgc="./image/Pre/nextpage_hover.png"></b>
+    <b id="23" x="%92-224" tc="1000" bg="./image/Pre/preview_1.png" dis="./image/Pre/preview_1_hover.png"></b>
+    <b id="24" tc="1000" bg="./image/Pre/preview_4.png" dis="./image/Pre/preview_4_hover.png"></b>
+    <b id="25" tc="1000" bg="./image/Pre/preview_8.png" dis="./image/Pre/preview_8_hover.png"></b>
+    <b id="26" tc="1000" bg="./image/Pre/preview_9.png" dis="./image/Pre/preview_9_hover.png"></b>
+    <b id="27" tc="1000" bg="./image/Pre/preview_16.png" dis="./image/Pre/preview_16_hover.png"></b>
+    <b id="28" tc="1000" bg="./image/Pre/preview_25.png" dis="./image/Pre/preview_25_hover.png"></b>
+    <b id="29" tc="1000" bg="./image/Pre/preview_36.png" dis="./image/Pre/preview_36_hover.png"></b>
+    <b id="31" tc="1000" bg="./image/Pre/fullscreen.png" dis="./image/Pre/fullscreen_hover.png"></b>
+    <b id="32" tc="1000" x="%99-34" s="13:41:42" bg="./image/Pre/smallscreen.png" dis="./image/Pre/smallscreen.png"></b>
+</row>
+</PreviewBottom>

@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Dávkový import
+2=Jméno
+3=Stav
+4=Potvrdit

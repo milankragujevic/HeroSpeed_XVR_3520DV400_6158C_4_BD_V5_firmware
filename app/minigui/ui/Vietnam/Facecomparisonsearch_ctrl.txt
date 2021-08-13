@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=tìm kiếm theo sự kiện
+2=tìm kiếm theo hình ảnh
+3=Kênh
+4=Thời gian
+5=Kiểu
+6=Hôm nay:Hôm qua:Hai hôm qua:Ba hôm qua:Bẩy hôm qua:14 hôm qua
+7=Danh sách đen:danh  sách trắng:Danh sách đen và trắng
+8=Tìm kiếm

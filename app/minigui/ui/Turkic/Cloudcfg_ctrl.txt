@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Etkinleştir
+2=Dropbox
+3=Google
+4=Yükleme Klasörü
+5=Kullanıcı adı
+6=Kapasite
+7=Kullanılan
+8=Sınama
+9=Varsayılan
+10=Uygula
+11=Google
+12=IPEYE
+13=bağlamak

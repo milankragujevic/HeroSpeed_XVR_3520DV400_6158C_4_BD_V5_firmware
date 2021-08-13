@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Lưu thông số?
+2=Tìm kiếm thiết bị, vui lòng đăng xuất sau!
+3=Địa chỉ IP là không chính xác!
+4=Hãy chọn một thiết bị!
+5=Chỉnh sửa
+6=Thêm thủ công
+7=Tên người dùng không được để trông!
+8=Độ phân giải tên miền không thành công.
+9=Định dạng miền không chính xác.

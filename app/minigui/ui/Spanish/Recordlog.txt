@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Archivo de imagen
+2=Archivo de video
+3=Realizando back up, espere por favor.
+4=No hay espacio suficiente en el disco
+5=Respaldo realizado con éxito!
+6=Respaldo falló!

@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Alarminformationen
+2=Störungsmeldung
+3=Normales Ereignis
+4=Smart Ereignis
+5=Setzen
+6=Zeit zu alarmieren
+7=Alarm / Ausnahme
+8=Wiedergabe
+9=Informationen (Kanalnummer, Alarmeingangsnummer, Festplatte, IP - Adresse usw.)

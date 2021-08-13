@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=La nueva configuración se activará después de reiniciar. ¿Reiniciar ahora?
+2=Exportando, aguarde ...
+3=Sucesso!
+4=Insira o disco usb.
+5=Não foi possível abrir o banco de dados.
+6=Banco de dados danificado.
+7=Erro desconhecido.
+8=Sem arquivos de importação
+9=Importação, após o sucesso reiniciar

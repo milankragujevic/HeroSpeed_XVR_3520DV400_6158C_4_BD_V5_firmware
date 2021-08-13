@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Aktualizace IPC
+2=CH
+3=Jméno
+4=Velikost
+5=čas
+6=Aktualizace
+7=Zrušit

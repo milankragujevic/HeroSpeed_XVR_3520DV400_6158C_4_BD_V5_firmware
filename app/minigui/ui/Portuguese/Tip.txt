@@ -1,0 +1,24 @@
+[wintip]
+num=22
+1=Captura
+2=Reprodução Instantânea
+3=PTZ
+4=Zoom
+5=Áudio
+6=Imagem
+7=Informação
+8=Iniciar registro de dia inteiro
+9=Mudar para Tela Inicial
+10=Olho de peixe
+11=Desativar POS
+12=Desativar a Posição 3D
+13=Parar registro o dia inteiro
+14=Mudar para Subtela
+15=Ativar POS
+16=Ativar Posição 3D
+17=Falha ao capturar o mapa
+18=No Permission
+19=Falha no início da gravação. Altere a programação da gravação.
+20=O RTSP não suporta esse recurso
+21=Captura Com Sucesso, Por Favor, Verifique No Gerenciamento De Arquivos.
+22=Fechar

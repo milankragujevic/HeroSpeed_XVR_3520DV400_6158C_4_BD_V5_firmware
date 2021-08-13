@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Ngày tháng và thời gian;1
+2=Mạng lưới;2
+3=Ổ cứng;3
+4=Camera;4
+5=Sân;5
+6=Đổi mật khẩu;5
+7=Cài đặt mạng
+8=Bật DHCP
+9=Địa chỉ IP
+10=Mặt nạ mạng
+11=Cổng vào
+12=DNS chính
+13=DNS phụ
+14=Trước
+15=Tiếp theo
+16=Thoát

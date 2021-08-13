@@ -1,0 +1,13 @@
+[Ctrltxt]
+num=11
+1=Detekce pohybu
+2=Minipulace videa
+3=Ztráta videa
+4=Alarm vstup
+5=Alarm výstup
+6=Události
+7=Zpoždění(1~120s)
+8=5 sekund: 10 sekund: 30 sekund: 1 minuta: 2 minuty: 5 minut: 10 minut
+9=Test
+10=Použít
+11=Bzučák

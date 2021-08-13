@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Ähnlichkeit
+2=Alter
+3=Geschlecht
+4=Brille
+5=Mütze
+6=Ja
+7=Nein
+8=lang
+9=kurz
+10=männlich
+11=weiblich
+12=Name
+13=Modus:schwarze Liste
+14=Modus:weiße Liste
+15=sModus:chwarze Liste und weiße Liste
+16=Bart
+17=Kanal

@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=Respaldar grabaciones
+2=Canal
+3=Tipo
+4=Hora de Inicio
+5=Hora Final
+6=tamaño
+7=ID
+8=Log del respaldo
+9=Faltante:
+10=Requerido:
+11=Formato del archivo
+12=avi
+13=Refrescar
+14=Respaldo
+15=Claro

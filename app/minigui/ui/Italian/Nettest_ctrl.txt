@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Ritardo rete, Test pacchetti persi
+2=Selezione NIC
+3=Indirizzo destinazione
+4=Prova connessione FTP

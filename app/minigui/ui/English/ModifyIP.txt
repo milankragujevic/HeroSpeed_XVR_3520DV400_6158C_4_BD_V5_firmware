@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=No permission!
+2=Config Failed
+3=Ip Conflict
+4=Invalid IP address!
+5=Invalid subnet mask!
+6=Invalid gateway!

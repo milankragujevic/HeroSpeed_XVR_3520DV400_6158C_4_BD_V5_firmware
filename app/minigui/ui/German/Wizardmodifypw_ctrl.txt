@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=23
+1=Datum und Uhrzeit;1
+2=Netzwerk;2
+3=Festplatte;3
+4=Kamera;4
+5=Plattform;5
+6=Passwort ändern;5
+7=Passwort ändern
+8=Ändern Sie das Administratorkennwort
+9=Altes Passwort
+10=Neues Kennwort
+11=Bestätigen
+12=Setzen Sie Sicherheitsprobleme zurück
+13=Sicherheitsfrage1
+14=Antwort1
+15=Sicherheitsfrage2
+16=Antwort2
+17=Sicherheitsfrage3
+18=Antwort3
+
+19=Bitte wählen Sie aus: Was ist Ihre Jobnummer?: Welcher Tag ist der Geburtstag Ihres Vaters?: Was ist Ihr liebstes englisches Lied?: Welcher Tag ist der Geburtstag Ihrer Mutter?
+20=Bitte wählen Sie aus: Was ist Ihre Schulnummer ?: Was sind Ihre Glückszahlen ?: Der Name Ihres Lieblingsstars ist? (Englisch): Der Tag Ihrer Hochzeit ist?
+21=Bitte wählen Sie aus: Was ist Ihre beliebteste Mailbox ?: Wie lautet die Postleitzahl für Ihre Region?: Wie lautet Ihr Haustier ?: Wie lauten Ihre Telefonnummern?
+22=Früher
+23=Vervollständigen

@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Idő
+2=Csatorna
+3=File típus
+4=Címke
+5=Esemény típus
+6=Lemez száma
+7=Fájl állapota
+8=Terület / Ország
+9=Ma: Tegnap: Utolsó 2 nap: Utolsó 3 nap: Utolsó 7 nap: Utolsó 14 nap: Egyéni
+10=Video:Picture
+11=Mind: Nyitott: Lezárt
+12=Gyors mentés
+13=Keresés

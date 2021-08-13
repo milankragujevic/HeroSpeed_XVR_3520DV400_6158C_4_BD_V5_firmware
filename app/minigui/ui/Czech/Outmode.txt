@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Nová nastavení budou aktivována po restartu. Restartujte nyní?
+2=Kanál
+3=Obnovit výchozí nastavení ?
+4=1 obraz
+5=4 obrazy
+6=8 obrazů
+7=9 obrazů
+8=16 obrazů
+9=25 obrazů
+10=36 obrazů
+11=64 obrazů
+12=32 obrazovek
+13=Zařízení nepodporuje toto rozlišení!

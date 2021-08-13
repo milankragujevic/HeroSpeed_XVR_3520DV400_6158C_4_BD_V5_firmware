@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Báo động Buzzer
+2=Gửi email
+3=Màn hình hiển thị
+4=Lỗi định dạng thời gian!
+5=Thêm tối đa 6 lịch trình mỗi ngày!

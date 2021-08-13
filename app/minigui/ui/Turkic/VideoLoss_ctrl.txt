@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Hareket Sezme
+2=Video temperleme
+3=Video kaybı
+4=Alarm girişi
+5=Alarm çıkışı
+6=İstisna
+7=Kanal
+8=Etkinleştir
+9=Kurma planı
+10=Eklem eylemi
+11=Normal link
+12=Varsayılan
+13=Kopyala
+14=Uygula
+15=Alarm çıkışı
+16=zil

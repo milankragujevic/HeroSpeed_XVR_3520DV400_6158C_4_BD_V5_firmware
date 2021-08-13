@@ -1,0 +1,23 @@
+[wintip]
+num=21
+1=Modifica l'utente con successo!
+2=I privilegi dell’utente amministratore non possono essere cambiati!
+3=L’utente esiste già!
+4=Digitare il nome utente!
+5=Digitare la password!
+6=Digitare la nuova password!
+7=La password è errata!
+8=La password non corrisponde!
+9=Non è possibile cambiare le proprie credenziali!
+10=Errore sconosciuto!
+11=Il nome utente non può essere chiamato root o admin!
+12=Il nome utente non può includere la chiave spazio vuoto
+13=L'utente in uso non è membro di tale gruppo e pertanto non ha le autorizzazioni necessarie.
+14=Errore livello utente!
+15=Avviso: la password non deve essere inferiore a 8 byte e deve contenere almeno una cifra e una lettera!
+16=Se la lunghezza del nome utente e password è maggiore di 10, non possono essere tutti numeri
+17=Si prega di completarlo!
+18=Esportazione completata!
+19=Inserire il disco-periferica USB.
+20=Esportazione fallita!
+21=Sei sicuro di voler uscire dalla configurazione assistita?

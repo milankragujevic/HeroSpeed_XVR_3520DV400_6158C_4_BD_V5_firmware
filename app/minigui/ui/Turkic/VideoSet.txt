@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Parlak çok büyük, Parlak Max
+2=Kontrast çok fazla, en fazla Kontrast
+3=Renk Canlılığı çok fazla, en fazla Renk Canlılığı
+4=Keskinlik çok fazla, en fazla Keskinlik
+5=Değişkenler getiriliyor, lütfen bekleyiniz…
+6=Bu kanalın izni yok!
+7=Parametre alınamadı
+8=RTSP bu özelliği desteklemiyor

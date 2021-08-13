@@ -1,0 +1,18 @@
+[wintip]
+num=16
+1=Getting param,Please wait...
+2=No permission!
+3=Line rule error!
+4=There is a crossover line!
+5=On the same line!
+6=This channel device does not support the feature.
+7=Buzzer Alarm
+8=E-mail Notification
+9=Channel Recording
+10=Blacklist
+11=Whitelist
+12=Blacklist And Whitelist
+13=Maximum support for
+14=channel
+15=channels
+16=In development!

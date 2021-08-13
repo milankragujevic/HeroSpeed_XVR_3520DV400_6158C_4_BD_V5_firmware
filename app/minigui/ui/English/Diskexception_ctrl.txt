@@ -1,0 +1,24 @@
+[Ctrltxt]
+num=22
+1=Configuration
+2=General
+3=Network
+4=Display
+5=Exceptions
+6=User
+7=Disk Exception
+8=Network Exception
+9=Event Type
+10=Enable
+11=Send E-mail
+12=Buzzer Alarm
+13=No Disk:Disk Error
+14=Default
+15=Apply
+16=Cancel
+17=Preview
+18=Channel Config
+19=Screen Display
+20=Local Alarm
+21=Wifi
+22=IP Filter

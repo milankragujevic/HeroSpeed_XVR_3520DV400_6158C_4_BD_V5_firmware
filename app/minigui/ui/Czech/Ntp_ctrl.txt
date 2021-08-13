@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=TCP/IP
+2=DDNS
+3=NTP
+4=FTP
+5=UPNP
+6=Povolit NTP
+7=NTP server
+8=Vlastní
+9=NTP port
+10=Interval (Min)
+11=Výchozí
+12=Použít
+13=PPPOE
+14=(30-1440)

@@ -1,0 +1,5 @@
+[wintip]
+num=3
+1=De servernaam mag niet leeg zijn
+2=De interne/externe poort mag geen 0 zijn.
+3=Interne of externe poort zijn niet gelijk

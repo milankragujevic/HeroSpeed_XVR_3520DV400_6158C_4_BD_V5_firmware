@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PPPOE x="0" y="0" w="%100" h="%100" title="">
+
+<row>
+<s type="static" id="40" x="0" y="0" w="%100" h="2" s="11:12:33" bcol="7"></s>
+<s type="static" id="41" x="0" y="%100-3" w="%100" h="2" s="11:12:33" bcol="7"></s>
+<s type="static" id="42" x="0" y="3" w="2" h="%100-6" s="11:12:33" bcol="7"></s>
+<s type="static" id="43" x="%100-3" y="3" w="2" h="%100-6" s="11:12:33" bcol="7"></s>
+<s type="static" id="45" x="3" y="%100-5" w="%100-6" h="2" s="11:12:33" bcol="5"></s>
+<s type="static" id="46" x="3" y="3" w="2" h="%100-8" s="11:12:33" bcol="5"></s>
+<s type="static" id="47" x="%100-5" y="3" w="2" h="%100-8" s="11:12:33" bcol="5"></s>
+<s type="static" id="52" x="249" y="58" w="2" h="%100-63" s="11:12:33" bcol="5"></s>
+<s type="static" id="53" x="251" y="58" w="2" h="%100-63" s="11:12:33" bcol="9"></s>
+<s type="static" id="54" x="6" y="5" w="%100-12" h="49" s="11:12:33" ft="16" bcol="20">1</s>
+</row>
+<row x="%100-37" y="19" w="20" h="20" s="12:13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="55" bg="./image/menu/close.png" bgc="./image/menu/close_hover.png" bgw="" ft="16"></b>
+</row>
+<col type="ctrl_button" x="5" y="58" w="244" h="54" s="12:13:41:42:48" gap="0">
+<b id="114" bg="./image/radiobutton_bg/general.png">2</b>
+<b id="108" s="12:16:48:49:41:42" bg="./image/radiobutton_bg/network.png">3</b>
+<b id="115" bg="./image/radiobutton_bg/display.png">4</b>
+<b id="126" bg="./image/radiobutton_bg/exception.png">5</b>
+<b id="116" bg="./image/radiobutton_bg/user.png">6</b>
+<b id="123" bg="./image/radiobutton_bg/chlband.png">22</b>
+<b id="131" bg="./image/radiobutton_bg/alarm.png">24</b>
+<b id="138" s="13:41:42:48" bg="./image/radiobutton_bg/wifi.png">27</b>
+</col>
+		
+<row type="ctrl_button" x="265" y="55" w="70" h="50" s="12:13:41:48" gap="10">
+<b id="108">7</b>
+<b id="109">8</b>
+<b id="110">9</b>
+<b id="111">10</b>
+<b id="122">11</b>
+<b id="128">12</b>
+<b id="129" s="12:16:48:49:41">23</b>
+<b id="130" w="110" gap="10">13</b>
+<b id="135">25</b>
+</row>
+
+<col type="static" x="265" w="%30-84" y="105" h="40" s="11:12:31" gap="-1">
+<b id="10" bcol="114">14</b>
+<s id="1" bcol="118">15</s>
+<s id="2" bcol="114">16</s>
+<s id="3" bcol="118">17</s>
+<s id="4" bcol="114">26</s>
+</col>
+
+<col x="%30+180" y="105" w="%70-196" h="40" gap="-1">
+<b type="ctrl_button" id="31" s="12:13:44" tcol="125"></b>
+<e id="11" type="myedit" tcol="10" s="11:12:13:56" ex="81:82:83:84:85:86"></e>
+<e id="12" type="myedit" tcol="20" s="11:12:13:55:56" ex="81:82:83:84:85:86"></e>
+<e id="13" type="CtrlIpAddress" tcol="10" s="12:13:71:72:73" ex="83" ad="5"></e>
+<e id="14" type="CtrlIpAddress" tcol="20" s="12:13:71:72:73" ex="83" ad="5"></e>
+
+</col>
+
+
+
+<row type="ctrl_button" x="265" y="320" w="140" h="44" s="12:13:41:42" bgw="0" tc="100" gap="10">
+<b id="15" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png">18</b>
+
+<b id="18" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">19</b>
+<b id="17" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">20</b>
+6
+</row>
+<row type="ctrl_button" x="5" y="%100-58" w="244" h="54" s="12:13:41:42" bgw="0" tc="2" ex="81">
+<b id="134" bg="./image/common/btnpre.png" bgc="./image/common/btnpre_hover.png" ft="16">21</b>
+</row>
+</PPPOE>

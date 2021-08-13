@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Resolução
+2=Transparência
+3=Mostrar o tempo de OSD
+4=Mostrar após o boot
+5=1024x768: 1280x720: 1280x1024: 1920x1080
+6=Padrão
+7=Aplique
+8=Mostrar nome do canal

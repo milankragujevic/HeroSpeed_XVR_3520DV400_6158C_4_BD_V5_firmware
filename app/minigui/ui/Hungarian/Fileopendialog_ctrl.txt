@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Nézet
+2=Eszköz elérési út
+3=Minden fájl (*.*):*.jpg
+4=Fel
+5=Név
+6=Méret
+7=Típus
+8=Módosítási idő
+9=Törölés
+10=OK
+11=Megszünteti
+12=Új mappa

@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Hinzuf.
+2=IP Adresse
+3=MAC-Adresse
+4=Anwenden
+5=Abbrechen

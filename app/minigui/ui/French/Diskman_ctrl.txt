@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Actualiser
+2=Formater
+3=Réparation
+4=N°.
+5=Etat
+6=Capacité totale
+7=Capacité restante
+8=Type périphérique
+9=Attention: le NVR redémarre automatiquement après le formatage du disque!

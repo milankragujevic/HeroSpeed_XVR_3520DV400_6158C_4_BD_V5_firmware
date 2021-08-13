@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=CAM
+2=Nom du canal
+3=Statut
+4=Détection de mouvement
+5=Perte de vidéo

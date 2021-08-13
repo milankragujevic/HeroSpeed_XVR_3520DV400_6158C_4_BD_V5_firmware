@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Riasztási információk
+2=Rendszerhiba
+3=Normál esemény
+4=Intelligens esemény
+5=Beállítás
+6=Riasztás ideje
+7=Riasztás / Kivétel
+8=Lejátszás
+9=Információ (csatorna száma, riasztási bemeneti szám, HDD, IP cím stb.)

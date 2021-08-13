@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Poll
+2=Habilitar
+3=Tempo (s)
+4=Modo
+5=Padrão
+6=Aplique
+7=cancelar

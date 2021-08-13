@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=modificar usuario
+2=Nombre de Usuario
+3=Modificar contraseña
+4=Contraseña anterior
+5=Nueva contraseña
+6=Confirmado
+7=Nivel
+8=Administrador:Operador:General
+9=Grabar
+10=Cancelar
+11=Restablecer problemas de seguridad
+12=Problema de seguridad1
+13=Respuesta 1
+14=Problema de seguridad2
+15=Answer2
+16=Problema de seguridad3
+17=Answer3
+18=Por favor seleccione el número: ¿Cuál es su número de trabajo?: ¿Qué día es el cumpleaños de su padre?: ¿Cuál es su canción favorita en inglés?
+19=Seleccione un problema: ¿Cuál es su número de escuela ?: ¿Cuáles son sus números de la suerte?: ¿El nombre de su estrella favorita es? (Inglés): ¿El día de su aniversario de bodas es?
+20=Seleccione el problema: ¿Cuál es su buzón más popular ?: ¿Cuál es el código postal de su área ?: ¿Cuál es el nombre de su mascota ?: ¿Cuáles son sus números de teléfono?
+21=Clave de exportación
+22=Patrón de desbloqueo
+23=Habilitar el patrón de desbloqueo
+24=Modificar el patrón de desbloqueo

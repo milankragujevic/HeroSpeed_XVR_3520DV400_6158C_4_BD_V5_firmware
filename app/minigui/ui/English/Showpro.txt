@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=In process of initializing disk, Please wait...
+2=failed

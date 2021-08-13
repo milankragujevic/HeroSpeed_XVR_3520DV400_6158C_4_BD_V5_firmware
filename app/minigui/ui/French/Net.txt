@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Restaurer les paramètres par défaut?
+2=Êtes-vous sûr de quitter l'assistant de configuration?
+3=Le port ne peut être identique!
+4=Le port ne peut être inférieur à 1025 exepté 554 et 80 par défaut
+5=Inconnu
+6=L'adresse IP de la carte réseau interne et l'adresse IP du réseau externe ne peuvent pas se trouver dans le même segment
+7=La modification de l'adresse Ip fera redémarrer l'appareil, déterminer le redémarrage ?
+8=Erreur de format d'adresse IP!
+9=Erreur de format de masque réseau!
+10=Erreur de format de passerelle!
+11=Erreur de format DNS!
+12=Lan1 et Lan2 ne peuvent pas être dans le même segment réseau
+13=Modifier le mode réseau nécessite un redémarrage, poursuivre la modification ?

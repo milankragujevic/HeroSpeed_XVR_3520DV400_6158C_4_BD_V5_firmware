@@ -1,0 +1,12 @@
+[wintip]
+num=10
+1=Keine Erlaubnis!
+2=Wiedergabe.
+3=Aufnahmedatei Backup.
+4=Festplatte verwalten.
+5=Aufnahmezeitplan und Kamera-Encodier-Set
+6=Camera add,camera osd,image,motion detection,videoloss,ptz,privacy mask setup,channelname.
+7=Systemdatum / -uhrzeit, Netzwerk, Anzeige, Ausnahme, Benutzereinstellung, Kanalkonfiguration.
+8=Stream, Protokoll, Versionsinformationen und Systemupdate, Standard wiederherstellen.
+9=Abmelden oder neu starten.
+10=Systemdatum / -uhrzeit, Netzwerk, Anzeige, Ausnahme, Benutzereinstellung, Kanalkonfiguration, lokaler Alarm.

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=IP adresi
+2=Ağ maskesi
+3=geçit
+4=Birincil DNS
+5=İkincil DNS
+6=MAC cihazı
+7=DHCP'yi etkinleştir
+8=PPPoE Adresi
+9=PPPoE altağ maskesi
+10=PPPoE varsayılan ağ geçidi
+11=\
+12=\
+13=Etkinleştir
+14=Devre dışı

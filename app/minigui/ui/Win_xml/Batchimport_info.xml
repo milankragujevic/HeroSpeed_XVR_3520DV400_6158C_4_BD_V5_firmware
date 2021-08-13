@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Batchimport_info x="250" y="137" w="800" h="640" title="Batchimport_info">
+<row type="static">
+<s id="32" x="0" y="0" w="800" h="2" s="11:12:33" bcol="7"></s>
+<s id="33" x="0" y="637" w="800" h="2" s="11:12:33" bcol="7"></s>
+<s id="34" x="0" y="3" w="2" h="634" s="11:12:33" bcol="7"></s>
+<s id="35" x="797" y="3" w="2" h="634" s="11:12:33" bcol="7"></s>
+<s id="36" x="3" y="635" w="794" h="2" s="11:12:33" bcol="5"></s>
+<s id="37" x="3" y="3" w="2" h="633" s="11:12:33" bcol="5"></s>
+<s id="38" x="795" y="3" w="2" h="633" s="11:12:33" bcol="5"></s>
+<s id="39" x="1" y="6" w="798" h="47" s="11:12:33" ft="16" bcol="20">1</s>
+</row>
+
+<row>
+<lv type="listview_ex" id="1" x="15" y="75" w="770" h="480" s="12:13:14" itemcnt="3" itemh="40">
+<item w="50" align="l"></item>
+<item w="550" align="l">2</item>
+<item w="170" align="l">3</item>
+</lv>
+</row>
+<row type="ctrl_button" x="330" y="581" w="140" h="44" s="12:13:41:42" bgw="0" tc="100" gap="10">
+<b id="2" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">4</b>
+</row>
+
+</Batchimport_info>

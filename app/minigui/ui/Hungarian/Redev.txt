@@ -1,0 +1,21 @@
+[wintip]
+num=19
+1=Eszköz keresés, várjon!
+2=Biztos kilép a segédből?
+3=A művelet megváltoztatja az eszköz IP-címét, megerősíti a módosításokat?
+4=A Fisheye kamera képeit külön akarja hozzáadni?
+5=Az eszköz túl sokszor lett csatlakoztatva, nem adható hozzá.
+6=Nincs jogosultsága!
+7=Kamera törlés, kérem várjon…
+8=Kérjük, válasszon csatornát!
+9=A Plug and Play csatorna nem törölhető.
+10=Kapcsolódva
+11=Ismeretlen hiba
+12=Hálózati csatlakozási hiba
+13=Port vagy szerverhiba
+14=Felhasználónév vagy jelszó hiba
+15=Csatlakozás az Adatfolyamhoz sikertelen.
+16=Csat
+17=Üresjárati sávszélesség:
+18=Csak egy kártya adhat hozzá automatikusan!
+19=Akár megnyissuk az összes H264+ vagy H265+ csatornát?

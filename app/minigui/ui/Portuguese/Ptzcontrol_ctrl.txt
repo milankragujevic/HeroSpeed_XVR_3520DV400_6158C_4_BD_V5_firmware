@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=PTZ
+2=Canal
+3=Controle PTZ
+4=Controle comum
+5=Zoom
+6=Focus
+7=Íris
+8=Rapidez
+9=Predefinido
+10=Ligar
+11=Cruzeiro ligado
+12=Cruise off
+13=Patrulha
+14=1:2:3
+15=Conjunto de cruzeiro

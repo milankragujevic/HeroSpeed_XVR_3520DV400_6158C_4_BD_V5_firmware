@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Configurarel tiempo
+2=Configurar fecha del corte
+3=Configurar el tiempo de reproducción
+4=Hora Final
+5=Grabar
+6=Cancelar

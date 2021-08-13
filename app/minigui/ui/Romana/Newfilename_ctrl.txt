@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Dosar Nou
+2=Numele fișierului
+3=OK
+4=Anulare

@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=No mobile hard disk!
+2=Sikeres uninstall!
+3=Sikertelen Uninstall!
+4=Rögzített file
+5=Mentés folyamatban, kérem várjon...
+6=Sikeres mentés!
+7=Sikertelen mentés!
+8=Nincs lemez a mentéshez
+9=Sikertelen betöltés.
+10=Ismeretlen hiba.
+11=Nincs jogosultsága!
+12=Nem lehet adatot írni a lemezre.
+13=Felvételi adatok olvasása sikertelen!
+14=Not enough disk space.

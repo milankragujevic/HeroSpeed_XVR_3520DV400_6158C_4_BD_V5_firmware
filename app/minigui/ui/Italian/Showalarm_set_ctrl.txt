@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Impostazioni suggerimento evento
+2=Tutti
+3=Applica
+4=Cancella

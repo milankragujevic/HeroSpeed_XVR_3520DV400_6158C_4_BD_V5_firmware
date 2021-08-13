@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=23
+1=Dátum és idő;1
+2=Hálózat;2
+3=Merevlemez;3
+4=Kamera;4
+5=Platform;5
+6=Jelszó megváltoztatása;5
+7=Jelszó módosítása
+8=Rendszergazda jelszó módosítása
+9=Régi jelszó
+10=Új jelszó
+11=Megerősít
+12=Biztonsági problémák visszaállítása
+13=Biztonsági probléma1
+14=Válasz1
+15=Biztonsági probléma2
+16=Válasz2
+17=Biztonsági probléma3
+18=Válasz3
+
+19=Kérem, válassza ki a kérdést: Mi a munkád száma ?: Melyik nap az apád születésnapja?: Mi a kedvenc angol dal ?: Melyik nap az édesanyád születésnapja?
+20=Kérem, válassza ki a kérdést: Mi az Ön iskola száma ?: Mi a szerencsés számod ?: A kedvenc csillagod neve?(angolul): Az esküvői évfordulója napja van?
+21=Kérjük, válassza ki a kérdést: Mi a legnépszerűbb postafiókod ?: Mi a postai irányítószám a területedhez ?: Mi a kedvence neve ?: Mi a telefonszámod?
+22=Előző
+23=Befejez

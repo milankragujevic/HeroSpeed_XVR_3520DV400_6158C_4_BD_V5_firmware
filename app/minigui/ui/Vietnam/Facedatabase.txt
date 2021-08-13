@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Xin lựa chọn kho khuôn mặt.
+2=Thành công:
+3=Thất bại:
+4=Thêm một đợt thành công
+5=Thêm một đợt thất bại
+6=Lối đĩa USB không tồn tại
+7=Trong USB không có hình ảnh khuôn mặt
+8=Thêm tối đa 5000 hình ảnh khuôn mặt!
+9=Thêm hình ảnh khuôn mặt
+10=Kho khuôn mặt không tồn tại
+11=Thêm cơ sở dữ liệu tối đa 16 mặt!
+12=Dung lượng dư
+13=Tổng dung lượng

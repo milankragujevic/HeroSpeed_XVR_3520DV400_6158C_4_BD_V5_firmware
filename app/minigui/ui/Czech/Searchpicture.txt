@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Vyberte soubor.
+2=Not enough disk space.
+3=Vyhledávání, čekejte ...
+4=Chyba zápisu na přenosný disk.
+5=Záloha dokončena
+6=Vložte USB disk!
+7=Příliš mnoho souborů zastavte vyhledávání!
+8=Manuální snímek obrazovky
+9=Pohyb
+10=Alarm
+11=Detekce pohybu a alarm
+12=Detekce pohybu a alarm

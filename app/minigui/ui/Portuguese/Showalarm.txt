@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=Detecção de movimento
+2=Vídeo perdido
+3=Acionar Entrada de Alarme
+4=\
+5=\
+6=Rosto (Captura de Rosto)
+7=Intrusão
+8=Crossover
+9=Mudança de cena
+10=Legado de Mercadorias
+11=Coleta de Mercadorias
+12=Comparação de Rosto
+13=objeto abandonado
+14=Aglomeração de pessoas
+15=Perda de Vídeo de Corrente Dominante
+16=Perda de Vídeo Subcorrente
+17=Saída de Alarme
+18=Fumaça
+19=Infravermelho
+20=Humanoide
+21=Sem disco
+22=Erro de disco
+23=Rede Desconectada
+24=Conflito de IP
+25=Conflito MAC

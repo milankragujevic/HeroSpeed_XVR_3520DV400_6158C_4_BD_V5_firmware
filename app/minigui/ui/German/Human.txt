@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Auf Werkseinstellungen zurücksetzen?
+2=Zeitformatfehler!
+3=Maximum support for
+4=Kanal
+5=channels

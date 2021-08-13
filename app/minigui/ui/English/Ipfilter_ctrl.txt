@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Restriction Type
+2=Restriction Mode
+3=Enable
+4=Black List:Allowed List
+5=IP Address:MAC Address
+6=Add
+7=Edit
+8=Delete
+9=Apply
+10=Restriction List
+11=IP Address
+12=MAC Address
+13=Delete All

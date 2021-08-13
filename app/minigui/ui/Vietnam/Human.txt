@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Khôi phục các tham số mặc định?
+2=Lỗi định dạng thời gian!
+3=Maximum support for
+4=Kênh
+5=channels

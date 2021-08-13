@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=24
+1=Bearbeiten
+2=Alarmeingang
+3=Alarmname
+4=Aktivieren
+5=Typ
+6=N.O:N.C
+7=Benachrichtigungszeit
+8=Verknüpfung
+9=Normale Verknüpfung
+10=Kanalaufnahme
+11=Alarmausgang auslösen
+12=Kopieren
+13=Anwenden
+14=Alle
+15=So.
+16=Mo.
+17=Di.
+18=Mi.
+19=Do.
+20=Fr.
+21=Sa.
+22=Normal
+23=Bearbeiten
+24=Vollbildüberwachung

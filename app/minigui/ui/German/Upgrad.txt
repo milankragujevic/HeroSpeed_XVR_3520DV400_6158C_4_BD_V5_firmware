@@ -1,0 +1,14 @@
+[wintip]
+num=12
+1=Aktualisieren, nicht ausschalten!
+2=Upgrade fehlgeschlagen!
+3=Upgrade erfolgreich!
+4=Bitte wählen Sie eine Upgrade-Datei!
+5=Aktualisierung?
+6=Kein Upgrade-Paket
+7=Neue Version finden, Datei online herunterladen?
+8=Netzwerk ist nicht stabil, Download fehlgeschlagen …
+9=Herunterladen...
+10=Fehlermeldung
+11=Download erfolgreich, online upgraden?
+12=Datei existiert nicht!

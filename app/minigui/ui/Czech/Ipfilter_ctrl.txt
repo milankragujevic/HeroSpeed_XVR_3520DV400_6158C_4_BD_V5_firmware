@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Typ omezení
+2=Režim omezení
+3=Povolit
+4=Černá listina: Seznam povolených
+5=IP adresa: MAC adresa
+6=Přidat
+7=Editace
+8=Smazat
+9=Použít
+10=Seznam omezení
+11=IP adresa
+12=MAC zařízení
+13=Smazat vše

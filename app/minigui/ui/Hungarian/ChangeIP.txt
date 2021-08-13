@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Nincs jogosultsága!
+2=Beállítás sikertelen
+3=IP cím ütközés
+4=Érvénytelen IP cím!
+5=Érvénytelen Alhálózati maszk!
+6=Érvénytelen Átjáró!
+7=A nem magán IPC nem tudja módosítani a DNS, a HTTP és az RTSP portokat, megerősíti a módosításokat?

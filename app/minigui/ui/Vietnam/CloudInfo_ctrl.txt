@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Đang liên kết
+2=Mã nguồn cấp phép
+3=Xác nhận
+4=Hủy

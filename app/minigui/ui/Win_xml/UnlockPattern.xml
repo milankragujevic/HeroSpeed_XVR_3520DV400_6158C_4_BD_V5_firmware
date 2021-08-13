@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UnlockPattern x="0" y="0" w="400" h="500" title="UnlockPattern">
+<row type="static">
+    
+    <s id="200" x="0" y="4" w="2" h="492" s="11:12:31" bcol="3"></s>
+    <s id="201" x="4" y="2" w="392" h="2" s="11:12:31" bcol="3"></s>
+    <s id="202" x="398" y="4" w="2" h="492" s="11:12:31" bcol="3"></s>
+    <s id="203" x="4" y="498" w="392" h="2" s="11:12:31" bcol="3"></s>
+<s id="20" x="30" y="0" w="340" h="70" s="11:12:33" ft="18" bcol="10">1</s>
+</row>
+
+<row x="750" y="15" w="34" h="34" s="12:13:41:42" ex="81" gap="0">
+    <b type="ctrl_button" id="36" bg="./image/menu/close.png" bgc="./image/menu/close.png" bgw=""></b>
+</row>
+<col type="static" x="180" y="65" w="30" h="30" s="36:37:38" ex="81"  bcol="10" rb="0">
+    <s id="2" x="185" bg="./image/icon/user.png" ></s>
+    <s id="3" x="20"  w="360" s="11:33" >2</s>
+</col>	
+<row  type="static" x="5" y="440" w="390" h="40" s="11:12:33" bcol="40" >
+    <s id="1"></s>
+    <b id="4" type="ctrl_button" x="30" w="200" h="40" s="16:48:49:41" tc="0" ft="14">3</b>
+    <b id="5" type="ctrl_button" x="262" w="140" h="40" s="16:48:49:41" tc="0" ft="14">4</b>
+</row>	
+</UnlockPattern> 

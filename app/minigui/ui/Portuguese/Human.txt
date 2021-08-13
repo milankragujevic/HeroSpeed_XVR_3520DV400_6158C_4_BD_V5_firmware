@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Restaurar os parâmetros padrão?
+2=Erro no formato de hora!
+3=Maximum support for
+4=Canal
+5=channels

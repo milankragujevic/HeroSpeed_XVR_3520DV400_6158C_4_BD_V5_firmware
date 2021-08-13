@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=IPC-Aktualisierung
+2=CH
+3=Name
+4=Größe
+5=Zeit
+6=Update
+7=Abbrechen

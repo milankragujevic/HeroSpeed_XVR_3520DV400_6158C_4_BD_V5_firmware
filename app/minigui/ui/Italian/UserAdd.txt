@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=Utente aggiunto correttamente!
+2=/
+3=L’utente esiste già!
+4=Digitare il nome utente!
+5=Digitare la password!
+6=Digitare la nuova password!
+7=La password è errata!
+8=La password non corrisponde!
+9=Errore sconosciuto!
+10=L’amministratore non può essere cancellato!
+11=Il nome utente non può essere chiamato root o admin!
+12=Il nome utente non può includere la chiave spazio vuoto
+13=Avviso: la password non deve essere inferiore a 8 byte e deve contenere almeno una cifra e una lettera!
+14=Se la lunghezza del nome utente e password è maggiore di 10, non possono essere tutti numeri

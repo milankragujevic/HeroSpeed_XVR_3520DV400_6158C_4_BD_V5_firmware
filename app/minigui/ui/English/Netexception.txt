@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Restore the default parameters?
+2=Screen Display
+3=E-mail Notification
+4=Buzzer Alarm

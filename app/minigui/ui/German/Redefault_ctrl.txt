@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Kamera-Voreinstellung wiederherstellen
+2=Stellen Sie die Standardspeicherparameter wieder her
+3=die Standardparameter des Systems wieder herstellen
+4=Wiederherstellung der Wartungsvorgabe
+5=Werkseinstellungen wiederherstellen
+6=Anwenden

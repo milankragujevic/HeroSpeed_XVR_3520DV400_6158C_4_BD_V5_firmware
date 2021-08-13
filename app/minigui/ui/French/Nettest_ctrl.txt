@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Délai du réseau, test de paquet perdu
+2=Sélection NIC
+3=L'adresse de destinataire
+4=Tester

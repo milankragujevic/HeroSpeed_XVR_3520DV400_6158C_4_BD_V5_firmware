@@ -1,0 +1,24 @@
+[Ctrltxt]
+num=22
+1=Configuration
+2=Général
+3=Réseau
+4=Affichage
+5=Exceptions
+6=Utilisateur
+7=Erreur disque
+8=Erreur réseau
+9=Type évenement
+10=Activer
+11=Envoyer un e-mail
+12=Alerte buzzer
+13=Pas de disque:Erreur disque
+14=Par défaut
+15=Appliquer
+16=Annuler
+17=Aperçu
+18=Config. Caméra
+19=Affichage à l'écran
+20=Alarme locale
+21=Wifi
+22=Filtre d'IP

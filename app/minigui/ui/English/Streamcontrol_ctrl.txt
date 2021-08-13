@@ -1,0 +1,5 @@
+[Ctrltxt]
+num=3
+1=Recv Rate:
+2=Send Rate:
+3=Go

@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Vizualizare
+2=Direcția Dispozitivului
+3=Toate Fișierele (*.*):*.jpg
+4=Sus
+5=Nume
+6=Marime
+7=Tip
+8=Ora modificării
+9=Stergere
+10=OK
+11=Anulare
+12=Dosar Nou

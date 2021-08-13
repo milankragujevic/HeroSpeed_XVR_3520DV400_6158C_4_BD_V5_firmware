@@ -1,0 +1,24 @@
+[wintip]
+num=22
+1=Zrzut
+2=Odtwarzanie natychmiastowe
+3=PTZ
+4=Powiększenie
+5=Audio
+6=Obraz
+7=Informacje
+8=Rozpocznij rejestr całodniowy
+9=Przejdź do głównego
+10=Rybie oko
+11=Dezaktywuj POS
+12=Wyłącz Pozycję 3D
+13=Zatrzymaj rejestrowanie całodniowe
+14=Przejdź do podrzędnego
+15=Włącz POS
+16=Włącz Pozycję 3D
+17=Pobranie zdjęcia nieudane
+18=No Permission
+19=Rozpoczęcie nagrywania nieudane, proszę zmień harmonogram nagrywania
+20=RTSP nie obsługuje tej funkcji
+21=Obraz pobrany, proszę sprawdź w folderze zarządzania plikami
+22=Zamknij

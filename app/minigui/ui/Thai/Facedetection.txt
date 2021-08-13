@@ -1,0 +1,16 @@
+[wintip]
+num=14
+1=ความคล้ายคลึงกัน
+2=อายุ
+3=Sex
+4=แว่นตา
+5=หมวก
+6=List type:
+7=Time:
+8=บัญชีขาว
+9=บัญชีดำ
+10=ไม่มี
+11=Man
+12=Woman
+13=Show only faces
+14=Show only human figures

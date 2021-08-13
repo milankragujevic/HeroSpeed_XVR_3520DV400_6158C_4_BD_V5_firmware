@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Type
+2=Heure début
+3=Heure fin
+4=Tous logs: Gestion du système: Gestion de l'utilisateur: Configuration des paramètres: Opération des fichiers: Invite d'état: Evénement d'alarme
+5=Requête
+6=N°.
+7=Heure
+8=Événement
+9=Utilisateur
+10=Exportation
+11=Exporter tout
+12=Effacer

@@ -1,0 +1,19 @@
+[wintip]
+num=17
+1=Selecteer een bestand
+2=Niet genoeg schijfruimte
+3=Bezig met zoeken, een ogenblik geduld ...
+4=Kan de bestanden niet naar een mobiele harde schijf schrijven
+5=Backup voltooid
+6=Voer aub de usb-stick in
+7=Te veel bestanden, stop met zoeken!
+8=Geen Record gevonden!
+9=Selecteer een type back-up!
+10=Gelijkenis
+11=Maak een back-up, annuleer de back-up of ga verder nadat de back-up is voltooid.
+12=De top
+13=is toegevoegd aan de back-up wachtrij.
+14=Toevoegen aan de back-up wachtrij mislukt.
+15=Het uitpakken van Gezicht kenmerken mislukt.
+16=Menselijke Bestanden
+17=Gezichtsvergelijking Zoek

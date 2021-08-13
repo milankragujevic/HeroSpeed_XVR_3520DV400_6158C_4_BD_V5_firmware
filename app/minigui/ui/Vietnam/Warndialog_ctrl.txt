@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Hướng dẫn
+2=Xác nhận
+3=Hủy
+4=Chỉnh sửa
+5=Sửa đổi sau

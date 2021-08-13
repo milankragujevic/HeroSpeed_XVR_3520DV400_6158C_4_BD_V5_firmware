@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Yeni ayarlar yeniden başlatıldıktan sonra aktif hale getirilecek. Şimdi yeniden başlatılsın mı?
+2=Kanal
+3=Varsayılan değişkenleri geri yüklesin mi?
+4=1 Ekran
+5=4 ekran
+6=8 ekran
+7=9 ekran
+8=16 ekran
+9=25 ekran
+10=36 ekran
+11=64 ekran
+12=32 ekran
+13=cihaz bu çözünürlüğü desteklemiyor

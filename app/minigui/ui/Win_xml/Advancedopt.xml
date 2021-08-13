@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Menu x="360" y="160" w="820" h="650" title="Advance Opt">
+
+<row x="55" y="70" w="180" h="200" s="12:13:41:42" ex="81" bgw="160" gap="85">
+<b type="ctrl_button" id="1" bg="./image/advanceopt/diskman.png" ft="20">Disk</b>
+<b type="ctrl_button" id="2" bg="./image/advanceopt/account.png" ft="20">User</b>
+<b type="ctrl_button" id="3" bg="./image/advanceopt/upgrade.png" ft="20">Upgrade</b>
+</row>
+
+<row x="55" y="373" w="180" h="200" s="12:13:41:42" ex="81" bgw="160" gap="85">
+<b type="ctrl_button" id="5" bg="./image/advanceopt/atuoreboot.png" ft="20">Auto Maintain</b>
+<b type="ctrl_button" id="6" bg="./image/advanceopt/chlman.png" ft="20" skip="1" s="13:41:42">Channel Manager</b>
+<b type="ctrl_button" id="7" bg="./image/advanceopt/streamcontorl.png" ft="20">Stream Info</b>
+</row>
+
+</Menu>

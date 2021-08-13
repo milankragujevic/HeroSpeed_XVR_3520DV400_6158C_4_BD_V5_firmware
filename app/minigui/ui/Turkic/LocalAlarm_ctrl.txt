@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Hareket Sezme
+2=Video temperleme
+3=Video kaybı
+4=Alarm girişi
+5=Alarm çıkışı
+6=İstisna
+7=Alarm girişi no:
+8=Alarm adı
+9=Alarm Type
+10=Etkinleştir
+11=Düzenle
+12=zil

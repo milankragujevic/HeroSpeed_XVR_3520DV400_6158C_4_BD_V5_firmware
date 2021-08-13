@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Suche nach Ereignis
+2=Suche nach Bild
+3=Kanal
+4=Zeit
+5=Typ
+6=Heute: Gestern: Vergangene 2 Tage: Vergangene 3 Tage: Letzte 7 Tage: Letzte 14 Tage: Benutzerdefiniert
+7=schwarze Liste:weiße Liste:schwarze Liste und weiße Liste
+8=Suche

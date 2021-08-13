@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Nowe ustawienia zostaną aktywowane po ponownym uruchomieniu systemu. Uruchom ponownie teraz?
+2=Kanał
+3=Przywrócić parametry domyślne?
+4=1 Ekran
+5=4 Ekran
+6=8 Ekran
+7=9 Ekran
+8=16 Ekran
+9=25 Ekran
+10=36 Ekran
+11=64 Ekran
+12=32 ekrany
+13=To urządzenie nie wspiera tej rozdzielczości

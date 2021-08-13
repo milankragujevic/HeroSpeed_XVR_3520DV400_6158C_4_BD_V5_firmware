@@ -1,0 +1,15 @@
+[wintip]
+num=13
+1=Vă rugăm  seletaţi database-ul de feţe
+2=Succes:
+3=Eşuare:
+4=Batch adăugat cu succes!
+5=Adăugarea de batch a eşuat!
+6=Adresa specificată nu există pe acest disk USB
+7=Nu a fost găsită nicio imagine facială pe acest disk USB
+8=Adăugarea unei imagini de maximum 5000 de fețe!
+9=Adaugă imagine facială
+10=Database-ul de feţe nu există
+11=Adăugarea bazei de date max 16 fețe!
+12=Capacitatea reziduală
+13=Capacitate totală

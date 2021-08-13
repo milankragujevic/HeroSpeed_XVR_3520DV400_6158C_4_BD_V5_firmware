@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Không cho phép!
+2=bắt ảnh thất bại
+3=Chụp
+4=Âm thanh
+5=Phóng to
+6=Thêm nhãn
+7=Mắt cá
+8=Tắt
+9=Chụp ảnh thành công, xin kiểm tra tại file

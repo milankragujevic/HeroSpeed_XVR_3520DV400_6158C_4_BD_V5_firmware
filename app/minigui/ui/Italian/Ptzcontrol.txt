@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=Crusing, ignorare modifiche….
+2=E' stato aperto!
+3=E' stato chiuso!
+4=Nessun permesso !

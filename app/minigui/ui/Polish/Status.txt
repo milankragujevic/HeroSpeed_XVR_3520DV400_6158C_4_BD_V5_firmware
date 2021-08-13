@@ -1,0 +1,27 @@
+[wintip]
+num=25
+1=/
+2=/
+3=Błąd formatu czasu!
+4=Zbyt duże obciążenie sieci, proszę stopniowo usunąć kanały
+5=Obciążenie sieci powróciło do normy
+6=Brak pozwolenia!
+7=Aktualizacja, nie wyłączać zasilania!
+8=Formatowanie dysku, czekaj.
+9=Karuzela...
+10=No channels that support this feature!
+11=Wykrywanie twarzy
+12=Tryb
+13=Ostatnie5min.
+14=Tom
+15=Powiększenie
+16=Obraz
+17=Informacje o strumieniu
+18=Zamknij
+19=Obecne hasło jest zbyt proste, proszę zmienić hasło!
+20=Znaleziono nowy dysk, czy sformatować jako dysk do zapisu?
+21=W rozwoju!
+22=Manual screenshot failed!
+23=Zatrzymanie użycia dysku
+24=Obecne hasło jest zbyt proste, proszę zmienić hasło!
+25=Zrzut

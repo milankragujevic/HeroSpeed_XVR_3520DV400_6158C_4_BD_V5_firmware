@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=tìm kiếm theo sự kiện
+2=tìm kiếm theo hình ảnh
+3=Tải lên
+4=Tải lên dữ liệu
+5=Kênh
+6=Thời gian
+7=độ tương tự (0-100)
+8=Hôm nay:Hôm qua:Hai hôm qua:Ba hôm qua:Bẩy hôm qua:14 hôm qua
+9=Tìm kiếm

@@ -1,0 +1,26 @@
+[Ctrltxt]
+num=23
+1=Ngày tháng và thời gian;1
+2=Mạng lưới;2
+3=Ổ cứng;3
+4=Camera;4
+5=Sân;5
+6=Đổi mật khẩu;5
+7=Sửa mật khẩu
+8=Thay đổi mật khẩu của quản lý
+9=Mật khẩu cũ
+10=Mật khẩu mới
+11=Xác nhận
+12=Đặt lại vấn đề bảo mật
+13=Vấn đề bảo mật1
+14=Câu hỏi 1
+15=Vấn đề bảo mật2
+16=Câu hỏi 2
+17=Vấn đề bảo mật3
+18=Câu hỏi 3
+
+19=Xin vui lòng lựa chọn vấn đề: Việc làm của bạn là gì?: Ngày sinh của cha bạn là gì ?: Bài hát tiếng Anh yêu thích của bạn ?: Ngày nào mẹ bạn sinh nhật?
+20=Xin vui lòng lựa chọn vấn đề: Số trường học của bạn là gì ?: Số may mắn của bạn: Tên của ngôi sao yêu thích là gì? (Tiếng Anh): Ngày kỷ niệm ngày cưới của bạn là?
+21=Xin vui lòng lựa chọn vấn đề: Email phổ biến nhất của bạn là gì ?: Mã bưu điện cho khu vực của bạn là gì ?: tên thú cưng của bạn là gì ?: Số điện thoại của bạn là bao nhiêu?
+22=Trước
+23=Hoàn thành

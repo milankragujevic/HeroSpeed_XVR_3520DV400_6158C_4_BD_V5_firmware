@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PasswdModify x="500" y="274" w="526" h="420" title="PasswdModify">
+
+<row>
+<s type="static" id="2" x="69" y="33" w="175" h="28" s="11:12:31" ft="20">Change password</s>
+</row>
+	
+<col type="static" x="114" y="146" w="140" h="24" s="11:31" ex="81" gap="30">
+<s id="3">New password</s>
+<s id="4">Comfirm</s>
+</col>
+
+<col x="249" y="142" w="160" h="32" s="11:55:56:13" type="myedit" gap="20">
+<e id="5" ex="81:82:83:84:85"></e>
+<e id="6" ex="81:82:83:84:85"></e>
+</col>
+
+<row x="130" y="380" w="140" h="24" s="13:41" gap="10">
+<ok type="ctrl_button" id="7" ft="20">Confirm</ok>
+<cancel type="ctrl_button" id="8" ft="20">Cancel</cancel>
+</row>
+
+<row x="70" y="380" w="140" h="24" s="12:13:41" gap="20">
+<b type="ctrl_button" id="9" ft="20">Modify now</b>
+<b type="ctrl_button" id="10" w="230" ft="20">Change after 60 minutes</b>
+</row>
+
+</PasswdModify>

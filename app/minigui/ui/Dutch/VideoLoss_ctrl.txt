@@ -1,0 +1,18 @@
+[Ctrltxt]
+num=16
+1=Bewegings detectie
+2=Video Bewerking
+3=Video verlies
+4=Alarmingang
+5=Alarmuitgang
+6=Uitzondering
+7=Kanaal
+8=Activeer
+9=Bewapen Plan
+10=Verbinding Actie
+11=Normale Koppeling
+12=Standaardinstellingen
+13=Kopieer
+14=Toepassen
+15=Alarmuitgang
+16=Zoemer

@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Khôi phục các tham số mặc định?
+2=Không cho phép!
+3=Bạn có chắc chắn thoát khỏi trình hướng dẫn khởi động?
+4=Cài đặt mới sẽ được kích hoạt sau khi khởi động lại. Khởi động ngay bây giờ?
+5=Trình khởi động cài đặt  hoàn tất!
+6=Lỗi định dạng thời gian!
+7=Thêm tối đa 6 lịch trình mỗi ngày!
+8=Có một hoặc nhiều kênh không có sự cho phép!

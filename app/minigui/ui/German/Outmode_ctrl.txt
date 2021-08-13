@@ -1,0 +1,10 @@
+[Ctrltxt]
+num=8
+1=Auflösung
+2=UI-Transparenz
+3=OSD-Zeit anzeigen
+4=Standardansicht
+5=1024x768:1280x720:1280x1024:1920x1080
+6=Standard
+7=Anwenden
+8=Kanalnamen anzeigen

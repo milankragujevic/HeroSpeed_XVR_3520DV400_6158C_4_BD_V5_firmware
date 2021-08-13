@@ -1,0 +1,5 @@
+[Ctrltxt]
+num=3
+1=Soha:Minden nap:Minden hét:Minden hónap
+2=Alapértelmezett
+3=Alkalmaz

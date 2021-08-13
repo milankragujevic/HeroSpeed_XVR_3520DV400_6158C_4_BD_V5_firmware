@@ -1,0 +1,9 @@
+[wintip]
+num=7
+1=Wybrane zdjęcie nie może być większe niż 1M!
+2=Błąd formatu czasu!
+3=Jest jeden lub więcej kanałów bez pozwolenia!
+4=Brak pozwolenia!
+5=Wszystkie kanały
+6=Proszę załaduj zdjęcie.
+7=Proszę wybrać kanał

@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Klasör ismi boşluk /:*?”|'%. gibi karakterleri içermemeli
+2=Dizin adı boş olamaz

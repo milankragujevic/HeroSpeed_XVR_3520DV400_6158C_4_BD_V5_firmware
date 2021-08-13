@@ -1,0 +1,6 @@
+[Ctrltxt]
+num=4
+1=Quản lý thư viện khuôn măt
+2=Dân số thống kê
+3=Sơ đồ nhiệt độ
+4=tìm kiếm sự so sánh khuôn mặt

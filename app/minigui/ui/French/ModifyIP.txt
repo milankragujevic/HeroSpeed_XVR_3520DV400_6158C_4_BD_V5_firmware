@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Aucune autorisation!
+2=Échec de la configuration
+3=Conflit d'IP
+4=Adresse IP incorrecte
+5=Masque sous-réseau incorrect
+6=Passerelle incorrecte

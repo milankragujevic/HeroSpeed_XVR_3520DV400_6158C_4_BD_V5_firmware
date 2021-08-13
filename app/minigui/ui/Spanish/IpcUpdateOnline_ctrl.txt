@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Actualización IPC
+2=Canal
+3=Nombre
+4=tamaño
+5=Hora
+6=Actualizar
+7=Cancelar

@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Detekcja ruchu
+2=Wzmacnianie Wideo
+3=Utrata sygnału wideo
+4=Wejście alarmowe
+5=Wyjście alarmowe
+6=Awaria
+7=Numer wejścia alarmu
+8=Nazwa alarmu
+9=Typ alarmu
+10=Włącz
+11=Edytuj
+12=Brzęczyk

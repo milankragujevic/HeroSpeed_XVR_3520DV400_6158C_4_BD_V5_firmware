@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Tệp hình ảnh
+2=Tệp video
+3=Đang dự phòng: xin chờ giây lát
+4=Dung lượng đĩa không đủ
+5=Sao lưu đã thành công!
+6=Sao lưu không thành công!

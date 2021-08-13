@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Restaurar os parâmetros padrão?
+2=O numero da porta deve estar entre 1 e 65535!
+3=Testando email, Por favor aguarde...
+4=Email não pode ser entregue!
+5=Sucesso. Verifique a caixa de entrada.
+6=The email address format is incorrect.
+7=O formato do servidor SMTP está incorreto.
+8=Erro no formato de hora!
+9=personalizadas

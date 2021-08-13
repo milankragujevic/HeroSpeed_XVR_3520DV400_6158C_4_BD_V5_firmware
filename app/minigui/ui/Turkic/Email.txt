@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Varsayılan değişkenleri geri yüklesin mi?
+2=Port numarası 1 ila 65535 arasında olmalıdır!
+3=E-mail kontrol ediliyor, lütfen bekleyiniz…
+4=E-mail karşı tarafa teslim edilemedi!
+5=Başarılı. Gelen kutusunu kontrol ediniz.
+6=E-posta adresi biçimi yanlış.
+7=SMTP sunucu biçimi yanlış.
+8=Zaman formatı hatası!
+9=görenek

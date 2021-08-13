@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=Nome do Banco de Dados
+2=Número
+3=\
+4=Deletar
+5=Novo
+6=Detalhes do Banco de Dados de Rosto
+7=Nome
+8=Número
+9=Deletar
+10=Modelo de Rosto
+11=Adicionar
+12=Importação em lote
+13=Número do Recurso

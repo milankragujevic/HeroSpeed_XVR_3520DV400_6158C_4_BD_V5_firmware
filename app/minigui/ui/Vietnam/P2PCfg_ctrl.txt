@@ -1,0 +1,27 @@
+[Ctrltxt]
+num=25
+1=E-mail
+2=P2P
+3=Mạng lưới
+4=Hiển thị
+5=Ngoại lệ
+6=Người dùng
+7=IP/ Cổng
+8=DDNS
+9=E-mail
+10=P2P
+11=FTP
+12=UPnP
+13=Lưu trữ đám mây
+14=Tình trạng
+15=Bật P2P
+16=Số kênh
+17=Làm mới
+18=Ứng dụng
+19=Hủy
+20=Xem trước
+21=Mã hóa
+22=KHÔNG: SSL
+23=Gián cách về thời gian quảng cáo(phút)
+24=Đóng: 2:5:10
+25=Số người dùng

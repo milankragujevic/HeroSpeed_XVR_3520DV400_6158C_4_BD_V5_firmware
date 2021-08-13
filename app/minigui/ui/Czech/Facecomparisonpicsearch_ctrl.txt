@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Vyhledávání podle události
+2=Vyhledávání podle obrázku
+3=Nahrávání od počítače
+4=Nahrávat databázi
+5=Kanál
+6=čas
+7=Podobnost (0-100)
+8=Dnes: Včera: Poslední 2 dny: Poslední 3 dny: Posledních 7 dní: Posledních 14 dní: Vlastní
+9=Hledání

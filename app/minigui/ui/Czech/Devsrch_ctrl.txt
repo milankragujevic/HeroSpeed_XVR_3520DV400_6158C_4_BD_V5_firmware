@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Hledávní zařízení
+2=IP adresa
+3=Přístav
+4=Protokol
+5=Verze firmware
+6=Filtr
+7=Onvif:Multi net segment:Privátní:Onvif a Privátní
+8=Hledání
+9=Přidat
+10=Manual Add
+11=Zrušit
+12=Přidat/odstranit

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Cruise x="250" y="137" w="%100" h="%100" title="Patrol Setup">
+<row type="static">
+<s id="50" x="0" y="0" w="%100" h="2" s="11:12:33" bcol="7"></s>
+<s id="51" x="0" y="%100-3" w="%100" h="2" s="11:12:33" bcol="7"></s>
+<s id="52" x="0" y="3" w="2" h="%100-6" s="11:12:33" bcol="7"></s>
+<s id="53" x="%100-3" y="3" w="2" h="%100-6" s="11:12:33" bcol="7"></s>
+<s id="54" x="3" y="%100-5" w="%100-6" h="2" s="11:12:33" bcol="5"></s>
+<s id="55" x="3" y="3" w="2" h="%100-8" s="11:12:33" bcol="5"></s>
+<s id="56" x="%100-5" y="3" w="2" h="%100-8" s="11:12:33" bcol="5"></s>
+<s type="static" id="57" x="1" y="6" w="%100-2" h="48" s="11:12:33" ft="16" bcol="20">1</s>
+</row>
+<row x="%100-37" y="19" w="20" h="20" s="12:13:41:42" ex="81" gap="0">
+<b type="ctrl_button" id="35" bg="./image/menu/close.png" bgc="./image/menu/close_hover.png" bgw="" ft="16"></b>
+</row>
+<col type="static" x="%50" y="75" w="%50-15" h="40" s="11:12:31" gap="-1">
+<s id="9" bcol="114" x="15" gap="15">2</s>
+<s id="7" bcol="118">3</s>
+
+</col>
+<col type="static" x="%50" y="240" w="%15-4" h="40" s="11:12:31" gap="-1">
+<s id="10" bcol="118">4</s>
+</col>
+
+
+<col x="%25-48" w="196" h="40" s="11:12:13:14:21:22:23" ad="160" gap="-1">
+<tb type="ctrl_trackbar" id="32" y="%50+270" s="11:12:13:61:62:63:67" tcol="20"></tb>
+</col>
+
+<col type="CtrlCombobox" x="%65-5" y="75" w="%35-11" h="40" s="11:12:13:14:21:22:23" ad="160" gap="-1">
+<cb id="28" x="%50-15" tcol="20" w="%50" gap="15"></cb>
+<cb id="29" ad="160" tcol="10"></cb>
+</col>
+<row type="ctrl_button" x="%50" y="183" w="140" h="44" s="12:13:41:42" bgw="0" tc="100" gap="%1">
+<b id="30" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">5</b>
+<b id="31" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">6</b>	
+</row>
+<col type="CtrlCombobox" x="%65-5" y="240" w="%35-11" h="40" s="11:12:13:14:21:22:23" ad="160" gap="-1">
+<cb id="8" ad="120" tcol="10">
+<selcn>7</selcn>
+</cb>
+</col>
+<row>
+<lv type="listview_ex" id="3" x="%50" y="295" w="%50-15" h="280" s="11:12:13:14:15:203:204" itemcnt="7" itemh="40">
+<item w="%4+11" align="l">8</item>
+<item w="%11-44" align="l">9</item>
+<item w="%8-13" align="l">10</item>
+<item w="%8-18" align="l">11</item>
+<item w="%8+5" align="l" line="0">12</item>
+<item w="%8-23">13</item>
+<item w="%8-23">14</item>
+</lv>
+</row>
+
+<row type="static" x="15" y="130" w="%50-30" h="%50-50" s="11:12:31" bcol="106">
+<s id="33"></s>
+</row>
+
+<row type="ctrl_button" x="%25-147" y="%50+135" w="40" h="40" s="12:13:42:411">
+<b id="14" bg="./image/PTZcontrol/arrow_left_up_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_left_up_hover.png"></b>
+<b id="15" bg="./image/PTZcontrol/arrow_up_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_up_hover.png"></b>
+<b id="16" bg="./image/PTZcontrol/arrow_right_up_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_right_up_hover.png"></b>
+</row>
+
+<row type="ctrl_button" x="%25-147" y="%50+175" w="40" h="40" s="12:13:42:411" gap="0">
+<b id="17" bg="./image/PTZcontrol/arrow_left_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_left_hover.png"></b>
+<s id="22" type="static" s="11:36" bg="./image/PTZcontrol/ptz_kong.png"></s>
+<b id="34" x="%25-107" s="13:42:411" bg="./image/PTZcontrol/ptz_enter.png" bgc="./image/PTZcontrol/ptz_enter_hover.png" bgw="0"></b>
+<b id="18" bg="./image/PTZcontrol/arrow_right_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_right_hover.png"></b>
+</row>
+
+<row type="ctrl_button" x="%25-147" y="%50+215" w="40" h="40" s="12:13:42:411">
+<b id="19" bg="./image/PTZcontrol/arrow_down_left_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_down_left_hover.png"></b>
+<b id="20" bg="./image/PTZcontrol/arrow_down_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_down_hover.png"></b>
+<b id="21" bg="./image/PTZcontrol/arrow_down_right_normal.png" bgw="0" bgc="./image/PTZcontrol/arrow_down_right_hover.png"></b>
+</row>
+
+<row type="ctrl_button" x="%50" y="595" w="140" h="44" s="12:13:41:42" bgw="0" tc="100" gap="10">
+<b id="6" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">15</b>
+<b id="12" x="%50" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">24</b>
+<b id="69" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">16</b>
+<b id="70" bg="./image/common/btnblue.png" bgc="./image/common/btnblue_hover.png" ft="16">17</b>
+</row>
+
+<col type="ctrl_button" x="%25-12" w="40" h="40" s="12:13:42:411" bgw="0" gap="0">
+<b id="58" y="%50+135" bg="./image/PTZcontrol/add.png" bgc="./image/PTZcontrol/add_hover.png"></b>
+<b id="59" bg="./image/PTZcontrol/add.png" bgc="./image/PTZcontrol/add_hover.png"></b>
+<b id="60" bg="./image/PTZcontrol/add.png" bgc="./image/PTZcontrol/add_hover.png"></b>
+</col>
+<col type="static" x="%25+28" w="80" h="40" s="11:12:36" bg="./image/PTZcontrol/btn.png" gap="0">
+<s id="61" y="%50+135">19</s>
+<s id="62">20</s>
+<s id="63">21</s>
+</col>
+<col type="ctrl_button" x="%25+108" w="40" h="40" s="12:13:42:411" bgw="0" gap="0">
+<b id="64" y="%50+135" bg="./image/PTZcontrol/reduce.png" bgc="./image/PTZcontrol/reduce_hover.png"></b>
+<b id="65" bg="./image/PTZcontrol/reduce.png" bgc="./image/PTZcontrol/reduce_hover.png"></b>
+<b id="66" bg="./image/PTZcontrol/reduce.png" bgc="./image/PTZcontrol/reduce_hover.png"></b>
+</col>
+<col type="static" x="%25-147" w="100" h="40" s="11:12:31" gap="-1">
+
+<s id="11" y="%50+270" bcol="114">22</s>
+</col>
+
+</Cruise>

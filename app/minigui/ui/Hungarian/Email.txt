@@ -1,0 +1,11 @@
+[wintip]
+num=9
+1=Visszaállítja az alapértelmezett paramétereket?
+2=Az érték 1 és 65535 között kell, hogy legyen!
+3=E-mail küldés folyamatban, kérem várjon...
+4=Az E-mail-t nem sikrült elküldeni!
+5=Sikeres küldés, ellenőrizze az E-mail fiókját.
+6=Az e-mail cím formátuma nem megfelelő.
+7=Az SMTP szerver formátuma hibás.
+8=Rossz idő formátum!
+9=Egyéni

@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Widok
+2=Ścieżka urządzenia
+3=Wszystkie pliki(*.*): *.Jpg
+4=Góra
+5=Nazwa
+6=Rozmiar
+7=Typ
+8=Czas modyfikacji
+9=Usuń
+10=Ok
+11=Anuluj
+12=Nowy folder

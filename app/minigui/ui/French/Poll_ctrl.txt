@@ -1,0 +1,9 @@
+[Ctrltxt]
+num=7
+1=Interrogation
+2=Activer
+3=Durée(s)
+4=Mode
+5=Par défaut
+6=Appliquer
+7=Annuler

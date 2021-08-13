@@ -1,0 +1,8 @@
+[Ctrltxt]
+num=6
+1=Sorsz.
+2=Név
+3=Méret
+4=Dátum
+5=Frissítés
+6=Frissítés

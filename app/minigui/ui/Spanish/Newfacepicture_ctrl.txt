@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Agregar lista de rostros
+2=Seteo de Video Local
+3=Tomar fotos
+4=Importar fotos
+5=Nombre
+6=Sí
+7=Cancelar
+8=Canal
+9=Modelo de rostros
+10=Capturar
+11=Extraer modelo de rostros
+12=Seleccionar cara
+13=Nuevo
+14=Vuelve a tomar

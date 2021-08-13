@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=PTZ
+2=Kanaal
+3=PTZ besturing
+4=Algemene besturing
+5=Zoom
+6=Ostrość
+7=Przysłona
+8=Snelheid
+9=Voorinstellingen
+10=Oproepen
+11=Cruise aan
+12=Cruise uit
+13=Rondkijken
+14=1:2:3
+15=Cruise set

@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Kivételfájl vagy nem támogatott formátum (csak a jpg használatát támogatja)
+2=A kiválasztott fájl nem lehet nagyobb, mint 1M
+3=Nem sikerült kibontani az arc sablont
+4=Az átvitel sikertelen
+5=Az érték vagy az arcok meghaladják a felső határt
+6=kérem, vigye be a nevet

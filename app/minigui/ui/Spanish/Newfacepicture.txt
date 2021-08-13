@@ -1,0 +1,8 @@
+[wintip]
+num=6
+1=Error en archivo de imagen o formato no admisible (solo se admite jpg.)
+2=Tamaño máximo del archivo seleccionado 1M
+3=No pudo extraer el modelo de rostros
+4=Envío fallado
+5=El valor propio o el número de rostros ha excedido el límite máximo.
+6=¡Por favor, introduce un nombre!

@@ -1,0 +1,10 @@
+[wintip]
+num=8
+1=Porcurando dispositivo!
+2=Tem a certeza de sair do assistente de inicialização?
+3=Operação irá mudar o IP do dispositivo remoto, confirmar as alterações?
+4=Equipamentos fisheye precisam ser adicionados separadamente
+5=O dispositivo está conectado, você não pode adicionar.
+6=Adicione a câmera, por favor aguarde.
+7=Adicionado
+8=Excluindo a câmera, aguarde ...

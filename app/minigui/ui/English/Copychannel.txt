@@ -1,0 +1,6 @@
+[wintip]
+num=4
+1=No more than 4 channels!
+2=No more than 8 channels!
+3=No Permission!
+4=Channel Recording

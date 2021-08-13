@@ -1,0 +1,17 @@
+[Ctrltxt]
+num=15
+1=\
+2=Kênh
+3=Kênh
+4=Thời gian bắt đầu
+5=Tương tự
+6=Phát
+7=dự phòng hình ảnh
+8=dự phòng Vedio
+9=Sao lưu
+10=Hủy
+11=Tất cả
+12=biểu đồ
+13=danh mục
+14=Tìm kiếm chính xác
+15=Sao lưu FTP

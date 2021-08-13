@@ -1,0 +1,14 @@
+[Ctrltxt]
+num=12
+1=Kamera
+2=POE
+3=OSD
+4=Obraz
+5=PTZ
+6=Maskování
+7=Kódování parametrů
+8=Nahrávejte stream
+9=Substream
+10=Název kanálu
+11=Místní nastavení maskování
+12=Nastavení PTZ

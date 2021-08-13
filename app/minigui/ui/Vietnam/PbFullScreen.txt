@@ -1,0 +1,3 @@
+[wintip]
+num=1
+1=Tài nguyên bộ giải mã là không đủ

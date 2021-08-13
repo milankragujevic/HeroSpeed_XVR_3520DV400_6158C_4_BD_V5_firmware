@@ -1,0 +1,20 @@
+[Ctrltxt]
+num=18
+1=Config. Caméra
+2=Activer
+3=Caméra
+4=Protocole
+5=Aperçu
+6=Nom d'utilisateur
+7=Mot de passe
+8=IP
+9=Domaine
+10=Port
+11=Principal
+12=Secondaire
+13=Principal:Secondaire
+14=Sauvegarder
+15=Annuler
+16=Ajout un chemin
+17=Manuel : Plug and Play
+18=Manuellement

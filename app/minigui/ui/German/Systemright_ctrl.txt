@@ -1,0 +1,22 @@
+[Ctrltxt]
+num=20
+1=Allgemein
+2=Netzwerk
+3=TCP/IP
+4=Einstellung
+5=Benutzer
+6=Schwarze und weiße Liste des Netzwerks
+7=Urlaub
+8=POS
+9=Ereignis
+10=Normales Ereignis
+11=Smart Ereignis
+12=Liveübertragung
+13=Bildschirm
+14=Ansicht
+15=Nullkanal
+16=erweiterte Einstellungen
+17=Cloud Speicher
+18=Normal
+19=Kanal Konfiguration
+20=Abmeldevorschau

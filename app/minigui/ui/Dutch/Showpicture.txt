@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Is al de eerste pagina
+2=Is al de laatste pagina

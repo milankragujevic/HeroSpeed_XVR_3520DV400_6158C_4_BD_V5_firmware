@@ -1,0 +1,16 @@
+[Ctrltxt]
+num=14
+1=Data e ora; 1
+2=Rete; 2
+3=Hard Disk; 3
+4=Macchina fotografica; 4
+5=Piattaforma; 5
+6=Cambia password; 5
+7=Impostazione data e ora
+8=Fuso Orario(Zona)
+9=Formato Data
+10=Data/Ora
+11=Anno Mese Giorno:Mese Giorno Anno: Giorno Mese Anno
+12=Prossimo
+13=Uscita
+14=Abilita procedura guidata

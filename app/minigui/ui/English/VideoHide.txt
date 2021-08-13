@@ -1,0 +1,4 @@
+[wintip]
+num=2
+1=Getting param,Please wait...
+2=This channel has no permission!

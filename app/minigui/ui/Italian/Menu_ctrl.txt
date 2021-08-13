@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Menu
+2=Riproduzione
+3=Esportazione
+4=HDD
+5=Registra
+6=Camera
+7=Configurazione
+8=Sched. Riavvio
+9=Spegnimento

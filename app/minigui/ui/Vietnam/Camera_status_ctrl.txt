@@ -1,0 +1,7 @@
+[Ctrltxt]
+num=5
+1=Kênh
+2=Tên kênh
+3=Tình trạng
+4=Phát hiện chuyển động
+5=Mất video

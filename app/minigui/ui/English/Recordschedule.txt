@@ -1,0 +1,13 @@
+[wintip]
+num=11
+1=No permission!
+2=Restore the default parameters?
+3=Time format error!
+4=Sunday
+5=Monday
+6=Tuesday
+7=Wednesday
+8=Thursday
+9=Friday
+10=Saturday
+11=Time periods cannot be crossed or included!

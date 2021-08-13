@@ -1,0 +1,11 @@
+[Ctrltxt]
+num=9
+1=Ricerca per evento
+2=Ricerca per immagine
+3=Caricamento locale
+4=Caricamento del database
+5=Canale
+6=Ora
+7=Somiglianza (0-100)
+8=Oggi: Ieri: Ultimi 2 giorni: Ultimi 3 giorni: Ultimi 7 giorni: Ultimi 14 giorni: Personalizzato
+9=Ricerca

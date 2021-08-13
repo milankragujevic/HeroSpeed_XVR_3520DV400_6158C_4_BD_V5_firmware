@@ -1,0 +1,7 @@
+[wintip]
+num=5
+1=Zoemer alarm
+2=Stuur een e-mail
+3=Scherm
+4=Fout in tijdnotatie!
+5=Voer maximaal 6 schema's in per dag!

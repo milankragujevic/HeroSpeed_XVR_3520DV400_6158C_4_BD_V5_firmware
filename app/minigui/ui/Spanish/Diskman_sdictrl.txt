@@ -1,0 +1,15 @@
+[Ctrltxt]
+num=13
+1=HDD
+2=General
+3=Información del HDD
+4=No.
+5=Estado
+6=Capacidad total
+7=Capacidad residual
+8=Tipo de dispositivo
+9=Advertencia: DVR se reiniciará automáticamente después del formateo del disco.
+10=Refrescar
+11=Formato
+12=Cancelar
+13=Vista preliminar
